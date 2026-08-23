@@ -3,9 +3,16 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-23T00:21:15.974Z</updated>
+  <updated>2026-08-23T03:33:15.337Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>snake99112/BD2ModDeployer</title>
+      <link href="https://github.com/snake99112/BD2ModDeployer"/>
+      <id>https://github.com/snake99112/BD2ModDeployer</id>
+      <updated>2026-08-23T03:29:19.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>feravolt/FDE.AI-docs</title>
       <link href="https://github.com/feravolt/FDE.AI-docs"/>
@@ -129,14 +136,14 @@
       <title>rushiranpise/shizuku-modules</title>
       <link href="https://github.com/rushiranpise/shizuku-modules"/>
       <id>https://github.com/rushiranpise/shizuku-modules</id>
-      <updated>2026-08-23T00:20:06.000Z</updated>
+      <updated>2026-08-23T00:21:19.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
       <title>krishna3163/best-root-apps-for-android</title>
       <link href="https://github.com/krishna3163/best-root-apps-for-android"/>
       <id>https://github.com/krishna3163/best-root-apps-for-android</id>
-      <updated>2026-08-22T18:31:54.000Z</updated>
+      <updated>2026-08-23T01:23:01.000Z</updated>
       <summary>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system tools, privacy utilities, and no-root Shizuku apps.</summary>
     </entry>
     <entry>
@@ -208,12 +215,5 @@
       <id>https://github.com/iamr0s/Dhizuku</id>
       <updated>2026-08-19T18:50:58.000Z</updated>
       <summary>Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps</summary>
-    </entry>
-    <entry>
-      <title>JingMatrix/LSPatch</title>
-      <link href="https://github.com/JingMatrix/LSPatch"/>
-      <id>https://github.com/JingMatrix/LSPatch</id>
-      <updated>2026-08-22T08:17:55.000Z</updated>
-      <summary>A non-root Xposed framework extending from LSPosed</summary>
     </entry>
 </feed>
