@@ -3,14 +3,49 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-24T03:42:48.913Z</updated>
+  <updated>2026-08-25T03:38:01.742Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>miracle2k/android-autostarts</title>
+      <link href="https://github.com/miracle2k/android-autostarts"/>
+      <id>https://github.com/miracle2k/android-autostarts</id>
+      <updated>2026-08-24T15:55:04.000Z</updated>
+      <summary>Tool to manage autostarts (broadcast receivers) on an Android device.</summary>
+    </entry>
+    <entry>
+      <title>niki914/zafiro</title>
+      <link href="https://github.com/niki914/zafiro"/>
+      <id>https://github.com/niki914/zafiro</id>
+      <updated>2026-08-24T16:42:44.000Z</updated>
+      <summary>Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills</summary>
+    </entry>
+    <entry>
+      <title>TakeruF/android-perapp-language-selector</title>
+      <link href="https://github.com/TakeruF/android-perapp-language-selector"/>
+      <id>https://github.com/TakeruF/android-perapp-language-selector</id>
+      <updated>2026-08-24T13:34:52.000Z</updated>
+      <summary>An Android utility that uses Shizuku to force per-app language (locale) settings on Android 13+ devices without requiring root. It allows applying any language to an app, even if the app lacks built-in language options.</summary>
+    </entry>
+    <entry>
+      <title>luo139-cn/kalipassthrough</title>
+      <link href="https://github.com/luo139-cn/kalipassthrough"/>
+      <id>https://github.com/luo139-cn/kalipassthrough</id>
+      <updated>2026-08-24T09:46:23.000Z</updated>
+      <summary>Kalidroid 复刻 - Shizuku免root + QEMU QMP直通 + HTTP API</summary>
+    </entry>
+    <entry>
+      <title>wuliao00/PriceLens</title>
+      <link href="https://github.com/wuliao00/PriceLens"/>
+      <id>https://github.com/wuliao00/PriceLens</id>
+      <updated>2026-08-25T01:21:21.000Z</updated>
+      <summary>PriceLens — 极简全网比价助手 | Android 无障碍增强版 + Windows Electron 便携版 | 永久免费、本地优先、MIT License | 支持京东/淘宝/拼多多/B站/什么值得买/慢慢买/咕咚/Keep 等平台比价、盯价、找券、社区验证</summary>
+    </entry>
     <entry>
       <title>sachinmandawi/CleanBar</title>
       <link href="https://github.com/sachinmandawi/CleanBar"/>
       <id>https://github.com/sachinmandawi/CleanBar</id>
-      <updated>2026-08-23T21:30:45.000Z</updated>
+      <updated>2026-08-24T05:15:49.000Z</updated>
       <summary>1-Tap Status Bar &amp; System Icon Hider for Android powered by Shizuku. Hide clock, battery, and icons with zero root.</summary>
     </entry>
     <entry>
@@ -24,7 +59,7 @@
       <title>krishna3163/awesome-android-app-repositories</title>
       <link href="https://github.com/krishna3163/awesome-android-app-repositories"/>
       <id>https://github.com/krishna3163/awesome-android-app-repositories</id>
-      <updated>2026-08-24T02:18:20.000Z</updated>
+      <updated>2026-08-25T02:14:17.000Z</updated>
       <summary>⚡ Curated &amp; continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilities automatically synchronized from Telegram.</summary>
     </entry>
     <entry>
@@ -45,7 +80,7 @@
       <title>eVersor-HN/FindAnonymity</title>
       <link href="https://github.com/eVersor-HN/FindAnonymity"/>
       <id>https://github.com/eVersor-HN/FindAnonymity</id>
-      <updated>2026-08-23T19:36:04.000Z</updated>
+      <updated>2026-08-24T15:31:41.000Z</updated>
       <summary>Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when &quot;off&quot; isn'</summary>
     </entry>
     <entry>
@@ -108,7 +143,7 @@
       <title>turin-dev/rish-mcp</title>
       <link href="https://github.com/turin-dev/rish-mcp"/>
       <id>https://github.com/turin-dev/rish-mcp</id>
-      <updated>2026-08-18T15:15:21.000Z</updated>
+      <updated>2026-08-24T00:18:40.000Z</updated>
       <summary>Control an Android device's shell from AI clients through MCP - outbound-only, no root or Shizuku.</summary>
     </entry>
     <entry>
@@ -171,7 +206,7 @@
       <title>rushiranpise/shizuku-modules</title>
       <link href="https://github.com/rushiranpise/shizuku-modules"/>
       <id>https://github.com/rushiranpise/shizuku-modules</id>
-      <updated>2026-08-23T16:13:51.000Z</updated>
+      <updated>2026-08-24T03:42:52.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -180,40 +215,5 @@
       <id>https://github.com/StardewValleyMods/CloudSync-Mobile</id>
       <updated>2026-05-25T10:33:46.000Z</updated>
       <summary>An app that allows you to sync your Stardew Valley saves across multiple devices</summary>
-    </entry>
-    <entry>
-      <title>krishna3163/best-root-apps-for-android</title>
-      <link href="https://github.com/krishna3163/best-root-apps-for-android"/>
-      <id>https://github.com/krishna3163/best-root-apps-for-android</id>
-      <updated>2026-08-24T01:20:07.000Z</updated>
-      <summary>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system tools, privacy utilities, and no-root Shizuku apps.</summary>
-    </entry>
-    <entry>
-      <title>xbzk/switchuser</title>
-      <link href="https://github.com/xbzk/switchuser"/>
-      <id>https://github.com/xbzk/switchuser</id>
-      <updated>2026-03-28T15:53:13.000Z</updated>
-      <summary>Switch user APP for buggy MIUI which won't allow multi user to switch accounts</summary>
-    </entry>
-    <entry>
-      <title>mihonapp/mihon</title>
-      <link href="https://github.com/mihonapp/mihon"/>
-      <id>https://github.com/mihonapp/mihon</id>
-      <updated>2026-08-22T02:22:46.000Z</updated>
-      <summary>Manga reader using Shizuku plugin management. Independent successor of Tachiyomi.</summary>
-    </entry>
-    <entry>
-      <title>ImranR98/Obtainium</title>
-      <link href="https://github.com/ImranR98/Obtainium"/>
-      <id>https://github.com/ImranR98/Obtainium</id>
-      <updated>2026-08-10T02:55:19.000Z</updated>
-      <summary>Get Android App Updates Directly From the Source</summary>
-    </entry>
-    <entry>
-      <title>aniyomiorg/aniyomi</title>
-      <link href="https://github.com/aniyomiorg/aniyomi"/>
-      <id>https://github.com/aniyomiorg/aniyomi</id>
-      <updated>2026-08-19T14:51:58.000Z</updated>
-      <summary>Tachiyomi fork with anime support and plugin management using Shizuku.</summary>
     </entry>
 </feed>
