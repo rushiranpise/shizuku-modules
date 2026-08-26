@@ -3,21 +3,77 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-25T03:38:01.742Z</updated>
+  <updated>2026-08-26T03:42:47.552Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>fcaronte/KingInstaller</title>
+      <link href="https://github.com/fcaronte/KingInstaller"/>
+      <id>https://github.com/fcaronte/KingInstaller</id>
+      <updated>2026-08-25T21:09:53.000Z</updated>
+      <summary>Porting of KingInstaller get from GitLab by annexhack</summary>
+    </entry>
+    <entry>
+      <title>arriRgb31/info-layar</title>
+      <link href="https://github.com/arriRgb31/info-layar"/>
+      <id>https://github.com/arriRgb31/info-layar</id>
+      <updated>2026-08-25T15:07:10.000Z</updated>
+      <summary>Kebijakan privasi &amp; halaman resmi aplikasi Info Layar</summary>
+    </entry>
+    <entry>
+      <title>bshea-1/RootlessBrennanDSP</title>
+      <link href="https://github.com/bshea-1/RootlessBrennanDSP"/>
+      <id>https://github.com/bshea-1/RootlessBrennanDSP</id>
+      <updated>2026-08-26T02:46:58.000Z</updated>
+      <summary>High-performance, ultra-low-latency system-wide DSP audio engine for non-rooted Android devices</summary>
+    </entry>
+    <entry>
+      <title>fullmetalsonic/galaxy-auto-brightness-offset</title>
+      <link href="https://github.com/fullmetalsonic/galaxy-auto-brightness-offset"/>
+      <id>https://github.com/fullmetalsonic/galaxy-auto-brightness-offset</id>
+      <updated>2026-08-26T02:43:45.000Z</updated>
+      <summary>Samsung Galaxy adaptive brightness offset for screens that feel too dark or bright, including privacy screen protectors | 갤럭시 자동 밝기 보정</summary>
+    </entry>
+    <entry>
+      <title>inchei/tdash</title>
+      <link href="https://github.com/inchei/tdash"/>
+      <id>https://github.com/inchei/tdash</id>
+      <updated>2026-08-25T13:52:47.000Z</updated>
+      <summary>minimal termux server dashboard with runit controls</summary>
+    </entry>
+    <entry>
+      <title>nikostap/BlueSpot</title>
+      <link href="https://github.com/nikostap/BlueSpot"/>
+      <id>https://github.com/nikostap/BlueSpot</id>
+      <updated>2026-08-25T12:40:37.000Z</updated>
+      <summary>Android-приложение: включает Wi-Fi hotspot при подключении выбранного Bluetooth-устройства через Shizuku</summary>
+    </entry>
+    <entry>
+      <title>serikmain49-rgb/Hui-touch</title>
+      <link href="https://github.com/serikmain49-rgb/Hui-touch"/>
+      <id>https://github.com/serikmain49-rgb/Hui-touch</id>
+      <updated>2026-08-25T19:41:21.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>Xtra-Manager-Software/XArchiver</title>
+      <link href="https://github.com/Xtra-Manager-Software/XArchiver"/>
+      <id>https://github.com/Xtra-Manager-Software/XArchiver</id>
+      <updated>2026-08-22T11:30:32.000Z</updated>
+      <summary>File manager with built-in archive support</summary>
+    </entry>
     <entry>
       <title>miracle2k/android-autostarts</title>
       <link href="https://github.com/miracle2k/android-autostarts"/>
       <id>https://github.com/miracle2k/android-autostarts</id>
-      <updated>2026-08-24T15:55:04.000Z</updated>
+      <updated>2026-08-25T11:55:30.000Z</updated>
       <summary>Tool to manage autostarts (broadcast receivers) on an Android device.</summary>
     </entry>
     <entry>
       <title>niki914/zafiro</title>
       <link href="https://github.com/niki914/zafiro"/>
       <id>https://github.com/niki914/zafiro</id>
-      <updated>2026-08-24T16:42:44.000Z</updated>
+      <updated>2026-08-25T16:30:38.000Z</updated>
       <summary>Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills</summary>
     </entry>
     <entry>
@@ -38,7 +94,7 @@
       <title>wuliao00/PriceLens</title>
       <link href="https://github.com/wuliao00/PriceLens"/>
       <id>https://github.com/wuliao00/PriceLens</id>
-      <updated>2026-08-25T01:21:21.000Z</updated>
+      <updated>2026-08-25T14:56:06.000Z</updated>
       <summary>PriceLens — 极简全网比价助手 | Android 无障碍增强版 + Windows Electron 便携版 | 永久免费、本地优先、MIT License | 支持京东/淘宝/拼多多/B站/什么值得买/慢慢买/咕咚/Keep 等平台比价、盯价、找券、社区验证</summary>
     </entry>
     <entry>
@@ -59,7 +115,7 @@
       <title>krishna3163/awesome-android-app-repositories</title>
       <link href="https://github.com/krishna3163/awesome-android-app-repositories"/>
       <id>https://github.com/krishna3163/awesome-android-app-repositories</id>
-      <updated>2026-08-25T02:14:17.000Z</updated>
+      <updated>2026-08-26T02:20:35.000Z</updated>
       <summary>⚡ Curated &amp; continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilities automatically synchronized from Telegram.</summary>
     </entry>
     <entry>
@@ -159,61 +215,5 @@
       <id>https://github.com/omnimind-ai/OmniBot</id>
       <updated>2026-08-22T19:19:40.000Z</updated>
       <summary>On-device AI agent with terminal, web browsing, device control, and system integration</summary>
-    </entry>
-    <entry>
-      <title>Kimjio/umamusume-localify-android</title>
-      <link href="https://github.com/Kimjio/umamusume-localify-android"/>
-      <id>https://github.com/Kimjio/umamusume-localify-android</id>
-      <updated>2026-08-21T16:04:18.000Z</updated>
-      <summary>Localization module for Umamusume via Zygisk with Shizuku integration</summary>
-    </entry>
-    <entry>
-      <title>2005selene2005-a11y/susu-phone-agent</title>
-      <link href="https://github.com/2005selene2005-a11y/susu-phone-agent"/>
-      <id>https://github.com/2005selene2005-a11y/susu-phone-agent</id>
-      <updated>2026-08-22T19:48:02.000Z</updated>
-      <summary>Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.</summary>
-    </entry>
-    <entry>
-      <title>harbor</title>
-      <link href="https://f-droid.org/packages/com.monstera.harbor/"/>
-      <id>https://f-droid.org/packages/com.monstera.harbor/</id>
-      <updated>2026-08-22T23:57:18.412Z</updated>
-      <summary>Work-profile manager with optional Shizuku tools for automation</summary>
-    </entry>
-    <entry>
-      <title>ObtainX</title>
-      <link href="https://f-droid.org/packages/dev.bikram.obtainx/"/>
-      <id>https://f-droid.org/packages/dev.bikram.obtainx/</id>
-      <updated>2026-08-22T23:57:18.412Z</updated>
-      <summary>Obtainium fork with Material 3 UI redesign</summary>
-    </entry>
-    <entry>
-      <title>Smart Dock</title>
-      <link href="https://f-droid.org/packages/cu.axel.smartdock/"/>
-      <id>https://f-droid.org/packages/cu.axel.smartdock/</id>
-      <updated>2026-08-22T23:57:18.412Z</updated>
-      <summary>Transform your phone into a desktop environment with taskbar, recent apps, and start menu</summary>
-    </entry>
-    <entry>
-      <title>aload0/Cosmic-IDE</title>
-      <link href="https://github.com/aload0/Cosmic-IDE"/>
-      <id>https://github.com/aload0/Cosmic-IDE</id>
-      <updated>2026-08-21T14:37:27.000Z</updated>
-      <summary>IDE for JVM development. Uses Shizuku for an embedded shell</summary>
-    </entry>
-    <entry>
-      <title>rushiranpise/shizuku-modules</title>
-      <link href="https://github.com/rushiranpise/shizuku-modules"/>
-      <id>https://github.com/rushiranpise/shizuku-modules</id>
-      <updated>2026-08-24T03:42:52.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>StardewValleyMods/CloudSync-Mobile</title>
-      <link href="https://github.com/StardewValleyMods/CloudSync-Mobile"/>
-      <id>https://github.com/StardewValleyMods/CloudSync-Mobile</id>
-      <updated>2026-05-25T10:33:46.000Z</updated>
-      <summary>An app that allows you to sync your Stardew Valley saves across multiple devices</summary>
     </entry>
 </feed>
