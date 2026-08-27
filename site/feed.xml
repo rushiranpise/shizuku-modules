@@ -3,14 +3,98 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-26T03:42:47.552Z</updated>
+  <updated>2026-08-27T13:10:41.372Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>thejaustin/ShizukuPlus</title>
+      <link href="https://github.com/thejaustin/ShizukuPlus"/>
+      <id>https://github.com/thejaustin/ShizukuPlus</id>
+      <updated>2026-08-27T03:30:03.000Z</updated>
+      <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
+    </entry>
+    <entry>
+      <title>EvanKoe/expressive-cutout</title>
+      <link href="https://github.com/EvanKoe/expressive-cutout"/>
+      <id>https://github.com/EvanKoe/expressive-cutout</id>
+      <updated>2026-08-27T11:28:20.000Z</updated>
+      <summary>This app aims to recreate Apple's dynamic island for Android, but this time, following Google's Material Expressive design. </summary>
+    </entry>
+    <entry>
+      <title>JackRushante/argus</title>
+      <link href="https://github.com/JackRushante/argus"/>
+      <id>https://github.com/JackRushante/argus</id>
+      <updated>2026-08-22T20:04:53.000Z</updated>
+      <summary>Natural-language automation for Android: the LLM compiles, a deterministic engine executes. Tasker-class, optional Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/void-purge</title>
+      <link href="https://github.com/kreza6173-pixel/void-purge"/>
+      <id>https://github.com/kreza6173-pixel/void-purge</id>
+      <updated>2026-08-18T06:53:37.000Z</updated>
+      <summary>Advanced ADB cleaner module for Shevery</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/privacy-audit</title>
+      <link href="https://github.com/kreza6173-pixel/privacy-audit"/>
+      <id>https://github.com/kreza6173-pixel/privacy-audit</id>
+      <updated>2026-08-26T05:47:19.000Z</updated>
+      <summary>Privacy Audit — a Shevery ADB Module</summary>
+    </entry>
+    <entry>
+      <title>Sanuu7/AndroidHarness</title>
+      <link href="https://github.com/Sanuu7/AndroidHarness"/>
+      <id>https://github.com/Sanuu7/AndroidHarness</id>
+      <updated>2026-08-27T12:47:09.000Z</updated>
+      <summary>A Native  AI Coding Agent Harness app for Android</summary>
+    </entry>
+    <entry>
+      <title>DPHMScreate/dphms</title>
+      <link href="https://github.com/DPHMScreate/dphms"/>
+      <id>https://github.com/DPHMScreate/dphms</id>
+      <updated>2026-08-27T06:42:36.000Z</updated>
+      <summary>Shizuku-powered Android system optimizer. No root required. AI app analysis, network diagnostics, 35+ ADB commands, batch operations. Lite (free) + Pro ($2.99) + NetGuard ($1.99).</summary>
+    </entry>
+    <entry>
+      <title>1090442016/KiilionFiles</title>
+      <link href="https://github.com/1090442016/KiilionFiles"/>
+      <id>https://github.com/1090442016/KiilionFiles</id>
+      <updated>2026-08-26T14:33:59.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+    </entry>
+    <entry>
+      <title>eVersor-HN/ANONYM</title>
+      <link href="https://github.com/eVersor-HN/ANONYM"/>
+      <id>https://github.com/eVersor-HN/ANONYM</id>
+      <updated>2026-08-26T09:30:48.000Z</updated>
+      <summary>Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when &quot;off&quot; isn'</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/android-app-hub</title>
+      <link href="https://github.com/kreza6173-pixel/android-app-hub"/>
+      <id>https://github.com/kreza6173-pixel/android-app-hub</id>
+      <updated>2026-08-26T10:23:24.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/Cyber-app-manager</title>
+      <link href="https://github.com/kreza6173-pixel/Cyber-app-manager"/>
+      <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
+      <updated>2026-08-26T18:45:17.000Z</updated>
+      <summary>Best Power Full App Manager </summary>
+    </entry>
+    <entry>
+      <title>qq790795623-sudo/qq-meow-assistant</title>
+      <link href="https://github.com/qq790795623-sudo/qq-meow-assistant"/>
+      <id>https://github.com/qq790795623-sudo/qq-meow-assistant</id>
+      <updated>2026-08-27T00:10:38.000Z</updated>
+      <summary>QQ喵喵助手：无障碍喵语替换（反编译重建的可构建 Gradle 工程）</summary>
+    </entry>
     <entry>
       <title>fcaronte/KingInstaller</title>
       <link href="https://github.com/fcaronte/KingInstaller"/>
       <id>https://github.com/fcaronte/KingInstaller</id>
-      <updated>2026-08-25T21:09:53.000Z</updated>
+      <updated>2026-08-26T22:42:17.000Z</updated>
       <summary>Porting of KingInstaller get from GitLab by annexhack</summary>
     </entry>
     <entry>
@@ -24,21 +108,21 @@
       <title>bshea-1/RootlessBrennanDSP</title>
       <link href="https://github.com/bshea-1/RootlessBrennanDSP"/>
       <id>https://github.com/bshea-1/RootlessBrennanDSP</id>
-      <updated>2026-08-26T02:46:58.000Z</updated>
+      <updated>2026-08-26T18:10:58.000Z</updated>
       <summary>High-performance, ultra-low-latency system-wide DSP audio engine for non-rooted Android devices</summary>
     </entry>
     <entry>
       <title>fullmetalsonic/galaxy-auto-brightness-offset</title>
       <link href="https://github.com/fullmetalsonic/galaxy-auto-brightness-offset"/>
       <id>https://github.com/fullmetalsonic/galaxy-auto-brightness-offset</id>
-      <updated>2026-08-26T02:43:45.000Z</updated>
+      <updated>2026-08-27T03:56:26.000Z</updated>
       <summary>Samsung Galaxy adaptive brightness offset for screens that feel too dark or bright, including privacy screen protectors | 갤럭시 자동 밝기 보정</summary>
     </entry>
     <entry>
       <title>inchei/tdash</title>
       <link href="https://github.com/inchei/tdash"/>
       <id>https://github.com/inchei/tdash</id>
-      <updated>2026-08-25T13:52:47.000Z</updated>
+      <updated>2026-08-26T07:15:06.000Z</updated>
       <summary>minimal termux server dashboard with runit controls</summary>
     </entry>
     <entry>
@@ -52,7 +136,7 @@
       <title>serikmain49-rgb/Hui-touch</title>
       <link href="https://github.com/serikmain49-rgb/Hui-touch"/>
       <id>https://github.com/serikmain49-rgb/Hui-touch</id>
-      <updated>2026-08-25T19:41:21.000Z</updated>
+      <updated>2026-08-26T04:22:40.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -73,14 +157,14 @@
       <title>niki914/zafiro</title>
       <link href="https://github.com/niki914/zafiro"/>
       <id>https://github.com/niki914/zafiro</id>
-      <updated>2026-08-25T16:30:38.000Z</updated>
+      <updated>2026-08-27T05:48:45.000Z</updated>
       <summary>Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills</summary>
     </entry>
     <entry>
       <title>TakeruF/android-perapp-language-selector</title>
       <link href="https://github.com/TakeruF/android-perapp-language-selector"/>
       <id>https://github.com/TakeruF/android-perapp-language-selector</id>
-      <updated>2026-08-24T13:34:52.000Z</updated>
+      <updated>2026-08-26T10:35:55.000Z</updated>
       <summary>An Android utility that uses Shizuku to force per-app language (locale) settings on Android 13+ devices without requiring root. It allows applying any language to an app, even if the app lacks built-in language options.</summary>
     </entry>
     <entry>
@@ -94,7 +178,7 @@
       <title>wuliao00/PriceLens</title>
       <link href="https://github.com/wuliao00/PriceLens"/>
       <id>https://github.com/wuliao00/PriceLens</id>
-      <updated>2026-08-25T14:56:06.000Z</updated>
+      <updated>2026-08-26T16:29:51.000Z</updated>
       <summary>PriceLens — 极简全网比价助手 | Android 无障碍增强版 + Windows Electron 便携版 | 永久免费、本地优先、MIT License | 支持京东/淘宝/拼多多/B站/什么值得买/慢慢买/咕咚/Keep 等平台比价、盯价、找券、社区验证</summary>
     </entry>
     <entry>
@@ -115,7 +199,7 @@
       <title>krishna3163/awesome-android-app-repositories</title>
       <link href="https://github.com/krishna3163/awesome-android-app-repositories"/>
       <id>https://github.com/krishna3163/awesome-android-app-repositories</id>
-      <updated>2026-08-26T02:20:35.000Z</updated>
+      <updated>2026-08-27T02:27:02.000Z</updated>
       <summary>⚡ Curated &amp; continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilities automatically synchronized from Telegram.</summary>
     </entry>
     <entry>
@@ -131,89 +215,5 @@
       <id>https://github.com/Ritel-T/SamsungRegionOverride</id>
       <updated>2026-08-23T12:46:25.000Z</updated>
       <summary>Temporary Samsung SIM/CarrierConfig region override over Shizuku, with one-tap restore</summary>
-    </entry>
-    <entry>
-      <title>eVersor-HN/FindAnonymity</title>
-      <link href="https://github.com/eVersor-HN/FindAnonymity"/>
-      <id>https://github.com/eVersor-HN/FindAnonymity</id>
-      <updated>2026-08-24T15:31:41.000Z</updated>
-      <summary>Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when &quot;off&quot; isn'</summary>
-    </entry>
-    <entry>
-      <title>snake99112/BD2ModDeployer</title>
-      <link href="https://github.com/snake99112/BD2ModDeployer"/>
-      <id>https://github.com/snake99112/BD2ModDeployer</id>
-      <updated>2026-08-23T12:36:18.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>feravolt/FDE.AI-docs</title>
-      <link href="https://github.com/feravolt/FDE.AI-docs"/>
-      <id>https://github.com/feravolt/FDE.AI-docs</id>
-      <updated>2026-08-19T16:52:18.000Z</updated>
-      <summary>Various FDE.AI related texts</summary>
-    </entry>
-    <entry>
-      <title>henrichg/PhoneProfilesPlus</title>
-      <link href="https://github.com/henrichg/PhoneProfilesPlus"/>
-      <id>https://github.com/henrichg/PhoneProfilesPlus</id>
-      <updated>2025-09-29T17:05:45.000Z</updated>
-      <summary>Profile manager for Android - event triggered</summary>
-    </entry>
-    <entry>
-      <title>palincat/gama</title>
-      <link href="https://github.com/palincat/gama"/>
-      <id>https://github.com/palincat/gama</id>
-      <updated>2026-08-23T23:28:07.000Z</updated>
-      <summary>Graphics API Manager for Android (GAMA)</summary>
-    </entry>
-    <entry>
-      <title>molihuan/hlbmerge_flutter</title>
-      <link href="https://github.com/molihuan/hlbmerge_flutter"/>
-      <id>https://github.com/molihuan/hlbmerge_flutter</id>
-      <updated>2026-07-27T16:03:21.000Z</updated>
-      <summary>全平台将Bilibili缓存视频合并导出为mp4，支持android、windows(10以上)、linux、mac、harmony(仅2in1和PC)、ios，支持B站Android客户端缓存，支持B站Windows客户端缓存，支持B站Mac客户端缓存  Combine and export Bilibili cache files as MP4, support Android, Windows, Linux, Mac,Harmony,IOS, support Bilibili Android Windows Mac client cache</summary>
-    </entry>
-    <entry>
-      <title>rayshift/translatefgo</title>
-      <link href="https://github.com/rayshift/translatefgo"/>
-      <id>https://github.com/rayshift/translatefgo</id>
-      <updated>2026-04-25T19:42:50.000Z</updated>
-      <summary>FGO Translation Project</summary>
-    </entry>
-    <entry>
-      <title>YasserNull/setbox</title>
-      <link href="https://github.com/YasserNull/setbox"/>
-      <id>https://github.com/YasserNull/setbox</id>
-      <updated>2025-08-26T21:23:33.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>rayshift/nextgenfs</title>
-      <link href="https://github.com/rayshift/nextgenfs"/>
-      <id>https://github.com/rayshift/nextgenfs</id>
-      <updated>2024-02-19T00:16:34.000Z</updated>
-      <summary>Shizuku compatible android/data access from Xamarin - AIDL library</summary>
-    </entry>
-    <entry>
-      <title>turin-dev/rish-mcp</title>
-      <link href="https://github.com/turin-dev/rish-mcp"/>
-      <id>https://github.com/turin-dev/rish-mcp</id>
-      <updated>2026-08-24T00:18:40.000Z</updated>
-      <summary>Control an Android device's shell from AI clients through MCP - outbound-only, no root or Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>RikkaApps/Shizuku</title>
-      <link href="https://github.com/RikkaApps/Shizuku"/>
-      <id>https://github.com/RikkaApps/Shizuku</id>
-      <updated>2025-06-18T04:21:02.000Z</updated>
-      <summary>Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</summary>
-    </entry>
-    <entry>
-      <title>omnimind-ai/OmniBot</title>
-      <link href="https://github.com/omnimind-ai/OmniBot"/>
-      <id>https://github.com/omnimind-ai/OmniBot</id>
-      <updated>2026-08-22T19:19:40.000Z</updated>
-      <summary>On-device AI agent with terminal, web browsing, device control, and system integration</summary>
     </entry>
 </feed>
