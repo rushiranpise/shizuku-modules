@@ -3,14 +3,35 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-27T13:10:41.372Z</updated>
+  <updated>2026-08-28T14:38:07.950Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>huoxingrNaNa/QQCatHelper</title>
+      <link href="https://github.com/huoxingrNaNa/QQCatHelper"/>
+      <id>https://github.com/huoxingrNaNa/QQCatHelper</id>
+      <updated>2026-08-28T07:02:10.000Z</updated>
+      <summary>🐱 QQ喵喵助手 - AI制作的猫咪颜文字输入增强工具 (AGPL-3.0)</summary>
+    </entry>
+    <entry>
+      <title>gyx114/NoJump</title>
+      <link href="https://github.com/gyx114/NoJump"/>
+      <id>https://github.com/gyx114/NoJump</id>
+      <updated>2026-08-28T14:05:53.000Z</updated>
+      <summary>安卓应用，防止应用跳转到美团等第三方应用</summary>
+    </entry>
+    <entry>
+      <title>wandawrt01/Root-My-Pixel</title>
+      <link href="https://github.com/wandawrt01/Root-My-Pixel"/>
+      <id>https://github.com/wandawrt01/Root-My-Pixel</id>
+      <updated>2026-08-28T03:34:45.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>thejaustin/ShizukuPlus</title>
       <link href="https://github.com/thejaustin/ShizukuPlus"/>
       <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-08-27T03:30:03.000Z</updated>
+      <updated>2026-08-28T05:54:02.000Z</updated>
       <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
     </entry>
     <entry>
@@ -42,11 +63,25 @@
       <summary>Privacy Audit — a Shevery ADB Module</summary>
     </entry>
     <entry>
+      <title>kreza6173-pixel/Cyber-app-manager</title>
+      <link href="https://github.com/kreza6173-pixel/Cyber-app-manager"/>
+      <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
+      <updated>2026-08-26T18:45:17.000Z</updated>
+      <summary>Best Power Full App Manager </summary>
+    </entry>
+    <entry>
       <title>Sanuu7/AndroidHarness</title>
       <link href="https://github.com/Sanuu7/AndroidHarness"/>
       <id>https://github.com/Sanuu7/AndroidHarness</id>
-      <updated>2026-08-27T12:47:09.000Z</updated>
+      <updated>2026-08-28T03:45:53.000Z</updated>
       <summary>A Native  AI Coding Agent Harness app for Android</summary>
+    </entry>
+    <entry>
+      <title>1090442016/KiilionFiles</title>
+      <link href="https://github.com/1090442016/KiilionFiles"/>
+      <id>https://github.com/1090442016/KiilionFiles</id>
+      <updated>2026-08-28T09:53:54.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
     </entry>
     <entry>
       <title>DPHMScreate/dphms</title>
@@ -56,11 +91,11 @@
       <summary>Shizuku-powered Android system optimizer. No root required. AI app analysis, network diagnostics, 35+ ADB commands, batch operations. Lite (free) + Pro ($2.99) + NetGuard ($1.99).</summary>
     </entry>
     <entry>
-      <title>1090442016/KiilionFiles</title>
-      <link href="https://github.com/1090442016/KiilionFiles"/>
-      <id>https://github.com/1090442016/KiilionFiles</id>
-      <updated>2026-08-26T14:33:59.000Z</updated>
-      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+      <title>kreza6173-pixel/android-app-hub</title>
+      <link href="https://github.com/kreza6173-pixel/android-app-hub"/>
+      <id>https://github.com/kreza6173-pixel/android-app-hub</id>
+      <updated>2026-08-28T02:56:33.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
       <title>eVersor-HN/ANONYM</title>
@@ -68,20 +103,6 @@
       <id>https://github.com/eVersor-HN/ANONYM</id>
       <updated>2026-08-26T09:30:48.000Z</updated>
       <summary>Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when &quot;off&quot; isn'</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/android-app-hub</title>
-      <link href="https://github.com/kreza6173-pixel/android-app-hub"/>
-      <id>https://github.com/kreza6173-pixel/android-app-hub</id>
-      <updated>2026-08-26T10:23:24.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/Cyber-app-manager</title>
-      <link href="https://github.com/kreza6173-pixel/Cyber-app-manager"/>
-      <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
-      <updated>2026-08-26T18:45:17.000Z</updated>
-      <summary>Best Power Full App Manager </summary>
     </entry>
     <entry>
       <title>qq790795623-sudo/qq-meow-assistant</title>
@@ -94,7 +115,7 @@
       <title>fcaronte/KingInstaller</title>
       <link href="https://github.com/fcaronte/KingInstaller"/>
       <id>https://github.com/fcaronte/KingInstaller</id>
-      <updated>2026-08-26T22:42:17.000Z</updated>
+      <updated>2026-08-27T20:50:53.000Z</updated>
       <summary>Porting of KingInstaller get from GitLab by annexhack</summary>
     </entry>
     <entry>
@@ -157,7 +178,7 @@
       <title>niki914/zafiro</title>
       <link href="https://github.com/niki914/zafiro"/>
       <id>https://github.com/niki914/zafiro</id>
-      <updated>2026-08-27T05:48:45.000Z</updated>
+      <updated>2026-08-28T14:34:24.000Z</updated>
       <summary>Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills</summary>
     </entry>
     <entry>
@@ -178,7 +199,7 @@
       <title>wuliao00/PriceLens</title>
       <link href="https://github.com/wuliao00/PriceLens"/>
       <id>https://github.com/wuliao00/PriceLens</id>
-      <updated>2026-08-26T16:29:51.000Z</updated>
+      <updated>2026-08-28T11:01:18.000Z</updated>
       <summary>PriceLens — 极简全网比价助手 | Android 无障碍增强版 + Windows Electron 便携版 | 永久免费、本地优先、MIT License | 支持京东/淘宝/拼多多/B站/什么值得买/慢慢买/咕咚/Keep 等平台比价、盯价、找券、社区验证</summary>
     </entry>
     <entry>
@@ -194,26 +215,5 @@
       <id>https://github.com/maicongoe/AA-Cluster</id>
       <updated>2026-08-23T18:12:45.000Z</updated>
       <summary>Aplicativo Android dedicado ao AA Rich Cluster para multimídia Haval/GWM, com Frida e bind mount.</summary>
-    </entry>
-    <entry>
-      <title>krishna3163/awesome-android-app-repositories</title>
-      <link href="https://github.com/krishna3163/awesome-android-app-repositories"/>
-      <id>https://github.com/krishna3163/awesome-android-app-repositories</id>
-      <updated>2026-08-27T02:27:02.000Z</updated>
-      <summary>⚡ Curated &amp; continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilities automatically synchronized from Telegram.</summary>
-    </entry>
-    <entry>
-      <title>J0shua-code/vScrcpy</title>
-      <link href="https://github.com/J0shua-code/vScrcpy"/>
-      <id>https://github.com/J0shua-code/vScrcpy</id>
-      <updated>2026-08-23T16:08:14.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Ritel-T/SamsungRegionOverride</title>
-      <link href="https://github.com/Ritel-T/SamsungRegionOverride"/>
-      <id>https://github.com/Ritel-T/SamsungRegionOverride</id>
-      <updated>2026-08-23T12:46:25.000Z</updated>
-      <summary>Temporary Samsung SIM/CarrierConfig region override over Shizuku, with one-tap restore</summary>
     </entry>
 </feed>
