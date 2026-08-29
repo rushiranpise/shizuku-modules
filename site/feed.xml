@@ -3,9 +3,51 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-28T14:38:07.950Z</updated>
+  <updated>2026-08-29T09:27:33.419Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>KillionWY/KiilionFiles</title>
+      <link href="https://github.com/KillionWY/KiilionFiles"/>
+      <id>https://github.com/KillionWY/KiilionFiles</id>
+      <updated>2026-08-28T14:49:51.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+    </entry>
+    <entry>
+      <title>bensonsquiggly4244/awesome-android-app-repositories</title>
+      <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
+      <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
+      <updated>2026-08-28T17:07:27.000Z</updated>
+      <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
+    </entry>
+    <entry>
+      <title>FedeFluork/multistore</title>
+      <link href="https://github.com/FedeFluork/multistore"/>
+      <id>https://github.com/FedeFluork/multistore</id>
+      <updated>2026-08-28T14:59:23.000Z</updated>
+      <summary>A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.</summary>
+    </entry>
+    <entry>
+      <title>JoeGeC/joycon2android</title>
+      <link href="https://github.com/JoeGeC/joycon2android"/>
+      <id>https://github.com/JoeGeC/joycon2android</id>
+      <updated>2026-08-28T22:37:59.000Z</updated>
+      <summary>Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/VOID-WALL</title>
+      <link href="https://github.com/kreza6173-pixel/VOID-WALL"/>
+      <id>https://github.com/kreza6173-pixel/VOID-WALL</id>
+      <updated>2026-08-28T19:29:33.000Z</updated>
+      <summary>A modern, root-optional firewall for Android</summary>
+    </entry>
+    <entry>
+      <title>odorizzioficial/otimizadordroid</title>
+      <link href="https://github.com/odorizzioficial/otimizadordroid"/>
+      <id>https://github.com/odorizzioficial/otimizadordroid</id>
+      <updated>2026-08-29T05:07:20.000Z</updated>
+      <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
+    </entry>
     <entry>
       <title>huoxingrNaNa/QQCatHelper</title>
       <link href="https://github.com/huoxingrNaNa/QQCatHelper"/>
@@ -31,7 +73,7 @@
       <title>thejaustin/ShizukuPlus</title>
       <link href="https://github.com/thejaustin/ShizukuPlus"/>
       <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-08-28T05:54:02.000Z</updated>
+      <updated>2026-08-28T22:41:09.000Z</updated>
       <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
     </entry>
     <entry>
@@ -56,6 +98,13 @@
       <summary>Advanced ADB cleaner module for Shevery</summary>
     </entry>
     <entry>
+      <title>Sanuu7/AndroidHarness</title>
+      <link href="https://github.com/Sanuu7/AndroidHarness"/>
+      <id>https://github.com/Sanuu7/AndroidHarness</id>
+      <updated>2026-08-29T01:37:30.000Z</updated>
+      <summary>A Native  AI Coding Agent Harness app for Android</summary>
+    </entry>
+    <entry>
       <title>kreza6173-pixel/privacy-audit</title>
       <link href="https://github.com/kreza6173-pixel/privacy-audit"/>
       <id>https://github.com/kreza6173-pixel/privacy-audit</id>
@@ -68,13 +117,6 @@
       <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
       <updated>2026-08-26T18:45:17.000Z</updated>
       <summary>Best Power Full App Manager </summary>
-    </entry>
-    <entry>
-      <title>Sanuu7/AndroidHarness</title>
-      <link href="https://github.com/Sanuu7/AndroidHarness"/>
-      <id>https://github.com/Sanuu7/AndroidHarness</id>
-      <updated>2026-08-28T03:45:53.000Z</updated>
-      <summary>A Native  AI Coding Agent Harness app for Android</summary>
     </entry>
     <entry>
       <title>1090442016/KiilionFiles</title>
@@ -94,7 +136,7 @@
       <title>kreza6173-pixel/android-app-hub</title>
       <link href="https://github.com/kreza6173-pixel/android-app-hub"/>
       <id>https://github.com/kreza6173-pixel/android-app-hub</id>
-      <updated>2026-08-28T02:56:33.000Z</updated>
+      <updated>2026-08-29T03:04:43.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -119,6 +161,13 @@
       <summary>Porting of KingInstaller get from GitLab by annexhack</summary>
     </entry>
     <entry>
+      <title>nikostap/BlueSpot</title>
+      <link href="https://github.com/nikostap/BlueSpot"/>
+      <id>https://github.com/nikostap/BlueSpot</id>
+      <updated>2026-08-25T12:40:37.000Z</updated>
+      <summary>Android-приложение: включает Wi-Fi hotspot при подключении выбранного Bluetooth-устройства через Shizuku</summary>
+    </entry>
+    <entry>
       <title>arriRgb31/info-layar</title>
       <link href="https://github.com/arriRgb31/info-layar"/>
       <id>https://github.com/arriRgb31/info-layar</id>
@@ -129,7 +178,7 @@
       <title>bshea-1/RootlessBrennanDSP</title>
       <link href="https://github.com/bshea-1/RootlessBrennanDSP"/>
       <id>https://github.com/bshea-1/RootlessBrennanDSP</id>
-      <updated>2026-08-26T18:10:58.000Z</updated>
+      <updated>2026-08-28T22:40:00.000Z</updated>
       <summary>High-performance, ultra-low-latency system-wide DSP audio engine for non-rooted Android devices</summary>
     </entry>
     <entry>
@@ -145,13 +194,6 @@
       <id>https://github.com/inchei/tdash</id>
       <updated>2026-08-26T07:15:06.000Z</updated>
       <summary>minimal termux server dashboard with runit controls</summary>
-    </entry>
-    <entry>
-      <title>nikostap/BlueSpot</title>
-      <link href="https://github.com/nikostap/BlueSpot"/>
-      <id>https://github.com/nikostap/BlueSpot</id>
-      <updated>2026-08-25T12:40:37.000Z</updated>
-      <summary>Android-приложение: включает Wi-Fi hotspot при подключении выбранного Bluetooth-устройства через Shizuku</summary>
     </entry>
     <entry>
       <title>serikmain49-rgb/Hui-touch</title>
@@ -173,47 +215,5 @@
       <id>https://github.com/miracle2k/android-autostarts</id>
       <updated>2026-08-25T11:55:30.000Z</updated>
       <summary>Tool to manage autostarts (broadcast receivers) on an Android device.</summary>
-    </entry>
-    <entry>
-      <title>niki914/zafiro</title>
-      <link href="https://github.com/niki914/zafiro"/>
-      <id>https://github.com/niki914/zafiro</id>
-      <updated>2026-08-28T14:34:24.000Z</updated>
-      <summary>Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills</summary>
-    </entry>
-    <entry>
-      <title>TakeruF/android-perapp-language-selector</title>
-      <link href="https://github.com/TakeruF/android-perapp-language-selector"/>
-      <id>https://github.com/TakeruF/android-perapp-language-selector</id>
-      <updated>2026-08-26T10:35:55.000Z</updated>
-      <summary>An Android utility that uses Shizuku to force per-app language (locale) settings on Android 13+ devices without requiring root. It allows applying any language to an app, even if the app lacks built-in language options.</summary>
-    </entry>
-    <entry>
-      <title>luo139-cn/kalipassthrough</title>
-      <link href="https://github.com/luo139-cn/kalipassthrough"/>
-      <id>https://github.com/luo139-cn/kalipassthrough</id>
-      <updated>2026-08-24T09:46:23.000Z</updated>
-      <summary>Kalidroid 复刻 - Shizuku免root + QEMU QMP直通 + HTTP API</summary>
-    </entry>
-    <entry>
-      <title>wuliao00/PriceLens</title>
-      <link href="https://github.com/wuliao00/PriceLens"/>
-      <id>https://github.com/wuliao00/PriceLens</id>
-      <updated>2026-08-28T11:01:18.000Z</updated>
-      <summary>PriceLens — 极简全网比价助手 | Android 无障碍增强版 + Windows Electron 便携版 | 永久免费、本地优先、MIT License | 支持京东/淘宝/拼多多/B站/什么值得买/慢慢买/咕咚/Keep 等平台比价、盯价、找券、社区验证</summary>
-    </entry>
-    <entry>
-      <title>sachinmandawi/CleanBar</title>
-      <link href="https://github.com/sachinmandawi/CleanBar"/>
-      <id>https://github.com/sachinmandawi/CleanBar</id>
-      <updated>2026-08-24T05:15:49.000Z</updated>
-      <summary>1-Tap Status Bar &amp; System Icon Hider for Android powered by Shizuku. Hide clock, battery, and icons with zero root.</summary>
-    </entry>
-    <entry>
-      <title>maicongoe/AA-Cluster</title>
-      <link href="https://github.com/maicongoe/AA-Cluster"/>
-      <id>https://github.com/maicongoe/AA-Cluster</id>
-      <updated>2026-08-23T18:12:45.000Z</updated>
-      <summary>Aplicativo Android dedicado ao AA Rich Cluster para multimídia Haval/GWM, com Frida e bind mount.</summary>
     </entry>
 </feed>
