@@ -3,29 +3,57 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-29T09:27:33.419Z</updated>
+  <updated>2026-08-30T08:35:11.266Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>KillionWY/KiilionFiles</title>
-      <link href="https://github.com/KillionWY/KiilionFiles"/>
-      <id>https://github.com/KillionWY/KiilionFiles</id>
-      <updated>2026-08-28T14:49:51.000Z</updated>
-      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+      <title>felinics/Autofish</title>
+      <link href="https://github.com/felinics/Autofish"/>
+      <id>https://github.com/felinics/Autofish</id>
+      <updated>2026-08-29T17:12:44.000Z</updated>
+      <summary>An AI Agent tool to automate Android devices reliably</summary>
     </entry>
     <entry>
-      <title>bensonsquiggly4244/awesome-android-app-repositories</title>
-      <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
-      <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
-      <updated>2026-08-28T17:07:27.000Z</updated>
-      <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
+      <title>kreza6173-pixel/void-silence</title>
+      <link href="https://github.com/kreza6173-pixel/void-silence"/>
+      <id>https://github.com/kreza6173-pixel/void-silence</id>
+      <updated>2026-08-29T17:02:08.000Z</updated>
+      <summary>Notification &amp; DND Studio</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/Apk_for_Fake_GPS</title>
+      <link href="https://github.com/sgamiza/Apk_for_Fake_GPS"/>
+      <id>https://github.com/sgamiza/Apk_for_Fake_GPS</id>
+      <updated>2026-08-30T04:44:54.000Z</updated>
+      <summary>Apk for Fake GPS</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/export_bilibili_download_video</title>
+      <link href="https://github.com/sgamiza/export_bilibili_download_video"/>
+      <id>https://github.com/sgamiza/export_bilibili_download_video</id>
+      <updated>2026-08-30T04:44:48.000Z</updated>
+      <summary>apk for export bilibili download video to mp4</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/tingshu-audio-exporter</title>
+      <link href="https://github.com/sgamiza/tingshu-audio-exporter"/>
+      <id>https://github.com/sgamiza/tingshu-audio-exporter</id>
+      <updated>2026-08-30T04:44:43.000Z</updated>
+      <summary>Lazy-listen audiobook cache exporter (Android + Python) to MP3/M4A</summary>
     </entry>
     <entry>
       <title>FedeFluork/multistore</title>
       <link href="https://github.com/FedeFluork/multistore"/>
       <id>https://github.com/FedeFluork/multistore</id>
-      <updated>2026-08-28T14:59:23.000Z</updated>
+      <updated>2026-08-29T19:18:01.000Z</updated>
       <summary>A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.</summary>
+    </entry>
+    <entry>
+      <title>odorizzioficial/otimizadordroid</title>
+      <link href="https://github.com/odorizzioficial/otimizadordroid"/>
+      <id>https://github.com/odorizzioficial/otimizadordroid</id>
+      <updated>2026-08-29T05:07:20.000Z</updated>
+      <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
     </entry>
     <entry>
       <title>JoeGeC/joycon2android</title>
@@ -42,11 +70,18 @@
       <summary>A modern, root-optional firewall for Android</summary>
     </entry>
     <entry>
-      <title>odorizzioficial/otimizadordroid</title>
-      <link href="https://github.com/odorizzioficial/otimizadordroid"/>
-      <id>https://github.com/odorizzioficial/otimizadordroid</id>
-      <updated>2026-08-29T05:07:20.000Z</updated>
-      <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
+      <title>bensonsquiggly4244/awesome-android-app-repositories</title>
+      <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
+      <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
+      <updated>2026-08-28T17:07:27.000Z</updated>
+      <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
+    </entry>
+    <entry>
+      <title>KillionWY/KiilionFiles</title>
+      <link href="https://github.com/KillionWY/KiilionFiles"/>
+      <id>https://github.com/KillionWY/KiilionFiles</id>
+      <updated>2026-08-30T06:32:04.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
     </entry>
     <entry>
       <title>huoxingrNaNa/QQCatHelper</title>
@@ -101,7 +136,7 @@
       <title>Sanuu7/AndroidHarness</title>
       <link href="https://github.com/Sanuu7/AndroidHarness"/>
       <id>https://github.com/Sanuu7/AndroidHarness</id>
-      <updated>2026-08-29T01:37:30.000Z</updated>
+      <updated>2026-08-30T03:27:08.000Z</updated>
       <summary>A Native  AI Coding Agent Harness app for Android</summary>
     </entry>
     <entry>
@@ -178,42 +213,7 @@
       <title>bshea-1/RootlessBrennanDSP</title>
       <link href="https://github.com/bshea-1/RootlessBrennanDSP"/>
       <id>https://github.com/bshea-1/RootlessBrennanDSP</id>
-      <updated>2026-08-28T22:40:00.000Z</updated>
+      <updated>2026-08-29T12:53:26.000Z</updated>
       <summary>High-performance, ultra-low-latency system-wide DSP audio engine for non-rooted Android devices</summary>
-    </entry>
-    <entry>
-      <title>fullmetalsonic/galaxy-auto-brightness-offset</title>
-      <link href="https://github.com/fullmetalsonic/galaxy-auto-brightness-offset"/>
-      <id>https://github.com/fullmetalsonic/galaxy-auto-brightness-offset</id>
-      <updated>2026-08-27T03:56:26.000Z</updated>
-      <summary>Samsung Galaxy adaptive brightness offset for screens that feel too dark or bright, including privacy screen protectors | 갤럭시 자동 밝기 보정</summary>
-    </entry>
-    <entry>
-      <title>inchei/tdash</title>
-      <link href="https://github.com/inchei/tdash"/>
-      <id>https://github.com/inchei/tdash</id>
-      <updated>2026-08-26T07:15:06.000Z</updated>
-      <summary>minimal termux server dashboard with runit controls</summary>
-    </entry>
-    <entry>
-      <title>serikmain49-rgb/Hui-touch</title>
-      <link href="https://github.com/serikmain49-rgb/Hui-touch"/>
-      <id>https://github.com/serikmain49-rgb/Hui-touch</id>
-      <updated>2026-08-26T04:22:40.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Xtra-Manager-Software/XArchiver</title>
-      <link href="https://github.com/Xtra-Manager-Software/XArchiver"/>
-      <id>https://github.com/Xtra-Manager-Software/XArchiver</id>
-      <updated>2026-08-22T11:30:32.000Z</updated>
-      <summary>File manager with built-in archive support</summary>
-    </entry>
-    <entry>
-      <title>miracle2k/android-autostarts</title>
-      <link href="https://github.com/miracle2k/android-autostarts"/>
-      <id>https://github.com/miracle2k/android-autostarts</id>
-      <updated>2026-08-25T11:55:30.000Z</updated>
-      <summary>Tool to manage autostarts (broadcast receivers) on an Android device.</summary>
     </entry>
 </feed>
