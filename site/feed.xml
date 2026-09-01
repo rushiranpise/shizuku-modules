@@ -3,9 +3,23 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-08-31T08:57:49.844Z</updated>
+  <updated>2026-09-01T08:01:11.871Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Halo0sama/ExpressAssistant</title>
+      <link href="https://github.com/Halo0sama/ExpressAssistant"/>
+      <id>https://github.com/Halo0sama/ExpressAssistant</id>
+      <updated>2026-08-27T16:39:35.000Z</updated>
+      <summary>Local-first Android delivery aggregator with AI reports &amp; tracking | 本地优先的快递聚合应用，支持 AI 日报与快递跟踪</summary>
+    </entry>
+    <entry>
+      <title>waysideinn/huilai</title>
+      <link href="https://github.com/waysideinn/huilai"/>
+      <id>https://github.com/waysideinn/huilai</id>
+      <updated>2026-08-31T13:20:35.000Z</updated>
+      <summary>A local Android digital wellbeing app that limits continuous app sessions and enforces cooldowns.</summary>
+    </entry>
     <entry>
       <title>shrimqy/Sefirah-Android</title>
       <link href="https://github.com/shrimqy/Sefirah-Android"/>
@@ -28,18 +42,18 @@
       <summary>Non-root FOSS Android call recorder over embedded ADB — records both sides of a call, no root/Shizuku/PC. Fork of ShizuCallRecorder.</summary>
     </entry>
     <entry>
-      <title>qazmko72/android-mcp-server</title>
-      <link href="https://github.com/qazmko72/android-mcp-server"/>
-      <id>https://github.com/qazmko72/android-mcp-server</id>
-      <updated>2026-08-31T07:16:39.000Z</updated>
-      <summary>A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.</summary>
-    </entry>
-    <entry>
       <title>kinou-p/android-open-mapper</title>
       <link href="https://github.com/kinou-p/android-open-mapper"/>
       <id>https://github.com/kinou-p/android-open-mapper</id>
-      <updated>2026-08-30T15:14:19.000Z</updated>
+      <updated>2026-08-31T15:19:51.000Z</updated>
       <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
+    </entry>
+    <entry>
+      <title>qazmko72/android-mcp-server</title>
+      <link href="https://github.com/qazmko72/android-mcp-server"/>
+      <id>https://github.com/qazmko72/android-mcp-server</id>
+      <updated>2026-08-31T09:18:46.000Z</updated>
+      <summary>A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.</summary>
     </entry>
     <entry>
       <title>kreza6173-pixel/void-autostart</title>
@@ -52,7 +66,7 @@
       <title>mizanbinb/Game-Booster</title>
       <link href="https://github.com/mizanbinb/Game-Booster"/>
       <id>https://github.com/mizanbinb/Game-Booster</id>
-      <updated>2026-08-30T23:34:16.000Z</updated>
+      <updated>2026-09-01T07:22:37.000Z</updated>
       <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
     </entry>
     <entry>
@@ -108,7 +122,7 @@
       <title>odorizzioficial/otimizadordroid</title>
       <link href="https://github.com/odorizzioficial/otimizadordroid"/>
       <id>https://github.com/odorizzioficial/otimizadordroid</id>
-      <updated>2026-08-29T05:07:20.000Z</updated>
+      <updated>2026-08-31T18:58:42.000Z</updated>
       <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
     </entry>
     <entry>
@@ -164,14 +178,14 @@
       <title>thejaustin/ShizukuPlus</title>
       <link href="https://github.com/thejaustin/ShizukuPlus"/>
       <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-08-31T06:55:02.000Z</updated>
+      <updated>2026-08-31T23:19:05.000Z</updated>
       <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
     </entry>
     <entry>
       <title>EvanKoe/expressive-cutout</title>
       <link href="https://github.com/EvanKoe/expressive-cutout"/>
       <id>https://github.com/EvanKoe/expressive-cutout</id>
-      <updated>2026-08-27T11:28:20.000Z</updated>
+      <updated>2026-08-31T12:37:18.000Z</updated>
       <summary>This app aims to recreate Apple's dynamic island for Android, but this time, following Google's Material Expressive design. </summary>
     </entry>
     <entry>
@@ -192,15 +206,8 @@
       <title>Sanuu7/AndroidHarness</title>
       <link href="https://github.com/Sanuu7/AndroidHarness"/>
       <id>https://github.com/Sanuu7/AndroidHarness</id>
-      <updated>2026-08-31T06:29:46.000Z</updated>
+      <updated>2026-09-01T06:21:26.000Z</updated>
       <summary>A Native  AI Coding Agent Harness app for Android</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/privacy-audit</title>
-      <link href="https://github.com/kreza6173-pixel/privacy-audit"/>
-      <id>https://github.com/kreza6173-pixel/privacy-audit</id>
-      <updated>2026-08-30T10:05:21.000Z</updated>
-      <summary>Privacy Audit — a Shevery ADB Module</summary>
     </entry>
     <entry>
       <title>kreza6173-pixel/Cyber-app-manager</title>
@@ -208,12 +215,5 @@
       <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
       <updated>2026-08-30T10:03:30.000Z</updated>
       <summary>Best Power Full App Manager </summary>
-    </entry>
-    <entry>
-      <title>1090442016/KiilionFiles</title>
-      <link href="https://github.com/1090442016/KiilionFiles"/>
-      <id>https://github.com/1090442016/KiilionFiles</id>
-      <updated>2026-08-28T09:53:54.000Z</updated>
-      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
     </entry>
 </feed>
