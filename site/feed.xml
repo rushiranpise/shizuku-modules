@@ -3,9 +3,23 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-01T08:01:11.871Z</updated>
+  <updated>2026-09-02T07:21:50.191Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Dreamucxe/GameCore</title>
+      <link href="https://github.com/Dreamucxe/GameCore"/>
+      <id>https://github.com/Dreamucxe/GameCore</id>
+      <updated>2026-09-01T11:09:52.000Z</updated>
+      <summary>Android gaming overlay, performance monitor and per-game profile manager. Every number it shows is one the platform actually reported — where Android will not answer, it says so instead of guessing.</summary>
+    </entry>
+    <entry>
+      <title>jehan593/ownapps</title>
+      <link href="https://github.com/jehan593/ownapps"/>
+      <id>https://github.com/jehan593/ownapps</id>
+      <updated>2026-09-01T03:02:43.000Z</updated>
+      <summary>Fully offline Android app manager: manually disable/enable apps via a Shizuku-family backend, with a scriptable UI Hider overlay.</summary>
+    </entry>
     <entry>
       <title>Halo0sama/ExpressAssistant</title>
       <link href="https://github.com/Halo0sama/ExpressAssistant"/>
@@ -24,7 +38,7 @@
       <title>shrimqy/Sefirah-Android</title>
       <link href="https://github.com/shrimqy/Sefirah-Android"/>
       <id>https://github.com/shrimqy/Sefirah-Android</id>
-      <updated>2026-08-30T12:03:38.000Z</updated>
+      <updated>2026-09-01T12:34:38.000Z</updated>
       <summary>Phone link / KDE Connect alternative </summary>
     </entry>
     <entry>
@@ -42,18 +56,18 @@
       <summary>Non-root FOSS Android call recorder over embedded ADB — records both sides of a call, no root/Shizuku/PC. Fork of ShizuCallRecorder.</summary>
     </entry>
     <entry>
-      <title>kinou-p/android-open-mapper</title>
-      <link href="https://github.com/kinou-p/android-open-mapper"/>
-      <id>https://github.com/kinou-p/android-open-mapper</id>
-      <updated>2026-08-31T15:19:51.000Z</updated>
-      <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
-    </entry>
-    <entry>
       <title>qazmko72/android-mcp-server</title>
       <link href="https://github.com/qazmko72/android-mcp-server"/>
       <id>https://github.com/qazmko72/android-mcp-server</id>
       <updated>2026-08-31T09:18:46.000Z</updated>
       <summary>A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.</summary>
+    </entry>
+    <entry>
+      <title>kinou-p/android-open-mapper</title>
+      <link href="https://github.com/kinou-p/android-open-mapper"/>
+      <id>https://github.com/kinou-p/android-open-mapper</id>
+      <updated>2026-09-01T21:40:46.000Z</updated>
+      <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
     </entry>
     <entry>
       <title>kreza6173-pixel/void-autostart</title>
@@ -66,7 +80,7 @@
       <title>mizanbinb/Game-Booster</title>
       <link href="https://github.com/mizanbinb/Game-Booster"/>
       <id>https://github.com/mizanbinb/Game-Booster</id>
-      <updated>2026-09-01T07:22:37.000Z</updated>
+      <updated>2026-09-01T22:05:11.000Z</updated>
       <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
     </entry>
     <entry>
@@ -94,21 +108,21 @@
       <title>sgamiza/Apk_for_Fake_GPS</title>
       <link href="https://github.com/sgamiza/Apk_for_Fake_GPS"/>
       <id>https://github.com/sgamiza/Apk_for_Fake_GPS</id>
-      <updated>2026-08-30T04:44:54.000Z</updated>
+      <updated>2026-09-01T09:10:23.000Z</updated>
       <summary>Apk for Fake GPS</summary>
     </entry>
     <entry>
       <title>sgamiza/export_bilibili_download_video</title>
       <link href="https://github.com/sgamiza/export_bilibili_download_video"/>
       <id>https://github.com/sgamiza/export_bilibili_download_video</id>
-      <updated>2026-08-30T04:44:48.000Z</updated>
+      <updated>2026-09-01T09:10:09.000Z</updated>
       <summary>apk for export bilibili download video to mp4</summary>
     </entry>
     <entry>
       <title>sgamiza/tingshu-audio-exporter</title>
       <link href="https://github.com/sgamiza/tingshu-audio-exporter"/>
       <id>https://github.com/sgamiza/tingshu-audio-exporter</id>
-      <updated>2026-08-30T04:44:43.000Z</updated>
+      <updated>2026-09-01T09:10:17.000Z</updated>
       <summary>Lazy-listen audiobook cache exporter (Android + Python) to MP3/M4A</summary>
     </entry>
     <entry>
@@ -136,7 +150,7 @@
       <title>JoeGeC/joycon2android</title>
       <link href="https://github.com/JoeGeC/joycon2android"/>
       <id>https://github.com/JoeGeC/joycon2android</id>
-      <updated>2026-08-28T22:37:59.000Z</updated>
+      <updated>2026-09-01T17:37:28.000Z</updated>
       <summary>Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup</summary>
     </entry>
     <entry>
@@ -150,7 +164,7 @@
       <title>bensonsquiggly4244/awesome-android-app-repositories</title>
       <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
       <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
-      <updated>2026-08-31T02:31:21.000Z</updated>
+      <updated>2026-09-01T22:10:15.000Z</updated>
       <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
     </entry>
     <entry>
@@ -178,14 +192,14 @@
       <title>thejaustin/ShizukuPlus</title>
       <link href="https://github.com/thejaustin/ShizukuPlus"/>
       <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-08-31T23:19:05.000Z</updated>
+      <updated>2026-09-02T04:03:35.000Z</updated>
       <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
     </entry>
     <entry>
       <title>EvanKoe/expressive-cutout</title>
       <link href="https://github.com/EvanKoe/expressive-cutout"/>
       <id>https://github.com/EvanKoe/expressive-cutout</id>
-      <updated>2026-08-31T12:37:18.000Z</updated>
+      <updated>2026-09-01T12:08:38.000Z</updated>
       <summary>This app aims to recreate Apple's dynamic island for Android, but this time, following Google's Material Expressive design. </summary>
     </entry>
     <entry>
@@ -201,19 +215,5 @@
       <id>https://github.com/kreza6173-pixel/void-purge</id>
       <updated>2026-08-30T10:06:31.000Z</updated>
       <summary>Advanced ADB cleaner module for Shevery</summary>
-    </entry>
-    <entry>
-      <title>Sanuu7/AndroidHarness</title>
-      <link href="https://github.com/Sanuu7/AndroidHarness"/>
-      <id>https://github.com/Sanuu7/AndroidHarness</id>
-      <updated>2026-09-01T06:21:26.000Z</updated>
-      <summary>A Native  AI Coding Agent Harness app for Android</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/Cyber-app-manager</title>
-      <link href="https://github.com/kreza6173-pixel/Cyber-app-manager"/>
-      <id>https://github.com/kreza6173-pixel/Cyber-app-manager</id>
-      <updated>2026-08-30T10:03:30.000Z</updated>
-      <summary>Best Power Full App Manager </summary>
     </entry>
 </feed>
