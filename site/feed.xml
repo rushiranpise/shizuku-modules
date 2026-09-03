@@ -3,14 +3,35 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-02T07:21:50.191Z</updated>
+  <updated>2026-09-03T07:25:14.251Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ChaYeWuu/HyperDay</title>
+      <link href="https://github.com/ChaYeWuu/HyperDay"/>
+      <id>https://github.com/ChaYeWuu/HyperDay</id>
+      <updated>2026-09-03T07:20:22.000Z</updated>
+      <summary>一个基于 Miuix（HyperOS 设计语言）组件库打造的 Android 倒数日应用，拥有 HyperOS 风格的界面、液态玻璃材质、莫奈动态取色与官方动态混色背景。</summary>
+    </entry>
+    <entry>
+      <title>qianyumeng0228/ShizukuX</title>
+      <link href="https://github.com/qianyumeng0228/ShizukuX"/>
+      <id>https://github.com/qianyumeng0228/ShizukuX</id>
+      <updated>2026-09-02T21:58:50.000Z</updated>
+      <summary>ShizukuX 是 ShizukuPlus / Shizuku 的中文本地化增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/pulse-install</title>
+      <link href="https://github.com/kreza6173-pixel/pulse-install"/>
+      <id>https://github.com/kreza6173-pixel/pulse-install</id>
+      <updated>2026-09-03T06:54:52.000Z</updated>
+      <summary>Universal APK / APKS / XAPK / APKM installer</summary>
+    </entry>
     <entry>
       <title>Dreamucxe/GameCore</title>
       <link href="https://github.com/Dreamucxe/GameCore"/>
       <id>https://github.com/Dreamucxe/GameCore</id>
-      <updated>2026-09-01T11:09:52.000Z</updated>
+      <updated>2026-09-02T10:07:01.000Z</updated>
       <summary>Android gaming overlay, performance monitor and per-game profile manager. Every number it shows is one the platform actually reported — where Android will not answer, it says so instead of guessing.</summary>
     </entry>
     <entry>
@@ -66,7 +87,7 @@
       <title>kinou-p/android-open-mapper</title>
       <link href="https://github.com/kinou-p/android-open-mapper"/>
       <id>https://github.com/kinou-p/android-open-mapper</id>
-      <updated>2026-09-01T21:40:46.000Z</updated>
+      <updated>2026-09-02T10:57:38.000Z</updated>
       <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
     </entry>
     <entry>
@@ -150,7 +171,7 @@
       <title>JoeGeC/joycon2android</title>
       <link href="https://github.com/JoeGeC/joycon2android"/>
       <id>https://github.com/JoeGeC/joycon2android</id>
-      <updated>2026-09-01T17:37:28.000Z</updated>
+      <updated>2026-09-02T18:26:23.000Z</updated>
       <summary>Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup</summary>
     </entry>
     <entry>
@@ -164,14 +185,14 @@
       <title>bensonsquiggly4244/awesome-android-app-repositories</title>
       <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
       <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
-      <updated>2026-09-01T22:10:15.000Z</updated>
+      <updated>2026-09-03T04:01:38.000Z</updated>
       <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
     </entry>
     <entry>
       <title>huoxingrNaNa/QQCatHelper</title>
       <link href="https://github.com/huoxingrNaNa/QQCatHelper"/>
       <id>https://github.com/huoxingrNaNa/QQCatHelper</id>
-      <updated>2026-08-28T07:02:10.000Z</updated>
+      <updated>2026-09-02T15:15:04.000Z</updated>
       <summary>🐱 QQ喵喵助手 - AI制作的猫咪颜文字输入增强工具 (AGPL-3.0)</summary>
     </entry>
     <entry>
@@ -192,28 +213,7 @@
       <title>thejaustin/ShizukuPlus</title>
       <link href="https://github.com/thejaustin/ShizukuPlus"/>
       <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-09-02T04:03:35.000Z</updated>
+      <updated>2026-09-02T14:54:13.000Z</updated>
       <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
-    </entry>
-    <entry>
-      <title>EvanKoe/expressive-cutout</title>
-      <link href="https://github.com/EvanKoe/expressive-cutout"/>
-      <id>https://github.com/EvanKoe/expressive-cutout</id>
-      <updated>2026-09-01T12:08:38.000Z</updated>
-      <summary>This app aims to recreate Apple's dynamic island for Android, but this time, following Google's Material Expressive design. </summary>
-    </entry>
-    <entry>
-      <title>JackRushante/argus</title>
-      <link href="https://github.com/JackRushante/argus"/>
-      <id>https://github.com/JackRushante/argus</id>
-      <updated>2026-08-22T20:04:53.000Z</updated>
-      <summary>Natural-language automation for Android: the LLM compiles, a deterministic engine executes. Tasker-class, optional Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/void-purge</title>
-      <link href="https://github.com/kreza6173-pixel/void-purge"/>
-      <id>https://github.com/kreza6173-pixel/void-purge</id>
-      <updated>2026-08-30T10:06:31.000Z</updated>
-      <summary>Advanced ADB cleaner module for Shevery</summary>
     </entry>
 </feed>
