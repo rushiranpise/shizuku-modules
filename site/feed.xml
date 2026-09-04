@@ -3,21 +3,28 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-03T07:25:14.251Z</updated>
+  <updated>2026-09-04T07:27:36.505Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Xposed-Modules-Repo/com.niki914.zafiro</title>
+      <link href="https://github.com/Xposed-Modules-Repo/com.niki914.zafiro"/>
+      <id>https://github.com/Xposed-Modules-Repo/com.niki914.zafiro</id>
+      <updated>2026-09-03T09:39:50.000Z</updated>
+      <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
+    </entry>
     <entry>
       <title>ChaYeWuu/HyperDay</title>
       <link href="https://github.com/ChaYeWuu/HyperDay"/>
       <id>https://github.com/ChaYeWuu/HyperDay</id>
-      <updated>2026-09-03T07:20:22.000Z</updated>
+      <updated>2026-09-03T07:45:59.000Z</updated>
       <summary>一个基于 Miuix（HyperOS 设计语言）组件库打造的 Android 倒数日应用，拥有 HyperOS 风格的界面、液态玻璃材质、莫奈动态取色与官方动态混色背景。</summary>
     </entry>
     <entry>
       <title>qianyumeng0228/ShizukuX</title>
       <link href="https://github.com/qianyumeng0228/ShizukuX"/>
       <id>https://github.com/qianyumeng0228/ShizukuX</id>
-      <updated>2026-09-02T21:58:50.000Z</updated>
+      <updated>2026-09-03T21:56:30.000Z</updated>
       <summary>ShizukuX 是 ShizukuPlus / Shizuku 的中文本地化增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
     </entry>
     <entry>
@@ -31,7 +38,7 @@
       <title>Dreamucxe/GameCore</title>
       <link href="https://github.com/Dreamucxe/GameCore"/>
       <id>https://github.com/Dreamucxe/GameCore</id>
-      <updated>2026-09-02T10:07:01.000Z</updated>
+      <updated>2026-09-04T06:35:25.000Z</updated>
       <summary>Android gaming overlay, performance monitor and per-game profile manager. Every number it shows is one the platform actually reported — where Android will not answer, it says so instead of guessing.</summary>
     </entry>
     <entry>
@@ -59,7 +66,7 @@
       <title>shrimqy/Sefirah-Android</title>
       <link href="https://github.com/shrimqy/Sefirah-Android"/>
       <id>https://github.com/shrimqy/Sefirah-Android</id>
-      <updated>2026-09-01T12:34:38.000Z</updated>
+      <updated>2026-09-03T17:56:22.000Z</updated>
       <summary>Phone link / KDE Connect alternative </summary>
     </entry>
     <entry>
@@ -87,7 +94,7 @@
       <title>kinou-p/android-open-mapper</title>
       <link href="https://github.com/kinou-p/android-open-mapper"/>
       <id>https://github.com/kinou-p/android-open-mapper</id>
-      <updated>2026-09-02T10:57:38.000Z</updated>
+      <updated>2026-09-03T10:30:31.000Z</updated>
       <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
     </entry>
     <entry>
@@ -101,7 +108,7 @@
       <title>mizanbinb/Game-Booster</title>
       <link href="https://github.com/mizanbinb/Game-Booster"/>
       <id>https://github.com/mizanbinb/Game-Booster</id>
-      <updated>2026-09-01T22:05:11.000Z</updated>
+      <updated>2026-09-04T01:47:38.000Z</updated>
       <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
     </entry>
     <entry>
@@ -150,7 +157,7 @@
       <title>FedeFluork/multistore</title>
       <link href="https://github.com/FedeFluork/multistore"/>
       <id>https://github.com/FedeFluork/multistore</id>
-      <updated>2026-08-31T08:06:24.000Z</updated>
+      <updated>2026-09-03T13:58:07.000Z</updated>
       <summary>A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.</summary>
     </entry>
     <entry>
@@ -208,12 +215,5 @@
       <id>https://github.com/wandawrt01/Root-My-Pixel</id>
       <updated>2026-08-28T03:34:45.000Z</updated>
       <summary></summary>
-    </entry>
-    <entry>
-      <title>thejaustin/ShizukuPlus</title>
-      <link href="https://github.com/thejaustin/ShizukuPlus"/>
-      <id>https://github.com/thejaustin/ShizukuPlus</id>
-      <updated>2026-09-02T14:54:13.000Z</updated>
-      <summary>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</summary>
     </entry>
 </feed>
