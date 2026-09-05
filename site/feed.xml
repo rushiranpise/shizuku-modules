@@ -3,9 +3,37 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-04T07:27:36.505Z</updated>
+  <updated>2026-09-05T07:09:06.674Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ayzlol/bdsu-adb-dsu</title>
+      <link href="https://github.com/ayzlol/bdsu-adb-dsu"/>
+      <id>https://github.com/ayzlol/bdsu-adb-dsu</id>
+      <updated>2026-09-04T23:32:12.000Z</updated>
+      <summary>Open-source Android DSU sideloader with Shizuku, ADB, GSI downloads, device detection, custom ROM support, and optional Userspace storage.</summary>
+    </entry>
+    <entry>
+      <title>DeveshTone/Dexor</title>
+      <link href="https://github.com/DeveshTone/Dexor"/>
+      <id>https://github.com/DeveshTone/Dexor</id>
+      <updated>2026-09-04T18:11:41.000Z</updated>
+      <summary>DEX2OAT optimization manager for Android. Inspect and control ART compilation without root via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>emi-ran/flowpilot</title>
+      <link href="https://github.com/emi-ran/flowpilot"/>
+      <id>https://github.com/emi-ran/flowpilot</id>
+      <updated>2026-09-04T22:17:21.000Z</updated>
+      <summary>⚡ Privacy-first, offline, and lightweight Android automation engine. Powered by Jetpack Compose &amp; Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>savagedamage/android-security-wizard</title>
+      <link href="https://github.com/savagedamage/android-security-wizard"/>
+      <id>https://github.com/savagedamage/android-security-wizard</id>
+      <updated>2026-09-04T17:39:26.000Z</updated>
+      <summary>Android security research corpus: SKILL.md + 18 companion files covering native RE, Shizuku exploitation, commercial protector bypass, exploit chains, malware attribution, kernel exploit dev, rooting methods, Android 14-18 security, malware detection triage. 7,777 lines / 574 KB.</summary>
+    </entry>
     <entry>
       <title>Xposed-Modules-Repo/com.niki914.zafiro</title>
       <link href="https://github.com/Xposed-Modules-Repo/com.niki914.zafiro"/>
@@ -24,7 +52,7 @@
       <title>qianyumeng0228/ShizukuX</title>
       <link href="https://github.com/qianyumeng0228/ShizukuX"/>
       <id>https://github.com/qianyumeng0228/ShizukuX</id>
-      <updated>2026-09-03T21:56:30.000Z</updated>
+      <updated>2026-09-05T06:04:19.000Z</updated>
       <summary>ShizukuX 是 ShizukuPlus / Shizuku 的中文本地化增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://github.com/kreza6173-pixel/VOID-WALL</id>
       <updated>2026-08-30T09:56:29.000Z</updated>
       <summary>A modern, root-optional firewall for Android</summary>
-    </entry>
-    <entry>
-      <title>bensonsquiggly4244/awesome-android-app-repositories</title>
-      <link href="https://github.com/bensonsquiggly4244/awesome-android-app-repositories"/>
-      <id>https://github.com/bensonsquiggly4244/awesome-android-app-repositories</id>
-      <updated>2026-09-03T04:01:38.000Z</updated>
-      <summary>Discover curated open-source Android apps, tools, and repositories from Telegram—updated continuously for developers and power users.</summary>
-    </entry>
-    <entry>
-      <title>huoxingrNaNa/QQCatHelper</title>
-      <link href="https://github.com/huoxingrNaNa/QQCatHelper"/>
-      <id>https://github.com/huoxingrNaNa/QQCatHelper</id>
-      <updated>2026-09-02T15:15:04.000Z</updated>
-      <summary>🐱 QQ喵喵助手 - AI制作的猫咪颜文字输入增强工具 (AGPL-3.0)</summary>
-    </entry>
-    <entry>
-      <title>gyx114/NoJump</title>
-      <link href="https://github.com/gyx114/NoJump"/>
-      <id>https://github.com/gyx114/NoJump</id>
-      <updated>2026-08-28T14:05:53.000Z</updated>
-      <summary>安卓应用，防止应用跳转到美团等第三方应用</summary>
-    </entry>
-    <entry>
-      <title>wandawrt01/Root-My-Pixel</title>
-      <link href="https://github.com/wandawrt01/Root-My-Pixel"/>
-      <id>https://github.com/wandawrt01/Root-My-Pixel</id>
-      <updated>2026-08-28T03:34:45.000Z</updated>
-      <summary></summary>
     </entry>
 </feed>
