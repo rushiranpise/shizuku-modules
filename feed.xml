@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-09-05T07:09:06.674Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ayzlol/bdsu-adb-dsu</title>
+      <link href="https://github.com/ayzlol/bdsu-adb-dsu"/>
+      <id>https://github.com/ayzlol/bdsu-adb-dsu</id>
+      <updated>2026-09-04T23:32:12.000Z</updated>
+      <summary>Open-source Android DSU sideloader with Shizuku, ADB, GSI downloads, device detection, custom ROM support, and optional Userspace storage.</summary>
+    </entry>
+    <entry>
+      <title>DeveshTone/Dexor</title>
+      <link href="https://github.com/DeveshTone/Dexor"/>
+      <id>https://github.com/DeveshTone/Dexor</id>
+      <updated>2026-09-04T18:11:41.000Z</updated>
+      <summary>DEX2OAT optimization manager for Android. Inspect and control ART compilation without root via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>emi-ran/flowpilot</title>
+      <link href="https://github.com/emi-ran/flowpilot"/>
+      <id>https://github.com/emi-ran/flowpilot</id>
+      <updated>2026-09-04T22:17:21.000Z</updated>
+      <summary>⚡ Privacy-first, offline, and lightweight Android automation engine. Powered by Jetpack Compose &amp; Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>savagedamage/android-security-wizard</title>
+      <link href="https://github.com/savagedamage/android-security-wizard"/>
+      <id>https://github.com/savagedamage/android-security-wizard</id>
+      <updated>2026-09-04T17:39:26.000Z</updated>
+      <summary>Android security research corpus: SKILL.md + 18 companion files covering native RE, Shizuku exploitation, commercial protector bypass, exploit chains, malware attribution, kernel exploit dev, rooting methods, Android 14-18 security, malware detection triage. 7,777 lines / 574 KB.</summary>
+    </entry>
+    <entry>
+      <title>Xposed-Modules-Repo/com.niki914.zafiro</title>
+      <link href="https://github.com/Xposed-Modules-Repo/com.niki914.zafiro"/>
+      <id>https://github.com/Xposed-Modules-Repo/com.niki914.zafiro</id>
+      <updated>2026-09-03T09:39:50.000Z</updated>
+      <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
+    </entry>
+    <entry>
+      <title>ChaYeWuu/HyperDay</title>
+      <link href="https://github.com/ChaYeWuu/HyperDay"/>
+      <id>https://github.com/ChaYeWuu/HyperDay</id>
+      <updated>2026-09-03T07:45:59.000Z</updated>
+      <summary>一个基于 Miuix（HyperOS 设计语言）组件库打造的 Android 倒数日应用，拥有 HyperOS 风格的界面、液态玻璃材质、莫奈动态取色与官方动态混色背景。</summary>
+    </entry>
+    <entry>
+      <title>qianyumeng0228/ShizukuX</title>
+      <link href="https://github.com/qianyumeng0228/ShizukuX"/>
+      <id>https://github.com/qianyumeng0228/ShizukuX</id>
+      <updated>2026-09-05T06:04:19.000Z</updated>
+      <summary>ShizukuX 是 ShizukuPlus / Shizuku 的中文本地化增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/pulse-install</title>
+      <link href="https://github.com/kreza6173-pixel/pulse-install"/>
+      <id>https://github.com/kreza6173-pixel/pulse-install</id>
+      <updated>2026-09-03T06:54:52.000Z</updated>
+      <summary>Universal APK / APKS / XAPK / APKM installer</summary>
+    </entry>
+    <entry>
+      <title>Dreamucxe/GameCore</title>
+      <link href="https://github.com/Dreamucxe/GameCore"/>
+      <id>https://github.com/Dreamucxe/GameCore</id>
+      <updated>2026-09-04T06:35:25.000Z</updated>
+      <summary>Android gaming overlay, performance monitor and per-game profile manager. Every number it shows is one the platform actually reported — where Android will not answer, it says so instead of guessing.</summary>
+    </entry>
+    <entry>
+      <title>jehan593/ownapps</title>
+      <link href="https://github.com/jehan593/ownapps"/>
+      <id>https://github.com/jehan593/ownapps</id>
+      <updated>2026-09-01T03:02:43.000Z</updated>
+      <summary>Fully offline Android app manager: manually disable/enable apps via a Shizuku-family backend, with a scriptable UI Hider overlay.</summary>
+    </entry>
+    <entry>
+      <title>Halo0sama/ExpressAssistant</title>
+      <link href="https://github.com/Halo0sama/ExpressAssistant"/>
+      <id>https://github.com/Halo0sama/ExpressAssistant</id>
+      <updated>2026-08-27T16:39:35.000Z</updated>
+      <summary>Local-first Android delivery aggregator with AI reports &amp; tracking | 本地优先的快递聚合应用，支持 AI 日报与快递跟踪</summary>
+    </entry>
+    <entry>
+      <title>waysideinn/huilai</title>
+      <link href="https://github.com/waysideinn/huilai"/>
+      <id>https://github.com/waysideinn/huilai</id>
+      <updated>2026-08-31T13:20:35.000Z</updated>
+      <summary>A local Android digital wellbeing app that limits continuous app sessions and enforces cooldowns.</summary>
+    </entry>
+    <entry>
+      <title>shrimqy/Sefirah-Android</title>
+      <link href="https://github.com/shrimqy/Sefirah-Android"/>
+      <id>https://github.com/shrimqy/Sefirah-Android</id>
+      <updated>2026-09-03T17:56:22.000Z</updated>
+      <summary>Phone link / KDE Connect alternative </summary>
+    </entry>
+    <entry>
+      <title>NikhilKain/vyxel-apps</title>
+      <link href="https://github.com/NikhilKain/vyxel-apps"/>
+      <id>https://github.com/NikhilKain/vyxel-apps</id>
+      <updated>2026-08-30T15:38:04.000Z</updated>
+      <summary>Open-source GitHub-powered Android app store</summary>
+    </entry>
+    <entry>
+      <title>madkongo/CallVault</title>
+      <link href="https://github.com/madkongo/CallVault"/>
+      <id>https://github.com/madkongo/CallVault</id>
+      <updated>2026-08-30T18:33:14.000Z</updated>
+      <summary>Non-root FOSS Android call recorder over embedded ADB — records both sides of a call, no root/Shizuku/PC. Fork of ShizuCallRecorder.</summary>
+    </entry>
+    <entry>
+      <title>qazmko72/android-mcp-server</title>
+      <link href="https://github.com/qazmko72/android-mcp-server"/>
+      <id>https://github.com/qazmko72/android-mcp-server</id>
+      <updated>2026-08-31T09:18:46.000Z</updated>
+      <summary>A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.</summary>
+    </entry>
+    <entry>
+      <title>kinou-p/android-open-mapper</title>
+      <link href="https://github.com/kinou-p/android-open-mapper"/>
+      <id>https://github.com/kinou-p/android-open-mapper</id>
+      <updated>2026-09-03T10:30:31.000Z</updated>
+      <summary>High-performance standalone Android gamepad keymapper powered by Shizuku. Free &amp; open-source alternative to Mantis &amp; Panda.</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/void-autostart</title>
+      <link href="https://github.com/kreza6173-pixel/void-autostart"/>
+      <id>https://github.com/kreza6173-pixel/void-autostart</id>
+      <updated>2026-08-30T09:50:11.000Z</updated>
+      <summary>Autostart &amp; Boot Manager</summary>
+    </entry>
+    <entry>
+      <title>mizanbinb/Game-Booster</title>
+      <link href="https://github.com/mizanbinb/Game-Booster"/>
+      <id>https://github.com/mizanbinb/Game-Booster</id>
+      <updated>2026-09-04T01:47:38.000Z</updated>
+      <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
+    </entry>
+    <entry>
+      <title>yangyixuan790/ShizukuTerminal</title>
+      <link href="https://github.com/yangyixuan790/ShizukuTerminal"/>
+      <id>https://github.com/yangyixuan790/ShizukuTerminal</id>
+      <updated>2026-08-31T08:15:18.000Z</updated>
+      <summary>Android terminal tool powered by Shizuku API - dual execution mode with Shizuku (ADB/root UID) and fallback normal shell.</summary>
+    </entry>
+    <entry>
+      <title>felinics/Autofish</title>
+      <link href="https://github.com/felinics/Autofish"/>
+      <id>https://github.com/felinics/Autofish</id>
+      <updated>2026-08-29T17:12:44.000Z</updated>
+      <summary>An AI Agent tool to automate Android devices reliably</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/void-silence</title>
+      <link href="https://github.com/kreza6173-pixel/void-silence"/>
+      <id>https://github.com/kreza6173-pixel/void-silence</id>
+      <updated>2026-08-30T09:53:28.000Z</updated>
+      <summary>Notification &amp; DND Studio</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/Apk_for_Fake_GPS</title>
+      <link href="https://github.com/sgamiza/Apk_for_Fake_GPS"/>
+      <id>https://github.com/sgamiza/Apk_for_Fake_GPS</id>
+      <updated>2026-09-01T09:10:23.000Z</updated>
+      <summary>Apk for Fake GPS</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/export_bilibili_download_video</title>
+      <link href="https://github.com/sgamiza/export_bilibili_download_video"/>
+      <id>https://github.com/sgamiza/export_bilibili_download_video</id>
+      <updated>2026-09-01T09:10:09.000Z</updated>
+      <summary>apk for export bilibili download video to mp4</summary>
+    </entry>
+    <entry>
+      <title>sgamiza/tingshu-audio-exporter</title>
+      <link href="https://github.com/sgamiza/tingshu-audio-exporter"/>
+      <id>https://github.com/sgamiza/tingshu-audio-exporter</id>
+      <updated>2026-09-01T09:10:17.000Z</updated>
+      <summary>Lazy-listen audiobook cache exporter (Android + Python) to MP3/M4A</summary>
+    </entry>
+    <entry>
+      <title>FedeFluork/multistore</title>
+      <link href="https://github.com/FedeFluork/multistore"/>
+      <id>https://github.com/FedeFluork/multistore</id>
+      <updated>2026-09-03T13:58:07.000Z</updated>
+      <summary>A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.</summary>
+    </entry>
+    <entry>
+      <title>odorizzioficial/otimizadordroid</title>
+      <link href="https://github.com/odorizzioficial/otimizadordroid"/>
+      <id>https://github.com/odorizzioficial/otimizadordroid</id>
+      <updated>2026-08-31T18:58:42.000Z</updated>
+      <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
+    </entry>
+    <entry>
+      <title>KillionWY/KiilionFiles</title>
+      <link href="https://github.com/KillionWY/KiilionFiles"/>
+      <id>https://github.com/KillionWY/KiilionFiles</id>
+      <updated>2026-08-30T06:32:04.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+    </entry>
+    <entry>
+      <title>JoeGeC/joycon2android</title>
+      <link href="https://github.com/JoeGeC/joycon2android"/>
+      <id>https://github.com/JoeGeC/joycon2android</id>
+      <updated>2026-09-02T18:26:23.000Z</updated>
+      <summary>Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/VOID-WALL</title>
+      <link href="https://github.com/kreza6173-pixel/VOID-WALL"/>
+      <id>https://github.com/kreza6173-pixel/VOID-WALL</id>
+      <updated>2026-08-30T09:56:29.000Z</updated>
+      <summary>A modern, root-optional firewall for Android</summary>
+    </entry>
+</feed>
