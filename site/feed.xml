@@ -3,9 +3,44 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-05T07:09:06.674Z</updated>
+  <updated>2026-09-06T07:21:08.421Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>huanbv2002/CameraProMax</title>
+      <link href="https://github.com/huanbv2002/CameraProMax"/>
+      <id>https://github.com/huanbv2002/CameraProMax</id>
+      <updated>2026-09-05T12:34:43.000Z</updated>
+      <summary>Android Resolution &amp; DPI Changer via Shizuku | Ultra-wide FOV for MOBA Gaming | Clean Modern UI</summary>
+    </entry>
+    <entry>
+      <title>odorizzioficial/FechaTudoPlus</title>
+      <link href="https://github.com/odorizzioficial/FechaTudoPlus"/>
+      <id>https://github.com/odorizzioficial/FechaTudoPlus</id>
+      <updated>2026-09-05T17:34:54.000Z</updated>
+      <summary>Gerenciador de apps em segundo plano para Android. Encerra, bloqueia, protege e agenda limpezas — via Shizuku, sem root.</summary>
+    </entry>
+    <entry>
+      <title>CATMIAOZHI/RainyScreenShot</title>
+      <link href="https://github.com/CATMIAOZHI/RainyScreenShot"/>
+      <id>https://github.com/CATMIAOZHI/RainyScreenShot</id>
+      <updated>2026-09-06T02:54:01.000Z</updated>
+      <summary>📸 雨晴截屏 — Silent Screenshot &amp; Screen Recorder via Shizuku shell · Rainy Family</summary>
+    </entry>
+    <entry>
+      <title>DUKECCB1337/qq-meow-assistant</title>
+      <link href="https://github.com/DUKECCB1337/qq-meow-assistant"/>
+      <id>https://github.com/DUKECCB1337/qq-meow-assistant</id>
+      <updated>2026-09-05T08:14:40.000Z</updated>
+      <summary>QQ喵喵助手：无障碍喵语替换（反编译重建的可构建 Gradle 工程）</summary>
+    </entry>
+    <entry>
+      <title>mhmadssssssss9999-stack/X11T-Performance-AI-v2</title>
+      <link href="https://github.com/mhmadssssssss9999-stack/X11T-Performance-AI-v2"/>
+      <id>https://github.com/mhmadssssssss9999-stack/X11T-Performance-AI-v2</id>
+      <updated>2026-09-06T05:36:18.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>ayzlol/bdsu-adb-dsu</title>
       <link href="https://github.com/ayzlol/bdsu-adb-dsu"/>
@@ -24,7 +59,7 @@
       <title>emi-ran/flowpilot</title>
       <link href="https://github.com/emi-ran/flowpilot"/>
       <id>https://github.com/emi-ran/flowpilot</id>
-      <updated>2026-09-04T22:17:21.000Z</updated>
+      <updated>2026-09-05T12:14:40.000Z</updated>
       <summary>⚡ Privacy-first, offline, and lightweight Android automation engine. Powered by Jetpack Compose &amp; Shizuku.</summary>
     </entry>
     <entry>
@@ -42,18 +77,18 @@
       <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
     </entry>
     <entry>
+      <title>qianyumeng0228/ShizukuX</title>
+      <link href="https://github.com/qianyumeng0228/ShizukuX"/>
+      <id>https://github.com/qianyumeng0228/ShizukuX</id>
+      <updated>2026-09-05T22:17:09.000Z</updated>
+      <summary>ShizukuX 是 ShizukuPlus / Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
+    </entry>
+    <entry>
       <title>ChaYeWuu/HyperDay</title>
       <link href="https://github.com/ChaYeWuu/HyperDay"/>
       <id>https://github.com/ChaYeWuu/HyperDay</id>
       <updated>2026-09-03T07:45:59.000Z</updated>
       <summary>一个基于 Miuix（HyperOS 设计语言）组件库打造的 Android 倒数日应用，拥有 HyperOS 风格的界面、液态玻璃材质、莫奈动态取色与官方动态混色背景。</summary>
-    </entry>
-    <entry>
-      <title>qianyumeng0228/ShizukuX</title>
-      <link href="https://github.com/qianyumeng0228/ShizukuX"/>
-      <id>https://github.com/qianyumeng0228/ShizukuX</id>
-      <updated>2026-09-05T06:04:19.000Z</updated>
-      <summary>ShizukuX 是 ShizukuPlus / Shizuku 的中文本地化增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
     </entry>
     <entry>
       <title>kreza6173-pixel/pulse-install</title>
@@ -66,7 +101,7 @@
       <title>Dreamucxe/GameCore</title>
       <link href="https://github.com/Dreamucxe/GameCore"/>
       <id>https://github.com/Dreamucxe/GameCore</id>
-      <updated>2026-09-04T06:35:25.000Z</updated>
+      <updated>2026-09-05T21:10:37.000Z</updated>
       <summary>Android gaming overlay, performance monitor and per-game profile manager. Every number it shows is one the platform actually reported — where Android will not answer, it says so instead of guessing.</summary>
     </entry>
     <entry>
@@ -180,40 +215,5 @@
       <id>https://github.com/sgamiza/tingshu-audio-exporter</id>
       <updated>2026-09-01T09:10:17.000Z</updated>
       <summary>Lazy-listen audiobook cache exporter (Android + Python) to MP3/M4A</summary>
-    </entry>
-    <entry>
-      <title>FedeFluork/multistore</title>
-      <link href="https://github.com/FedeFluork/multistore"/>
-      <id>https://github.com/FedeFluork/multistore</id>
-      <updated>2026-09-03T13:58:07.000Z</updated>
-      <summary>A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.</summary>
-    </entry>
-    <entry>
-      <title>odorizzioficial/otimizadordroid</title>
-      <link href="https://github.com/odorizzioficial/otimizadordroid"/>
-      <id>https://github.com/odorizzioficial/otimizadordroid</id>
-      <updated>2026-08-31T18:58:42.000Z</updated>
-      <summary>Otimiza o desempenho de apps Android recompilando-os via ART com Shizuku, sem root. Agendamento automático, 10 idiomas, 100% offline.</summary>
-    </entry>
-    <entry>
-      <title>KillionWY/KiilionFiles</title>
-      <link href="https://github.com/KillionWY/KiilionFiles"/>
-      <id>https://github.com/KillionWY/KiilionFiles</id>
-      <updated>2026-08-30T06:32:04.000Z</updated>
-      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
-    </entry>
-    <entry>
-      <title>JoeGeC/joycon2android</title>
-      <link href="https://github.com/JoeGeC/joycon2android"/>
-      <id>https://github.com/JoeGeC/joycon2android</id>
-      <updated>2026-09-02T18:26:23.000Z</updated>
-      <summary>Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/VOID-WALL</title>
-      <link href="https://github.com/kreza6173-pixel/VOID-WALL"/>
-      <id>https://github.com/kreza6173-pixel/VOID-WALL</id>
-      <updated>2026-08-30T09:56:29.000Z</updated>
-      <summary>A modern, root-optional firewall for Android</summary>
     </entry>
 </feed>
