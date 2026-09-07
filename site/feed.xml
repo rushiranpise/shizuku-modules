@@ -3,9 +3,58 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-06T07:21:08.421Z</updated>
+  <updated>2026-09-07T07:35:42.522Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>DSH-APP/DSHA</title>
+      <link href="https://github.com/DSH-APP/DSHA"/>
+      <id>https://github.com/DSH-APP/DSHA</id>
+      <updated>2026-09-06T17:53:42.000Z</updated>
+      <summary>免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢</summary>
+    </entry>
+    <entry>
+      <title>Smart-Paocai/violet_Box</title>
+      <link href="https://github.com/Smart-Paocai/violet_Box"/>
+      <id>https://github.com/Smart-Paocai/violet_Box</id>
+      <updated>2026-09-06T08:48:55.000Z</updated>
+      <summary>一款根据用户需求设计的Android玩机工具箱</summary>
+    </entry>
+    <entry>
+      <title>KillionWY/KillionFiles</title>
+      <link href="https://github.com/KillionWY/KillionFiles"/>
+      <id>https://github.com/KillionWY/KillionFiles</id>
+      <updated>2026-09-06T15:20:27.000Z</updated>
+      <summary>Modern Android File Manager，support decompression, FTP server, LAN file access，private vault，junk‑file cleaning</summary>
+    </entry>
+    <entry>
+      <title>aoooa101/aoooa-adb-android</title>
+      <link href="https://github.com/aoooa101/aoooa-adb-android"/>
+      <id>https://github.com/aoooa101/aoooa-adb-android</id>
+      <updated>2026-09-06T07:55:44.000Z</updated>
+      <summary>aoooa-adb 控制台 Android 客户端 —— APK </summary>
+    </entry>
+    <entry>
+      <title>Rove24/DarQ</title>
+      <link href="https://github.com/Rove24/DarQ"/>
+      <id>https://github.com/Rove24/DarQ</id>
+      <updated>2026-09-06T21:21:56.000Z</updated>
+      <summary>为每个应用独立强制开启深色模式，支持按设定时间自动切换。基于 Material Design 3 规范重构，全面支持 LSPosed (Xposed) 模块、Shizuku (免 Root) 与 Root 三种工作模式，兼容 Android 10 ~ 16+。</summary>
+    </entry>
+    <entry>
+      <title>briandofnf123/RobloxBoost</title>
+      <link href="https://github.com/briandofnf123/RobloxBoost"/>
+      <id>https://github.com/briandofnf123/RobloxBoost</id>
+      <updated>2026-09-07T00:39:20.000Z</updated>
+      <summary>Otimizador De Roblox Profissional </summary>
+    </entry>
+    <entry>
+      <title>CATMIAOZHI/RainyScreenShot</title>
+      <link href="https://github.com/CATMIAOZHI/RainyScreenShot"/>
+      <id>https://github.com/CATMIAOZHI/RainyScreenShot</id>
+      <updated>2026-09-07T03:33:50.000Z</updated>
+      <summary>📸 雨晴截屏 — Silent Screenshot &amp; Screen Recorder via Shizuku shell · Rainy Family</summary>
+    </entry>
     <entry>
       <title>huanbv2002/CameraProMax</title>
       <link href="https://github.com/huanbv2002/CameraProMax"/>
@@ -19,13 +68,6 @@
       <id>https://github.com/odorizzioficial/FechaTudoPlus</id>
       <updated>2026-09-05T17:34:54.000Z</updated>
       <summary>Gerenciador de apps em segundo plano para Android. Encerra, bloqueia, protege e agenda limpezas — via Shizuku, sem root.</summary>
-    </entry>
-    <entry>
-      <title>CATMIAOZHI/RainyScreenShot</title>
-      <link href="https://github.com/CATMIAOZHI/RainyScreenShot"/>
-      <id>https://github.com/CATMIAOZHI/RainyScreenShot</id>
-      <updated>2026-09-06T02:54:01.000Z</updated>
-      <summary>📸 雨晴截屏 — Silent Screenshot &amp; Screen Recorder via Shizuku shell · Rainy Family</summary>
     </entry>
     <entry>
       <title>DUKECCB1337/qq-meow-assistant</title>
@@ -42,18 +84,18 @@
       <summary></summary>
     </entry>
     <entry>
-      <title>ayzlol/bdsu-adb-dsu</title>
-      <link href="https://github.com/ayzlol/bdsu-adb-dsu"/>
-      <id>https://github.com/ayzlol/bdsu-adb-dsu</id>
-      <updated>2026-09-04T23:32:12.000Z</updated>
-      <summary>Open-source Android DSU sideloader with Shizuku, ADB, GSI downloads, device detection, custom ROM support, and optional Userspace storage.</summary>
-    </entry>
-    <entry>
       <title>DeveshTone/Dexor</title>
       <link href="https://github.com/DeveshTone/Dexor"/>
       <id>https://github.com/DeveshTone/Dexor</id>
       <updated>2026-09-04T18:11:41.000Z</updated>
       <summary>DEX2OAT optimization manager for Android. Inspect and control ART compilation without root via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>ayzlol/bdsu-adb-dsu</title>
+      <link href="https://github.com/ayzlol/bdsu-adb-dsu"/>
+      <id>https://github.com/ayzlol/bdsu-adb-dsu</id>
+      <updated>2026-09-04T23:32:12.000Z</updated>
+      <summary>Open-source Android DSU sideloader with Shizuku, ADB, GSI downloads, device detection, custom ROM support, and optional Userspace storage.</summary>
     </entry>
     <entry>
       <title>emi-ran/flowpilot</title>
@@ -66,22 +108,22 @@
       <title>savagedamage/android-security-wizard</title>
       <link href="https://github.com/savagedamage/android-security-wizard"/>
       <id>https://github.com/savagedamage/android-security-wizard</id>
-      <updated>2026-09-04T17:39:26.000Z</updated>
+      <updated>2026-09-06T23:06:07.000Z</updated>
       <summary>Android security research corpus: SKILL.md + 18 companion files covering native RE, Shizuku exploitation, commercial protector bypass, exploit chains, malware attribution, kernel exploit dev, rooting methods, Android 14-18 security, malware detection triage. 7,777 lines / 574 KB.</summary>
     </entry>
     <entry>
       <title>Xposed-Modules-Repo/com.niki914.zafiro</title>
       <link href="https://github.com/Xposed-Modules-Repo/com.niki914.zafiro"/>
       <id>https://github.com/Xposed-Modules-Repo/com.niki914.zafiro</id>
-      <updated>2026-09-03T09:39:50.000Z</updated>
+      <updated>2026-09-06T20:56:06.000Z</updated>
       <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
     </entry>
     <entry>
       <title>qianyumeng0228/ShizukuX</title>
       <link href="https://github.com/qianyumeng0228/ShizukuX"/>
       <id>https://github.com/qianyumeng0228/ShizukuX</id>
-      <updated>2026-09-05T22:17:09.000Z</updated>
-      <summary>ShizukuX 是 ShizukuPlus / Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Plus API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
+      <updated>2026-09-07T07:27:22.000Z</updated>
+      <summary>ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
     </entry>
     <entry>
       <title>ChaYeWuu/HyperDay</title>
@@ -129,7 +171,7 @@
       <title>shrimqy/Sefirah-Android</title>
       <link href="https://github.com/shrimqy/Sefirah-Android"/>
       <id>https://github.com/shrimqy/Sefirah-Android</id>
-      <updated>2026-09-03T17:56:22.000Z</updated>
+      <updated>2026-09-06T13:08:25.000Z</updated>
       <summary>Phone link / KDE Connect alternative </summary>
     </entry>
     <entry>
@@ -171,49 +213,7 @@
       <title>mizanbinb/Game-Booster</title>
       <link href="https://github.com/mizanbinb/Game-Booster"/>
       <id>https://github.com/mizanbinb/Game-Booster</id>
-      <updated>2026-09-04T01:47:38.000Z</updated>
+      <updated>2026-09-07T01:54:03.000Z</updated>
       <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
-    </entry>
-    <entry>
-      <title>yangyixuan790/ShizukuTerminal</title>
-      <link href="https://github.com/yangyixuan790/ShizukuTerminal"/>
-      <id>https://github.com/yangyixuan790/ShizukuTerminal</id>
-      <updated>2026-08-31T08:15:18.000Z</updated>
-      <summary>Android terminal tool powered by Shizuku API - dual execution mode with Shizuku (ADB/root UID) and fallback normal shell.</summary>
-    </entry>
-    <entry>
-      <title>felinics/Autofish</title>
-      <link href="https://github.com/felinics/Autofish"/>
-      <id>https://github.com/felinics/Autofish</id>
-      <updated>2026-08-29T17:12:44.000Z</updated>
-      <summary>An AI Agent tool to automate Android devices reliably</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/void-silence</title>
-      <link href="https://github.com/kreza6173-pixel/void-silence"/>
-      <id>https://github.com/kreza6173-pixel/void-silence</id>
-      <updated>2026-08-30T09:53:28.000Z</updated>
-      <summary>Notification &amp; DND Studio</summary>
-    </entry>
-    <entry>
-      <title>sgamiza/Apk_for_Fake_GPS</title>
-      <link href="https://github.com/sgamiza/Apk_for_Fake_GPS"/>
-      <id>https://github.com/sgamiza/Apk_for_Fake_GPS</id>
-      <updated>2026-09-01T09:10:23.000Z</updated>
-      <summary>Apk for Fake GPS</summary>
-    </entry>
-    <entry>
-      <title>sgamiza/export_bilibili_download_video</title>
-      <link href="https://github.com/sgamiza/export_bilibili_download_video"/>
-      <id>https://github.com/sgamiza/export_bilibili_download_video</id>
-      <updated>2026-09-01T09:10:09.000Z</updated>
-      <summary>apk for export bilibili download video to mp4</summary>
-    </entry>
-    <entry>
-      <title>sgamiza/tingshu-audio-exporter</title>
-      <link href="https://github.com/sgamiza/tingshu-audio-exporter"/>
-      <id>https://github.com/sgamiza/tingshu-audio-exporter</id>
-      <updated>2026-09-01T09:10:17.000Z</updated>
-      <summary>Lazy-listen audiobook cache exporter (Android + Python) to MP3/M4A</summary>
     </entry>
 </feed>
