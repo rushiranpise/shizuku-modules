@@ -3,9 +3,30 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-08T07:28:36.671Z</updated>
+  <updated>2026-09-09T07:36:51.865Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>muhammadhaseebiqbal-dev/Screen-Recorder</title>
+      <link href="https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder"/>
+      <id>https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder</id>
+      <updated>2026-09-09T03:42:29.000Z</updated>
+      <summary>A pristine material-you screen recorder with mic and internal audio toggles.</summary>
+    </entry>
+    <entry>
+      <title>Ruvyrom/Ruvomain-Protocol</title>
+      <link href="https://github.com/Ruvyrom/Ruvomain-Protocol"/>
+      <id>https://github.com/Ruvyrom/Ruvomain-Protocol</id>
+      <updated>2026-09-09T03:07:10.000Z</updated>
+      <summary>Universal Ruvomain ADB App-Manager (URAAM) automatised all-in-one shell script for Android. CLI, Bash, High-performance, non-root (Shizuku rish and root in Termux). Uninstall unwanted apps for debloat your devices, backup and restore apps with json files and install your own apk.. Compatible with Ca</summary>
+    </entry>
+    <entry>
+      <title>meatcar/split-voice</title>
+      <link href="https://github.com/meatcar/split-voice"/>
+      <id>https://github.com/meatcar/split-voice</id>
+      <updated>2026-09-09T03:53:58.000Z</updated>
+      <summary>Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.</summary>
+    </entry>
     <entry>
       <title>yashab-cyber/opendroid</title>
       <link href="https://github.com/yashab-cyber/opendroid"/>
@@ -49,6 +70,13 @@
       <summary>Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices</summary>
     </entry>
     <entry>
+      <title>omixin/allEQ</title>
+      <link href="https://github.com/omixin/allEQ"/>
+      <id>https://github.com/omixin/allEQ</id>
+      <updated>2026-09-07T19:16:47.000Z</updated>
+      <summary>Rootless 10-band system equalizer for Android using Shizuku &amp; Android AudioEffects</summary>
+    </entry>
+    <entry>
       <title>yshalsager/Mafza</title>
       <link href="https://github.com/yshalsager/Mafza"/>
       <id>https://github.com/yshalsager/Mafza</id>
@@ -66,15 +94,8 @@
       <title>d4rken-org/porter-api</title>
       <link href="https://github.com/d4rken-org/porter-api"/>
       <id>https://github.com/d4rken-org/porter-api</id>
-      <updated>2026-09-07T18:54:13.000Z</updated>
+      <updated>2026-09-08T19:33:22.000Z</updated>
       <summary>Android SDK for Porter, with compatible Shizuku APIs and direct Porter support.</summary>
-    </entry>
-    <entry>
-      <title>omixin/allEQ</title>
-      <link href="https://github.com/omixin/allEQ"/>
-      <id>https://github.com/omixin/allEQ</id>
-      <updated>2026-09-07T19:16:47.000Z</updated>
-      <summary>Rootless 10-band system equalizer for Android using Shizuku &amp; Android AudioEffects</summary>
     </entry>
     <entry>
       <title>xjhjoe/5g-tile</title>
@@ -194,26 +215,5 @@
       <id>https://github.com/Xposed-Modules-Repo/com.niki914.zafiro</id>
       <updated>2026-09-06T20:56:06.000Z</updated>
       <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
-    </entry>
-    <entry>
-      <title>qianyumeng0228/ShizukuX</title>
-      <link href="https://github.com/qianyumeng0228/ShizukuX"/>
-      <id>https://github.com/qianyumeng0228/ShizukuX</id>
-      <updated>2026-09-07T07:27:22.000Z</updated>
-      <summary>ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。</summary>
-    </entry>
-    <entry>
-      <title>ChaYeWuu/HyperDay</title>
-      <link href="https://github.com/ChaYeWuu/HyperDay"/>
-      <id>https://github.com/ChaYeWuu/HyperDay</id>
-      <updated>2026-09-08T06:13:06.000Z</updated>
-      <summary>一个基于 Miuix（HyperOS 设计语言）组件库打造的 Android 倒数日应用，拥有 HyperOS 风格的界面、液态玻璃材质、莫奈动态取色与官方动态混色背景。</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/pulse-install</title>
-      <link href="https://github.com/kreza6173-pixel/pulse-install"/>
-      <id>https://github.com/kreza6173-pixel/pulse-install</id>
-      <updated>2026-09-03T06:54:52.000Z</updated>
-      <summary>Universal APK / APKS / XAPK / APKM installer</summary>
     </entry>
 </feed>
