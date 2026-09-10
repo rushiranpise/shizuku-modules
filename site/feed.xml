@@ -3,14 +3,28 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-09T07:36:51.865Z</updated>
+  <updated>2026-09-10T07:33:17.758Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Ruvyrom/Uraam</title>
+      <link href="https://github.com/Ruvyrom/Uraam"/>
+      <id>https://github.com/Ruvyrom/Uraam</id>
+      <updated>2026-09-10T05:35:17.000Z</updated>
+      <summary>Universal Ruvomain ADB App-Manager (URAAM) automatised all-in-one shell script for Android. CLI, Bash, High-performance, non-root (Shizuku rish and root in Termux). Uninstall unwanted apps for debloat your devices, backup and restore apps with json files and install your own apk.. Compatible with Ca</summary>
+    </entry>
+    <entry>
+      <title>EithonX/ButtonSilencer</title>
+      <link href="https://github.com/EithonX/ButtonSilencer"/>
+      <id>https://github.com/EithonX/ButtonSilencer</id>
+      <updated>2026-09-09T14:01:44.000Z</updated>
+      <summary>Android app that blocks faulty headset and IEM remote buttons without disabling the phone's own buttons.</summary>
+    </entry>
     <entry>
       <title>muhammadhaseebiqbal-dev/Screen-Recorder</title>
       <link href="https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder"/>
       <id>https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder</id>
-      <updated>2026-09-09T03:42:29.000Z</updated>
+      <updated>2026-09-09T16:26:05.000Z</updated>
       <summary>A pristine material-you screen recorder with mic and internal audio toggles.</summary>
     </entry>
     <entry>
@@ -73,7 +87,7 @@
       <title>omixin/allEQ</title>
       <link href="https://github.com/omixin/allEQ"/>
       <id>https://github.com/omixin/allEQ</id>
-      <updated>2026-09-07T19:16:47.000Z</updated>
+      <updated>2026-09-09T19:36:26.000Z</updated>
       <summary>Rootless 10-band system equalizer for Android using Shizuku &amp; Android AudioEffects</summary>
     </entry>
     <entry>
@@ -108,7 +122,7 @@
       <title>DSH-APP/DSHA</title>
       <link href="https://github.com/DSH-APP/DSHA"/>
       <id>https://github.com/DSH-APP/DSHA</id>
-      <updated>2026-09-07T18:51:14.000Z</updated>
+      <updated>2026-09-10T05:43:22.000Z</updated>
       <summary>免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢</summary>
     </entry>
     <entry>
@@ -164,7 +178,7 @@
       <title>odorizzioficial/FechaTudoPlus</title>
       <link href="https://github.com/odorizzioficial/FechaTudoPlus"/>
       <id>https://github.com/odorizzioficial/FechaTudoPlus</id>
-      <updated>2026-09-05T17:34:54.000Z</updated>
+      <updated>2026-09-09T20:18:07.000Z</updated>
       <summary>Gerenciador de apps em segundo plano para Android. Encerra, bloqueia, protege e agenda limpezas — via Shizuku, sem root.</summary>
     </entry>
     <entry>
@@ -201,19 +215,5 @@
       <id>https://github.com/emi-ran/flowpilot</id>
       <updated>2026-09-05T12:14:40.000Z</updated>
       <summary>⚡ Privacy-first, offline, and lightweight Android automation engine. Powered by Jetpack Compose &amp; Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>savagedamage/android-security-wizard</title>
-      <link href="https://github.com/savagedamage/android-security-wizard"/>
-      <id>https://github.com/savagedamage/android-security-wizard</id>
-      <updated>2026-09-07T19:56:26.000Z</updated>
-      <summary>Android security research corpus: SKILL.md + 18 companion files covering native RE, Shizuku exploitation, commercial protector bypass, exploit chains, malware attribution, kernel exploit dev, rooting methods, Android 14-18 security, malware detection triage. 7,777 lines / 574 KB.</summary>
-    </entry>
-    <entry>
-      <title>Xposed-Modules-Repo/com.niki914.zafiro</title>
-      <link href="https://github.com/Xposed-Modules-Repo/com.niki914.zafiro"/>
-      <id>https://github.com/Xposed-Modules-Repo/com.niki914.zafiro</id>
-      <updated>2026-09-06T20:56:06.000Z</updated>
-      <summary>Zafiro | 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制</summary>
     </entry>
 </feed>
