@@ -3,9 +3,58 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-11T07:31:45.043Z</updated>
+  <updated>2026-09-12T07:23:22.643Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>jxlarrea/kiosk-satellite</title>
+      <link href="https://github.com/jxlarrea/kiosk-satellite"/>
+      <id>https://github.com/jxlarrea/kiosk-satellite</id>
+      <updated>2026-09-12T05:04:12.000Z</updated>
+      <summary>Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.</summary>
+    </entry>
+    <entry>
+      <title>ybhgl/Reminder</title>
+      <link href="https://github.com/ybhgl/Reminder"/>
+      <id>https://github.com/ybhgl/Reminder</id>
+      <updated>2026-09-06T06:29:53.000Z</updated>
+      <summary>一款简洁的安卓纪念日/倒数日管理应用</summary>
+    </entry>
+    <entry>
+      <title>werdio325-png/antigravity-android</title>
+      <link href="https://github.com/werdio325-png/antigravity-android"/>
+      <id>https://github.com/werdio325-png/antigravity-android</id>
+      <updated>2026-09-11T19:02:59.000Z</updated>
+      <summary>Google Antigravity Standalone for Android - Autonomous ARM64 Client &amp; Freeform Environment</summary>
+    </entry>
+    <entry>
+      <title>sjfzWer12/dji-4g-modem-android</title>
+      <link href="https://github.com/sjfzWer12/dji-4g-modem-android"/>
+      <id>https://github.com/sjfzWer12/dji-4g-modem-android</id>
+      <updated>2026-09-12T01:46:37.000Z</updated>
+      <summary>大疆4G模块(二代)给安卓手机上网 — Shizuku方案（含完整技术文档与源码）</summary>
+    </entry>
+    <entry>
+      <title>1ndevelopment/indev.ghostlock.s26</title>
+      <link href="https://github.com/1ndevelopment/indev.ghostlock.s26"/>
+      <id>https://github.com/1ndevelopment/indev.ghostlock.s26</id>
+      <updated>2026-09-12T06:27:50.000Z</updated>
+      <summary>One tap android app wrapper for Ghostlock s26 series </summary>
+    </entry>
+    <entry>
+      <title>FATFATHAO/screen-off-camera</title>
+      <link href="https://github.com/FATFATHAO/screen-off-camera"/>
+      <id>https://github.com/FATFATHAO/screen-off-camera</id>
+      <updated>2026-09-11T18:10:00.000Z</updated>
+      <summary>Android 熄屏相机控制：音量键单击切前后摄、双键拍照；HyperOS/Android 16 + Shizuku，无需 root。Screen-off camera control via volume keys.</summary>
+    </entry>
+    <entry>
+      <title>yaleedhaque/yalevpn</title>
+      <link href="https://github.com/yaleedhaque/yalevpn"/>
+      <id>https://github.com/yaleedhaque/yalevpn</id>
+      <updated>2026-09-11T14:12:22.000Z</updated>
+      <summary>WireGuard VPN + Shizuku research lab for Android</summary>
+    </entry>
     <entry>
       <title>Dreaming-Codes/immich-cloud-media</title>
       <link href="https://github.com/Dreaming-Codes/immich-cloud-media"/>
@@ -63,6 +112,13 @@
       <summary>Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root.</summary>
     </entry>
     <entry>
+      <title>pufferfish-salad/GitSentry</title>
+      <link href="https://github.com/pufferfish-salad/GitSentry"/>
+      <id>https://github.com/pufferfish-salad/GitSentry</id>
+      <updated>2026-09-10T22:59:13.000Z</updated>
+      <summary>GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the curr</summary>
+    </entry>
+    <entry>
       <title>Verisonder/ManualRotate</title>
       <link href="https://github.com/Verisonder/ManualRotate"/>
       <id>https://github.com/Verisonder/ManualRotate</id>
@@ -105,17 +161,10 @@
       <summary>Battery &amp; Wakelock Doctor, with an integrated Backup Vault</summary>
     </entry>
     <entry>
-      <title>pufferfish-salad/GitSentry</title>
-      <link href="https://github.com/pufferfish-salad/GitSentry"/>
-      <id>https://github.com/pufferfish-salad/GitSentry</id>
-      <updated>2026-09-10T22:59:13.000Z</updated>
-      <summary>GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the curr</summary>
-    </entry>
-    <entry>
       <title>Ruvyrom/Uraam</title>
       <link href="https://github.com/Ruvyrom/Uraam"/>
       <id>https://github.com/Ruvyrom/Uraam</id>
-      <updated>2026-09-11T07:08:44.000Z</updated>
+      <updated>2026-09-12T06:41:50.000Z</updated>
       <summary>Universal Ruvomain ADB App Manager: An all-in-one shell script for Android debloating, app backup/restore, and APK installation. Works with Linux, macOS, WSL &amp; Termux (WirelessADB, Shizuku, Root). Compatible with Canta/UAD JSON lists.</summary>
     </entry>
     <entry>
@@ -166,54 +215,5 @@
       <id>https://github.com/yepgoryo/CaptureCap</id>
       <updated>2026-09-08T06:05:14.000Z</updated>
       <summary>Screen and audio recording and streaming app, no root required</summary>
-    </entry>
-    <entry>
-      <title>ChocoLZS/linkura-localify</title>
-      <link href="https://github.com/ChocoLZS/linkura-localify"/>
-      <id>https://github.com/ChocoLZS/linkura-localify</id>
-      <updated>2026-07-02T06:31:36.000Z</updated>
-      <summary>Localization plugin for Link! Like! LoveLive! that translates game text via LLM</summary>
-    </entry>
-    <entry>
-      <title>AhmetCanArslan/CloneCat</title>
-      <link href="https://github.com/AhmetCanArslan/CloneCat"/>
-      <id>https://github.com/AhmetCanArslan/CloneCat</id>
-      <updated>2026-08-28T10:40:40.000Z</updated>
-      <summary>Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts</summary>
-    </entry>
-    <entry>
-      <title>balamurugan15/ZFold-Multi-DPI</title>
-      <link href="https://github.com/balamurugan15/ZFold-Multi-DPI"/>
-      <id>https://github.com/balamurugan15/ZFold-Multi-DPI</id>
-      <updated>2026-08-20T09:14:03.000Z</updated>
-      <summary>Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices</summary>
-    </entry>
-    <entry>
-      <title>omixin/allEQ</title>
-      <link href="https://github.com/omixin/allEQ"/>
-      <id>https://github.com/omixin/allEQ</id>
-      <updated>2026-09-09T19:36:26.000Z</updated>
-      <summary>Rootless 10-band system equalizer for Android using Shizuku &amp; Android AudioEffects</summary>
-    </entry>
-    <entry>
-      <title>yshalsager/Mafza</title>
-      <link href="https://github.com/yshalsager/Mafza"/>
-      <id>https://github.com/yshalsager/Mafza</id>
-      <updated>2026-07-27T07:14:12.000Z</updated>
-      <summary>Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode</summary>
-    </entry>
-    <entry>
-      <title>AuroraDroid</title>
-      <link href="https://f-droid.org/packages/com.aurora.adroid/"/>
-      <id>https://f-droid.org/packages/com.aurora.adroid/</id>
-      <updated>2026-09-08T07:27:46.292Z</updated>
-      <summary>FOSS F-Droid client with silent installs via Shizuku/root and automatic updates</summary>
-    </entry>
-    <entry>
-      <title>d4rken-org/porter-api</title>
-      <link href="https://github.com/d4rken-org/porter-api"/>
-      <id>https://github.com/d4rken-org/porter-api</id>
-      <updated>2026-09-08T19:33:22.000Z</updated>
-      <summary>Android SDK for Porter, with compatible Shizuku APIs and direct Porter support.</summary>
     </entry>
 </feed>
