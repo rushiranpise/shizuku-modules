@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-09-12T07:23:22.643Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>jxlarrea/kiosk-satellite</title>
+      <link href="https://github.com/jxlarrea/kiosk-satellite"/>
+      <id>https://github.com/jxlarrea/kiosk-satellite</id>
+      <updated>2026-09-12T05:04:12.000Z</updated>
+      <summary>Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.</summary>
+    </entry>
+    <entry>
+      <title>ybhgl/Reminder</title>
+      <link href="https://github.com/ybhgl/Reminder"/>
+      <id>https://github.com/ybhgl/Reminder</id>
+      <updated>2026-09-06T06:29:53.000Z</updated>
+      <summary>一款简洁的安卓纪念日/倒数日管理应用</summary>
+    </entry>
+    <entry>
+      <title>werdio325-png/antigravity-android</title>
+      <link href="https://github.com/werdio325-png/antigravity-android"/>
+      <id>https://github.com/werdio325-png/antigravity-android</id>
+      <updated>2026-09-11T19:02:59.000Z</updated>
+      <summary>Google Antigravity Standalone for Android - Autonomous ARM64 Client &amp; Freeform Environment</summary>
+    </entry>
+    <entry>
+      <title>sjfzWer12/dji-4g-modem-android</title>
+      <link href="https://github.com/sjfzWer12/dji-4g-modem-android"/>
+      <id>https://github.com/sjfzWer12/dji-4g-modem-android</id>
+      <updated>2026-09-12T01:46:37.000Z</updated>
+      <summary>大疆4G模块(二代)给安卓手机上网 — Shizuku方案（含完整技术文档与源码）</summary>
+    </entry>
+    <entry>
+      <title>1ndevelopment/indev.ghostlock.s26</title>
+      <link href="https://github.com/1ndevelopment/indev.ghostlock.s26"/>
+      <id>https://github.com/1ndevelopment/indev.ghostlock.s26</id>
+      <updated>2026-09-12T06:27:50.000Z</updated>
+      <summary>One tap android app wrapper for Ghostlock s26 series </summary>
+    </entry>
+    <entry>
+      <title>FATFATHAO/screen-off-camera</title>
+      <link href="https://github.com/FATFATHAO/screen-off-camera"/>
+      <id>https://github.com/FATFATHAO/screen-off-camera</id>
+      <updated>2026-09-11T18:10:00.000Z</updated>
+      <summary>Android 熄屏相机控制：音量键单击切前后摄、双键拍照；HyperOS/Android 16 + Shizuku，无需 root。Screen-off camera control via volume keys.</summary>
+    </entry>
+    <entry>
+      <title>yaleedhaque/yalevpn</title>
+      <link href="https://github.com/yaleedhaque/yalevpn"/>
+      <id>https://github.com/yaleedhaque/yalevpn</id>
+      <updated>2026-09-11T14:12:22.000Z</updated>
+      <summary>WireGuard VPN + Shizuku research lab for Android</summary>
+    </entry>
+    <entry>
+      <title>Dreaming-Codes/immich-cloud-media</title>
+      <link href="https://github.com/Dreaming-Codes/immich-cloud-media"/>
+      <id>https://github.com/Dreaming-Codes/immich-cloud-media</id>
+      <updated>2026-04-20T19:16:11.000Z</updated>
+      <summary>Cloud media provider that surfaces a self-hosted Immich library in Android's system photo picker, configured via Shizuku or ADB.</summary>
+    </entry>
+    <entry>
+      <title>Rve27/RvSystem-Monitor</title>
+      <link href="https://github.com/Rve27/RvSystem-Monitor"/>
+      <id>https://github.com/Rve27/RvSystem-Monitor</id>
+      <updated>2026-09-08T17:15:22.000Z</updated>
+      <summary>High-performance system monitor (Compose + Rust) with Shizuku-fed CPU and hardware insights</summary>
+    </entry>
+    <entry>
+      <title>msmt2018/ZeroStudio</title>
+      <link href="https://github.com/msmt2018/ZeroStudio"/>
+      <id>https://github.com/msmt2018/ZeroStudio</id>
+      <updated>2026-08-27T20:45:14.000Z</updated>
+      <summary>On-device IDE for building real Gradle-based Android apps, with Shizuku, ADB and root device links.</summary>
+    </entry>
+    <entry>
+      <title>GokulSB/RippleFiles-FileManager</title>
+      <link href="https://github.com/GokulSB/RippleFiles-FileManager"/>
+      <id>https://github.com/GokulSB/RippleFiles-FileManager</id>
+      <updated>2026-09-08T15:15:12.000Z</updated>
+      <summary>Expressive Material file manager with local and cloud storage plus Shizuku-gated Android/data access.</summary>
+    </entry>
+    <entry>
+      <title>jehan593/tooler</title>
+      <link href="https://github.com/jehan593/tooler"/>
+      <id>https://github.com/jehan593/tooler</id>
+      <updated>2026-09-11T01:27:51.000Z</updated>
+      <summary>Quick Settings tiles Android leaves out — no root required</summary>
+    </entry>
+    <entry>
+      <title>codegeasse1/hikari-adblock</title>
+      <link href="https://github.com/codegeasse1/hikari-adblock"/>
+      <id>https://github.com/codegeasse1/hikari-adblock</id>
+      <updated>2026-09-10T21:10:23.000Z</updated>
+      <summary>No-root ad/tracker/malware blocker with local VPN DNS filter plus Shizuku iptables/nftables firewall modes</summary>
+    </entry>
+    <entry>
+      <title>dev2ex/twig</title>
+      <link href="https://github.com/dev2ex/twig"/>
+      <id>https://github.com/dev2ex/twig</id>
+      <updated>2026-09-11T02:44:24.000Z</updated>
+      <summary>Size-first dual-pane file manager (~7MB) for local, archives, FTP/SFTP/SMB/WebDAV/S3/restic/Jellyfin</summary>
+    </entry>
+    <entry>
+      <title>dlawoals2713/Guest-Manager</title>
+      <link href="https://github.com/dlawoals2713/Guest-Manager"/>
+      <id>https://github.com/dlawoals2713/Guest-Manager</id>
+      <updated>2026-08-11T07:33:18.000Z</updated>
+      <summary>Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root.</summary>
+    </entry>
+    <entry>
+      <title>pufferfish-salad/GitSentry</title>
+      <link href="https://github.com/pufferfish-salad/GitSentry"/>
+      <id>https://github.com/pufferfish-salad/GitSentry</id>
+      <updated>2026-09-10T22:59:13.000Z</updated>
+      <summary>GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the curr</summary>
+    </entry>
+    <entry>
+      <title>Verisonder/ManualRotate</title>
+      <link href="https://github.com/Verisonder/ManualRotate"/>
+      <id>https://github.com/Verisonder/ManualRotate</id>
+      <updated>2026-08-11T10:56:43.000Z</updated>
+      <summary>Quick-settings tile switching portrait/landscape without rotating the phone; optional Shizuku override for apps that lock orientation.</summary>
+    </entry>
+    <entry>
+      <title>lovitus/wifiportal</title>
+      <link href="https://github.com/lovitus/wifiportal"/>
+      <id>https://github.com/lovitus/wifiportal</id>
+      <updated>2026-05-03T17:32:36.000Z</updated>
+      <summary>Applies captive-portal probe settings via Shizuku UserService with backup, verify-before-write and regional presets.</summary>
+    </entry>
+    <entry>
+      <title>tientien17/GameShift</title>
+      <link href="https://github.com/tientien17/GameShift"/>
+      <id>https://github.com/tientien17/GameShift</id>
+      <updated>2026-07-27T03:28:26.000Z</updated>
+      <summary>Auto-switches the default home launcher when a game controller connects and restores it on disconnect, using Shizuku without root.</summary>
+    </entry>
+    <entry>
+      <title>dernikiausd/wakelogs</title>
+      <link href="https://github.com/dernikiausd/wakelogs"/>
+      <id>https://github.com/dernikiausd/wakelogs</id>
+      <updated>2026-07-18T19:28:24.000Z</updated>
+      <summary>Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics.</summary>
+    </entry>
+    <entry>
+      <title>harvzor/android-bluetooth-bouncer</title>
+      <link href="https://github.com/harvzor/android-bluetooth-bouncer"/>
+      <id>https://github.com/harvzor/android-bluetooth-bouncer</id>
+      <updated>2026-05-10T16:32:55.000Z</updated>
+      <summary>Per-device Bluetooth auto-connect control that stays paired; policy enforced via Shizuku user service.</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/pulse-battery</title>
+      <link href="https://github.com/kreza6173-pixel/pulse-battery"/>
+      <id>https://github.com/kreza6173-pixel/pulse-battery</id>
+      <updated>2026-09-10T12:32:31.000Z</updated>
+      <summary>Battery &amp; Wakelock Doctor, with an integrated Backup Vault</summary>
+    </entry>
+    <entry>
+      <title>Ruvyrom/Uraam</title>
+      <link href="https://github.com/Ruvyrom/Uraam"/>
+      <id>https://github.com/Ruvyrom/Uraam</id>
+      <updated>2026-09-12T06:41:50.000Z</updated>
+      <summary>Universal Ruvomain ADB App Manager: An all-in-one shell script for Android debloating, app backup/restore, and APK installation. Works with Linux, macOS, WSL &amp; Termux (WirelessADB, Shizuku, Root). Compatible with Canta/UAD JSON lists.</summary>
+    </entry>
+    <entry>
+      <title>EithonX/ButtonSilencer</title>
+      <link href="https://github.com/EithonX/ButtonSilencer"/>
+      <id>https://github.com/EithonX/ButtonSilencer</id>
+      <updated>2026-09-09T14:01:44.000Z</updated>
+      <summary>Android app that blocks faulty headset and IEM remote buttons without disabling the phone's own buttons.</summary>
+    </entry>
+    <entry>
+      <title>muhammadhaseebiqbal-dev/Screen-Recorder</title>
+      <link href="https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder"/>
+      <id>https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder</id>
+      <updated>2026-09-09T16:26:05.000Z</updated>
+      <summary>A pristine material-you screen recorder with mic and internal audio toggles.</summary>
+    </entry>
+    <entry>
+      <title>Ruvyrom/Ruvomain-Protocol</title>
+      <link href="https://github.com/Ruvyrom/Ruvomain-Protocol"/>
+      <id>https://github.com/Ruvyrom/Ruvomain-Protocol</id>
+      <updated>2026-09-09T03:07:10.000Z</updated>
+      <summary>Universal Ruvomain ADB App-Manager (URAAM) automatised all-in-one shell script for Android. CLI, Bash, High-performance, non-root (Shizuku rish and root in Termux). Uninstall unwanted apps for debloat your devices, backup and restore apps with json files and install your own apk.. Compatible with Ca</summary>
+    </entry>
+    <entry>
+      <title>meatcar/split-voice</title>
+      <link href="https://github.com/meatcar/split-voice"/>
+      <id>https://github.com/meatcar/split-voice</id>
+      <updated>2026-09-09T03:53:58.000Z</updated>
+      <summary>Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>yashab-cyber/opendroid</title>
+      <link href="https://github.com/yashab-cyber/opendroid"/>
+      <id>https://github.com/yashab-cyber/opendroid</id>
+      <updated>2026-09-04T21:23:47.000Z</updated>
+      <summary>Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation</summary>
+    </entry>
+    <entry>
+      <title>opencyvis/opencyvis-phone</title>
+      <link href="https://github.com/opencyvis/opencyvis-phone"/>
+      <id>https://github.com/opencyvis/opencyvis-phone</id>
+      <updated>2026-06-19T06:44:41.000Z</updated>
+      <summary>Open-source AI phone that sees your screen and operates apps from natural language tasks, works in the background</summary>
+    </entry>
+    <entry>
+      <title>yepgoryo/CaptureCap</title>
+      <link href="https://github.com/yepgoryo/CaptureCap"/>
+      <id>https://github.com/yepgoryo/CaptureCap</id>
+      <updated>2026-09-08T06:05:14.000Z</updated>
+      <summary>Screen and audio recording and streaming app, no root required</summary>
+    </entry>
+</feed>
