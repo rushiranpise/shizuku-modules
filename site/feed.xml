@@ -3,14 +3,98 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-12T07:23:22.643Z</updated>
+  <updated>2026-09-13T07:42:08.277Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>user-grinch/RivoPhoneApp</title>
+      <link href="https://github.com/user-grinch/RivoPhoneApp"/>
+      <id>https://github.com/user-grinch/RivoPhoneApp</id>
+      <updated>2026-09-12T12:44:20.000Z</updated>
+      <summary>Rivo is an Android Phone App (Dialer + Contacts) built with Material 3 Expressive guidelines, with a focus on customization and a modern, intuitive calling experience.</summary>
+    </entry>
+    <entry>
+      <title>C0C0B01/KettuManager</title>
+      <link href="https://github.com/C0C0B01/KettuManager"/>
+      <id>https://github.com/C0C0B01/KettuManager</id>
+      <updated>2025-05-27T19:11:35.000Z</updated>
+      <summary>Discord modding tool. Continuation of the abandoned BunnyManager project</summary>
+    </entry>
+    <entry>
+      <title>catsmoker/catsmoker-app</title>
+      <link href="https://github.com/catsmoker/catsmoker-app"/>
+      <id>https://github.com/catsmoker/catsmoker-app</id>
+      <updated>2026-09-12T23:01:58.000Z</updated>
+      <summary>Catsmoker app - Game FPS Unlocker, Gaming Booster.</summary>
+    </entry>
+    <entry>
+      <title>jcx396905-gif/DuoFold-Android</title>
+      <link href="https://github.com/jcx396905-gif/DuoFold-Android"/>
+      <id>https://github.com/jcx396905-gif/DuoFold-Android</id>
+      <updated>2026-09-13T03:13:29.000Z</updated>
+      <summary>iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root.</summary>
+    </entry>
+    <entry>
+      <title>cr1437/Shizako</title>
+      <link href="https://github.com/cr1437/Shizako"/>
+      <id>https://github.com/cr1437/Shizako</id>
+      <updated>2026-09-13T05:44:15.000Z</updated>
+      <summary>猫耳看板娘版的 Shizuku | A catgirl-mascot edition of Shizuku — use privileged Android APIs without root. Official Shizuku-API apps connect without code changes. Apache-2.0</summary>
+    </entry>
+    <entry>
+      <title>1ndevelopment/ghostlock-s26</title>
+      <link href="https://github.com/1ndevelopment/ghostlock-s26"/>
+      <id>https://github.com/1ndevelopment/ghostlock-s26</id>
+      <updated>2026-09-12T09:35:13.000Z</updated>
+      <summary>GhostLock (CVE-2026-43499) app for the Galaxy S26 series</summary>
+    </entry>
+    <entry>
+      <title>cnwhcmc/AppUsageWatch-v1.4.1-v1.0.0</title>
+      <link href="https://github.com/cnwhcmc/AppUsageWatch-v1.4.1-v1.0.0"/>
+      <id>https://github.com/cnwhcmc/AppUsageWatch-v1.4.1-v1.0.0</id>
+      <updated>2026-09-13T04:57:43.000Z</updated>
+      <summary>Android app usage &amp; file event monitor. Records app foreground/background time and file operations (write/move/create/delete) with optional Root/Shizuku enhanced accuracy. Pure Kotlin, ~830KB APK, minSdk 25.  Android应用使用和文件事件监视器。记录应用程序前台/后台时间和文件操作，可选配Root/Shizuku增强精度。</summary>
+    </entry>
+    <entry>
+      <title>HeWanglan-X/NetBlocker</title>
+      <link href="https://github.com/HeWanglan-X/NetBlocker"/>
+      <id>https://github.com/HeWanglan-X/NetBlocker</id>
+      <updated>2026-09-13T06:28:17.000Z</updated>
+      <summary>Android floating-window network blocker (Shizuku + Root dual backend, no VPN)</summary>
+    </entry>
+    <entry>
+      <title>Manitchahar/poco-5g-toggle</title>
+      <link href="https://github.com/Manitchahar/poco-5g-toggle"/>
+      <id>https://github.com/Manitchahar/poco-5g-toggle</id>
+      <updated>2026-09-12T23:46:33.000Z</updated>
+      <summary>Quick Settings tile and widget to toggle 5G for the active mobile-data SIM on Poco/HyperOS using Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>mjryan253/PinDNS</title>
+      <link href="https://github.com/mjryan253/PinDNS"/>
+      <id>https://github.com/mjryan253/PinDNS</id>
+      <updated>2026-09-13T01:37:17.000Z</updated>
+      <summary>One-tap Private DNS toggle for Android. Quick Settings tile, one-time ADB or Shizuku grant.</summary>
+    </entry>
+    <entry>
+      <title>sebastianabanto/WacomMapper</title>
+      <link href="https://github.com/sebastianabanto/WacomMapper"/>
+      <id>https://github.com/sebastianabanto/WacomMapper</id>
+      <updated>2026-09-12T22:39:50.000Z</updated>
+      <summary>WacomMapper maps the Wacom One by Wacom CTL-472 (USB HID) to global Android stylus input—X/Y, pressure, hover and buttons—using Kotlin, Jetpack Compose and Shizuku; validated on Galaxy Tab S7.</summary>
+    </entry>
+    <entry>
+      <title>spideytznn/GlassProjection</title>
+      <link href="https://github.com/spideytznn/GlassProjection"/>
+      <id>https://github.com/spideytznn/GlassProjection</id>
+      <updated>2026-09-13T06:46:17.000Z</updated>
+      <summary>玻璃投影：小米折叠屏实时玻璃开合动画，支持桌面与锁屏、可调模糊及切屏角度，基于 Shizuku，无需 root。</summary>
+    </entry>
     <entry>
       <title>jxlarrea/kiosk-satellite</title>
       <link href="https://github.com/jxlarrea/kiosk-satellite"/>
       <id>https://github.com/jxlarrea/kiosk-satellite</id>
-      <updated>2026-09-12T05:04:12.000Z</updated>
+      <updated>2026-09-13T03:00:43.000Z</updated>
       <summary>Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.</summary>
     </entry>
     <entry>
@@ -24,7 +108,7 @@
       <title>werdio325-png/antigravity-android</title>
       <link href="https://github.com/werdio325-png/antigravity-android"/>
       <id>https://github.com/werdio325-png/antigravity-android</id>
-      <updated>2026-09-11T19:02:59.000Z</updated>
+      <updated>2026-09-12T15:56:59.000Z</updated>
       <summary>Google Antigravity Standalone for Android - Autonomous ARM64 Client &amp; Freeform Environment</summary>
     </entry>
     <entry>
@@ -91,6 +175,13 @@
       <summary>Quick Settings tiles Android leaves out — no root required</summary>
     </entry>
     <entry>
+      <title>pufferfish-salad/GitSentry</title>
+      <link href="https://github.com/pufferfish-salad/GitSentry"/>
+      <id>https://github.com/pufferfish-salad/GitSentry</id>
+      <updated>2026-09-10T22:59:13.000Z</updated>
+      <summary>GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the curr</summary>
+    </entry>
+    <entry>
       <title>codegeasse1/hikari-adblock</title>
       <link href="https://github.com/codegeasse1/hikari-adblock"/>
       <id>https://github.com/codegeasse1/hikari-adblock</id>
@@ -112,13 +203,6 @@
       <summary>Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root.</summary>
     </entry>
     <entry>
-      <title>pufferfish-salad/GitSentry</title>
-      <link href="https://github.com/pufferfish-salad/GitSentry"/>
-      <id>https://github.com/pufferfish-salad/GitSentry</id>
-      <updated>2026-09-10T22:59:13.000Z</updated>
-      <summary>GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the curr</summary>
-    </entry>
-    <entry>
       <title>Verisonder/ManualRotate</title>
       <link href="https://github.com/Verisonder/ManualRotate"/>
       <id>https://github.com/Verisonder/ManualRotate</id>
@@ -131,89 +215,5 @@
       <id>https://github.com/lovitus/wifiportal</id>
       <updated>2026-05-03T17:32:36.000Z</updated>
       <summary>Applies captive-portal probe settings via Shizuku UserService with backup, verify-before-write and regional presets.</summary>
-    </entry>
-    <entry>
-      <title>tientien17/GameShift</title>
-      <link href="https://github.com/tientien17/GameShift"/>
-      <id>https://github.com/tientien17/GameShift</id>
-      <updated>2026-07-27T03:28:26.000Z</updated>
-      <summary>Auto-switches the default home launcher when a game controller connects and restores it on disconnect, using Shizuku without root.</summary>
-    </entry>
-    <entry>
-      <title>dernikiausd/wakelogs</title>
-      <link href="https://github.com/dernikiausd/wakelogs"/>
-      <id>https://github.com/dernikiausd/wakelogs</id>
-      <updated>2026-07-18T19:28:24.000Z</updated>
-      <summary>Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics.</summary>
-    </entry>
-    <entry>
-      <title>harvzor/android-bluetooth-bouncer</title>
-      <link href="https://github.com/harvzor/android-bluetooth-bouncer"/>
-      <id>https://github.com/harvzor/android-bluetooth-bouncer</id>
-      <updated>2026-05-10T16:32:55.000Z</updated>
-      <summary>Per-device Bluetooth auto-connect control that stays paired; policy enforced via Shizuku user service.</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/pulse-battery</title>
-      <link href="https://github.com/kreza6173-pixel/pulse-battery"/>
-      <id>https://github.com/kreza6173-pixel/pulse-battery</id>
-      <updated>2026-09-10T12:32:31.000Z</updated>
-      <summary>Battery &amp; Wakelock Doctor, with an integrated Backup Vault</summary>
-    </entry>
-    <entry>
-      <title>Ruvyrom/Uraam</title>
-      <link href="https://github.com/Ruvyrom/Uraam"/>
-      <id>https://github.com/Ruvyrom/Uraam</id>
-      <updated>2026-09-12T06:41:50.000Z</updated>
-      <summary>Universal Ruvomain ADB App Manager: An all-in-one shell script for Android debloating, app backup/restore, and APK installation. Works with Linux, macOS, WSL &amp; Termux (WirelessADB, Shizuku, Root). Compatible with Canta/UAD JSON lists.</summary>
-    </entry>
-    <entry>
-      <title>EithonX/ButtonSilencer</title>
-      <link href="https://github.com/EithonX/ButtonSilencer"/>
-      <id>https://github.com/EithonX/ButtonSilencer</id>
-      <updated>2026-09-09T14:01:44.000Z</updated>
-      <summary>Android app that blocks faulty headset and IEM remote buttons without disabling the phone's own buttons.</summary>
-    </entry>
-    <entry>
-      <title>muhammadhaseebiqbal-dev/Screen-Recorder</title>
-      <link href="https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder"/>
-      <id>https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder</id>
-      <updated>2026-09-09T16:26:05.000Z</updated>
-      <summary>A pristine material-you screen recorder with mic and internal audio toggles.</summary>
-    </entry>
-    <entry>
-      <title>Ruvyrom/Ruvomain-Protocol</title>
-      <link href="https://github.com/Ruvyrom/Ruvomain-Protocol"/>
-      <id>https://github.com/Ruvyrom/Ruvomain-Protocol</id>
-      <updated>2026-09-09T03:07:10.000Z</updated>
-      <summary>Universal Ruvomain ADB App-Manager (URAAM) automatised all-in-one shell script for Android. CLI, Bash, High-performance, non-root (Shizuku rish and root in Termux). Uninstall unwanted apps for debloat your devices, backup and restore apps with json files and install your own apk.. Compatible with Ca</summary>
-    </entry>
-    <entry>
-      <title>meatcar/split-voice</title>
-      <link href="https://github.com/meatcar/split-voice"/>
-      <id>https://github.com/meatcar/split-voice</id>
-      <updated>2026-09-09T03:53:58.000Z</updated>
-      <summary>Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>yashab-cyber/opendroid</title>
-      <link href="https://github.com/yashab-cyber/opendroid"/>
-      <id>https://github.com/yashab-cyber/opendroid</id>
-      <updated>2026-09-04T21:23:47.000Z</updated>
-      <summary>Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation</summary>
-    </entry>
-    <entry>
-      <title>opencyvis/opencyvis-phone</title>
-      <link href="https://github.com/opencyvis/opencyvis-phone"/>
-      <id>https://github.com/opencyvis/opencyvis-phone</id>
-      <updated>2026-06-19T06:44:41.000Z</updated>
-      <summary>Open-source AI phone that sees your screen and operates apps from natural language tasks, works in the background</summary>
-    </entry>
-    <entry>
-      <title>yepgoryo/CaptureCap</title>
-      <link href="https://github.com/yepgoryo/CaptureCap"/>
-      <id>https://github.com/yepgoryo/CaptureCap</id>
-      <updated>2026-09-08T06:05:14.000Z</updated>
-      <summary>Screen and audio recording and streaming app, no root required</summary>
     </entry>
 </feed>
