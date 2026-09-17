@@ -3,9 +3,58 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-16T07:57:48.091Z</updated>
+  <updated>2026-09-17T08:01:53.505Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>B3rr7/WuWa-Config-Android</title>
+      <link href="https://github.com/B3rr7/WuWa-Config-Android"/>
+      <id>https://github.com/B3rr7/WuWa-Config-Android</id>
+      <updated>2026-09-17T06:50:21.000Z</updated>
+      <summary>Android WuWa Config Toolkit for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.</summary>
+    </entry>
+    <entry>
+      <title>Kano-u/imebar</title>
+      <link href="https://github.com/Kano-u/imebar"/>
+      <id>https://github.com/Kano-u/imebar</id>
+      <updated>2026-09-16T14:33:10.000Z</updated>
+      <summary>自研 Xposed 输入法工具栏模块（个人自用，无联网无 root）</summary>
+    </entry>
+    <entry>
+      <title>soobujmiah/lai</title>
+      <link href="https://github.com/soobujmiah/lai"/>
+      <id>https://github.com/soobujmiah/lai</id>
+      <updated>2026-09-16T17:50:01.000Z</updated>
+      <summary>Bangla-first on-device local AI and consent-driven Android automation runtime</summary>
+    </entry>
+    <entry>
+      <title>cameleonnbss/originos-toolkit</title>
+      <link href="https://github.com/cameleonnbss/originos-toolkit"/>
+      <id>https://github.com/cameleonnbss/originos-toolkit</id>
+      <updated>2026-09-16T20:57:45.000Z</updated>
+      <summary>No-root tweak toolkit for Vivo/iQOO OriginOS: per-app refresh rate, 39 reversible tweaks, debloat, and a curated no-root index. Android app + CLI.</summary>
+    </entry>
+    <entry>
+      <title>duhow/nobita</title>
+      <link href="https://github.com/duhow/nobita"/>
+      <id>https://github.com/duhow/nobita</id>
+      <updated>2026-09-16T18:26:29.000Z</updated>
+      <summary>Record Bluetooth communication without using a computer</summary>
+    </entry>
+    <entry>
+      <title>worldcopyist/Huankongyu</title>
+      <link href="https://github.com/worldcopyist/Huankongyu"/>
+      <id>https://github.com/worldcopyist/Huankongyu</id>
+      <updated>2026-09-15T17:51:08.000Z</updated>
+      <summary>适配安卓的AI陪伴软件</summary>
+    </entry>
+    <entry>
+      <title>zephyr7030/DroidBridge</title>
+      <link href="https://github.com/zephyr7030/DroidBridge"/>
+      <id>https://github.com/zephyr7030/DroidBridge</id>
+      <updated>2026-09-17T02:10:55.000Z</updated>
+      <summary>On-device MCP server for Android — let ChatGPT and local AI agents operate your phone via Magisk, Shizuku or Accessibility. No PC, no ADB.</summary>
+    </entry>
     <entry>
       <title>CATCHINGL/O.status</title>
       <link href="https://github.com/CATCHINGL/O.status"/>
@@ -24,7 +73,7 @@
       <title>elhizazi1/Castix</title>
       <link href="https://github.com/elhizazi1/Castix"/>
       <id>https://github.com/elhizazi1/Castix</id>
-      <updated>2026-09-15T21:56:49.000Z</updated>
+      <updated>2026-09-17T06:30:55.000Z</updated>
       <summary>Open-source Android utility for background playback and system control, supporting Accessibility, Shizuku, Dhizuku, Root, LSPosed, and LSPatch.</summary>
     </entry>
     <entry>
@@ -45,7 +94,7 @@
       <title>lhuanyu/midscene-android</title>
       <link href="https://github.com/lhuanyu/midscene-android"/>
       <id>https://github.com/lhuanyu/midscene-android</id>
-      <updated>2026-09-16T07:17:02.000Z</updated>
+      <updated>2026-09-16T09:07:44.000Z</updated>
       <summary>Android on-device agent for Midscene. Community project, not affiliated with the Midscene team.</summary>
     </entry>
     <entry>
@@ -70,6 +119,13 @@
       <summary>Automation app for Android devices. Version 6.6 and later introduce Shizuku support.</summary>
     </entry>
     <entry>
+      <title>carlelieser/yuki</title>
+      <link href="https://github.com/carlelieser/yuki"/>
+      <id>https://github.com/carlelieser/yuki</id>
+      <updated>2026-09-17T04:50:00.000Z</updated>
+      <summary>Catalog of open-source Android applications that use the Shizuku permission framework.</summary>
+    </entry>
+    <entry>
       <title>kuuky29/UniRoot</title>
       <link href="https://github.com/kuuky29/UniRoot"/>
       <id>https://github.com/kuuky29/UniRoot</id>
@@ -87,7 +143,7 @@
       <title>1290000/Quieta</title>
       <link href="https://github.com/1290000/Quieta"/>
       <id>https://github.com/1290000/Quieta</id>
-      <updated>2026-09-15T14:02:13.000Z</updated>
+      <updated>2026-09-17T06:47:52.000Z</updated>
       <summary>息匣 Quieta · Android 通知渠道降噪（批量静音 / 拦截新建渠道）· Kotlin Compose · GPL-3.0</summary>
     </entry>
     <entry>
@@ -96,13 +152,6 @@
       <id>https://github.com/1ndevelopment/pm-install-from-anywhere</id>
       <updated>2026-09-14T17:42:00.000Z</updated>
       <summary>Magisk/KSU module that allows the `pm` CLI utility to install APKs from anywhere in the filesystem.</summary>
-    </entry>
-    <entry>
-      <title>carlelieser/yuki</title>
-      <link href="https://github.com/carlelieser/yuki"/>
-      <id>https://github.com/carlelieser/yuki</id>
-      <updated>2026-09-15T17:55:56.000Z</updated>
-      <summary>Catalog of open-source Android applications that use the Shizuku permission framework.</summary>
     </entry>
     <entry>
       <title>KOW-tools/wish-export</title>
@@ -166,54 +215,5 @@
       <id>https://github.com/stalxjason/NetworkSwitch</id>
       <updated>2026-09-14T08:42:09.000Z</updated>
       <summary>小米手机自用网络切换</summary>
-    </entry>
-    <entry>
-      <title>user-grinch/RivoPhoneApp</title>
-      <link href="https://github.com/user-grinch/RivoPhoneApp"/>
-      <id>https://github.com/user-grinch/RivoPhoneApp</id>
-      <updated>2026-09-15T16:41:46.000Z</updated>
-      <summary>Rivo is an Android Phone App (Dialer + Contacts) built with Material 3 Expressive guidelines, with a focus on customization and a modern, intuitive calling experience.</summary>
-    </entry>
-    <entry>
-      <title>jcx396905-gif/DuoFold-Android</title>
-      <link href="https://github.com/jcx396905-gif/DuoFold-Android"/>
-      <id>https://github.com/jcx396905-gif/DuoFold-Android</id>
-      <updated>2026-09-13T03:13:29.000Z</updated>
-      <summary>iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root.</summary>
-    </entry>
-    <entry>
-      <title>C0C0B01/KettuManager</title>
-      <link href="https://github.com/C0C0B01/KettuManager"/>
-      <id>https://github.com/C0C0B01/KettuManager</id>
-      <updated>2025-05-27T19:11:35.000Z</updated>
-      <summary>Discord modding tool. Continuation of the abandoned BunnyManager project</summary>
-    </entry>
-    <entry>
-      <title>catsmoker/catsmoker-app</title>
-      <link href="https://github.com/catsmoker/catsmoker-app"/>
-      <id>https://github.com/catsmoker/catsmoker-app</id>
-      <updated>2026-09-16T07:45:30.000Z</updated>
-      <summary>Catsmoker app - Game FPS Unlocker, Gaming Booster.</summary>
-    </entry>
-    <entry>
-      <title>spideytznn/GlassProjection</title>
-      <link href="https://github.com/spideytznn/GlassProjection"/>
-      <id>https://github.com/spideytznn/GlassProjection</id>
-      <updated>2026-09-16T06:31:07.000Z</updated>
-      <summary>玻璃投影：小米折叠屏实时玻璃开合动画，支持桌面与锁屏、可调模糊及切屏角度，基于 Shizuku，无需 root。</summary>
-    </entry>
-    <entry>
-      <title>cr1437/Shizako</title>
-      <link href="https://github.com/cr1437/Shizako"/>
-      <id>https://github.com/cr1437/Shizako</id>
-      <updated>2026-09-15T05:16:26.000Z</updated>
-      <summary>猫耳看板娘版的 Shizuku | A catgirl-mascot edition of Shizuku — use privileged Android APIs without root. Official Shizuku-API apps connect without code changes. Apache-2.0</summary>
-    </entry>
-    <entry>
-      <title>1ndevelopment/ghostlock-s26</title>
-      <link href="https://github.com/1ndevelopment/ghostlock-s26"/>
-      <id>https://github.com/1ndevelopment/ghostlock-s26</id>
-      <updated>2026-09-14T00:12:24.000Z</updated>
-      <summary>GhostLock (CVE-2026-43499) app for the Galaxy S26 series</summary>
     </entry>
 </feed>
