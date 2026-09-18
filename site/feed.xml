@@ -3,14 +3,63 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-17T08:01:53.505Z</updated>
+  <updated>2026-09-18T07:39:55.238Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>dylanneve1/talon</title>
+      <link href="https://github.com/dylanneve1/talon"/>
+      <id>https://github.com/dylanneve1/talon</id>
+      <updated>2026-09-17T19:04:30.000Z</updated>
+      <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
+    </entry>
+    <entry>
+      <title>bunkaich/Folduo</title>
+      <link href="https://github.com/bunkaich/Folduo"/>
+      <id>https://github.com/bunkaich/Folduo</id>
+      <updated>2026-09-15T04:41:15.000Z</updated>
+      <summary>Folduo — an experimental Galaxy Z Fold7 app with hinge-driven frosted-glass transitions. Built with Codex and GPT-6 Astra.</summary>
+    </entry>
+    <entry>
+      <title>timschneeb/ShizuStore</title>
+      <link href="https://github.com/timschneeb/ShizuStore"/>
+      <id>https://github.com/timschneeb/ShizuStore</id>
+      <updated>2026-09-18T03:51:32.000Z</updated>
+      <summary>App store for Shizuku apps. Based on my awesome-shizuku list and installs APKs straight from their upstream sources</summary>
+    </entry>
+    <entry>
+      <title>Jorgeprdz/ExpressiveCutout-OneUI-DynamicIsland</title>
+      <link href="https://github.com/Jorgeprdz/ExpressiveCutout-OneUI-DynamicIsland"/>
+      <id>https://github.com/Jorgeprdz/ExpressiveCutout-OneUI-DynamicIsland</id>
+      <updated>2026-09-17T18:10:22.000Z</updated>
+      <summary>Material Expressive Dynamic Island fork tuned for Samsung One UI, with live activities, media controls and Shizuku status-bar integration.</summary>
+    </entry>
+    <entry>
+      <title>NotBlack777/Icy-Cheak</title>
+      <link href="https://github.com/NotBlack777/Icy-Cheak"/>
+      <id>https://github.com/NotBlack777/Icy-Cheak</id>
+      <updated>2026-09-17T20:15:08.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>rahmatsobrian/YoruTuner</title>
+      <link href="https://github.com/rahmatsobrian/YoruTuner"/>
+      <id>https://github.com/rahmatsobrian/YoruTuner</id>
+      <updated>2026-09-18T02:03:23.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>xm486/DevPetM</title>
+      <link href="https://github.com/xm486/DevPetM"/>
+      <id>https://github.com/xm486/DevPetM</id>
+      <updated>2026-08-06T12:46:38.000Z</updated>
+      <summary>A mobile coding pet that can detect your coding mood in real time and react accordingly.｜一个移动端的coding宠物，可以实时检测你的vibe coding状态，并做出相应动作。</summary>
+    </entry>
     <entry>
       <title>B3rr7/WuWa-Config-Android</title>
       <link href="https://github.com/B3rr7/WuWa-Config-Android"/>
       <id>https://github.com/B3rr7/WuWa-Config-Android</id>
-      <updated>2026-09-17T06:50:21.000Z</updated>
+      <updated>2026-09-17T11:19:54.000Z</updated>
       <summary>Android WuWa Config Toolkit for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.</summary>
     </entry>
     <entry>
@@ -31,7 +80,7 @@
       <title>cameleonnbss/originos-toolkit</title>
       <link href="https://github.com/cameleonnbss/originos-toolkit"/>
       <id>https://github.com/cameleonnbss/originos-toolkit</id>
-      <updated>2026-09-16T20:57:45.000Z</updated>
+      <updated>2026-09-17T19:20:07.000Z</updated>
       <summary>No-root tweak toolkit for Vivo/iQOO OriginOS: per-app refresh rate, 39 reversible tweaks, debloat, and a curated no-root index. Android app + CLI.</summary>
     </entry>
     <entry>
@@ -66,7 +115,7 @@
       <title>Ruraam/Uraam</title>
       <link href="https://github.com/Ruraam/Uraam"/>
       <id>https://github.com/Ruraam/Uraam</id>
-      <updated>2026-09-16T03:17:43.000Z</updated>
+      <updated>2026-09-17T21:11:36.000Z</updated>
       <summary>Universal Ruvomain ADB App Manager [URAAM]: An all-in-one shell toolkit for Android debloating. Uninstall/disable your apps, backup your debloat apps JSON file &amp; revert/restore, install apk. Works with &quot;Termux  `WirelessADB, Shizuku, Root', Linux `Debian, Arch, Fedora, macOS &amp; WSL '. Co</summary>
     </entry>
     <entry>
@@ -122,7 +171,7 @@
       <title>carlelieser/yuki</title>
       <link href="https://github.com/carlelieser/yuki"/>
       <id>https://github.com/carlelieser/yuki</id>
-      <updated>2026-09-17T04:50:00.000Z</updated>
+      <updated>2026-09-18T01:42:11.000Z</updated>
       <summary>Catalog of open-source Android applications that use the Shizuku permission framework.</summary>
     </entry>
     <entry>
@@ -136,14 +185,14 @@
       <title>runoob-coder/priv-kit-flutter-plugin</title>
       <link href="https://github.com/runoob-coder/priv-kit-flutter-plugin"/>
       <id>https://github.com/runoob-coder/priv-kit-flutter-plugin</id>
-      <updated>2026-09-14T17:12:56.000Z</updated>
+      <updated>2026-09-17T13:57:39.000Z</updated>
       <summary>Built on Flutter, this plugin seamlessly bridges Priv Kit's Android runtime, priv-core, to the Dart side over platform channels.</summary>
     </entry>
     <entry>
       <title>1290000/Quieta</title>
       <link href="https://github.com/1290000/Quieta"/>
       <id>https://github.com/1290000/Quieta</id>
-      <updated>2026-09-17T06:47:52.000Z</updated>
+      <updated>2026-09-18T07:32:14.000Z</updated>
       <summary>息匣 Quieta · Android 通知渠道降噪（批量静音 / 拦截新建渠道）· Kotlin Compose · GPL-3.0</summary>
     </entry>
     <entry>
@@ -166,54 +215,5 @@
       <id>https://github.com/t12lve/Douzeninstaller</id>
       <updated>2026-09-14T17:40:49.000Z</updated>
       <summary>Désinstalleur Android natif interstellaire en Jetpack Compose avec animations de trou noir, boutons en métal liquide et désinstallation en lot sans root via Shizuku</summary>
-    </entry>
-    <entry>
-      <title>thdlrt/WinToolbox</title>
-      <link href="https://github.com/thdlrt/WinToolbox"/>
-      <id>https://github.com/thdlrt/WinToolbox</id>
-      <updated>2026-09-15T02:50:58.000Z</updated>
-      <summary>Windows 语音、字幕、口语练习与效率工具箱</summary>
-    </entry>
-    <entry>
-      <title>Uraam/Uraam</title>
-      <link href="https://github.com/Uraam/Uraam"/>
-      <id>https://github.com/Uraam/Uraam</id>
-      <updated>2026-09-15T07:47:00.000Z</updated>
-      <summary>Universal Ruvomain ADB App Manager [URAAM]: An all-in-one shell toolkit for Android debloating. Uninstall/disable your apps, backup your debloat apps JSON file &amp; revert/restore, install apk. Works with &quot;Termux  `WirelessADB, Shizuku, Root', Linux `Debian, Arch, Fedora, macOS &amp; WSL '. Co</summary>
-    </entry>
-    <entry>
-      <title>runoob-coder/shizuku-api-flutter-plugin</title>
-      <link href="https://github.com/runoob-coder/shizuku-api-flutter-plugin"/>
-      <id>https://github.com/runoob-coder/shizuku-api-flutter-plugin</id>
-      <updated>2026-09-14T17:13:20.000Z</updated>
-      <summary>A Flutter plugin to interact with the Shizuku API, allowing your application to execute shell commands with system or ADB privileges.</summary>
-    </entry>
-    <entry>
-      <title>755489724-lgtm/GazeScroll</title>
-      <link href="https://github.com/755489724-lgtm/GazeScroll"/>
-      <id>https://github.com/755489724-lgtm/GazeScroll</id>
-      <updated>2026-09-15T05:58:42.000Z</updated>
-      <summary>基于前置摄像头的眨眼/点头翻页工具（Android）— CameraX + ML Kit 检测眨眼与头部姿态，无障碍服务模拟上滑翻页</summary>
-    </entry>
-    <entry>
-      <title>cnwhcmc/AppUsageWatch-v1.5.1-v1.0.0</title>
-      <link href="https://github.com/cnwhcmc/AppUsageWatch-v1.5.1-v1.0.0"/>
-      <id>https://github.com/cnwhcmc/AppUsageWatch-v1.5.1-v1.0.0</id>
-      <updated>2026-09-13T13:49:28.000Z</updated>
-      <summary>Android app usage &amp; file event monitor. Records app foreground/background time and file operations (write/move/create/delete) with optional Root/Shizuku enhanced accuracy. Pure Kotlin, ~830KB APK, minSdk 25.  Android应用使用和文件事件监视器。记录应用程序前台/后台时间和文件操作，可选配Root/Shizuku增强精度。</summary>
-    </entry>
-    <entry>
-      <title>echu2237/sidebar-hyperos</title>
-      <link href="https://github.com/echu2237/sidebar-hyperos"/>
-      <id>https://github.com/echu2237/sidebar-hyperos</id>
-      <updated>2026-09-13T17:59:38.000Z</updated>
-      <summary>Root-free MIUI-style sidebar for HyperOS - apps open in real freeform windows via Shizuku</summary>
-    </entry>
-    <entry>
-      <title>stalxjason/NetworkSwitch</title>
-      <link href="https://github.com/stalxjason/NetworkSwitch"/>
-      <id>https://github.com/stalxjason/NetworkSwitch</id>
-      <updated>2026-09-14T08:42:09.000Z</updated>
-      <summary>小米手机自用网络切换</summary>
     </entry>
 </feed>
