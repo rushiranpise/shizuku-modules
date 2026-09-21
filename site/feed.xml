@@ -3,9 +3,44 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-20T07:57:43.975Z</updated>
+  <updated>2026-09-21T08:15:13.028Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>AbdurazaaqMohammed/MP-Manager</title>
+      <link href="https://github.com/AbdurazaaqMohammed/MP-Manager"/>
+      <id>https://github.com/AbdurazaaqMohammed/MP-Manager</id>
+      <updated>2026-09-21T06:24:05.000Z</updated>
+      <summary>Dual pane Android file manager with focus on APKs</summary>
+    </entry>
+    <entry>
+      <title>mrdarksidetm/Android-Battery-Unrestricted-Checker</title>
+      <link href="https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker"/>
+      <id>https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker</id>
+      <updated>2026-09-20T08:06:25.000Z</updated>
+      <summary>Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku</summary>
+    </entry>
+    <entry>
+      <title>att083/FoldPatch</title>
+      <link href="https://github.com/att083/FoldPatch"/>
+      <id>https://github.com/att083/FoldPatch</id>
+      <updated>2026-09-21T05:51:49.000Z</updated>
+      <summary>Keep a foldable phone usable with a dead center display and one working touch side. App reflow, touchpad and one-sided keyboard. Requires Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>sarvesh173/omnicompanion</title>
+      <link href="https://github.com/sarvesh173/omnicompanion"/>
+      <id>https://github.com/sarvesh173/omnicompanion</id>
+      <updated>2026-09-20T22:05:31.000Z</updated>
+      <summary>Universal Android Automation Companion Bridge &amp; IME Service for Autonomous AI Agents &amp; Developers (Material 3 Expressive, Shizuku, Termux, Accessibility)</summary>
+    </entry>
+    <entry>
+      <title>xinxiangjueming/PowerMeter</title>
+      <link href="https://github.com/xinxiangjueming/PowerMeter"/>
+      <id>https://github.com/xinxiangjueming/PowerMeter</id>
+      <updated>2026-09-21T05:09:37.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>7723mod/NPatch</title>
       <link href="https://github.com/7723mod/NPatch"/>
@@ -17,7 +52,7 @@
       <title>wkbin/taixu</title>
       <link href="https://github.com/wkbin/taixu"/>
       <id>https://github.com/wkbin/taixu</id>
-      <updated>2026-09-20T06:36:01.000Z</updated>
+      <updated>2026-09-21T07:27:58.000Z</updated>
       <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
     </entry>
     <entry>
@@ -31,8 +66,15 @@
       <title>AnasAbdullh/Debloat-HyperOS-App</title>
       <link href="https://github.com/AnasAbdullh/Debloat-HyperOS-App"/>
       <id>https://github.com/AnasAbdullh/Debloat-HyperOS-App</id>
-      <updated>2026-09-20T03:12:46.000Z</updated>
+      <updated>2026-09-20T23:33:40.000Z</updated>
       <summary>Open-source Android app to safely debloat Xiaomi &amp; HyperOS devices using Shizuku. No root required.</summary>
+    </entry>
+    <entry>
+      <title>Rishu-s08/appback</title>
+      <link href="https://github.com/Rishu-s08/appback"/>
+      <id>https://github.com/Rishu-s08/appback</id>
+      <updated>2026-09-20T14:22:55.000Z</updated>
+      <summary>No-root Android app state backup and multi-device synchronization using Android's Backup Manager, Shizuku, Kotlin, and Binder/AIDL.</summary>
     </entry>
     <entry>
       <title>Ceratops-Code/Wobblepad-Android</title>
@@ -66,7 +108,7 @@
       <title>Luxumwww/audio-pipeline-monitor</title>
       <link href="https://github.com/Luxumwww/audio-pipeline-monitor"/>
       <id>https://github.com/Luxumwww/audio-pipeline-monitor</id>
-      <updated>2026-09-19T17:24:50.000Z</updated>
+      <updated>2026-09-20T14:32:25.000Z</updated>
       <summary>监视 Android 当前播放音频的完整链路：应用输出采样率/位深 → AudioFlinger 重采样 → USB / 蓝牙实际输出格式。基于 Shizuku，无需 root。</summary>
     </entry>
     <entry>
@@ -81,13 +123,6 @@
       <link href="https://github.com/reymi4791-dot/ProGFX-Shizuku"/>
       <id>https://github.com/reymi4791-dot/ProGFX-Shizuku</id>
       <updated>2026-09-20T04:16:59.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Rishu-s08/appback</title>
-      <link href="https://github.com/Rishu-s08/appback"/>
-      <id>https://github.com/Rishu-s08/appback</id>
-      <updated>2026-09-19T15:56:39.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -122,7 +157,7 @@
       <title>sromku/android-storage</title>
       <link href="https://github.com/sromku/android-storage"/>
       <id>https://github.com/sromku/android-storage</id>
-      <updated>2026-09-19T05:33:09.000Z</updated>
+      <updated>2026-09-21T06:21:47.000Z</updated>
       <summary>A powerful file, app &amp; system inspector for Android. Everything on the device - files, apps, databases, sockets, sensors, system internals - in one fast, modern app.</summary>
     </entry>
     <entry>
@@ -180,40 +215,5 @@
       <id>https://github.com/astroboii47/Commander</id>
       <updated>2026-09-09T16:48:47.000Z</updated>
       <summary>Keyboard-first command bar and notification hub; uses Shizuku for recent-app switching and privileged shell controls.</summary>
-    </entry>
-    <entry>
-      <title>JarJarBlinkz/Evolve_Launcher_v2</title>
-      <link href="https://github.com/JarJarBlinkz/Evolve_Launcher_v2"/>
-      <id>https://github.com/JarJarBlinkz/Evolve_Launcher_v2</id>
-      <updated>2026-09-18T21:30:11.000Z</updated>
-      <summary>Customizable home launcher for Meta Quest headsets with app organization, playtime tracking and Shizuku-powered clear data/cache actions.</summary>
-    </entry>
-    <entry>
-      <title>KaitonGxx/thor-pathfinder</title>
-      <link href="https://github.com/KaitonGxx/thor-pathfinder"/>
-      <id>https://github.com/KaitonGxx/thor-pathfinder</id>
-      <updated>2026-09-18T20:05:32.000Z</updated>
-      <summary>Swap apps between the AYN Thor's two screens and put shortcuts on its buttons. Free and open source (GPL-3.0).</summary>
-    </entry>
-    <entry>
-      <title>priv-kit/priv-kit</title>
-      <link href="https://github.com/priv-kit/priv-kit"/>
-      <id>https://github.com/priv-kit/priv-kit</id>
-      <updated>2026-09-19T03:41:18.000Z</updated>
-      <summary>Lightweight privileged-runtime library for Root, ADB, or Shizuku-backed Binder access in your own app</summary>
-    </entry>
-    <entry>
-      <title>Benjamin-Wiegand/Flywheel</title>
-      <link href="https://github.com/Benjamin-Wiegand/Flywheel"/>
-      <id>https://github.com/Benjamin-Wiegand/Flywheel</id>
-      <updated>2026-08-13T18:26:41.000Z</updated>
-      <summary>Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture.</summary>
-    </entry>
-    <entry>
-      <title>Horizen5/Appslim</title>
-      <link href="https://github.com/Horizen5/Appslim"/>
-      <id>https://github.com/Horizen5/Appslim</id>
-      <updated>2026-08-01T07:39:43.000Z</updated>
-      <summary>Android runtime analyzer profiling launch behavior, CPU/memory and Dex calls, then slimming apps through hooks, rules and Shizuku or root actions.</summary>
     </entry>
 </feed>
