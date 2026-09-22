@@ -3,9 +3,184 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-21T08:15:13.028Z</updated>
+  <updated>2026-09-22T07:59:18.309Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>zhanghai/MaterialFiles</title>
+      <link href="https://github.com/zhanghai/MaterialFiles"/>
+      <id>https://github.com/zhanghai/MaterialFiles</id>
+      <updated>2026-09-20T20:42:04.000Z</updated>
+      <summary>Material Design file manager for Android</summary>
+    </entry>
+    <entry>
+      <title>AndroidCSOfficial/android-code-studio</title>
+      <link href="https://github.com/AndroidCSOfficial/android-code-studio"/>
+      <id>https://github.com/AndroidCSOfficial/android-code-studio</id>
+      <updated>2026-07-09T14:35:22.000Z</updated>
+      <summary>On-device IDE for building Gradle-based Android projects; Shizuku enables silent installation of the built APK.</summary>
+    </entry>
+    <entry>
+      <title>Pixel-Tailor-CN/TensorIMS</title>
+      <link href="https://github.com/Pixel-Tailor-CN/TensorIMS"/>
+      <id>https://github.com/Pixel-Tailor-CN/TensorIMS</id>
+      <updated>2026-09-16T12:56:04.000Z</updated>
+      <summary>IMS configuration tool for Tensor Pixel devices; Shizuku applies VoLTE, VoWiFi, VT and VoNR toggles.</summary>
+    </entry>
+    <entry>
+      <title>cygnusx-1-org/Discoverium</title>
+      <link href="https://github.com/cygnusx-1-org/Discoverium"/>
+      <id>https://github.com/cygnusx-1-org/Discoverium</id>
+      <updated>2026-09-22T02:37:38.000Z</updated>
+      <summary>Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends.</summary>
+    </entry>
+    <entry>
+      <title>adybag14-cyber/hermes-agent</title>
+      <link href="https://github.com/adybag14-cyber/hermes-agent"/>
+      <id>https://github.com/adybag14-cyber/hermes-agent</id>
+      <updated>2026-09-12T16:59:12.000Z</updated>
+      <summary>Hermes Agent port for Android with a Shizuku privileged shell bridge for on-device actions.</summary>
+    </entry>
+    <entry>
+      <title>AndroidIDE-CN/AIDE-Plus</title>
+      <link href="https://github.com/AndroidIDE-CN/AIDE-Plus"/>
+      <id>https://github.com/AndroidIDE-CN/AIDE-Plus</id>
+      <updated>2026-05-04T16:23:36.000Z</updated>
+      <summary>AndroidIDE fork with silent APK installation through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>DmitryN71/apkupdater</title>
+      <link href="https://github.com/DmitryN71/apkupdater"/>
+      <id>https://github.com/DmitryN71/apkupdater</id>
+      <updated>2026-09-18T10:37:55.000Z</updated>
+      <summary>APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources.</summary>
+    </entry>
+    <entry>
+      <title>Hexadecinull/VineOS</title>
+      <link href="https://github.com/Hexadecinull/VineOS"/>
+      <id>https://github.com/Hexadecinull/VineOS</id>
+      <updated>2026-09-21T16:26:38.000Z</updated>
+      <summary>Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path.</summary>
+    </entry>
+    <entry>
+      <title>freroxx/toolz</title>
+      <link href="https://github.com/freroxx/toolz"/>
+      <id>https://github.com/freroxx/toolz</id>
+      <updated>2026-09-21T21:31:36.000Z</updated>
+      <summary>Toolz is a comprehensive Android utility app designed to provide users with a versatile set of digital tools in a single, cohesive interface. It features a responsive grid dashboard for intuitive access to all utilities.</summary>
+    </entry>
+    <entry>
+      <title>d4rken-org/porter</title>
+      <link href="https://github.com/d4rken-org/porter"/>
+      <id>https://github.com/d4rken-org/porter</id>
+      <updated>2026-09-22T07:42:13.000Z</updated>
+      <summary>Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps</summary>
+    </entry>
+    <entry>
+      <title>Victor-root/Omnify</title>
+      <link href="https://github.com/Victor-root/Omnify"/>
+      <id>https://github.com/Victor-root/Omnify</id>
+      <updated>2026-09-16T11:49:33.000Z</updated>
+      <summary>F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row.</summary>
+    </entry>
+    <entry>
+      <title>xvxv-stack7/android-claude-agent</title>
+      <link href="https://github.com/xvxv-stack7/android-claude-agent"/>
+      <id>https://github.com/xvxv-stack7/android-claude-agent</id>
+      <updated>2026-09-21T20:36:02.000Z</updated>
+      <summary>AI Agent 免 Root 免电脑永久控制 Android — 无线调试做跳板，adb tcpip 5555伪装USB模式，127.0.0.1回环自连</summary>
+    </entry>
+    <entry>
+      <title>thejaustin/SuperShade</title>
+      <link href="https://github.com/thejaustin/SuperShade"/>
+      <id>https://github.com/thejaustin/SuperShade</id>
+      <updated>2026-09-21T05:26:22.000Z</updated>
+      <summary>Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands.</summary>
+    </entry>
+    <entry>
+      <title>utopiafar/XClean</title>
+      <link href="https://github.com/utopiafar/XClean"/>
+      <id>https://github.com/utopiafar/XClean</id>
+      <updated>2026-09-13T18:00:03.000Z</updated>
+      <summary>Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk.</summary>
+    </entry>
+    <entry>
+      <title>dhruvanbhalara/DozeTap</title>
+      <link href="https://github.com/dhruvanbhalara/DozeTap"/>
+      <id>https://github.com/dhruvanbhalara/DozeTap</id>
+      <updated>2026-08-23T07:50:44.000Z</updated>
+      <summary>Screen timeout presets that grant WRITE_SECURE_SETTINGS in one tap through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>exaclast/renoir</title>
+      <link href="https://github.com/exaclast/renoir"/>
+      <id>https://github.com/exaclast/renoir</id>
+      <updated>2026-08-26T04:42:46.000Z</updated>
+      <summary>Material You theme designer that applies custom overlays through a Shizuku shell command.</summary>
+    </entry>
+    <entry>
+      <title>mahmutaunal/TVPilot</title>
+      <link href="https://github.com/mahmutaunal/TVPilot"/>
+      <id>https://github.com/mahmutaunal/TVPilot</id>
+      <updated>2026-09-21T18:12:36.000Z</updated>
+      <summary>Remote-first system control and app management utility for Android TV / Google TV, with optional Shizuku-powered advanced actions.</summary>
+    </entry>
+    <entry>
+      <title>xvxv-stack7/android-claude-music</title>
+      <link href="https://github.com/xvxv-stack7/android-claude-music"/>
+      <id>https://github.com/xvxv-stack7/android-claude-music</id>
+      <updated>2026-09-21T20:35:52.000Z</updated>
+      <summary>和你的 AI 一起听歌 —— 它自己会给你点歌，不用你开口。放歌走虚拟副屏不占你的屏；AI 跑在手机 Termux 本地，adb 直读播放状态，免 Root 免电脑，实测走酷狗。</summary>
+    </entry>
+    <entry>
+      <title>84593320z/gkd-</title>
+      <link href="https://github.com/84593320z/gkd-"/>
+      <id>https://github.com/84593320z/gkd-</id>
+      <updated>2026-09-21T18:39:16.000Z</updated>
+      <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
+    </entry>
+    <entry>
+      <title>bentolanh/thor-sidepad</title>
+      <link href="https://github.com/bentolanh/thor-sidepad"/>
+      <id>https://github.com/bentolanh/thor-sidepad</id>
+      <updated>2026-09-18T06:39:13.000Z</updated>
+      <summary>Turns the AYN Thor bottom screen into a virtual gamepad; Shizuku injects its presses as native controller input.</summary>
+    </entry>
+    <entry>
+      <title>Button Mapper</title>
+      <link href="https://play.google.com/store/apps/details?id=flar2.homebutton"/>
+      <id>https://play.google.com/store/apps/details?id=flar2.homebutton</id>
+      <updated>2026-09-22T07:58:18.616Z</updated>
+      <summary>Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press</summary>
+    </entry>
+    <entry>
+      <title>Ceratops-Code/Wobblepad-Adapter</title>
+      <link href="https://github.com/Ceratops-Code/Wobblepad-Adapter"/>
+      <id>https://github.com/Ceratops-Code/Wobblepad-Adapter</id>
+      <updated>2026-09-22T07:03:37.000Z</updated>
+      <summary>An independent, open-source bridge that maps tilt from compatible Bluetooth LE balance boards to directional input on Android and Windows.</summary>
+    </entry>
+    <entry>
+      <title>ClipShare</title>
+      <link href="https://clipshare.coclyun.top/"/>
+      <id>https://clipshare.coclyun.top/</id>
+      <updated>2026-09-22T07:58:18.616Z</updated>
+      <summary>Cross-platform clipboard sync for text, images, files and SMS; Shizuku keeps the Android clipboard listener running.</summary>
+    </entry>
+    <entry>
+      <title>suifonouyang-sudo/VirtualCast</title>
+      <link href="https://github.com/suifonouyang-sudo/VirtualCast"/>
+      <id>https://github.com/suifonouyang-sudo/VirtualCast</id>
+      <updated>2026-09-21T11:22:48.000Z</updated>
+      <summary>虚拟投屏（VirtualCast）—— Android 免 root 屏幕投屏与反向控制工具（基于 Shizuku）：检测设备上所有屏幕、实时投屏任意一块屏、注入触摸与按键、在目标屏启动任意应用</summary>
+    </entry>
+    <entry>
+      <title>suifonouyang-sudo/xunipingmu-gongjuxiang</title>
+      <link href="https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang"/>
+      <id>https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang</id>
+      <updated>2026-09-21T11:22:46.000Z</updated>
+      <summary>基于 Shizuku 的 Android 虚拟屏工具箱：虚拟屏创建与控制、无线调试端口固化、APK 批量安装、应用备份恢复</summary>
+    </entry>
     <entry>
       <title>AbdurazaaqMohammed/MP-Manager</title>
       <link href="https://github.com/AbdurazaaqMohammed/MP-Manager"/>
@@ -24,7 +199,7 @@
       <title>att083/FoldPatch</title>
       <link href="https://github.com/att083/FoldPatch"/>
       <id>https://github.com/att083/FoldPatch</id>
-      <updated>2026-09-21T05:51:49.000Z</updated>
+      <updated>2026-09-21T08:46:36.000Z</updated>
       <summary>Keep a foldable phone usable with a dead center display and one working touch side. App reflow, touchpad and one-sided keyboard. Requires Shizuku.</summary>
     </entry>
     <entry>
@@ -38,182 +213,7 @@
       <title>xinxiangjueming/PowerMeter</title>
       <link href="https://github.com/xinxiangjueming/PowerMeter"/>
       <id>https://github.com/xinxiangjueming/PowerMeter</id>
-      <updated>2026-09-21T05:09:37.000Z</updated>
+      <updated>2026-09-21T12:36:56.000Z</updated>
       <summary></summary>
-    </entry>
-    <entry>
-      <title>7723mod/NPatch</title>
-      <link href="https://github.com/7723mod/NPatch"/>
-      <id>https://github.com/7723mod/NPatch</id>
-      <updated>2026-09-01T13:06:48.000Z</updated>
-      <summary>Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs</summary>
-    </entry>
-    <entry>
-      <title>wkbin/taixu</title>
-      <link href="https://github.com/wkbin/taixu"/>
-      <id>https://github.com/wkbin/taixu</id>
-      <updated>2026-09-21T07:27:58.000Z</updated>
-      <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
-    </entry>
-    <entry>
-      <title>sklndev/Service-Keeper</title>
-      <link href="https://github.com/sklndev/Service-Keeper"/>
-      <id>https://github.com/sklndev/Service-Keeper</id>
-      <updated>2026-09-10T17:58:11.000Z</updated>
-      <summary>Android app that monitors and automatically restarts background services, accessibility services, and notification listeners killed by the system, using Shizuku for privileged access.</summary>
-    </entry>
-    <entry>
-      <title>AnasAbdullh/Debloat-HyperOS-App</title>
-      <link href="https://github.com/AnasAbdullh/Debloat-HyperOS-App"/>
-      <id>https://github.com/AnasAbdullh/Debloat-HyperOS-App</id>
-      <updated>2026-09-20T23:33:40.000Z</updated>
-      <summary>Open-source Android app to safely debloat Xiaomi &amp; HyperOS devices using Shizuku. No root required.</summary>
-    </entry>
-    <entry>
-      <title>Rishu-s08/appback</title>
-      <link href="https://github.com/Rishu-s08/appback"/>
-      <id>https://github.com/Rishu-s08/appback</id>
-      <updated>2026-09-20T14:22:55.000Z</updated>
-      <summary>No-root Android app state backup and multi-device synchronization using Android's Backup Manager, Shizuku, Kotlin, and Binder/AIDL.</summary>
-    </entry>
-    <entry>
-      <title>Ceratops-Code/Wobblepad-Android</title>
-      <link href="https://github.com/Ceratops-Code/Wobblepad-Android"/>
-      <id>https://github.com/Ceratops-Code/Wobblepad-Android</id>
-      <updated>2026-09-20T00:48:42.000Z</updated>
-      <summary>An independent, open-source Android bridge that connects to a user-owned BoBo Wobbly over Bluetooth LE and converts tilt into standard controller input.</summary>
-    </entry>
-    <entry>
-      <title>Gupong1/Box</title>
-      <link href="https://github.com/Gupong1/Box"/>
-      <id>https://github.com/Gupong1/Box</id>
-      <updated>2026-09-19T10:02:36.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Gupong1/Shizuku</title>
-      <link href="https://github.com/Gupong1/Shizuku"/>
-      <id>https://github.com/Gupong1/Shizuku</id>
-      <updated>2026-09-19T09:47:39.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>jehan593/termux-config</title>
-      <link href="https://github.com/jehan593/termux-config"/>
-      <id>https://github.com/jehan593/termux-config</id>
-      <updated>2026-09-19T23:53:19.000Z</updated>
-      <summary>Personal Termux setup scripts, dotfiles, and command-line tools.</summary>
-    </entry>
-    <entry>
-      <title>Luxumwww/audio-pipeline-monitor</title>
-      <link href="https://github.com/Luxumwww/audio-pipeline-monitor"/>
-      <id>https://github.com/Luxumwww/audio-pipeline-monitor</id>
-      <updated>2026-09-20T14:32:25.000Z</updated>
-      <summary>监视 Android 当前播放音频的完整链路：应用输出采样率/位深 → AudioFlinger 重采样 → USB / 蓝牙实际输出格式。基于 Shizuku，无需 root。</summary>
-    </entry>
-    <entry>
-      <title>ly5201314gjx/RatioFit</title>
-      <link href="https://github.com/ly5201314gjx/RatioFit"/>
-      <id>https://github.com/ly5201314gjx/RatioFit</id>
-      <updated>2026-09-19T12:40:50.000Z</updated>
-      <summary>给 8.4:9 屏幕做的安卓适配层。强制旋转、强制尺寸与密度、组件自适应重排。Kotlin + Compose。</summary>
-    </entry>
-    <entry>
-      <title>reymi4791-dot/ProGFX-Shizuku</title>
-      <link href="https://github.com/reymi4791-dot/ProGFX-Shizuku"/>
-      <id>https://github.com/reymi4791-dot/ProGFX-Shizuku</id>
-      <updated>2026-09-20T04:16:59.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>plainhub/plain-app</title>
-      <link href="https://github.com/plainhub/plain-app"/>
-      <id>https://github.com/plainhub/plain-app</id>
-      <updated>2026-09-19T06:52:45.000Z</updated>
-      <summary>Self-hosted web dashboard to manage files, media, contacts, SMS and calls from a browser, with Shizuku for privileged SMS deletion.</summary>
-    </entry>
-    <entry>
-      <title>thedjchi/Shizuku</title>
-      <link href="https://github.com/thedjchi/Shizuku"/>
-      <id>https://github.com/thedjchi/Shizuku</id>
-      <updated>2026-07-15T03:12:10.000Z</updated>
-      <summary>Fork of Shizuku with autostart, TCP mode and stealth mode (maintenance currently paused)</summary>
-    </entry>
-    <entry>
-      <title>roro2239/Stellar</title>
-      <link href="https://github.com/roro2239/Stellar"/>
-      <id>https://github.com/roro2239/Stellar</id>
-      <updated>2026-09-19T19:22:06.000Z</updated>
-      <summary>Another Shizuku impl</summary>
-    </entry>
-    <entry>
-      <title>Monica-Pass/Monica</title>
-      <link href="https://github.com/Monica-Pass/Monica"/>
-      <id>https://github.com/Monica-Pass/Monica</id>
-      <updated>2026-09-17T23:41:01.000Z</updated>
-      <summary>Local-first Bitwarden/KeePass password vault with TOTP; Shizuku keeps autofill protection running in the background.</summary>
-    </entry>
-    <entry>
-      <title>sromku/android-storage</title>
-      <link href="https://github.com/sromku/android-storage"/>
-      <id>https://github.com/sromku/android-storage</id>
-      <updated>2026-09-21T06:21:47.000Z</updated>
-      <summary>A powerful file, app &amp; system inspector for Android. Everything on the device - files, apps, databases, sockets, sensors, system internals - in one fast, modern app.</summary>
-    </entry>
-    <entry>
-      <title>BryceWG/BiBi-Keyboard</title>
-      <link href="https://github.com/BryceWG/BiBi-Keyboard"/>
-      <id>https://github.com/BryceWG/BiBi-Keyboard</id>
-      <updated>2026-09-19T03:31:39.000Z</updated>
-      <summary>AI-powered voice input method keyboard; Shizuku or root keeps its floating-ball and volume-key background service alive.</summary>
-    </entry>
-    <entry>
-      <title>iebb/NekokoLPA2</title>
-      <link href="https://github.com/iebb/NekokoLPA2"/>
-      <id>https://github.com/iebb/NekokoLPA2</id>
-      <updated>2026-09-14T14:53:04.000Z</updated>
-      <summary>Cross-platform eSIM/eUICC manager; on Android it asks Shizuku to open the shell-only QRTR socket for Telephony/TMAPI profile operations</summary>
-    </entry>
-    <entry>
-      <title>phsycologicalFudge/AvarionX-Android-Antivirus</title>
-      <link href="https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus"/>
-      <id>https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus</id>
-      <updated>2026-09-11T08:33:52.000Z</updated>
-      <summary>A powerful antivirus for android</summary>
-    </entry>
-    <entry>
-      <title>panel-assistant/android</title>
-      <link href="https://github.com/panel-assistant/android"/>
-      <id>https://github.com/panel-assistant/android</id>
-      <updated>2026-09-18T13:00:46.000Z</updated>
-      <summary>Home Assistant wall-panel dashboard with entity filtering, MQTT device controls and Shizuku/root-powered provisioning and verified installs.</summary>
-    </entry>
-    <entry>
-      <title>Alaa91H/NexaFlow</title>
-      <link href="https://github.com/Alaa91H/NexaFlow"/>
-      <id>https://github.com/Alaa91H/NexaFlow</id>
-      <updated>2026-09-18T11:22:46.000Z</updated>
-      <summary>Context-aware Android automation engine combining triggers, constraints and actions, with Shizuku execution for privileged device controls.</summary>
-    </entry>
-    <entry>
-      <title>Balajitechlabs/quickdash</title>
-      <link href="https://github.com/Balajitechlabs/quickdash"/>
-      <id>https://github.com/Balajitechlabs/quickdash</id>
-      <updated>2026-09-14T21:34:30.000Z</updated>
-      <summary>Floating productivity dashboard with UPI/PayPal collection and chat shortcuts; a Shizuku bridge unlocks privileged system capabilities.</summary>
-    </entry>
-    <entry>
-      <title>DottoXD/NetManager</title>
-      <link href="https://github.com/DottoXD/NetManager"/>
-      <id>https://github.com/DottoXD/NetManager</id>
-      <updated>2026-09-15T16:39:24.000Z</updated>
-      <summary>Material cell-network monitor for 4G/5G NR with tower map, drive tests and speed tests; a Shizuku shell bridge unlocks extra network data.</summary>
-    </entry>
-    <entry>
-      <title>astroboii47/Commander</title>
-      <link href="https://github.com/astroboii47/Commander"/>
-      <id>https://github.com/astroboii47/Commander</id>
-      <updated>2026-09-09T16:48:47.000Z</updated>
-      <summary>Keyboard-first command bar and notification hub; uses Shizuku for recent-app switching and privileged shell controls.</summary>
     </entry>
 </feed>
