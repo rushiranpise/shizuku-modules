@@ -3,9 +3,72 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-22T07:59:18.309Z</updated>
+  <updated>2026-09-23T08:00:42.204Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>paulsnuff/BetterNightLight</title>
+      <link href="https://github.com/paulsnuff/BetterNightLight"/>
+      <id>https://github.com/paulsnuff/BetterNightLight</id>
+      <updated>2026-09-21T13:41:57.000Z</updated>
+      <summary>Take control of Android's native Night Light - advanced scheduling, boost phases, and precise color temperature.  </summary>
+    </entry>
+    <entry>
+      <title>minhtiencr123/Xiaomi-Toolkit</title>
+      <link href="https://github.com/minhtiencr123/Xiaomi-Toolkit"/>
+      <id>https://github.com/minhtiencr123/Xiaomi-Toolkit</id>
+      <updated>2026-09-23T06:34:31.000Z</updated>
+      <summary>Xiaomi Toolkit GitHub: ứng dụng Android sửa lỗi thông báo Xiaomi MIUI/HyperOS; hỗ trợ ROM nội địa, cài Google Play và tối ưu máy qua Shizuku, không cần root.</summary>
+    </entry>
+    <entry>
+      <title>sysrv64/KArchiver</title>
+      <link href="https://github.com/sysrv64/KArchiver"/>
+      <id>https://github.com/sysrv64/KArchiver</id>
+      <updated>2026-09-22T11:21:12.000Z</updated>
+      <summary>Android file manager built around archives: browse storage, open and edit ZIP/TAR/7Z in place, search inside files and archives, with an optional Shizuku or root engine for restricted paths</summary>
+    </entry>
+    <entry>
+      <title>xykalnotkel/OverlayOps</title>
+      <link href="https://github.com/xykalnotkel/OverlayOps"/>
+      <id>https://github.com/xykalnotkel/OverlayOps</id>
+      <updated>2026-09-22T23:41:13.000Z</updated>
+      <summary>AppOps / Display-over-other-apps manager untuk Android via Shizuku (App Ops style)</summary>
+    </entry>
+    <entry>
+      <title>IrrelevantOnGit/Game-Booster-v1</title>
+      <link href="https://github.com/IrrelevantOnGit/Game-Booster-v1"/>
+      <id>https://github.com/IrrelevantOnGit/Game-Booster-v1</id>
+      <updated>2026-06-08T13:56:55.000Z</updated>
+      <summary>Android project app, with mobile game performance optimization capabilities </summary>
+    </entry>
+    <entry>
+      <title>7Mohan/mohalaboptimazation</title>
+      <link href="https://github.com/7Mohan/mohalaboptimazation"/>
+      <id>https://github.com/7Mohan/mohalaboptimazation</id>
+      <updated>2026-09-22T21:46:34.000Z</updated>
+      <summary>? High-performance Android gaming optimizer with 144Hz pipeline bypass, Shizuku system-level tuning, and real-time diagnostics.</summary>
+    </entry>
+    <entry>
+      <title>Drabdie/DraB-Tweak-game-space-</title>
+      <link href="https://github.com/Drabdie/DraB-Tweak-game-space-"/>
+      <id>https://github.com/Drabdie/DraB-Tweak-game-space-</id>
+      <updated>2026-09-23T00:03:54.000Z</updated>
+      <summary>Game tuner and game space with utilites.</summary>
+    </entry>
+    <entry>
+      <title>hkx521/deepseek-harness-android-updater</title>
+      <link href="https://github.com/hkx521/deepseek-harness-android-updater"/>
+      <id>https://github.com/hkx521/deepseek-harness-android-updater</id>
+      <updated>2026-09-22T12:30:09.000Z</updated>
+      <summary>DeepSeek Harness 手机版（Android）—— 把 DSH 内核打包成可直接安装的 APK，通过 root / Shizuku 让 AI 真正操作手机</summary>
+    </entry>
+    <entry>
+      <title>sergeron/MixFlipContinuityManager</title>
+      <link href="https://github.com/sergeron/MixFlipContinuityManager"/>
+      <id>https://github.com/sergeron/MixFlipContinuityManager</id>
+      <updated>2026-09-21T14:59:04.000Z</updated>
+      <summary>Manage app continuity and outer cover screen permissions for Xiaomi MIX Flip (HyperOS) via Shizuku without root.</summary>
+    </entry>
     <entry>
       <title>zhanghai/MaterialFiles</title>
       <link href="https://github.com/zhanghai/MaterialFiles"/>
@@ -46,7 +109,7 @@
       <link href="https://github.com/AndroidIDE-CN/AIDE-Plus"/>
       <id>https://github.com/AndroidIDE-CN/AIDE-Plus</id>
       <updated>2026-05-04T16:23:36.000Z</updated>
-      <summary>AndroidIDE fork with silent APK installation through Shizuku.</summary>
+      <summary>AIDE Plus资源发布库</summary>
     </entry>
     <entry>
       <title>DmitryN71/apkupdater</title>
@@ -73,8 +136,8 @@
       <title>d4rken-org/porter</title>
       <link href="https://github.com/d4rken-org/porter"/>
       <id>https://github.com/d4rken-org/porter</id>
-      <updated>2026-09-22T07:42:13.000Z</updated>
-      <summary>Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps</summary>
+      <updated>2026-09-23T07:46:08.000Z</updated>
+      <summary>ADB access for your apps. A minimal, maintained Shizuku fork.</summary>
     </entry>
     <entry>
       <title>Victor-root/Omnify</title>
@@ -84,18 +147,18 @@
       <summary>F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row.</summary>
     </entry>
     <entry>
+      <title>thejaustin/SuperShade</title>
+      <link href="https://github.com/thejaustin/SuperShade"/>
+      <id>https://github.com/thejaustin/SuperShade</id>
+      <updated>2026-09-22T13:13:34.000Z</updated>
+      <summary>Custom Android notification shade replacement — OneUI &amp; Pixel themes, Shizuku-powered</summary>
+    </entry>
+    <entry>
       <title>xvxv-stack7/android-claude-agent</title>
       <link href="https://github.com/xvxv-stack7/android-claude-agent"/>
       <id>https://github.com/xvxv-stack7/android-claude-agent</id>
       <updated>2026-09-21T20:36:02.000Z</updated>
       <summary>AI Agent 免 Root 免电脑永久控制 Android — 无线调试做跳板，adb tcpip 5555伪装USB模式，127.0.0.1回环自连</summary>
-    </entry>
-    <entry>
-      <title>thejaustin/SuperShade</title>
-      <link href="https://github.com/thejaustin/SuperShade"/>
-      <id>https://github.com/thejaustin/SuperShade</id>
-      <updated>2026-09-21T05:26:22.000Z</updated>
-      <summary>Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands.</summary>
     </entry>
     <entry>
       <title>utopiafar/XClean</title>
@@ -136,7 +199,7 @@
       <title>84593320z/gkd-</title>
       <link href="https://github.com/84593320z/gkd-"/>
       <id>https://github.com/84593320z/gkd-</id>
-      <updated>2026-09-21T18:39:16.000Z</updated>
+      <updated>2026-09-22T09:53:37.000Z</updated>
       <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
     </entry>
     <entry>
@@ -152,68 +215,5 @@
       <id>https://play.google.com/store/apps/details?id=flar2.homebutton</id>
       <updated>2026-09-22T07:58:18.616Z</updated>
       <summary>Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press</summary>
-    </entry>
-    <entry>
-      <title>Ceratops-Code/Wobblepad-Adapter</title>
-      <link href="https://github.com/Ceratops-Code/Wobblepad-Adapter"/>
-      <id>https://github.com/Ceratops-Code/Wobblepad-Adapter</id>
-      <updated>2026-09-22T07:03:37.000Z</updated>
-      <summary>An independent, open-source bridge that maps tilt from compatible Bluetooth LE balance boards to directional input on Android and Windows.</summary>
-    </entry>
-    <entry>
-      <title>ClipShare</title>
-      <link href="https://clipshare.coclyun.top/"/>
-      <id>https://clipshare.coclyun.top/</id>
-      <updated>2026-09-22T07:58:18.616Z</updated>
-      <summary>Cross-platform clipboard sync for text, images, files and SMS; Shizuku keeps the Android clipboard listener running.</summary>
-    </entry>
-    <entry>
-      <title>suifonouyang-sudo/VirtualCast</title>
-      <link href="https://github.com/suifonouyang-sudo/VirtualCast"/>
-      <id>https://github.com/suifonouyang-sudo/VirtualCast</id>
-      <updated>2026-09-21T11:22:48.000Z</updated>
-      <summary>虚拟投屏（VirtualCast）—— Android 免 root 屏幕投屏与反向控制工具（基于 Shizuku）：检测设备上所有屏幕、实时投屏任意一块屏、注入触摸与按键、在目标屏启动任意应用</summary>
-    </entry>
-    <entry>
-      <title>suifonouyang-sudo/xunipingmu-gongjuxiang</title>
-      <link href="https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang"/>
-      <id>https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang</id>
-      <updated>2026-09-21T11:22:46.000Z</updated>
-      <summary>基于 Shizuku 的 Android 虚拟屏工具箱：虚拟屏创建与控制、无线调试端口固化、APK 批量安装、应用备份恢复</summary>
-    </entry>
-    <entry>
-      <title>AbdurazaaqMohammed/MP-Manager</title>
-      <link href="https://github.com/AbdurazaaqMohammed/MP-Manager"/>
-      <id>https://github.com/AbdurazaaqMohammed/MP-Manager</id>
-      <updated>2026-09-21T06:24:05.000Z</updated>
-      <summary>Dual pane Android file manager with focus on APKs</summary>
-    </entry>
-    <entry>
-      <title>mrdarksidetm/Android-Battery-Unrestricted-Checker</title>
-      <link href="https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker"/>
-      <id>https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker</id>
-      <updated>2026-09-20T08:06:25.000Z</updated>
-      <summary>Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku</summary>
-    </entry>
-    <entry>
-      <title>att083/FoldPatch</title>
-      <link href="https://github.com/att083/FoldPatch"/>
-      <id>https://github.com/att083/FoldPatch</id>
-      <updated>2026-09-21T08:46:36.000Z</updated>
-      <summary>Keep a foldable phone usable with a dead center display and one working touch side. App reflow, touchpad and one-sided keyboard. Requires Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>sarvesh173/omnicompanion</title>
-      <link href="https://github.com/sarvesh173/omnicompanion"/>
-      <id>https://github.com/sarvesh173/omnicompanion</id>
-      <updated>2026-09-20T22:05:31.000Z</updated>
-      <summary>Universal Android Automation Companion Bridge &amp; IME Service for Autonomous AI Agents &amp; Developers (Material 3 Expressive, Shizuku, Termux, Accessibility)</summary>
-    </entry>
-    <entry>
-      <title>xinxiangjueming/PowerMeter</title>
-      <link href="https://github.com/xinxiangjueming/PowerMeter"/>
-      <id>https://github.com/xinxiangjueming/PowerMeter</id>
-      <updated>2026-09-21T12:36:56.000Z</updated>
-      <summary></summary>
     </entry>
 </feed>
