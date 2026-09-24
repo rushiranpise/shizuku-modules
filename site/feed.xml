@@ -3,21 +3,77 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-23T08:00:42.204Z</updated>
+  <updated>2026-09-24T07:52:04.877Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>kreza6173-pixel/void-pulse</title>
+      <link href="https://github.com/kreza6173-pixel/void-pulse"/>
+      <id>https://github.com/kreza6173-pixel/void-pulse</id>
+      <updated>2026-09-23T23:58:47.000Z</updated>
+      <summary>Notification &amp; DND Studio</summary>
+    </entry>
+    <entry>
+      <title>ETQWFD/ETAW-Cleaner</title>
+      <link href="https://github.com/ETQWFD/ETAW-Cleaner"/>
+      <id>https://github.com/ETQWFD/ETAW-Cleaner</id>
+      <updated>2026-09-23T22:02:59.000Z</updated>
+      <summary>ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具</summary>
+    </entry>
+    <entry>
+      <title>garland-0/CacheCleaner</title>
+      <link href="https://github.com/garland-0/CacheCleaner"/>
+      <id>https://github.com/garland-0/CacheCleaner</id>
+      <updated>2026-09-24T00:33:15.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</title>
+      <link href="https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-"/>
+      <id>https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</id>
+      <updated>2026-09-23T20:50:22.000Z</updated>
+      <summary>Es una prueba</summary>
+    </entry>
+    <entry>
+      <title>Ncorror/ex-astris-save-editor</title>
+      <link href="https://github.com/Ncorror/ex-astris-save-editor"/>
+      <id>https://github.com/Ncorror/ex-astris-save-editor</id>
+      <updated>2026-09-24T07:12:23.000Z</updated>
+      <summary>Unofficial Android save editor for Ex Astris: inventory editing, verified backups, Root/Shizuku access and Arknights skins for Hime and MsBlack</summary>
+    </entry>
+    <entry>
+      <title>sosakristian40-web/Mi.appshizuku</title>
+      <link href="https://github.com/sosakristian40-web/Mi.appshizuku"/>
+      <id>https://github.com/sosakristian40-web/Mi.appshizuku</id>
+      <updated>2026-09-23T21:55:25.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>SrQingChen/qingzhou</title>
+      <link href="https://github.com/SrQingChen/qingzhou"/>
+      <id>https://github.com/SrQingChen/qingzhou</id>
+      <updated>2026-09-23T08:41:57.000Z</updated>
+      <summary>LAN/hotspot ultra-fast secure transfer for Android - Noise E2E encryption, chunked multi-stream, HyperOS island, USB wired parallel</summary>
+    </entry>
+    <entry>
+      <title>stevennodock/duomix-fader</title>
+      <link href="https://github.com/stevennodock/duomix-fader"/>
+      <id>https://github.com/stevennodock/duomix-fader</id>
+      <updated>2026-09-23T20:32:59.000Z</updated>
+      <summary>Play two Android apps at once and mix them with a crossfader; live harmonic analysis (Oliver Prehn's 33 Scales of Harmonies). No root: Shizuku.</summary>
+    </entry>
     <entry>
       <title>paulsnuff/BetterNightLight</title>
       <link href="https://github.com/paulsnuff/BetterNightLight"/>
       <id>https://github.com/paulsnuff/BetterNightLight</id>
-      <updated>2026-09-21T13:41:57.000Z</updated>
+      <updated>2026-09-23T11:49:42.000Z</updated>
       <summary>Take control of Android's native Night Light - advanced scheduling, boost phases, and precise color temperature.  </summary>
     </entry>
     <entry>
       <title>minhtiencr123/Xiaomi-Toolkit</title>
       <link href="https://github.com/minhtiencr123/Xiaomi-Toolkit"/>
       <id>https://github.com/minhtiencr123/Xiaomi-Toolkit</id>
-      <updated>2026-09-23T06:34:31.000Z</updated>
+      <updated>2026-09-24T03:22:44.000Z</updated>
       <summary>Xiaomi Toolkit GitHub: ứng dụng Android sửa lỗi thông báo Xiaomi MIUI/HyperOS; hỗ trợ ROM nội địa, cài Google Play và tối ưu máy qua Shizuku, không cần root.</summary>
     </entry>
     <entry>
@@ -136,7 +192,7 @@
       <title>d4rken-org/porter</title>
       <link href="https://github.com/d4rken-org/porter"/>
       <id>https://github.com/d4rken-org/porter</id>
-      <updated>2026-09-23T07:46:08.000Z</updated>
+      <updated>2026-09-23T22:25:26.000Z</updated>
       <summary>ADB access for your apps. A minimal, maintained Shizuku fork.</summary>
     </entry>
     <entry>
@@ -159,61 +215,5 @@
       <id>https://github.com/xvxv-stack7/android-claude-agent</id>
       <updated>2026-09-21T20:36:02.000Z</updated>
       <summary>AI Agent 免 Root 免电脑永久控制 Android — 无线调试做跳板，adb tcpip 5555伪装USB模式，127.0.0.1回环自连</summary>
-    </entry>
-    <entry>
-      <title>utopiafar/XClean</title>
-      <link href="https://github.com/utopiafar/XClean"/>
-      <id>https://github.com/utopiafar/XClean</id>
-      <updated>2026-09-13T18:00:03.000Z</updated>
-      <summary>Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk.</summary>
-    </entry>
-    <entry>
-      <title>dhruvanbhalara/DozeTap</title>
-      <link href="https://github.com/dhruvanbhalara/DozeTap"/>
-      <id>https://github.com/dhruvanbhalara/DozeTap</id>
-      <updated>2026-08-23T07:50:44.000Z</updated>
-      <summary>Screen timeout presets that grant WRITE_SECURE_SETTINGS in one tap through Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>exaclast/renoir</title>
-      <link href="https://github.com/exaclast/renoir"/>
-      <id>https://github.com/exaclast/renoir</id>
-      <updated>2026-08-26T04:42:46.000Z</updated>
-      <summary>Material You theme designer that applies custom overlays through a Shizuku shell command.</summary>
-    </entry>
-    <entry>
-      <title>mahmutaunal/TVPilot</title>
-      <link href="https://github.com/mahmutaunal/TVPilot"/>
-      <id>https://github.com/mahmutaunal/TVPilot</id>
-      <updated>2026-09-21T18:12:36.000Z</updated>
-      <summary>Remote-first system control and app management utility for Android TV / Google TV, with optional Shizuku-powered advanced actions.</summary>
-    </entry>
-    <entry>
-      <title>xvxv-stack7/android-claude-music</title>
-      <link href="https://github.com/xvxv-stack7/android-claude-music"/>
-      <id>https://github.com/xvxv-stack7/android-claude-music</id>
-      <updated>2026-09-21T20:35:52.000Z</updated>
-      <summary>和你的 AI 一起听歌 —— 它自己会给你点歌，不用你开口。放歌走虚拟副屏不占你的屏；AI 跑在手机 Termux 本地，adb 直读播放状态，免 Root 免电脑，实测走酷狗。</summary>
-    </entry>
-    <entry>
-      <title>84593320z/gkd-</title>
-      <link href="https://github.com/84593320z/gkd-"/>
-      <id>https://github.com/84593320z/gkd-</id>
-      <updated>2026-09-22T09:53:37.000Z</updated>
-      <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
-    </entry>
-    <entry>
-      <title>bentolanh/thor-sidepad</title>
-      <link href="https://github.com/bentolanh/thor-sidepad"/>
-      <id>https://github.com/bentolanh/thor-sidepad</id>
-      <updated>2026-09-18T06:39:13.000Z</updated>
-      <summary>Turns the AYN Thor bottom screen into a virtual gamepad; Shizuku injects its presses as native controller input.</summary>
-    </entry>
-    <entry>
-      <title>Button Mapper</title>
-      <link href="https://play.google.com/store/apps/details?id=flar2.homebutton"/>
-      <id>https://play.google.com/store/apps/details?id=flar2.homebutton</id>
-      <updated>2026-09-22T07:58:18.616Z</updated>
-      <summary>Remap hardware buttons to launch any app, shortcut or custom action with a single, double or long press</summary>
     </entry>
 </feed>
