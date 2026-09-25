@@ -3,9 +3,51 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-24T07:52:04.877Z</updated>
+  <updated>2026-09-25T08:14:23.676Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>thefalconry/talon</title>
+      <link href="https://github.com/thefalconry/talon"/>
+      <id>https://github.com/thefalconry/talon</id>
+      <updated>2026-09-24T21:44:57.000Z</updated>
+      <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
+    </entry>
+    <entry>
+      <title>FrancescoMin/batteryhealthtracker</title>
+      <link href="https://github.com/FrancescoMin/batteryhealthtracker"/>
+      <id>https://github.com/FrancescoMin/batteryhealthtracker</id>
+      <updated>2026-09-24T08:17:26.000Z</updated>
+      <summary>Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>fengkaobanli/SpazPeek</title>
+      <link href="https://github.com/fengkaobanli/SpazPeek"/>
+      <id>https://github.com/fengkaobanli/SpazPeek</id>
+      <updated>2026-09-24T23:58:57.000Z</updated>
+      <summary>Spatial audio chain forensics for Android — dual-render detection, head tracking, resampling</summary>
+    </entry>
+    <entry>
+      <title>qi-1021/M9A-Meow</title>
+      <link href="https://github.com/qi-1021/M9A-Meow"/>
+      <id>https://github.com/qi-1021/M9A-Meow</id>
+      <updated>2026-09-25T07:01:48.000Z</updated>
+      <summary>《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android</summary>
+    </entry>
+    <entry>
+      <title>AndSni/SysReadout-Launcher</title>
+      <link href="https://github.com/AndSni/SysReadout-Launcher"/>
+      <id>https://github.com/AndSni/SysReadout-Launcher</id>
+      <updated>2026-09-24T18:05:24.000Z</updated>
+      <summary>Minimal Android launcher that turns your home screen into a live, terminal-style system monitor: status rows, processes, connections, DNS, battery drain, CRT effects. SRL for short.</summary>
+    </entry>
+    <entry>
+      <title>FDzaki-dev/LagFix</title>
+      <link href="https://github.com/FDzaki-dev/LagFix"/>
+      <id>https://github.com/FDzaki-dev/LagFix</id>
+      <updated>2026-09-25T06:37:48.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>kreza6173-pixel/void-pulse</title>
       <link href="https://github.com/kreza6173-pixel/void-pulse"/>
@@ -17,14 +59,14 @@
       <title>ETQWFD/ETAW-Cleaner</title>
       <link href="https://github.com/ETQWFD/ETAW-Cleaner"/>
       <id>https://github.com/ETQWFD/ETAW-Cleaner</id>
-      <updated>2026-09-23T22:02:59.000Z</updated>
+      <updated>2026-09-24T16:44:33.000Z</updated>
       <summary>ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具</summary>
     </entry>
     <entry>
       <title>garland-0/CacheCleaner</title>
       <link href="https://github.com/garland-0/CacheCleaner"/>
       <id>https://github.com/garland-0/CacheCleaner</id>
-      <updated>2026-09-24T00:33:15.000Z</updated>
+      <updated>2026-09-24T16:41:02.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -52,7 +94,7 @@
       <title>SrQingChen/qingzhou</title>
       <link href="https://github.com/SrQingChen/qingzhou"/>
       <id>https://github.com/SrQingChen/qingzhou</id>
-      <updated>2026-09-23T08:41:57.000Z</updated>
+      <updated>2026-09-24T10:53:38.000Z</updated>
       <summary>LAN/hotspot ultra-fast secure transfer for Android - Noise E2E encryption, chunked multi-stream, HyperOS island, USB wired parallel</summary>
     </entry>
     <entry>
@@ -66,15 +108,15 @@
       <title>paulsnuff/BetterNightLight</title>
       <link href="https://github.com/paulsnuff/BetterNightLight"/>
       <id>https://github.com/paulsnuff/BetterNightLight</id>
-      <updated>2026-09-23T11:49:42.000Z</updated>
+      <updated>2026-09-24T12:23:33.000Z</updated>
       <summary>Take control of Android's native Night Light - advanced scheduling, boost phases, and precise color temperature.  </summary>
     </entry>
     <entry>
       <title>minhtiencr123/Xiaomi-Toolkit</title>
       <link href="https://github.com/minhtiencr123/Xiaomi-Toolkit"/>
       <id>https://github.com/minhtiencr123/Xiaomi-Toolkit</id>
-      <updated>2026-09-24T03:22:44.000Z</updated>
-      <summary>Xiaomi Toolkit GitHub: ứng dụng Android sửa lỗi thông báo Xiaomi MIUI/HyperOS; hỗ trợ ROM nội địa, cài Google Play và tối ưu máy qua Shizuku, không cần root.</summary>
+      <updated>2026-09-24T11:03:40.000Z</updated>
+      <summary>Xiaomi Toolkit GitHub chính thức của minhtiencr123 – ứng dụng Android sửa lỗi thông báo Xiaomi MIUI/HyperOS cho máy nội địa Trung Quốc, dùng Shizuku, không cần root.</summary>
     </entry>
     <entry>
       <title>sysrv64/KArchiver</title>
@@ -173,47 +215,5 @@
       <id>https://github.com/DmitryN71/apkupdater</id>
       <updated>2026-09-18T10:37:55.000Z</updated>
       <summary>APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources.</summary>
-    </entry>
-    <entry>
-      <title>Hexadecinull/VineOS</title>
-      <link href="https://github.com/Hexadecinull/VineOS"/>
-      <id>https://github.com/Hexadecinull/VineOS</id>
-      <updated>2026-09-21T16:26:38.000Z</updated>
-      <summary>Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path.</summary>
-    </entry>
-    <entry>
-      <title>freroxx/toolz</title>
-      <link href="https://github.com/freroxx/toolz"/>
-      <id>https://github.com/freroxx/toolz</id>
-      <updated>2026-09-21T21:31:36.000Z</updated>
-      <summary>Toolz is a comprehensive Android utility app designed to provide users with a versatile set of digital tools in a single, cohesive interface. It features a responsive grid dashboard for intuitive access to all utilities.</summary>
-    </entry>
-    <entry>
-      <title>d4rken-org/porter</title>
-      <link href="https://github.com/d4rken-org/porter"/>
-      <id>https://github.com/d4rken-org/porter</id>
-      <updated>2026-09-23T22:25:26.000Z</updated>
-      <summary>ADB access for your apps. A minimal, maintained Shizuku fork.</summary>
-    </entry>
-    <entry>
-      <title>Victor-root/Omnify</title>
-      <link href="https://github.com/Victor-root/Omnify"/>
-      <id>https://github.com/Victor-root/Omnify</id>
-      <updated>2026-09-16T11:49:33.000Z</updated>
-      <summary>F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row.</summary>
-    </entry>
-    <entry>
-      <title>thejaustin/SuperShade</title>
-      <link href="https://github.com/thejaustin/SuperShade"/>
-      <id>https://github.com/thejaustin/SuperShade</id>
-      <updated>2026-09-22T13:13:34.000Z</updated>
-      <summary>Custom Android notification shade replacement — OneUI &amp; Pixel themes, Shizuku-powered</summary>
-    </entry>
-    <entry>
-      <title>xvxv-stack7/android-claude-agent</title>
-      <link href="https://github.com/xvxv-stack7/android-claude-agent"/>
-      <id>https://github.com/xvxv-stack7/android-claude-agent</id>
-      <updated>2026-09-21T20:36:02.000Z</updated>
-      <summary>AI Agent 免 Root 免电脑永久控制 Android — 无线调试做跳板，adb tcpip 5555伪装USB模式，127.0.0.1回环自连</summary>
     </entry>
 </feed>
