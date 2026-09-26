@@ -3,14 +3,49 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-25T08:14:23.676Z</updated>
+  <updated>2026-09-26T08:02:46.653Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Yuan0-o/Lucent</title>
+      <link href="https://github.com/Yuan0-o/Lucent"/>
+      <id>https://github.com/Yuan0-o/Lucent</id>
+      <updated>2026-09-26T04:52:10.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>goodeesh/monitune</title>
+      <link href="https://github.com/goodeesh/monitune"/>
+      <id>https://github.com/goodeesh/monitune</id>
+      <updated>2026-09-26T07:41:46.000Z</updated>
+      <summary>Tune your Android display for external monitors. Resolution, UI scale and force landscape via Shizuku/root. Display only, no audio.</summary>
+    </entry>
+    <entry>
+      <title>jan5o7o/ztrackpad</title>
+      <link href="https://github.com/jan5o7o/ztrackpad"/>
+      <id>https://github.com/jan5o7o/ztrackpad</id>
+      <updated>2026-09-26T06:08:02.000Z</updated>
+      <summary>Floating trackpad + pointer, an on-screen keys panel, and a virtual display you can see and drive — for Android, built on-device in Termux on a Galaxy Z Fold 4. Needs Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>knowlily/sentinel52</title>
+      <link href="https://github.com/knowlily/sentinel52"/>
+      <id>https://github.com/knowlily/sentinel52</id>
+      <updated>2026-09-25T18:33:15.000Z</updated>
+      <summary>自维护包名名单，命中即静默卸载 —— Root / Dhizuku / Stellar 三个特权后端</summary>
+    </entry>
+    <entry>
+      <title>xykal/AppPerms</title>
+      <link href="https://github.com/xykal/AppPerms"/>
+      <id>https://github.com/xykal/AppPerms</id>
+      <updated>2026-09-25T18:55:45.000Z</updated>
+      <summary>AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB, 0 internet permission, 19 hidden ops, terminal, safe tuning</summary>
+    </entry>
     <entry>
       <title>thefalconry/talon</title>
       <link href="https://github.com/thefalconry/talon"/>
       <id>https://github.com/thefalconry/talon</id>
-      <updated>2026-09-24T21:44:57.000Z</updated>
+      <updated>2026-09-25T20:51:05.000Z</updated>
       <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
     </entry>
     <entry>
@@ -24,28 +59,28 @@
       <title>fengkaobanli/SpazPeek</title>
       <link href="https://github.com/fengkaobanli/SpazPeek"/>
       <id>https://github.com/fengkaobanli/SpazPeek</id>
-      <updated>2026-09-24T23:58:57.000Z</updated>
+      <updated>2026-09-25T19:54:40.000Z</updated>
       <summary>Spatial audio chain forensics for Android — dual-render detection, head tracking, resampling</summary>
     </entry>
     <entry>
       <title>qi-1021/M9A-Meow</title>
       <link href="https://github.com/qi-1021/M9A-Meow"/>
       <id>https://github.com/qi-1021/M9A-Meow</id>
-      <updated>2026-09-25T07:01:48.000Z</updated>
+      <updated>2026-09-26T07:19:03.000Z</updated>
       <summary>《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android</summary>
     </entry>
     <entry>
       <title>AndSni/SysReadout-Launcher</title>
       <link href="https://github.com/AndSni/SysReadout-Launcher"/>
       <id>https://github.com/AndSni/SysReadout-Launcher</id>
-      <updated>2026-09-24T18:05:24.000Z</updated>
+      <updated>2026-09-25T10:22:26.000Z</updated>
       <summary>Minimal Android launcher that turns your home screen into a live, terminal-style system monitor: status rows, processes, connections, DNS, battery drain, CRT effects. SRL for short.</summary>
     </entry>
     <entry>
       <title>FDzaki-dev/LagFix</title>
       <link href="https://github.com/FDzaki-dev/LagFix"/>
       <id>https://github.com/FDzaki-dev/LagFix</id>
-      <updated>2026-09-25T06:37:48.000Z</updated>
+      <updated>2026-09-26T02:19:17.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -101,7 +136,7 @@
       <title>stevennodock/duomix-fader</title>
       <link href="https://github.com/stevennodock/duomix-fader"/>
       <id>https://github.com/stevennodock/duomix-fader</id>
-      <updated>2026-09-23T20:32:59.000Z</updated>
+      <updated>2026-09-25T18:24:57.000Z</updated>
       <summary>Play two Android apps at once and mix them with a crossfader; live harmonic analysis (Oliver Prehn's 33 Scales of Harmonies). No root: Shizuku.</summary>
     </entry>
     <entry>
@@ -180,40 +215,5 @@
       <id>https://github.com/AndroidCSOfficial/android-code-studio</id>
       <updated>2026-07-09T14:35:22.000Z</updated>
       <summary>On-device IDE for building Gradle-based Android projects; Shizuku enables silent installation of the built APK.</summary>
-    </entry>
-    <entry>
-      <title>Pixel-Tailor-CN/TensorIMS</title>
-      <link href="https://github.com/Pixel-Tailor-CN/TensorIMS"/>
-      <id>https://github.com/Pixel-Tailor-CN/TensorIMS</id>
-      <updated>2026-09-16T12:56:04.000Z</updated>
-      <summary>IMS configuration tool for Tensor Pixel devices; Shizuku applies VoLTE, VoWiFi, VT and VoNR toggles.</summary>
-    </entry>
-    <entry>
-      <title>cygnusx-1-org/Discoverium</title>
-      <link href="https://github.com/cygnusx-1-org/Discoverium"/>
-      <id>https://github.com/cygnusx-1-org/Discoverium</id>
-      <updated>2026-09-22T02:37:38.000Z</updated>
-      <summary>Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends.</summary>
-    </entry>
-    <entry>
-      <title>adybag14-cyber/hermes-agent</title>
-      <link href="https://github.com/adybag14-cyber/hermes-agent"/>
-      <id>https://github.com/adybag14-cyber/hermes-agent</id>
-      <updated>2026-09-12T16:59:12.000Z</updated>
-      <summary>Hermes Agent port for Android with a Shizuku privileged shell bridge for on-device actions.</summary>
-    </entry>
-    <entry>
-      <title>AndroidIDE-CN/AIDE-Plus</title>
-      <link href="https://github.com/AndroidIDE-CN/AIDE-Plus"/>
-      <id>https://github.com/AndroidIDE-CN/AIDE-Plus</id>
-      <updated>2026-05-04T16:23:36.000Z</updated>
-      <summary>AIDE Plus资源发布库</summary>
-    </entry>
-    <entry>
-      <title>DmitryN71/apkupdater</title>
-      <link href="https://github.com/DmitryN71/apkupdater"/>
-      <id>https://github.com/DmitryN71/apkupdater</id>
-      <updated>2026-09-18T10:37:55.000Z</updated>
-      <summary>APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources.</summary>
     </entry>
 </feed>
