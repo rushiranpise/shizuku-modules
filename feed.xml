@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-09-26T08:02:46.653Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Yuan0-o/Lucent</title>
+      <link href="https://github.com/Yuan0-o/Lucent"/>
+      <id>https://github.com/Yuan0-o/Lucent</id>
+      <updated>2026-09-26T04:52:10.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>goodeesh/monitune</title>
+      <link href="https://github.com/goodeesh/monitune"/>
+      <id>https://github.com/goodeesh/monitune</id>
+      <updated>2026-09-26T07:41:46.000Z</updated>
+      <summary>Tune your Android display for external monitors. Resolution, UI scale and force landscape via Shizuku/root. Display only, no audio.</summary>
+    </entry>
+    <entry>
+      <title>jan5o7o/ztrackpad</title>
+      <link href="https://github.com/jan5o7o/ztrackpad"/>
+      <id>https://github.com/jan5o7o/ztrackpad</id>
+      <updated>2026-09-26T06:08:02.000Z</updated>
+      <summary>Floating trackpad + pointer, an on-screen keys panel, and a virtual display you can see and drive — for Android, built on-device in Termux on a Galaxy Z Fold 4. Needs Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>knowlily/sentinel52</title>
+      <link href="https://github.com/knowlily/sentinel52"/>
+      <id>https://github.com/knowlily/sentinel52</id>
+      <updated>2026-09-25T18:33:15.000Z</updated>
+      <summary>自维护包名名单，命中即静默卸载 —— Root / Dhizuku / Stellar 三个特权后端</summary>
+    </entry>
+    <entry>
+      <title>xykal/AppPerms</title>
+      <link href="https://github.com/xykal/AppPerms"/>
+      <id>https://github.com/xykal/AppPerms</id>
+      <updated>2026-09-25T18:55:45.000Z</updated>
+      <summary>AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB, 0 internet permission, 19 hidden ops, terminal, safe tuning</summary>
+    </entry>
+    <entry>
+      <title>thefalconry/talon</title>
+      <link href="https://github.com/thefalconry/talon"/>
+      <id>https://github.com/thefalconry/talon</id>
+      <updated>2026-09-25T20:51:05.000Z</updated>
+      <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
+    </entry>
+    <entry>
+      <title>FrancescoMin/batteryhealthtracker</title>
+      <link href="https://github.com/FrancescoMin/batteryhealthtracker"/>
+      <id>https://github.com/FrancescoMin/batteryhealthtracker</id>
+      <updated>2026-09-24T08:17:26.000Z</updated>
+      <summary>Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>fengkaobanli/SpazPeek</title>
+      <link href="https://github.com/fengkaobanli/SpazPeek"/>
+      <id>https://github.com/fengkaobanli/SpazPeek</id>
+      <updated>2026-09-25T19:54:40.000Z</updated>
+      <summary>Spatial audio chain forensics for Android — dual-render detection, head tracking, resampling</summary>
+    </entry>
+    <entry>
+      <title>qi-1021/M9A-Meow</title>
+      <link href="https://github.com/qi-1021/M9A-Meow"/>
+      <id>https://github.com/qi-1021/M9A-Meow</id>
+      <updated>2026-09-26T07:19:03.000Z</updated>
+      <summary>《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android</summary>
+    </entry>
+    <entry>
+      <title>AndSni/SysReadout-Launcher</title>
+      <link href="https://github.com/AndSni/SysReadout-Launcher"/>
+      <id>https://github.com/AndSni/SysReadout-Launcher</id>
+      <updated>2026-09-25T10:22:26.000Z</updated>
+      <summary>Minimal Android launcher that turns your home screen into a live, terminal-style system monitor: status rows, processes, connections, DNS, battery drain, CRT effects. SRL for short.</summary>
+    </entry>
+    <entry>
+      <title>FDzaki-dev/LagFix</title>
+      <link href="https://github.com/FDzaki-dev/LagFix"/>
+      <id>https://github.com/FDzaki-dev/LagFix</id>
+      <updated>2026-09-26T02:19:17.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/void-pulse</title>
+      <link href="https://github.com/kreza6173-pixel/void-pulse"/>
+      <id>https://github.com/kreza6173-pixel/void-pulse</id>
+      <updated>2026-09-23T23:58:47.000Z</updated>
+      <summary>Notification &amp; DND Studio</summary>
+    </entry>
+    <entry>
+      <title>ETQWFD/ETAW-Cleaner</title>
+      <link href="https://github.com/ETQWFD/ETAW-Cleaner"/>
+      <id>https://github.com/ETQWFD/ETAW-Cleaner</id>
+      <updated>2026-09-24T16:44:33.000Z</updated>
+      <summary>ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具</summary>
+    </entry>
+    <entry>
+      <title>garland-0/CacheCleaner</title>
+      <link href="https://github.com/garland-0/CacheCleaner"/>
+      <id>https://github.com/garland-0/CacheCleaner</id>
+      <updated>2026-09-24T16:41:02.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</title>
+      <link href="https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-"/>
+      <id>https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</id>
+      <updated>2026-09-23T20:50:22.000Z</updated>
+      <summary>Es una prueba</summary>
+    </entry>
+    <entry>
+      <title>Ncorror/ex-astris-save-editor</title>
+      <link href="https://github.com/Ncorror/ex-astris-save-editor"/>
+      <id>https://github.com/Ncorror/ex-astris-save-editor</id>
+      <updated>2026-09-24T07:12:23.000Z</updated>
+      <summary>Unofficial Android save editor for Ex Astris: inventory editing, verified backups, Root/Shizuku access and Arknights skins for Hime and MsBlack</summary>
+    </entry>
+    <entry>
+      <title>sosakristian40-web/Mi.appshizuku</title>
+      <link href="https://github.com/sosakristian40-web/Mi.appshizuku"/>
+      <id>https://github.com/sosakristian40-web/Mi.appshizuku</id>
+      <updated>2026-09-23T21:55:25.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>SrQingChen/qingzhou</title>
+      <link href="https://github.com/SrQingChen/qingzhou"/>
+      <id>https://github.com/SrQingChen/qingzhou</id>
+      <updated>2026-09-24T10:53:38.000Z</updated>
+      <summary>LAN/hotspot ultra-fast secure transfer for Android - Noise E2E encryption, chunked multi-stream, HyperOS island, USB wired parallel</summary>
+    </entry>
+    <entry>
+      <title>stevennodock/duomix-fader</title>
+      <link href="https://github.com/stevennodock/duomix-fader"/>
+      <id>https://github.com/stevennodock/duomix-fader</id>
+      <updated>2026-09-25T18:24:57.000Z</updated>
+      <summary>Play two Android apps at once and mix them with a crossfader; live harmonic analysis (Oliver Prehn's 33 Scales of Harmonies). No root: Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>paulsnuff/BetterNightLight</title>
+      <link href="https://github.com/paulsnuff/BetterNightLight"/>
+      <id>https://github.com/paulsnuff/BetterNightLight</id>
+      <updated>2026-09-24T12:23:33.000Z</updated>
+      <summary>Take control of Android's native Night Light - advanced scheduling, boost phases, and precise color temperature.  </summary>
+    </entry>
+    <entry>
+      <title>minhtiencr123/Xiaomi-Toolkit</title>
+      <link href="https://github.com/minhtiencr123/Xiaomi-Toolkit"/>
+      <id>https://github.com/minhtiencr123/Xiaomi-Toolkit</id>
+      <updated>2026-09-24T11:03:40.000Z</updated>
+      <summary>Xiaomi Toolkit GitHub chính thức của minhtiencr123 – ứng dụng Android sửa lỗi thông báo Xiaomi MIUI/HyperOS cho máy nội địa Trung Quốc, dùng Shizuku, không cần root.</summary>
+    </entry>
+    <entry>
+      <title>sysrv64/KArchiver</title>
+      <link href="https://github.com/sysrv64/KArchiver"/>
+      <id>https://github.com/sysrv64/KArchiver</id>
+      <updated>2026-09-22T11:21:12.000Z</updated>
+      <summary>Android file manager built around archives: browse storage, open and edit ZIP/TAR/7Z in place, search inside files and archives, with an optional Shizuku or root engine for restricted paths</summary>
+    </entry>
+    <entry>
+      <title>xykalnotkel/OverlayOps</title>
+      <link href="https://github.com/xykalnotkel/OverlayOps"/>
+      <id>https://github.com/xykalnotkel/OverlayOps</id>
+      <updated>2026-09-22T23:41:13.000Z</updated>
+      <summary>AppOps / Display-over-other-apps manager untuk Android via Shizuku (App Ops style)</summary>
+    </entry>
+    <entry>
+      <title>IrrelevantOnGit/Game-Booster-v1</title>
+      <link href="https://github.com/IrrelevantOnGit/Game-Booster-v1"/>
+      <id>https://github.com/IrrelevantOnGit/Game-Booster-v1</id>
+      <updated>2026-06-08T13:56:55.000Z</updated>
+      <summary>Android project app, with mobile game performance optimization capabilities </summary>
+    </entry>
+    <entry>
+      <title>7Mohan/mohalaboptimazation</title>
+      <link href="https://github.com/7Mohan/mohalaboptimazation"/>
+      <id>https://github.com/7Mohan/mohalaboptimazation</id>
+      <updated>2026-09-22T21:46:34.000Z</updated>
+      <summary>? High-performance Android gaming optimizer with 144Hz pipeline bypass, Shizuku system-level tuning, and real-time diagnostics.</summary>
+    </entry>
+    <entry>
+      <title>Drabdie/DraB-Tweak-game-space-</title>
+      <link href="https://github.com/Drabdie/DraB-Tweak-game-space-"/>
+      <id>https://github.com/Drabdie/DraB-Tweak-game-space-</id>
+      <updated>2026-09-23T00:03:54.000Z</updated>
+      <summary>Game tuner and game space with utilites.</summary>
+    </entry>
+    <entry>
+      <title>hkx521/deepseek-harness-android-updater</title>
+      <link href="https://github.com/hkx521/deepseek-harness-android-updater"/>
+      <id>https://github.com/hkx521/deepseek-harness-android-updater</id>
+      <updated>2026-09-22T12:30:09.000Z</updated>
+      <summary>DeepSeek Harness 手机版（Android）—— 把 DSH 内核打包成可直接安装的 APK，通过 root / Shizuku 让 AI 真正操作手机</summary>
+    </entry>
+    <entry>
+      <title>sergeron/MixFlipContinuityManager</title>
+      <link href="https://github.com/sergeron/MixFlipContinuityManager"/>
+      <id>https://github.com/sergeron/MixFlipContinuityManager</id>
+      <updated>2026-09-21T14:59:04.000Z</updated>
+      <summary>Manage app continuity and outer cover screen permissions for Xiaomi MIX Flip (HyperOS) via Shizuku without root.</summary>
+    </entry>
+    <entry>
+      <title>zhanghai/MaterialFiles</title>
+      <link href="https://github.com/zhanghai/MaterialFiles"/>
+      <id>https://github.com/zhanghai/MaterialFiles</id>
+      <updated>2026-09-20T20:42:04.000Z</updated>
+      <summary>Material Design file manager for Android</summary>
+    </entry>
+    <entry>
+      <title>AndroidCSOfficial/android-code-studio</title>
+      <link href="https://github.com/AndroidCSOfficial/android-code-studio"/>
+      <id>https://github.com/AndroidCSOfficial/android-code-studio</id>
+      <updated>2026-07-09T14:35:22.000Z</updated>
+      <summary>On-device IDE for building Gradle-based Android projects; Shizuku enables silent installation of the built APK.</summary>
+    </entry>
+</feed>
