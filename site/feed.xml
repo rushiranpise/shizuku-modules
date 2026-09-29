@@ -3,14 +3,49 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-28T09:00:53.621Z</updated>
+  <updated>2026-09-29T09:09:27.958Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>YuKongA/ghostlock-app</title>
+      <link href="https://github.com/YuKongA/ghostlock-app"/>
+      <id>https://github.com/YuKongA/ghostlock-app</id>
+      <updated>2026-09-29T04:42:14.000Z</updated>
+      <summary>GhostLock One-Tap Execution App (CVE-2026-43499)</summary>
+    </entry>
+    <entry>
+      <title>fengkaobanli/O-Pose</title>
+      <link href="https://github.com/fengkaobanli/O-Pose"/>
+      <id>https://github.com/fengkaobanli/O-Pose</id>
+      <updated>2026-09-28T14:28:30.000Z</updated>
+      <summary>OPPO / ColorOS + AirPods + Head Tracking：OPPO ColorOS 16 头部跟踪接管工具，附带空间音频链路取证。  让 AirPods Pro 2 的头动驱动系统空间音频，声场固定正前方。OPPO ColorOS16 Shizuku root head-tracking takeover for AirPods Pro 2, plus spatial audio chain forensics</summary>
+    </entry>
+    <entry>
+      <title>everythingfreee/MediaRescue</title>
+      <link href="https://github.com/everythingfreee/MediaRescue"/>
+      <id>https://github.com/everythingfreee/MediaRescue</id>
+      <updated>2026-09-28T18:19:56.000Z</updated>
+      <summary>MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.</summary>
+    </entry>
+    <entry>
+      <title>AutoPhone-Org/call-forward-scheduler</title>
+      <link href="https://github.com/AutoPhone-Org/call-forward-scheduler"/>
+      <id>https://github.com/AutoPhone-Org/call-forward-scheduler</id>
+      <updated>2026-09-28T23:40:34.000Z</updated>
+      <summary>定时倒班切换自动呼叫转移排班助手（Shizuku 版，无 root）</summary>
+    </entry>
+    <entry>
+      <title>zuccheroxix-lab/ZX-SENSIVITAS-XY</title>
+      <link href="https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY"/>
+      <id>https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY</id>
+      <updated>2026-09-28T12:59:12.000Z</updated>
+      <summary>MENGATUR SENSITIVITAS X DAN Y PADA LAYAR</summary>
+    </entry>
     <entry>
       <title>rushiranpise/Shizuku-Next</title>
       <link href="https://github.com/rushiranpise/Shizuku-Next"/>
       <id>https://github.com/rushiranpise/Shizuku-Next</id>
-      <updated>2026-09-28T05:34:59.000Z</updated>
+      <updated>2026-09-29T00:42:38.000Z</updated>
       <summary>Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</summary>
     </entry>
     <entry>
@@ -31,15 +66,8 @@
       <title>xtt-xt/MCPBox</title>
       <link href="https://github.com/xtt-xt/MCPBox"/>
       <id>https://github.com/xtt-xt/MCPBox</id>
-      <updated>2026-09-27T19:26:13.000Z</updated>
+      <updated>2026-09-28T13:28:00.000Z</updated>
       <summary>Turn an Android phone into an MCP file server — AI clients (Claude / Cursor / Cline) read &amp; write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化</summary>
-    </entry>
-    <entry>
-      <title>sqdqzy/NetDoctor</title>
-      <link href="https://github.com/sqdqzy/NetDoctor"/>
-      <id>https://github.com/sqdqzy/NetDoctor</id>
-      <updated>2026-09-27T14:19:19.000Z</updated>
-      <summary>Android 网络诊断工具：穷举检测半网故障（39 全局 + 16 应用检测项）并一键修复，支持 Shizuku/Root 特权通道与网速测试。由 opencode 制作。</summary>
     </entry>
     <entry>
       <title>totallynotkasai/back-screen-wallpaper</title>
@@ -47,6 +75,13 @@
       <id>https://github.com/totallynotkasai/back-screen-wallpaper</id>
       <updated>2026-09-27T22:18:01.000Z</updated>
       <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
+    </entry>
+    <entry>
+      <title>sqdqzy/NetDoctor</title>
+      <link href="https://github.com/sqdqzy/NetDoctor"/>
+      <id>https://github.com/sqdqzy/NetDoctor</id>
+      <updated>2026-09-27T14:19:19.000Z</updated>
+      <summary>Android 网络诊断工具：穷举检测半网故障（39 全局 + 16 应用检测项）并一键修复，支持 Shizuku/Root 特权通道与网速测试。由 opencode 制作。</summary>
     </entry>
     <entry>
       <title>xiaoluo139/lightjump</title>
@@ -59,7 +94,7 @@
       <title>Xtratter/droidtop</title>
       <link href="https://github.com/Xtratter/droidtop"/>
       <id>https://github.com/Xtratter/droidtop</id>
-      <updated>2026-09-28T08:48:51.000Z</updated>
+      <updated>2026-09-28T11:21:57.000Z</updated>
       <summary>htop-like process &amp; resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay</summary>
     </entry>
     <entry>
@@ -80,7 +115,7 @@
       <title>huuunleashed/BooxUltimatum</title>
       <link href="https://github.com/huuunleashed/BooxUltimatum"/>
       <id>https://github.com/huuunleashed/BooxUltimatum</id>
-      <updated>2026-09-28T06:43:41.000Z</updated>
+      <updated>2026-09-29T08:18:42.000Z</updated>
       <summary>A home screen, sleep-screen designer, battery doctor and tweak hub for the BOOX Note Air6 C, in one app, without root.</summary>
     </entry>
     <entry>
@@ -129,7 +164,7 @@
       <title>jan5o7o/ztrackpad</title>
       <link href="https://github.com/jan5o7o/ztrackpad"/>
       <id>https://github.com/jan5o7o/ztrackpad</id>
-      <updated>2026-09-27T11:58:11.000Z</updated>
+      <updated>2026-09-28T14:56:58.000Z</updated>
       <summary>Floating trackpad + pointer, an on-screen keys panel, and a virtual display you can see and drive — for Android, built on-device in Termux on a Galaxy Z Fold 4. Needs Shizuku.</summary>
     </entry>
     <entry>
@@ -143,7 +178,7 @@
       <title>thefalconry/talon</title>
       <link href="https://github.com/thefalconry/talon"/>
       <id>https://github.com/thefalconry/talon</id>
-      <updated>2026-09-27T17:44:18.000Z</updated>
+      <updated>2026-09-29T06:55:20.000Z</updated>
       <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
     </entry>
     <entry>
@@ -164,56 +199,21 @@
       <title>qi-1021/M9A-Meow</title>
       <link href="https://github.com/qi-1021/M9A-Meow"/>
       <id>https://github.com/qi-1021/M9A-Meow</id>
-      <updated>2026-09-28T08:27:34.000Z</updated>
+      <updated>2026-09-29T08:08:00.000Z</updated>
       <summary>《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android</summary>
     </entry>
     <entry>
       <title>AndSni/SysReadout-Launcher</title>
       <link href="https://github.com/AndSni/SysReadout-Launcher"/>
       <id>https://github.com/AndSni/SysReadout-Launcher</id>
-      <updated>2026-09-28T06:10:00.000Z</updated>
+      <updated>2026-09-28T09:07:39.000Z</updated>
       <summary>Minimal Android launcher that turns your home screen into a live, terminal-style system monitor: status rows, processes, connections, DNS, battery drain, CRT effects. SRL for short.</summary>
     </entry>
     <entry>
       <title>FDzaki-dev/LagFix</title>
       <link href="https://github.com/FDzaki-dev/LagFix"/>
       <id>https://github.com/FDzaki-dev/LagFix</id>
-      <updated>2026-09-28T01:23:36.000Z</updated>
+      <updated>2026-09-28T22:34:33.000Z</updated>
       <summary></summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/void-pulse</title>
-      <link href="https://github.com/kreza6173-pixel/void-pulse"/>
-      <id>https://github.com/kreza6173-pixel/void-pulse</id>
-      <updated>2026-09-23T23:58:47.000Z</updated>
-      <summary>Notification &amp; DND Studio</summary>
-    </entry>
-    <entry>
-      <title>ETQWFD/ETAW-Cleaner</title>
-      <link href="https://github.com/ETQWFD/ETAW-Cleaner"/>
-      <id>https://github.com/ETQWFD/ETAW-Cleaner</id>
-      <updated>2026-09-24T16:44:33.000Z</updated>
-      <summary>ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具</summary>
-    </entry>
-    <entry>
-      <title>garland-0/CacheCleaner</title>
-      <link href="https://github.com/garland-0/CacheCleaner"/>
-      <id>https://github.com/garland-0/CacheCleaner</id>
-      <updated>2026-09-24T16:41:02.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</title>
-      <link href="https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-"/>
-      <id>https://github.com/LuisAlejandro544/Game-booster-de-prueba-con-Shizuku-</id>
-      <updated>2026-09-23T20:50:22.000Z</updated>
-      <summary>Es una prueba</summary>
-    </entry>
-    <entry>
-      <title>Ncorror/ex-astris-save-editor</title>
-      <link href="https://github.com/Ncorror/ex-astris-save-editor"/>
-      <id>https://github.com/Ncorror/ex-astris-save-editor</id>
-      <updated>2026-09-24T07:12:23.000Z</updated>
-      <summary>Unofficial Android save editor for Ex Astris: inventory editing, verified backups, Root/Shizuku access and Arknights skins for Hime and MsBlack</summary>
     </entry>
 </feed>
