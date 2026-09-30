@@ -3,14 +3,42 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-29T09:09:27.958Z</updated>
+  <updated>2026-09-30T09:04:06.552Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>WSTxda/Google-Shortcuts-Launcher</title>
+      <link href="https://github.com/WSTxda/Google-Shortcuts-Launcher"/>
+      <id>https://github.com/WSTxda/Google-Shortcuts-Launcher</id>
+      <updated>2026-09-29T17:07:36.000Z</updated>
+      <summary>Easily access essential Google apps features directly from your launcher app drawer.</summary>
+    </entry>
+    <entry>
+      <title>qpst4/XGesture</title>
+      <link href="https://github.com/qpst4/XGesture"/>
+      <id>https://github.com/qpst4/XGesture</id>
+      <updated>2026-09-30T09:02:54.000Z</updated>
+      <summary>The ultimate open-source Android gesture &amp; one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView &amp; Quick Cursor alternative with offline OCR and Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>alphingj/GT-30-Pro-Custom-Backlight</title>
+      <link href="https://github.com/alphingj/GT-30-Pro-Custom-Backlight"/>
+      <id>https://github.com/alphingj/GT-30-Pro-Custom-Backlight</id>
+      <updated>2026-09-29T19:16:29.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>2113apps/verified-android-apps</title>
+      <link href="https://github.com/2113apps/verified-android-apps"/>
+      <id>https://github.com/2113apps/verified-android-apps</id>
+      <updated>2026-09-30T07:48:08.000Z</updated>
+      <summary>Open-source Android apps whose APKs are signature-checked and scanned for trackers. Updated automatically from 2113 Apps.</summary>
+    </entry>
     <entry>
       <title>YuKongA/ghostlock-app</title>
       <link href="https://github.com/YuKongA/ghostlock-app"/>
       <id>https://github.com/YuKongA/ghostlock-app</id>
-      <updated>2026-09-29T04:42:14.000Z</updated>
+      <updated>2026-09-30T07:03:29.000Z</updated>
       <summary>GhostLock One-Tap Execution App (CVE-2026-43499)</summary>
     </entry>
     <entry>
@@ -38,15 +66,15 @@
       <title>zuccheroxix-lab/ZX-SENSIVITAS-XY</title>
       <link href="https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY"/>
       <id>https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY</id>
-      <updated>2026-09-28T12:59:12.000Z</updated>
+      <updated>2026-09-29T14:34:01.000Z</updated>
       <summary>MENGATUR SENSITIVITAS X DAN Y PADA LAYAR</summary>
     </entry>
     <entry>
       <title>rushiranpise/Shizuku-Next</title>
       <link href="https://github.com/rushiranpise/Shizuku-Next"/>
       <id>https://github.com/rushiranpise/Shizuku-Next</id>
-      <updated>2026-09-29T00:42:38.000Z</updated>
-      <summary>Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</summary>
+      <updated>2026-09-30T08:17:31.000Z</updated>
+      <summary>A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.</summary>
     </entry>
     <entry>
       <title>Magmalutriumph/Game-Booster</title>
@@ -66,14 +94,14 @@
       <title>xtt-xt/MCPBox</title>
       <link href="https://github.com/xtt-xt/MCPBox"/>
       <id>https://github.com/xtt-xt/MCPBox</id>
-      <updated>2026-09-28T13:28:00.000Z</updated>
+      <updated>2026-09-29T15:05:32.000Z</updated>
       <summary>Turn an Android phone into an MCP file server — AI clients (Claude / Cursor / Cline) read &amp; write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化</summary>
     </entry>
     <entry>
       <title>totallynotkasai/back-screen-wallpaper</title>
       <link href="https://github.com/totallynotkasai/back-screen-wallpaper"/>
       <id>https://github.com/totallynotkasai/back-screen-wallpaper</id>
-      <updated>2026-09-27T22:18:01.000Z</updated>
+      <updated>2026-09-29T12:12:58.000Z</updated>
       <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
     </entry>
     <entry>
@@ -164,8 +192,8 @@
       <title>jan5o7o/ztrackpad</title>
       <link href="https://github.com/jan5o7o/ztrackpad"/>
       <id>https://github.com/jan5o7o/ztrackpad</id>
-      <updated>2026-09-28T14:56:58.000Z</updated>
-      <summary>Floating trackpad + pointer, an on-screen keys panel, and a virtual display you can see and drive — for Android, built on-device in Termux on a Galaxy Z Fold 4. Needs Shizuku.</summary>
+      <updated>2026-09-30T06:06:37.000Z</updated>
+      <summary>So7o Z Trackpad: Floating trackpad + pointer, floating windows picker, an on-screen keys panel, and a virtual display you can see and drive - for Android, built on-device in Termux on a Galaxy Z Fold 4. Designed for Foldables. Needs Shizuku.</summary>
     </entry>
     <entry>
       <title>knowlily/sentinel52</title>
@@ -178,7 +206,7 @@
       <title>thefalconry/talon</title>
       <link href="https://github.com/thefalconry/talon"/>
       <id>https://github.com/thefalconry/talon</id>
-      <updated>2026-09-29T06:55:20.000Z</updated>
+      <updated>2026-09-30T08:48:04.000Z</updated>
       <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://github.com/FrancescoMin/batteryhealthtracker</id>
       <updated>2026-09-24T08:17:26.000Z</updated>
       <summary>Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>fengkaobanli/SpazPeek</title>
-      <link href="https://github.com/fengkaobanli/SpazPeek"/>
-      <id>https://github.com/fengkaobanli/SpazPeek</id>
-      <updated>2026-09-25T19:54:40.000Z</updated>
-      <summary>Spatial audio chain forensics for Android — dual-render detection, head tracking, resampling</summary>
-    </entry>
-    <entry>
-      <title>qi-1021/M9A-Meow</title>
-      <link href="https://github.com/qi-1021/M9A-Meow"/>
-      <id>https://github.com/qi-1021/M9A-Meow</id>
-      <updated>2026-09-29T08:08:00.000Z</updated>
-      <summary>《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android</summary>
-    </entry>
-    <entry>
-      <title>AndSni/SysReadout-Launcher</title>
-      <link href="https://github.com/AndSni/SysReadout-Launcher"/>
-      <id>https://github.com/AndSni/SysReadout-Launcher</id>
-      <updated>2026-09-28T09:07:39.000Z</updated>
-      <summary>Minimal Android launcher that turns your home screen into a live, terminal-style system monitor: status rows, processes, connections, DNS, battery drain, CRT effects. SRL for short.</summary>
-    </entry>
-    <entry>
-      <title>FDzaki-dev/LagFix</title>
-      <link href="https://github.com/FDzaki-dev/LagFix"/>
-      <id>https://github.com/FDzaki-dev/LagFix</id>
-      <updated>2026-09-28T22:34:33.000Z</updated>
-      <summary></summary>
     </entry>
 </feed>
