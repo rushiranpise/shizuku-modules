@@ -3,21 +3,56 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-09-30T09:04:06.552Z</updated>
+  <updated>2026-10-01T09:29:02.792Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>xeonleonreal/Xhizuku</title>
+      <link href="https://github.com/xeonleonreal/Xhizuku"/>
+      <id>https://github.com/xeonleonreal/Xhizuku</id>
+      <updated>2026-09-28T14:59:09.000Z</updated>
+      <summary>Maintained Shizuku fork with Material 3 Expressive UI, ADB module runner, onboarding wizard, server monitor and built-in diagnostics</summary>
+    </entry>
+    <entry>
+      <title>ImOstrovskiy/untether</title>
+      <link href="https://github.com/ImOstrovskiy/untether"/>
+      <id>https://github.com/ImOstrovskiy/untether</id>
+      <updated>2026-09-30T20:58:43.000Z</updated>
+      <summary>Instant Hotspot for Android: a Mac menu bar app turns on your phone's Wi-Fi hotspot over Bluetooth LE. No root, via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>pengyuw96/shizuku-android17-patch-notes</title>
+      <link href="https://github.com/pengyuw96/shizuku-android17-patch-notes"/>
+      <id>https://github.com/pengyuw96/shizuku-android17-patch-notes</id>
+      <updated>2026-10-01T09:01:42.000Z</updated>
+      <summary>Android 17 patch for Shizuku: restore in-app Wireless Debugging start when ADB_ENABLED reads as fake 0</summary>
+    </entry>
+    <entry>
+      <title>SuperMonster003/AutoJs6-Plugin-Three-Setup-Installer</title>
+      <link href="https://github.com/SuperMonster003/AutoJs6-Plugin-Three-Setup-Installer"/>
+      <id>https://github.com/SuperMonster003/AutoJs6-Plugin-Three-Setup-Installer</id>
+      <updated>2026-09-30T14:31:53.000Z</updated>
+      <summary>Android package installer plugin for AutoJs6 with Shizuku and Root silent installation</summary>
+    </entry>
+    <entry>
+      <title>vamshi-blender/android-assistant</title>
+      <link href="https://github.com/vamshi-blender/android-assistant"/>
+      <id>https://github.com/vamshi-blender/android-assistant</id>
+      <updated>2026-10-01T02:54:16.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>WSTxda/Google-Shortcuts-Launcher</title>
       <link href="https://github.com/WSTxda/Google-Shortcuts-Launcher"/>
       <id>https://github.com/WSTxda/Google-Shortcuts-Launcher</id>
-      <updated>2026-09-29T17:07:36.000Z</updated>
+      <updated>2026-09-30T19:04:05.000Z</updated>
       <summary>Easily access essential Google apps features directly from your launcher app drawer.</summary>
     </entry>
     <entry>
       <title>qpst4/XGesture</title>
       <link href="https://github.com/qpst4/XGesture"/>
       <id>https://github.com/qpst4/XGesture</id>
-      <updated>2026-09-30T09:02:54.000Z</updated>
+      <updated>2026-10-01T05:05:37.000Z</updated>
       <summary>The ultimate open-source Android gesture &amp; one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView &amp; Quick Cursor alternative with offline OCR and Shizuku.</summary>
     </entry>
     <entry>
@@ -31,14 +66,14 @@
       <title>2113apps/verified-android-apps</title>
       <link href="https://github.com/2113apps/verified-android-apps"/>
       <id>https://github.com/2113apps/verified-android-apps</id>
-      <updated>2026-09-30T07:48:08.000Z</updated>
+      <updated>2026-10-01T07:31:08.000Z</updated>
       <summary>Open-source Android apps whose APKs are signature-checked and scanned for trackers. Updated automatically from 2113 Apps.</summary>
     </entry>
     <entry>
       <title>YuKongA/ghostlock-app</title>
       <link href="https://github.com/YuKongA/ghostlock-app"/>
       <id>https://github.com/YuKongA/ghostlock-app</id>
-      <updated>2026-09-30T07:03:29.000Z</updated>
+      <updated>2026-10-01T03:50:47.000Z</updated>
       <summary>GhostLock One-Tap Execution App (CVE-2026-43499)</summary>
     </entry>
     <entry>
@@ -73,7 +108,7 @@
       <title>rushiranpise/Shizuku-Next</title>
       <link href="https://github.com/rushiranpise/Shizuku-Next"/>
       <id>https://github.com/rushiranpise/Shizuku-Next</id>
-      <updated>2026-09-30T08:17:31.000Z</updated>
+      <updated>2026-10-01T07:01:10.000Z</updated>
       <summary>A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.</summary>
     </entry>
     <entry>
@@ -94,7 +129,7 @@
       <title>xtt-xt/MCPBox</title>
       <link href="https://github.com/xtt-xt/MCPBox"/>
       <id>https://github.com/xtt-xt/MCPBox</id>
-      <updated>2026-09-29T15:05:32.000Z</updated>
+      <updated>2026-09-30T18:19:37.000Z</updated>
       <summary>Turn an Android phone into an MCP file server — AI clients (Claude / Cursor / Cline) read &amp; write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化</summary>
     </entry>
     <entry>
@@ -103,6 +138,13 @@
       <id>https://github.com/totallynotkasai/back-screen-wallpaper</id>
       <updated>2026-09-29T12:12:58.000Z</updated>
       <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
+    </entry>
+    <entry>
+      <title>Xtratter/droidtop</title>
+      <link href="https://github.com/Xtratter/droidtop"/>
+      <id>https://github.com/Xtratter/droidtop</id>
+      <updated>2026-09-28T11:21:57.000Z</updated>
+      <summary>htop-like process &amp; resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay</summary>
     </entry>
     <entry>
       <title>sqdqzy/NetDoctor</title>
@@ -117,13 +159,6 @@
       <id>https://github.com/xiaoluo139/lightjump</id>
       <updated>2026-09-28T04:40:02.000Z</updated>
       <summary>轻跳 LightJump · 基于 GKD 二次开发的极简安卓广告跳过工具｜内置 Lin-arm(id667) v595 + AIsouler v406 两套规则，覆盖 978 款应用｜安装包下载 + 使用说明</summary>
-    </entry>
-    <entry>
-      <title>Xtratter/droidtop</title>
-      <link href="https://github.com/Xtratter/droidtop"/>
-      <id>https://github.com/Xtratter/droidtop</id>
-      <updated>2026-09-28T11:21:57.000Z</updated>
-      <summary>htop-like process &amp; resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay</summary>
     </entry>
     <entry>
       <title>zenithblue-oss/mkm</title>
@@ -143,8 +178,8 @@
       <title>huuunleashed/BooxUltimatum</title>
       <link href="https://github.com/huuunleashed/BooxUltimatum"/>
       <id>https://github.com/huuunleashed/BooxUltimatum</id>
-      <updated>2026-09-29T08:18:42.000Z</updated>
-      <summary>A home screen, sleep-screen designer, battery doctor and tweak hub for the BOOX Note Air6 C, in one app, without root.</summary>
+      <updated>2026-10-01T09:04:20.000Z</updated>
+      <summary>Open source suite for E Ink Android tablets, tuned for BOOX Note Air: calm high contrast home that keeps frozen apps visible, live sleep screens in your own fonts, instant pen ink in any drawing app, battery log with real measured drain, and reversible tweaks, plus Nib, a drawing app with native pen</summary>
     </entry>
     <entry>
       <title>PyMakesMeProud/AdaptiveScreenPlus</title>
@@ -180,40 +215,5 @@
       <id>https://github.com/goodeesh/monitune</id>
       <updated>2026-09-26T07:41:46.000Z</updated>
       <summary>Tune your Android display for external monitors. Resolution, UI scale and force landscape via Shizuku/root. Display only, no audio.</summary>
-    </entry>
-    <entry>
-      <title>xykal/AppPerms</title>
-      <link href="https://github.com/xykal/AppPerms"/>
-      <id>https://github.com/xykal/AppPerms</id>
-      <updated>2026-09-25T18:55:45.000Z</updated>
-      <summary>AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB, 0 internet permission, 19 hidden ops, terminal, safe tuning</summary>
-    </entry>
-    <entry>
-      <title>jan5o7o/ztrackpad</title>
-      <link href="https://github.com/jan5o7o/ztrackpad"/>
-      <id>https://github.com/jan5o7o/ztrackpad</id>
-      <updated>2026-09-30T06:06:37.000Z</updated>
-      <summary>So7o Z Trackpad: Floating trackpad + pointer, floating windows picker, an on-screen keys panel, and a virtual display you can see and drive - for Android, built on-device in Termux on a Galaxy Z Fold 4. Designed for Foldables. Needs Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>knowlily/sentinel52</title>
-      <link href="https://github.com/knowlily/sentinel52"/>
-      <id>https://github.com/knowlily/sentinel52</id>
-      <updated>2026-09-25T18:33:15.000Z</updated>
-      <summary>自维护包名名单，命中即静默卸载 —— Root / Dhizuku / Stellar 三个特权后端</summary>
-    </entry>
-    <entry>
-      <title>thefalconry/talon</title>
-      <link href="https://github.com/thefalconry/talon"/>
-      <id>https://github.com/thefalconry/talon</id>
-      <updated>2026-09-30T08:48:04.000Z</updated>
-      <summary>🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams &amp; Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).</summary>
-    </entry>
-    <entry>
-      <title>FrancescoMin/batteryhealthtracker</title>
-      <link href="https://github.com/FrancescoMin/batteryhealthtracker"/>
-      <id>https://github.com/FrancescoMin/batteryhealthtracker</id>
-      <updated>2026-09-24T08:17:26.000Z</updated>
-      <summary>Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku.</summary>
     </entry>
 </feed>
