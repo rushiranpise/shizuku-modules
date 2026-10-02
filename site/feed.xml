@@ -3,9 +3,135 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-01T09:29:02.792Z</updated>
+  <updated>2026-10-02T09:04:42.429Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>shihabal3amri/DiAuto</title>
+      <link href="https://github.com/shihabal3amri/DiAuto"/>
+      <id>https://github.com/shihabal3amri/DiAuto</id>
+      <updated>2026-10-01T06:54:30.000Z</updated>
+      <summary>Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle.</summary>
+    </entry>
+    <entry>
+      <title>kosumic/whip</title>
+      <link href="https://github.com/kosumic/whip"/>
+      <id>https://github.com/kosumic/whip</id>
+      <updated>2026-10-02T06:31:58.000Z</updated>
+      <summary>Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one</summary>
+    </entry>
+    <entry>
+      <title>joeconsorti/duo-fold-live</title>
+      <link href="https://github.com/joeconsorti/duo-fold-live"/>
+      <id>https://github.com/joeconsorti/duo-fold-live</id>
+      <updated>2026-10-01T19:54:21.000Z</updated>
+      <summary>Live hinge-driven iPhone-Duo fold animation for Galaxy Z Fold 8 with windowed glass, live cover previews and smooth display handoff, reading the true hinge angle via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>wxxsfxyzm/IntentX</title>
+      <link href="https://github.com/wxxsfxyzm/IntentX"/>
+      <id>https://github.com/wxxsfxyzm/IntentX</id>
+      <updated>2026-09-30T11:23:27.000Z</updated>
+      <summary>Explores installed apps and activities and crafts, tests and launches intents with normal, root or Shizuku access; saves intents as shortcuts.</summary>
+    </entry>
+    <entry>
+      <title>marcoazeem/duo-open</title>
+      <link href="https://github.com/marcoazeem/duo-open"/>
+      <id>https://github.com/marcoazeem/duo-open</id>
+      <updated>2026-09-26T10:29:51.000Z</updated>
+      <summary>System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>g8row/centuryplay</title>
+      <link href="https://github.com/g8row/centuryplay"/>
+      <id>https://github.com/g8row/centuryplay</id>
+      <updated>2026-09-26T10:50:59.000Z</updated>
+      <summary>Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts.</summary>
+    </entry>
+    <entry>
+      <title>Salat39/GSplit</title>
+      <link href="https://github.com/Salat39/GSplit"/>
+      <id>https://github.com/Salat39/GSplit</id>
+      <updated>2026-09-27T18:05:15.000Z</updated>
+      <summary>Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits.</summary>
+    </entry>
+    <entry>
+      <title>broknhrt2562/finevolume</title>
+      <link href="https://github.com/broknhrt2562/finevolume"/>
+      <id>https://github.com/broknhrt2562/finevolume</id>
+      <updated>2026-09-29T13:23:27.000Z</updated>
+      <summary>Fine-grained Android volume controller with customizable volume resolution, separate app volumes, per-stream controls, Shizuku support, and a Pixel-style volume panel.</summary>
+    </entry>
+    <entry>
+      <title>munzzyy/tern</title>
+      <link href="https://github.com/munzzyy/tern"/>
+      <id>https://github.com/munzzyy/tern</id>
+      <updated>2026-10-01T15:41:22.000Z</updated>
+      <summary>Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.</summary>
+    </entry>
+    <entry>
+      <title>Lorax121/hotspot_channel_setter</title>
+      <link href="https://github.com/Lorax121/hotspot_channel_setter"/>
+      <id>https://github.com/Lorax121/hotspot_channel_setter</id>
+      <updated>2026-09-27T09:53:50.000Z</updated>
+      <summary>Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots.</summary>
+    </entry>
+    <entry>
+      <title>wized2/Fern</title>
+      <link href="https://github.com/wized2/Fern"/>
+      <id>https://github.com/wized2/Fern</id>
+      <updated>2026-09-30T09:16:25.000Z</updated>
+      <summary>Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings.</summary>
+    </entry>
+    <entry>
+      <title>deepsleep520/DSHHarness</title>
+      <link href="https://github.com/deepsleep520/DSHHarness"/>
+      <id>https://github.com/deepsleep520/DSHHarness</id>
+      <updated>2026-10-02T06:20:35.000Z</updated>
+      <summary>装一个 APK，安卓手机就多了一整台 Linux：PRoot + Alpine + Node.js 跑起 AI 编程助手 dsh 的 Web UI，无需 root / Termux / 电脑，装完点开即用（带确定性进度条）。真机存储三入口直通（/mnt/sdcard、/sdcard、/storage/emulated/0），DCIM/Pictures/Movies/Android 可只读保护；五种控制档位（自动/无障碍/Root/Shizuku/基础），授权后 AI 可直接点按、输入、截屏操作手机；支持局域网访问、会话导入导出、dsh 插件体系。零数据收集、不内置密钥。仅 arm64 · An</summary>
+    </entry>
+    <entry>
+      <title>totallynotkasai/mi-back-screen</title>
+      <link href="https://github.com/totallynotkasai/mi-back-screen"/>
+      <id>https://github.com/totallynotkasai/mi-back-screen</id>
+      <updated>2026-10-01T20:25:44.000Z</updated>
+      <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
+    </entry>
+    <entry>
+      <title>Zoder-Studio/DevBay-Launcher</title>
+      <link href="https://github.com/Zoder-Studio/DevBay-Launcher"/>
+      <id>https://github.com/Zoder-Studio/DevBay-Launcher</id>
+      <updated>2026-08-11T10:08:05.000Z</updated>
+      <summary>Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>hulubo2014/dougao</title>
+      <link href="https://github.com/hulubo2014/dougao"/>
+      <id>https://github.com/hulubo2014/dougao</id>
+      <updated>2026-10-01T13:37:24.000Z</updated>
+      <summary>豆糕 DouGao —— 安卓 AI 手机助手：VLM 看屏自动操作 + 文件直改；无障碍 / Shizuku / Root 三通道控屏，多任务房间可中途纠错</summary>
+    </entry>
+    <entry>
+      <title>layiix11/X-KeepAlive</title>
+      <link href="https://github.com/layiix11/X-KeepAlive"/>
+      <id>https://github.com/layiix11/X-KeepAlive</id>
+      <updated>2026-10-02T06:08:48.000Z</updated>
+      <summary>X-KeepAlive — Android utility designed to help keep games running in the background and reduce unnecessary reloads when switching between apps. Powered by Shizuku, with no root required. Automatically applies background management policies to selected games.</summary>
+    </entry>
+    <entry>
+      <title>likairui48-pixel/dsh-launcher</title>
+      <link href="https://github.com/likairui48-pixel/dsh-launcher"/>
+      <id>https://github.com/likairui48-pixel/dsh-launcher</id>
+      <updated>2026-10-01T13:44:16.000Z</updated>
+      <summary>极简 Android 启动器：一键拉起 Termux 脚本启动 DeepSeek Harness、检查 Shizuku、直接打开网页</summary>
+    </entry>
+    <entry>
+      <title>qianyumeng0228/ReShizukuX</title>
+      <link href="https://github.com/qianyumeng0228/ReShizukuX"/>
+      <id>https://github.com/qianyumeng0228/ReShizukuX</id>
+      <updated>2026-10-02T07:33:54.000Z</updated>
+      <summary>ReShizukuX - 基于 ShizukuX的增强版，集成 Xposed 模块引擎与 Shell 脚本模块系统</summary>
+    </entry>
     <entry>
       <title>xeonleonreal/Xhizuku</title>
       <link href="https://github.com/xeonleonreal/Xhizuku"/>
@@ -17,7 +143,7 @@
       <title>ImOstrovskiy/untether</title>
       <link href="https://github.com/ImOstrovskiy/untether"/>
       <id>https://github.com/ImOstrovskiy/untether</id>
-      <updated>2026-09-30T20:58:43.000Z</updated>
+      <updated>2026-10-01T15:40:54.000Z</updated>
       <summary>Instant Hotspot for Android: a Mac menu bar app turns on your phone's Wi-Fi hotspot over Bluetooth LE. No root, via Shizuku.</summary>
     </entry>
     <entry>
@@ -45,14 +171,14 @@
       <title>WSTxda/Google-Shortcuts-Launcher</title>
       <link href="https://github.com/WSTxda/Google-Shortcuts-Launcher"/>
       <id>https://github.com/WSTxda/Google-Shortcuts-Launcher</id>
-      <updated>2026-09-30T19:04:05.000Z</updated>
+      <updated>2026-10-01T17:31:27.000Z</updated>
       <summary>Easily access essential Google apps features directly from your launcher app drawer.</summary>
     </entry>
     <entry>
       <title>qpst4/XGesture</title>
       <link href="https://github.com/qpst4/XGesture"/>
       <id>https://github.com/qpst4/XGesture</id>
-      <updated>2026-10-01T05:05:37.000Z</updated>
+      <updated>2026-10-02T05:26:17.000Z</updated>
       <summary>The ultimate open-source Android gesture &amp; one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView &amp; Quick Cursor alternative with offline OCR and Shizuku.</summary>
     </entry>
     <entry>
@@ -66,14 +192,14 @@
       <title>2113apps/verified-android-apps</title>
       <link href="https://github.com/2113apps/verified-android-apps"/>
       <id>https://github.com/2113apps/verified-android-apps</id>
-      <updated>2026-10-01T07:31:08.000Z</updated>
+      <updated>2026-10-02T05:54:26.000Z</updated>
       <summary>Open-source Android apps whose APKs are signature-checked and scanned for trackers. Updated automatically from 2113 Apps.</summary>
     </entry>
     <entry>
       <title>YuKongA/ghostlock-app</title>
       <link href="https://github.com/YuKongA/ghostlock-app"/>
       <id>https://github.com/YuKongA/ghostlock-app</id>
-      <updated>2026-10-01T03:50:47.000Z</updated>
+      <updated>2026-10-01T22:44:47.000Z</updated>
       <summary>GhostLock One-Tap Execution App (CVE-2026-43499)</summary>
     </entry>
     <entry>
@@ -89,131 +215,5 @@
       <id>https://github.com/everythingfreee/MediaRescue</id>
       <updated>2026-09-28T18:19:56.000Z</updated>
       <summary>MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.</summary>
-    </entry>
-    <entry>
-      <title>AutoPhone-Org/call-forward-scheduler</title>
-      <link href="https://github.com/AutoPhone-Org/call-forward-scheduler"/>
-      <id>https://github.com/AutoPhone-Org/call-forward-scheduler</id>
-      <updated>2026-09-28T23:40:34.000Z</updated>
-      <summary>定时倒班切换自动呼叫转移排班助手（Shizuku 版，无 root）</summary>
-    </entry>
-    <entry>
-      <title>zuccheroxix-lab/ZX-SENSIVITAS-XY</title>
-      <link href="https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY"/>
-      <id>https://github.com/zuccheroxix-lab/ZX-SENSIVITAS-XY</id>
-      <updated>2026-09-29T14:34:01.000Z</updated>
-      <summary>MENGATUR SENSITIVITAS X DAN Y PADA LAYAR</summary>
-    </entry>
-    <entry>
-      <title>rushiranpise/Shizuku-Next</title>
-      <link href="https://github.com/rushiranpise/Shizuku-Next"/>
-      <id>https://github.com/rushiranpise/Shizuku-Next</id>
-      <updated>2026-10-01T07:01:10.000Z</updated>
-      <summary>A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.</summary>
-    </entry>
-    <entry>
-      <title>Magmalutriumph/Game-Booster</title>
-      <link href="https://github.com/Magmalutriumph/Game-Booster"/>
-      <id>https://github.com/Magmalutriumph/Game-Booster</id>
-      <updated>2026-09-27T20:51:57.000Z</updated>
-      <summary>Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.</summary>
-    </entry>
-    <entry>
-      <title>lzh2034855417-beep/Android-Personal-Agent</title>
-      <link href="https://github.com/lzh2034855417-beep/Android-Personal-Agent"/>
-      <id>https://github.com/lzh2034855417-beep/Android-Personal-Agent</id>
-      <updated>2026-09-27T14:34:47.000Z</updated>
-      <summary>Local-first Android diagnostics assistant for battery and system analysis. Supports Android APIs, Bug Report parsing, optional Root read-only diagnostics, and user-configured LLM providers.</summary>
-    </entry>
-    <entry>
-      <title>xtt-xt/MCPBox</title>
-      <link href="https://github.com/xtt-xt/MCPBox"/>
-      <id>https://github.com/xtt-xt/MCPBox</id>
-      <updated>2026-09-30T18:19:37.000Z</updated>
-      <summary>Turn an Android phone into an MCP file server — AI clients (Claude / Cursor / Cline) read &amp; write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化</summary>
-    </entry>
-    <entry>
-      <title>totallynotkasai/back-screen-wallpaper</title>
-      <link href="https://github.com/totallynotkasai/back-screen-wallpaper"/>
-      <id>https://github.com/totallynotkasai/back-screen-wallpaper</id>
-      <updated>2026-09-29T12:12:58.000Z</updated>
-      <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
-    </entry>
-    <entry>
-      <title>Xtratter/droidtop</title>
-      <link href="https://github.com/Xtratter/droidtop"/>
-      <id>https://github.com/Xtratter/droidtop</id>
-      <updated>2026-09-28T11:21:57.000Z</updated>
-      <summary>htop-like process &amp; resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay</summary>
-    </entry>
-    <entry>
-      <title>sqdqzy/NetDoctor</title>
-      <link href="https://github.com/sqdqzy/NetDoctor"/>
-      <id>https://github.com/sqdqzy/NetDoctor</id>
-      <updated>2026-09-27T14:19:19.000Z</updated>
-      <summary>Android 网络诊断工具：穷举检测半网故障（39 全局 + 16 应用检测项）并一键修复，支持 Shizuku/Root 特权通道与网速测试。由 opencode 制作。</summary>
-    </entry>
-    <entry>
-      <title>xiaoluo139/lightjump</title>
-      <link href="https://github.com/xiaoluo139/lightjump"/>
-      <id>https://github.com/xiaoluo139/lightjump</id>
-      <updated>2026-09-28T04:40:02.000Z</updated>
-      <summary>轻跳 LightJump · 基于 GKD 二次开发的极简安卓广告跳过工具｜内置 Lin-arm(id667) v595 + AIsouler v406 两套规则，覆盖 978 款应用｜安装包下载 + 使用说明</summary>
-    </entry>
-    <entry>
-      <title>zenithblue-oss/mkm</title>
-      <link href="https://github.com/zenithblue-oss/mkm"/>
-      <id>https://github.com/zenithblue-oss/mkm</id>
-      <updated>2026-09-04T17:12:46.000Z</updated>
-      <summary>Minimal Android kernel management and system monitoring application</summary>
-    </entry>
-    <entry>
-      <title>Kr328/HyperOSFCMFix</title>
-      <link href="https://github.com/Kr328/HyperOSFCMFix"/>
-      <id>https://github.com/Kr328/HyperOSFCMFix</id>
-      <updated>2026-09-26T02:44:34.000Z</updated>
-      <summary>本应用为中国大陆 HyperOS 修复 FCM 推送和唤醒问题。(需要 Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>huuunleashed/BooxUltimatum</title>
-      <link href="https://github.com/huuunleashed/BooxUltimatum"/>
-      <id>https://github.com/huuunleashed/BooxUltimatum</id>
-      <updated>2026-10-01T09:04:20.000Z</updated>
-      <summary>Open source suite for E Ink Android tablets, tuned for BOOX Note Air: calm high contrast home that keeps frozen apps visible, live sleep screens in your own fonts, instant pen ink in any drawing app, battery log with real measured drain, and reversible tweaks, plus Nib, a drawing app with native pen</summary>
-    </entry>
-    <entry>
-      <title>PyMakesMeProud/AdaptiveScreenPlus</title>
-      <link href="https://github.com/PyMakesMeProud/AdaptiveScreenPlus"/>
-      <id>https://github.com/PyMakesMeProud/AdaptiveScreenPlus</id>
-      <updated>2026-09-27T01:09:35.000Z</updated>
-      <summary>把手机外接的便携屏、以及 Galaxy Z Flip / Fold 的外屏变成真正能用的第二块屏：自适应旋转 · 双屏并发 · 副屏桌面与伪应用 · 内屏手势 · 外屏侧边栏与小组件</summary>
-    </entry>
-    <entry>
-      <title>aurarifat/90-FPS</title>
-      <link href="https://github.com/aurarifat/90-FPS"/>
-      <id>https://github.com/aurarifat/90-FPS</id>
-      <updated>2026-09-27T10:54:40.000Z</updated>
-      <summary>Loading..</summary>
-    </entry>
-    <entry>
-      <title>Morendais/SilentPixel</title>
-      <link href="https://github.com/Morendais/SilentPixel"/>
-      <id>https://github.com/Morendais/SilentPixel</id>
-      <updated>2026-09-26T13:43:20.000Z</updated>
-      <summary>Mute mandatory camera shutter sound on Japanese Google Pixel phones without root (Stock Camera compatible)</summary>
-    </entry>
-    <entry>
-      <title>Yuan0-o/Lucent</title>
-      <link href="https://github.com/Yuan0-o/Lucent"/>
-      <id>https://github.com/Yuan0-o/Lucent</id>
-      <updated>2026-09-26T04:52:10.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>goodeesh/monitune</title>
-      <link href="https://github.com/goodeesh/monitune"/>
-      <id>https://github.com/goodeesh/monitune</id>
-      <updated>2026-09-26T07:41:46.000Z</updated>
-      <summary>Tune your Android display for external monitors. Resolution, UI scale and force landscape via Shizuku/root. Display only, no audio.</summary>
     </entry>
 </feed>
