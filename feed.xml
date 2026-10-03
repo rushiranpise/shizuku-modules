@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-10-03T08:36:43.548Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>OhMyMeme/OhMyMeme-Android</title>
+      <link href="https://github.com/OhMyMeme/OhMyMeme-Android"/>
+      <id>https://github.com/OhMyMeme/OhMyMeme-Android</id>
+      <updated>2026-10-03T06:08:45.000Z</updated>
+      <summary>轻量化跨平台表情包管理系统-安卓端</summary>
+    </entry>
+    <entry>
+      <title>84593320z/GKD-XA</title>
+      <link href="https://github.com/84593320z/GKD-XA"/>
+      <id>https://github.com/84593320z/GKD-XA</id>
+      <updated>2026-10-03T07:17:01.000Z</updated>
+      <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
+    </entry>
+    <entry>
+      <title>kreza6173-pixel/void-apps</title>
+      <link href="https://github.com/kreza6173-pixel/void-apps"/>
+      <id>https://github.com/kreza6173-pixel/void-apps</id>
+      <updated>2026-10-03T07:53:20.000Z</updated>
+      <summary>Best Power Full App Manager </summary>
+    </entry>
+    <entry>
+      <title>Gustyx-Power/XArchiver</title>
+      <link href="https://github.com/Gustyx-Power/XArchiver"/>
+      <id>https://github.com/Gustyx-Power/XArchiver</id>
+      <updated>2026-10-03T07:56:57.000Z</updated>
+      <summary>Open Source File Manager on Android OS</summary>
+    </entry>
+    <entry>
+      <title>TerminalDev-1/AndroidMonitor-Preview</title>
+      <link href="https://github.com/TerminalDev-1/AndroidMonitor-Preview"/>
+      <id>https://github.com/TerminalDev-1/AndroidMonitor-Preview</id>
+      <updated>2026-10-02T15:55:08.000Z</updated>
+      <summary>PREVIEW, no maintenance guarantees. A Task Manager style system monitor for Android: live CPU, GPU, RAM, network and thermal graphs, plus a process list (Shizuku/root).</summary>
+    </entry>
+    <entry>
+      <title>JoeBuildsThings/gamedeck</title>
+      <link href="https://github.com/JoeBuildsThings/gamedeck"/>
+      <id>https://github.com/JoeBuildsThings/gamedeck</id>
+      <updated>2026-10-01T08:11:56.000Z</updated>
+      <summary>Rootless in game performance overlay and optimizer for Android 10 to 14. Live FPS, frame time, CPU and RAM HUD with reversible gaming profiles via Shizuku. Built with Kotlin and Jetpack Compose.</summary>
+    </entry>
+    <entry>
+      <title>mimbasher/NetControl</title>
+      <link href="https://github.com/mimbasher/NetControl"/>
+      <id>https://github.com/mimbasher/NetControl</id>
+      <updated>2026-10-02T17:59:15.000Z</updated>
+      <summary>Block any app's internet, both WiFi and mobile data, on an unrooted Android phone. No VPN, no root, and nothing running in the background. Blocks are written straight into Android's own kernel firewall through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>molaugh-angel/FuckEts</title>
+      <link href="https://github.com/molaugh-angel/FuckEts"/>
+      <id>https://github.com/molaugh-angel/FuckEts</id>
+      <updated>2026-10-02T11:15:21.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>mrun1corn/power-warden</title>
+      <link href="https://github.com/mrun1corn/power-warden"/>
+      <id>https://github.com/mrun1corn/power-warden</id>
+      <updated>2026-10-03T03:29:10.000Z</updated>
+      <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
+    </entry>
+    <entry>
+      <title>Psycoguana/LMT-Launcher-Revived</title>
+      <link href="https://github.com/Psycoguana/LMT-Launcher-Revived"/>
+      <id>https://github.com/Psycoguana/LMT-Launcher-Revived</id>
+      <updated>2026-10-03T03:15:40.000Z</updated>
+      <summary>LMT Launcher, revived: the classic Android pie menu and edge-gesture launcher, rebuilt for Android 15–16 with Material 3, most of it without root</summary>
+    </entry>
+    <entry>
+      <title>serifpersia/readycast</title>
+      <link href="https://github.com/serifpersia/readycast"/>
+      <id>https://github.com/serifpersia/readycast</id>
+      <updated>2026-10-03T00:27:54.000Z</updated>
+      <summary>screen sharing app for ready for moto devices and webos TV's</summary>
+    </entry>
+    <entry>
+      <title>SibtainOcn/android-debloatr</title>
+      <link href="https://github.com/SibtainOcn/android-debloatr"/>
+      <id>https://github.com/SibtainOcn/android-debloatr</id>
+      <updated>2026-10-02T11:27:20.000Z</updated>
+      <summary>No-root Android debloater for phones and tablets (Android 9 to 16). Scans every package, classifies OEM, carrier, Google and third-party bloatware by risk, and removes, disables or restores them. Works from a PC with PowerShell and a web GUI, or directly on the phone with a Bash script, no PC needed</summary>
+    </entry>
+    <entry>
+      <title>StarkAg/guardian</title>
+      <link href="https://github.com/StarkAg/guardian"/>
+      <id>https://github.com/StarkAg/guardian</id>
+      <updated>2026-10-03T06:26:42.000Z</updated>
+      <summary>The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.</summary>
+    </entry>
+    <entry>
+      <title>shihabal3amri/DiAuto</title>
+      <link href="https://github.com/shihabal3amri/DiAuto"/>
+      <id>https://github.com/shihabal3amri/DiAuto</id>
+      <updated>2026-10-01T06:54:30.000Z</updated>
+      <summary>Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle.</summary>
+    </entry>
+    <entry>
+      <title>kosumic/whip</title>
+      <link href="https://github.com/kosumic/whip"/>
+      <id>https://github.com/kosumic/whip</id>
+      <updated>2026-10-03T02:55:23.000Z</updated>
+      <summary>Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one</summary>
+    </entry>
+    <entry>
+      <title>joeconsorti/duo-fold-live</title>
+      <link href="https://github.com/joeconsorti/duo-fold-live"/>
+      <id>https://github.com/joeconsorti/duo-fold-live</id>
+      <updated>2026-10-03T03:21:25.000Z</updated>
+      <summary>The first, live, hinge-driven opening animation for the Galaxy Z Fold8. Features smooth windowed glass, modular settings, and 120hz live preview (even iPhone doesn't have this) → 90% complete. Need to discover method of preventing display shut-off during changeover.</summary>
+    </entry>
+    <entry>
+      <title>wxxsfxyzm/IntentX</title>
+      <link href="https://github.com/wxxsfxyzm/IntentX"/>
+      <id>https://github.com/wxxsfxyzm/IntentX</id>
+      <updated>2026-09-30T11:23:27.000Z</updated>
+      <summary>Explore, craft, and launch Android intents.</summary>
+    </entry>
+    <entry>
+      <title>marcoazeem/duo-open</title>
+      <link href="https://github.com/marcoazeem/duo-open"/>
+      <id>https://github.com/marcoazeem/duo-open</id>
+      <updated>2026-09-26T10:29:51.000Z</updated>
+      <summary>System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>g8row/centuryplay</title>
+      <link href="https://github.com/g8row/centuryplay"/>
+      <id>https://github.com/g8row/centuryplay</id>
+      <updated>2026-09-26T10:50:59.000Z</updated>
+      <summary>Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts.</summary>
+    </entry>
+    <entry>
+      <title>Salat39/GSplit</title>
+      <link href="https://github.com/Salat39/GSplit"/>
+      <id>https://github.com/Salat39/GSplit</id>
+      <updated>2026-09-27T18:05:15.000Z</updated>
+      <summary>Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits.</summary>
+    </entry>
+    <entry>
+      <title>broknhrt2562/finevolume</title>
+      <link href="https://github.com/broknhrt2562/finevolume"/>
+      <id>https://github.com/broknhrt2562/finevolume</id>
+      <updated>2026-09-29T13:23:27.000Z</updated>
+      <summary>Fine-grained Android volume controller with customizable volume resolution, separate app volumes, per-stream controls, Shizuku support, and a Pixel-style volume panel.</summary>
+    </entry>
+    <entry>
+      <title>munzzyy/tern</title>
+      <link href="https://github.com/munzzyy/tern"/>
+      <id>https://github.com/munzzyy/tern</id>
+      <updated>2026-10-01T15:41:22.000Z</updated>
+      <summary>Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.</summary>
+    </entry>
+    <entry>
+      <title>Lorax121/hotspot_channel_setter</title>
+      <link href="https://github.com/Lorax121/hotspot_channel_setter"/>
+      <id>https://github.com/Lorax121/hotspot_channel_setter</id>
+      <updated>2026-09-27T09:53:50.000Z</updated>
+      <summary>Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots.</summary>
+    </entry>
+    <entry>
+      <title>wized2/Fern</title>
+      <link href="https://github.com/wized2/Fern"/>
+      <id>https://github.com/wized2/Fern</id>
+      <updated>2026-09-30T09:16:25.000Z</updated>
+      <summary>Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings.</summary>
+    </entry>
+    <entry>
+      <title>deepsleep520/DSHHarness</title>
+      <link href="https://github.com/deepsleep520/DSHHarness"/>
+      <id>https://github.com/deepsleep520/DSHHarness</id>
+      <updated>2026-10-02T16:16:29.000Z</updated>
+      <summary>装一个 APK，安卓手机就多了一整台 Linux：PRoot + Alpine + Node.js 跑起 AI 编程助手 dsh 的 Web UI，无需 root / Termux / 电脑，装完点开即用（带确定性进度条）。真机存储三入口直通（/mnt/sdcard、/sdcard、/storage/emulated/0），DCIM/Pictures/Movies/Android 可只读保护；五种控制档位（自动/无障碍/Root/Shizuku/基础），授权后 AI 可直接点按、输入、截屏操作手机；支持局域网访问、会话导入导出、dsh 插件体系。零数据收集、不内置密钥。仅 arm64 · An</summary>
+    </entry>
+    <entry>
+      <title>totallynotkasai/mi-back-screen</title>
+      <link href="https://github.com/totallynotkasai/mi-back-screen"/>
+      <id>https://github.com/totallynotkasai/mi-back-screen</id>
+      <updated>2026-10-01T20:25:44.000Z</updated>
+      <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
+    </entry>
+    <entry>
+      <title>Zoder-Studio/DevBay-Launcher</title>
+      <link href="https://github.com/Zoder-Studio/DevBay-Launcher"/>
+      <id>https://github.com/Zoder-Studio/DevBay-Launcher</id>
+      <updated>2026-08-11T10:08:05.000Z</updated>
+      <summary>Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>hulubo2014/dougao</title>
+      <link href="https://github.com/hulubo2014/dougao"/>
+      <id>https://github.com/hulubo2014/dougao</id>
+      <updated>2026-10-01T13:37:24.000Z</updated>
+      <summary>豆糕 DouGao —— 安卓 AI 手机助手：VLM 看屏自动操作 + 文件直改；无障碍 / Shizuku / Root 三通道控屏，多任务房间可中途纠错</summary>
+    </entry>
+    <entry>
+      <title>layiix11/X-KeepAlive</title>
+      <link href="https://github.com/layiix11/X-KeepAlive"/>
+      <id>https://github.com/layiix11/X-KeepAlive</id>
+      <updated>2026-10-02T16:12:15.000Z</updated>
+      <summary>X-KeepAlive — Android utility designed to help keep games running in the background and reduce unnecessary reloads when switching between apps. Powered by Shizuku, with no root required. Automatically applies background management policies to selected games.</summary>
+    </entry>
+    <entry>
+      <title>likairui48-pixel/dsh-launcher</title>
+      <link href="https://github.com/likairui48-pixel/dsh-launcher"/>
+      <id>https://github.com/likairui48-pixel/dsh-launcher</id>
+      <updated>2026-10-01T13:44:16.000Z</updated>
+      <summary>极简 Android 启动器：一键拉起 Termux 脚本启动 DeepSeek Harness、检查 Shizuku、直接打开网页</summary>
+    </entry>
+</feed>
