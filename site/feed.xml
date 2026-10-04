@@ -3,9 +3,23 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-04T01:45:45.815Z</updated>
+  <updated>2026-10-04T08:53:40.379Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Soodok/Deepseek-Harness-Local-Android</title>
+      <link href="https://github.com/Soodok/Deepseek-Harness-Local-Android"/>
+      <id>https://github.com/Soodok/Deepseek-Harness-Local-Android</id>
+      <updated>2026-10-04T08:02:44.000Z</updated>
+      <summary>Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux</summary>
+    </entry>
+    <entry>
+      <title>chr243/Farrow</title>
+      <link href="https://github.com/chr243/Farrow"/>
+      <id>https://github.com/chr243/Farrow</id>
+      <updated>2026-10-04T08:00:01.000Z</updated>
+      <summary>On-device AI agent for Android: free OpenRouter/Kilo LLMs with tool calling that browse with real Firefox via Termux, run shell commands via Shizuku, control apps with Accessibility and use Git, all in a Kotlin + Jetpack Compose app with no backend.</summary>
+    </entry>
     <entry>
       <title>SBFlabs/Lightspeed</title>
       <link href="https://github.com/SBFlabs/Lightspeed"/>
@@ -17,7 +31,7 @@
       <title>Bingblop/ADB-Application-Manager</title>
       <link href="https://github.com/Bingblop/ADB-Application-Manager"/>
       <id>https://github.com/Bingblop/ADB-Application-Manager</id>
-      <updated>2026-10-04T01:12:28.000Z</updated>
+      <updated>2026-10-04T08:30:14.000Z</updated>
       <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
     </entry>
     <entry>
@@ -31,7 +45,7 @@
       <title>aldiandrew/Duos</title>
       <link href="https://github.com/aldiandrew/Duos"/>
       <id>https://github.com/aldiandrew/Duos</id>
-      <updated>2026-10-03T16:21:58.000Z</updated>
+      <updated>2026-10-04T04:19:58.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -52,14 +66,14 @@
       <title>84593320z/GKD-XA</title>
       <link href="https://github.com/84593320z/GKD-XA"/>
       <id>https://github.com/84593320z/GKD-XA</id>
-      <updated>2026-10-03T07:17:01.000Z</updated>
+      <updated>2026-10-04T04:48:07.000Z</updated>
       <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
     </entry>
     <entry>
       <title>kreza6173-pixel/void-apps</title>
       <link href="https://github.com/kreza6173-pixel/void-apps"/>
       <id>https://github.com/kreza6173-pixel/void-apps</id>
-      <updated>2026-10-04T01:42:17.000Z</updated>
+      <updated>2026-10-04T02:01:48.000Z</updated>
       <summary>Best Power Full App Manager </summary>
     </entry>
     <entry>
@@ -101,7 +115,7 @@
       <title>mrun1corn/power-warden</title>
       <link href="https://github.com/mrun1corn/power-warden"/>
       <id>https://github.com/mrun1corn/power-warden</id>
-      <updated>2026-10-03T18:07:44.000Z</updated>
+      <updated>2026-10-04T07:07:16.000Z</updated>
       <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
     </entry>
     <entry>
@@ -143,14 +157,14 @@
       <title>kosumic/whip</title>
       <link href="https://github.com/kosumic/whip"/>
       <id>https://github.com/kosumic/whip</id>
-      <updated>2026-10-03T16:48:02.000Z</updated>
+      <updated>2026-10-04T03:47:03.000Z</updated>
       <summary>Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one</summary>
     </entry>
     <entry>
       <title>joeconsorti/duo-fold-live</title>
       <link href="https://github.com/joeconsorti/duo-fold-live"/>
       <id>https://github.com/joeconsorti/duo-fold-live</id>
-      <updated>2026-10-04T01:35:51.000Z</updated>
+      <updated>2026-10-04T05:00:04.000Z</updated>
       <summary>The first, live, hinge-driven opening animation for the Galaxy Z Fold8. Features smooth windowed glass, modular settings, and 120hz live preview (even iPhone doesn't have this) → 90% complete. Need to discover method of preventing display shut-off during changeover.</summary>
     </entry>
     <entry>
@@ -201,19 +215,5 @@
       <id>https://github.com/Lorax121/hotspot_channel_setter</id>
       <updated>2026-09-27T09:53:50.000Z</updated>
       <summary>Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots.</summary>
-    </entry>
-    <entry>
-      <title>wized2/Fern</title>
-      <link href="https://github.com/wized2/Fern"/>
-      <id>https://github.com/wized2/Fern</id>
-      <updated>2026-09-30T09:16:25.000Z</updated>
-      <summary>Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings.</summary>
-    </entry>
-    <entry>
-      <title>deepsleep520/DSHHarness</title>
-      <link href="https://github.com/deepsleep520/DSHHarness"/>
-      <id>https://github.com/deepsleep520/DSHHarness</id>
-      <updated>2026-10-02T16:16:29.000Z</updated>
-      <summary>装一个 APK，安卓手机就多了一整台 Linux：PRoot + Alpine + Node.js 跑起 AI 编程助手 dsh 的 Web UI，无需 root / Termux / 电脑，装完点开即用（带确定性进度条）。真机存储三入口直通（/mnt/sdcard、/sdcard、/storage/emulated/0），DCIM/Pictures/Movies/Android 可只读保护；五种控制档位（自动/无障碍/Root/Shizuku/基础），授权后 AI 可直接点按、输入、截屏操作手机；支持局域网访问、会话导入导出、dsh 插件体系。零数据收集、不内置密钥。仅 arm64 · An</summary>
     </entry>
 </feed>
