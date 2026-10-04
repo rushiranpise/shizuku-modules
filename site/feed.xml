@@ -3,14 +3,49 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-03T08:36:43.548Z</updated>
+  <updated>2026-10-04T01:45:45.815Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>SBFlabs/Lightspeed</title>
+      <link href="https://github.com/SBFlabs/Lightspeed"/>
+      <id>https://github.com/SBFlabs/Lightspeed</id>
+      <updated>2026-09-30T19:53:35.000Z</updated>
+      <summary>Offline gesture-driven workstation and control layer over OEM setups, using Shizuku for elevated navigation and seamless app switching.</summary>
+    </entry>
+    <entry>
+      <title>Bingblop/ADB-Application-Manager</title>
+      <link href="https://github.com/Bingblop/ADB-Application-Manager"/>
+      <id>https://github.com/Bingblop/ADB-Application-Manager</id>
+      <updated>2026-10-04T01:12:28.000Z</updated>
+      <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
+    </entry>
+    <entry>
+      <title>udmodz0/adb-cloner</title>
+      <link href="https://github.com/udmodz0/adb-cloner"/>
+      <id>https://github.com/udmodz0/adb-cloner</id>
+      <updated>2026-10-03T07:33:17.000Z</updated>
+      <summary>Rootless Android app cloner &amp; isolated multi-user workspace powered by Shizuku IPC and native package manager virtualization. Zero-APK duplication, no root or PC required.</summary>
+    </entry>
+    <entry>
+      <title>aldiandrew/Duos</title>
+      <link href="https://github.com/aldiandrew/Duos"/>
+      <id>https://github.com/aldiandrew/Duos</id>
+      <updated>2026-10-03T16:21:58.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>WEITERFUNKEN-Thomas/pixelcomfort</title>
+      <link href="https://github.com/WEITERFUNKEN-Thomas/pixelcomfort"/>
+      <id>https://github.com/WEITERFUNKEN-Thomas/pixelcomfort</id>
+      <updated>2026-10-03T08:56:06.000Z</updated>
+      <summary>Pauses the Pixel comfort view (eye comfort) in camera &amp; photos, switches private DNS by Wi-Fi – via Shizuku</summary>
+    </entry>
     <entry>
       <title>OhMyMeme/OhMyMeme-Android</title>
       <link href="https://github.com/OhMyMeme/OhMyMeme-Android"/>
       <id>https://github.com/OhMyMeme/OhMyMeme-Android</id>
-      <updated>2026-10-03T06:08:45.000Z</updated>
+      <updated>2026-10-03T09:59:02.000Z</updated>
       <summary>轻量化跨平台表情包管理系统-安卓端</summary>
     </entry>
     <entry>
@@ -24,15 +59,22 @@
       <title>kreza6173-pixel/void-apps</title>
       <link href="https://github.com/kreza6173-pixel/void-apps"/>
       <id>https://github.com/kreza6173-pixel/void-apps</id>
-      <updated>2026-10-03T07:53:20.000Z</updated>
+      <updated>2026-10-04T01:42:17.000Z</updated>
       <summary>Best Power Full App Manager </summary>
     </entry>
     <entry>
       <title>Gustyx-Power/XArchiver</title>
       <link href="https://github.com/Gustyx-Power/XArchiver"/>
       <id>https://github.com/Gustyx-Power/XArchiver</id>
-      <updated>2026-10-03T07:56:57.000Z</updated>
+      <updated>2026-10-03T09:06:22.000Z</updated>
       <summary>Open Source File Manager on Android OS</summary>
+    </entry>
+    <entry>
+      <title>mimbasher/NetControl</title>
+      <link href="https://github.com/mimbasher/NetControl"/>
+      <id>https://github.com/mimbasher/NetControl</id>
+      <updated>2026-10-02T17:59:15.000Z</updated>
+      <summary>Block any app's internet, both WiFi and mobile data, on an unrooted Android phone. No VPN, no root, and nothing running in the background. Blocks are written straight into Android's own kernel firewall through Shizuku.</summary>
     </entry>
     <entry>
       <title>TerminalDev-1/AndroidMonitor-Preview</title>
@@ -49,13 +91,6 @@
       <summary>Rootless in game performance overlay and optimizer for Android 10 to 14. Live FPS, frame time, CPU and RAM HUD with reversible gaming profiles via Shizuku. Built with Kotlin and Jetpack Compose.</summary>
     </entry>
     <entry>
-      <title>mimbasher/NetControl</title>
-      <link href="https://github.com/mimbasher/NetControl"/>
-      <id>https://github.com/mimbasher/NetControl</id>
-      <updated>2026-10-02T17:59:15.000Z</updated>
-      <summary>Block any app's internet, both WiFi and mobile data, on an unrooted Android phone. No VPN, no root, and nothing running in the background. Blocks are written straight into Android's own kernel firewall through Shizuku.</summary>
-    </entry>
-    <entry>
       <title>molaugh-angel/FuckEts</title>
       <link href="https://github.com/molaugh-angel/FuckEts"/>
       <id>https://github.com/molaugh-angel/FuckEts</id>
@@ -66,7 +101,7 @@
       <title>mrun1corn/power-warden</title>
       <link href="https://github.com/mrun1corn/power-warden"/>
       <id>https://github.com/mrun1corn/power-warden</id>
-      <updated>2026-10-03T03:29:10.000Z</updated>
+      <updated>2026-10-03T18:07:44.000Z</updated>
       <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
     </entry>
     <entry>
@@ -80,8 +115,8 @@
       <title>serifpersia/readycast</title>
       <link href="https://github.com/serifpersia/readycast"/>
       <id>https://github.com/serifpersia/readycast</id>
-      <updated>2026-10-03T00:27:54.000Z</updated>
-      <summary>screen sharing app for ready for moto devices and webos TV's</summary>
+      <updated>2026-10-03T20:15:32.000Z</updated>
+      <summary>screen sharing app for ready for moto ready for/smart connect / samsung dex devices and webOS TV's</summary>
     </entry>
     <entry>
       <title>SibtainOcn/android-debloatr</title>
@@ -108,14 +143,14 @@
       <title>kosumic/whip</title>
       <link href="https://github.com/kosumic/whip"/>
       <id>https://github.com/kosumic/whip</id>
-      <updated>2026-10-03T02:55:23.000Z</updated>
+      <updated>2026-10-03T16:48:02.000Z</updated>
       <summary>Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one</summary>
     </entry>
     <entry>
       <title>joeconsorti/duo-fold-live</title>
       <link href="https://github.com/joeconsorti/duo-fold-live"/>
       <id>https://github.com/joeconsorti/duo-fold-live</id>
-      <updated>2026-10-03T03:21:25.000Z</updated>
+      <updated>2026-10-04T01:35:51.000Z</updated>
       <summary>The first, live, hinge-driven opening animation for the Galaxy Z Fold8. Features smooth windowed glass, modular settings, and 120hz live preview (even iPhone doesn't have this) → 90% complete. Need to discover method of preventing display shut-off during changeover.</summary>
     </entry>
     <entry>
@@ -180,40 +215,5 @@
       <id>https://github.com/deepsleep520/DSHHarness</id>
       <updated>2026-10-02T16:16:29.000Z</updated>
       <summary>装一个 APK，安卓手机就多了一整台 Linux：PRoot + Alpine + Node.js 跑起 AI 编程助手 dsh 的 Web UI，无需 root / Termux / 电脑，装完点开即用（带确定性进度条）。真机存储三入口直通（/mnt/sdcard、/sdcard、/storage/emulated/0），DCIM/Pictures/Movies/Android 可只读保护；五种控制档位（自动/无障碍/Root/Shizuku/基础），授权后 AI 可直接点按、输入、截屏操作手机；支持局域网访问、会话导入导出、dsh 插件体系。零数据收集、不内置密钥。仅 arm64 · An</summary>
-    </entry>
-    <entry>
-      <title>totallynotkasai/mi-back-screen</title>
-      <link href="https://github.com/totallynotkasai/mi-back-screen"/>
-      <id>https://github.com/totallynotkasai/mi-back-screen</id>
-      <updated>2026-10-01T20:25:44.000Z</updated>
-      <summary>Show your own image or GIF on the Xiaomi 17 Pro Max rear display</summary>
-    </entry>
-    <entry>
-      <title>Zoder-Studio/DevBay-Launcher</title>
-      <link href="https://github.com/Zoder-Studio/DevBay-Launcher"/>
-      <id>https://github.com/Zoder-Studio/DevBay-Launcher</id>
-      <updated>2026-08-11T10:08:05.000Z</updated>
-      <summary>Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>hulubo2014/dougao</title>
-      <link href="https://github.com/hulubo2014/dougao"/>
-      <id>https://github.com/hulubo2014/dougao</id>
-      <updated>2026-10-01T13:37:24.000Z</updated>
-      <summary>豆糕 DouGao —— 安卓 AI 手机助手：VLM 看屏自动操作 + 文件直改；无障碍 / Shizuku / Root 三通道控屏，多任务房间可中途纠错</summary>
-    </entry>
-    <entry>
-      <title>layiix11/X-KeepAlive</title>
-      <link href="https://github.com/layiix11/X-KeepAlive"/>
-      <id>https://github.com/layiix11/X-KeepAlive</id>
-      <updated>2026-10-02T16:12:15.000Z</updated>
-      <summary>X-KeepAlive — Android utility designed to help keep games running in the background and reduce unnecessary reloads when switching between apps. Powered by Shizuku, with no root required. Automatically applies background management policies to selected games.</summary>
-    </entry>
-    <entry>
-      <title>likairui48-pixel/dsh-launcher</title>
-      <link href="https://github.com/likairui48-pixel/dsh-launcher"/>
-      <id>https://github.com/likairui48-pixel/dsh-launcher</id>
-      <updated>2026-10-01T13:44:16.000Z</updated>
-      <summary>极简 Android 启动器：一键拉起 Termux 脚本启动 DeepSeek Harness、检查 Shizuku、直接打开网页</summary>
     </entry>
 </feed>
