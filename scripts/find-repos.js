@@ -708,6 +708,18 @@ async function main() {
       entry = { ...prev, verified: true };
     } else {
       entry = { ...pickRepo(repo), verified: true };
+      // pickRepo only carries the raw GitHub search fields — enrichment won by
+      // earlier runs (store metadata, app icon) must survive the rebuild, or
+      // every search-sourced entry would lose it whenever the enrichment
+      // source is temporarily unavailable.
+      if (prev) {
+        for (const k of [
+          "package_name", "license", "screenshots", "store_download_url",
+          "icon_url", "store_fetched_at", "icon_fetched_at", "awesome_source",
+        ]) {
+          if (prev[k] !== undefined && entry[k] === undefined) entry[k] = prev[k];
+        }
+      }
     }
     if (marker) entry.marker = marker;
     entry.category = prev ? prev.category : guessCategory(repo);
@@ -812,6 +824,16 @@ async function main() {
             };
             if (awesomeRelease) entry.release = awesomeRelease;
             if (awesomeReleaseFetchedAt) entry.release_fetched_at = awesomeReleaseFetchedAt;
+            // Preserve enrichment fields from the previous entry — pickRepo
+            // only carries raw GitHub fields.
+            if (prevAwesome) {
+              for (const k of [
+                "package_name", "license", "screenshots", "store_download_url",
+                "icon_url", "store_fetched_at", "icon_fetched_at",
+              ]) {
+                if (prevAwesome[k] !== undefined && entry[k] === undefined) entry[k] = prevAwesome[k];
+              }
+            }
             final.set(entry.full_name.toLowerCase(), entry);
             awesomeNew++;
             awesomeTotal++;
@@ -843,6 +865,16 @@ async function main() {
             };
             if (awesomeRelease) entry.release = awesomeRelease;
             if (awesomeReleaseFetchedAt) entry.release_fetched_at = awesomeReleaseFetchedAt;
+            // Preserve enrichment fields from the previous entry — pickRepo
+            // only carries raw GitHub fields.
+            if (prevAwesome) {
+              for (const k of [
+                "package_name", "license", "screenshots", "store_download_url",
+                "icon_url", "store_fetched_at", "icon_fetched_at",
+              ]) {
+                if (prevAwesome[k] !== undefined && entry[k] === undefined) entry[k] = prevAwesome[k];
+              }
+            }
             final.set(entry.full_name.toLowerCase(), entry);
             awesomeNew++;
             awesomeTotal++;
