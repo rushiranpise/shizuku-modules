@@ -3,9 +3,107 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-04T08:53:40.379Z</updated>
+  <updated>2026-10-05T09:40:28.155Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>cwuom/NeriPlayer</title>
+      <link href="https://github.com/cwuom/NeriPlayer"/>
+      <id>https://github.com/cwuom/NeriPlayer</id>
+      <updated>2026-10-05T09:32:11.000Z</updated>
+      <summary>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</summary>
+    </entry>
+    <entry>
+      <title>YXBwbWFya2V0/AppMarket</title>
+      <link href="https://github.com/YXBwbWFya2V0/AppMarket"/>
+      <id>https://github.com/YXBwbWFya2V0/AppMarket</id>
+      <updated>2026-10-04T08:28:05.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>johakovi/Continuum-Explorer-Memories</title>
+      <link href="https://github.com/johakovi/Continuum-Explorer-Memories"/>
+      <id>https://github.com/johakovi/Continuum-Explorer-Memories</id>
+      <updated>2026-10-04T22:28:50.000Z</updated>
+      <summary>A desktop-class multimedia file manager for Android optimized for DeX, tablets, phones and mouse/keyboard productivity. Now with integrated Game Manager, PDF reader and text editor!</summary>
+    </entry>
+    <entry>
+      <title>Farewell-coder/Dollhouse</title>
+      <link href="https://github.com/Farewell-coder/Dollhouse"/>
+      <id>https://github.com/Farewell-coder/Dollhouse</id>
+      <updated>2026-10-05T05:35:52.000Z</updated>
+      <summary>一款 Android 桌面宠物应用：鲸鱼娘「小肥鱼」以系统悬浮窗常驻桌面，会眨眼、待机摆动、贴边偷看，点她会说话。内置兼容任意 OpenAI 格式接口的 AI 对话与记忆系统，支持多套配置切换与星标收藏；可选接入 Shizuku，让 AI 也能执行 adb shell 级系统命令。GPL-3.0 开源。</summary>
+    </entry>
+    <entry>
+      <title>Verisonder/SonderIcons</title>
+      <link href="https://github.com/Verisonder/SonderIcons"/>
+      <id>https://github.com/Verisonder/SonderIcons</id>
+      <updated>2026-10-04T19:50:36.000Z</updated>
+      <summary>Every app on a HyperOS phone in one look. No root.</summary>
+    </entry>
+    <entry>
+      <title>CyBaiSecurity/ScanZ</title>
+      <link href="https://github.com/CyBaiSecurity/ScanZ"/>
+      <id>https://github.com/CyBaiSecurity/ScanZ</id>
+      <updated>2026-10-04T07:14:21.000Z</updated>
+      <summary>An advanced Android network reconnaissance tool leveraging Shizuku to bypass OS sandboxing for deep Layer-2/3 discovery without root.</summary>
+    </entry>
+    <entry>
+      <title>katiusu/NetPilot</title>
+      <link href="https://github.com/katiusu/NetPilot"/>
+      <id>https://github.com/katiusu/NetPilot</id>
+      <updated>2026-10-05T06:35:01.000Z</updated>
+      <summary>Android 14+ 网络制式管家：5G「假满格」或信号过差时自动降回 4G，冷却后自动恢复。双卡独立策略 · Wi-Fi 规则库 · 后台保活 · Tasker 接口。Root 优先 / Shizuku 兜底。</summary>
+    </entry>
+    <entry>
+      <title>BanglarBagh1/ClipGuard.apk</title>
+      <link href="https://github.com/BanglarBagh1/ClipGuard.apk"/>
+      <id>https://github.com/BanglarBagh1/ClipGuard.apk</id>
+      <updated>2026-10-04T15:02:12.000Z</updated>
+      <summary>Shizoku Supported app to enable or, disable clipboard permission of all apps in the phone </summary>
+    </entry>
+    <entry>
+      <title>ericbruggema/TaskBarStatsMobile</title>
+      <link href="https://github.com/ericbruggema/TaskBarStatsMobile"/>
+      <id>https://github.com/ericbruggema/TaskBarStatsMobile</id>
+      <updated>2026-10-04T17:51:42.000Z</updated>
+      <summary>Live system stats for Android: dashboard, cockpit, widgets, status bar icons, data use, processes and cache. Companion of TaskbarStats (Windows).</summary>
+    </entry>
+    <entry>
+      <title>guitar-dev-io/autobridge</title>
+      <link href="https://github.com/guitar-dev-io/autobridge"/>
+      <id>https://github.com/guitar-dev-io/autobridge</id>
+      <updated>2026-10-05T09:26:22.000Z</updated>
+      <summary>AutoBridge</summary>
+    </entry>
+    <entry>
+      <title>K1tor/PixelVolte5G</title>
+      <link href="https://github.com/K1tor/PixelVolte5G"/>
+      <id>https://github.com/K1tor/PixelVolte5G</id>
+      <updated>2026-10-05T08:58:18.000Z</updated>
+      <summary>无 Root 开启 Pixel VoLTE/VoNR/5G —— Shizuku 运营商配置覆写助手（适配 Android 17 QPR1 / CVE-2025-48617）</summary>
+    </entry>
+    <entry>
+      <title>kladenets-codes/android-keymapper</title>
+      <link href="https://github.com/kladenets-codes/android-keymapper"/>
+      <id>https://github.com/kladenets-codes/android-keymapper</id>
+      <updated>2026-10-04T22:09:50.000Z</updated>
+      <summary>Android: klavye WASD → ekran joystick / dokunma eşleyici (Shizuku + Erişilebilirlik). Root gerekmez.</summary>
+    </entry>
+    <entry>
+      <title>lws666/optiboost</title>
+      <link href="https://github.com/lws666/optiboost"/>
+      <id>https://github.com/lws666/optiboost</id>
+      <updated>2026-10-04T13:49:27.000Z</updated>
+      <summary>OptiBoost 极启 — Shizuku 免 Root 极致优化，三角洲行动专项加速</summary>
+    </entry>
+    <entry>
+      <title>TeaPieyyds/device-check</title>
+      <link href="https://github.com/TeaPieyyds/device-check"/>
+      <id>https://github.com/TeaPieyyds/device-check</id>
+      <updated>2026-10-05T06:09:09.000Z</updated>
+      <summary>一个只读、本地、不联网的安卓应用自查工具 | A read-only, offline Android app self-check tool</summary>
+    </entry>
     <entry>
       <title>Soodok/Deepseek-Harness-Local-Android</title>
       <link href="https://github.com/Soodok/Deepseek-Harness-Local-Android"/>
@@ -17,7 +115,7 @@
       <title>chr243/Farrow</title>
       <link href="https://github.com/chr243/Farrow"/>
       <id>https://github.com/chr243/Farrow</id>
-      <updated>2026-10-04T08:00:01.000Z</updated>
+      <updated>2026-10-05T07:28:53.000Z</updated>
       <summary>On-device AI agent for Android: free OpenRouter/Kilo LLMs with tool calling that browse with real Firefox via Termux, run shell commands via Shizuku, control apps with Accessibility and use Git, all in a Kotlin + Jetpack Compose app with no backend.</summary>
     </entry>
     <entry>
@@ -31,7 +129,7 @@
       <title>Bingblop/ADB-Application-Manager</title>
       <link href="https://github.com/Bingblop/ADB-Application-Manager"/>
       <id>https://github.com/Bingblop/ADB-Application-Manager</id>
-      <updated>2026-10-04T08:30:14.000Z</updated>
+      <updated>2026-10-05T05:22:12.000Z</updated>
       <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
     </entry>
     <entry>
@@ -73,22 +171,29 @@
       <title>kreza6173-pixel/void-apps</title>
       <link href="https://github.com/kreza6173-pixel/void-apps"/>
       <id>https://github.com/kreza6173-pixel/void-apps</id>
-      <updated>2026-10-04T02:01:48.000Z</updated>
+      <updated>2026-10-05T00:44:30.000Z</updated>
       <summary>Best Power Full App Manager </summary>
     </entry>
     <entry>
       <title>Gustyx-Power/XArchiver</title>
       <link href="https://github.com/Gustyx-Power/XArchiver"/>
       <id>https://github.com/Gustyx-Power/XArchiver</id>
-      <updated>2026-10-03T09:06:22.000Z</updated>
+      <updated>2026-10-04T10:17:30.000Z</updated>
       <summary>Open Source File Manager on Android OS</summary>
     </entry>
     <entry>
       <title>mimbasher/NetControl</title>
       <link href="https://github.com/mimbasher/NetControl"/>
       <id>https://github.com/mimbasher/NetControl</id>
-      <updated>2026-10-02T17:59:15.000Z</updated>
+      <updated>2026-10-04T15:56:22.000Z</updated>
       <summary>Block any app's internet, both WiFi and mobile data, on an unrooted Android phone. No VPN, no root, and nothing running in the background. Blocks are written straight into Android's own kernel firewall through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>mrun1corn/power-warden</title>
+      <link href="https://github.com/mrun1corn/power-warden"/>
+      <id>https://github.com/mrun1corn/power-warden</id>
+      <updated>2026-10-04T07:07:16.000Z</updated>
+      <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
     </entry>
     <entry>
       <title>TerminalDev-1/AndroidMonitor-Preview</title>
@@ -110,110 +215,5 @@
       <id>https://github.com/molaugh-angel/FuckEts</id>
       <updated>2026-10-02T11:15:21.000Z</updated>
       <summary></summary>
-    </entry>
-    <entry>
-      <title>mrun1corn/power-warden</title>
-      <link href="https://github.com/mrun1corn/power-warden"/>
-      <id>https://github.com/mrun1corn/power-warden</id>
-      <updated>2026-10-04T07:07:16.000Z</updated>
-      <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
-    </entry>
-    <entry>
-      <title>Psycoguana/LMT-Launcher-Revived</title>
-      <link href="https://github.com/Psycoguana/LMT-Launcher-Revived"/>
-      <id>https://github.com/Psycoguana/LMT-Launcher-Revived</id>
-      <updated>2026-10-03T03:15:40.000Z</updated>
-      <summary>LMT Launcher, revived: the classic Android pie menu and edge-gesture launcher, rebuilt for Android 15–16 with Material 3, most of it without root</summary>
-    </entry>
-    <entry>
-      <title>serifpersia/readycast</title>
-      <link href="https://github.com/serifpersia/readycast"/>
-      <id>https://github.com/serifpersia/readycast</id>
-      <updated>2026-10-03T20:15:32.000Z</updated>
-      <summary>screen sharing app for ready for moto ready for/smart connect / samsung dex devices and webOS TV's</summary>
-    </entry>
-    <entry>
-      <title>SibtainOcn/android-debloatr</title>
-      <link href="https://github.com/SibtainOcn/android-debloatr"/>
-      <id>https://github.com/SibtainOcn/android-debloatr</id>
-      <updated>2026-10-02T11:27:20.000Z</updated>
-      <summary>No-root Android debloater for phones and tablets (Android 9 to 16). Scans every package, classifies OEM, carrier, Google and third-party bloatware by risk, and removes, disables or restores them. Works from a PC with PowerShell and a web GUI, or directly on the phone with a Bash script, no PC needed</summary>
-    </entry>
-    <entry>
-      <title>StarkAg/guardian</title>
-      <link href="https://github.com/StarkAg/guardian"/>
-      <id>https://github.com/StarkAg/guardian</id>
-      <updated>2026-10-03T06:26:42.000Z</updated>
-      <summary>The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.</summary>
-    </entry>
-    <entry>
-      <title>shihabal3amri/DiAuto</title>
-      <link href="https://github.com/shihabal3amri/DiAuto"/>
-      <id>https://github.com/shihabal3amri/DiAuto</id>
-      <updated>2026-10-01T06:54:30.000Z</updated>
-      <summary>Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle.</summary>
-    </entry>
-    <entry>
-      <title>kosumic/whip</title>
-      <link href="https://github.com/kosumic/whip"/>
-      <id>https://github.com/kosumic/whip</id>
-      <updated>2026-10-04T03:47:03.000Z</updated>
-      <summary>Whip is an agent-native SSH mobile client, designed specifically for the Herdr multiplexer from day one</summary>
-    </entry>
-    <entry>
-      <title>joeconsorti/duo-fold-live</title>
-      <link href="https://github.com/joeconsorti/duo-fold-live"/>
-      <id>https://github.com/joeconsorti/duo-fold-live</id>
-      <updated>2026-10-04T05:00:04.000Z</updated>
-      <summary>The first, live, hinge-driven opening animation for the Galaxy Z Fold8. Features smooth windowed glass, modular settings, and 120hz live preview (even iPhone doesn't have this) → 90% complete. Need to discover method of preventing display shut-off during changeover.</summary>
-    </entry>
-    <entry>
-      <title>wxxsfxyzm/IntentX</title>
-      <link href="https://github.com/wxxsfxyzm/IntentX"/>
-      <id>https://github.com/wxxsfxyzm/IntentX</id>
-      <updated>2026-09-30T11:23:27.000Z</updated>
-      <summary>Explore, craft, and launch Android intents.</summary>
-    </entry>
-    <entry>
-      <title>marcoazeem/duo-open</title>
-      <link href="https://github.com/marcoazeem/duo-open"/>
-      <id>https://github.com/marcoazeem/duo-open</id>
-      <updated>2026-09-26T10:29:51.000Z</updated>
-      <summary>System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>g8row/centuryplay</title>
-      <link href="https://github.com/g8row/centuryplay"/>
-      <id>https://github.com/g8row/centuryplay</id>
-      <updated>2026-09-26T10:50:59.000Z</updated>
-      <summary>Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts.</summary>
-    </entry>
-    <entry>
-      <title>Salat39/GSplit</title>
-      <link href="https://github.com/Salat39/GSplit"/>
-      <id>https://github.com/Salat39/GSplit</id>
-      <updated>2026-09-27T18:05:15.000Z</updated>
-      <summary>Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits.</summary>
-    </entry>
-    <entry>
-      <title>broknhrt2562/finevolume</title>
-      <link href="https://github.com/broknhrt2562/finevolume"/>
-      <id>https://github.com/broknhrt2562/finevolume</id>
-      <updated>2026-09-29T13:23:27.000Z</updated>
-      <summary>Fine-grained Android volume controller with customizable volume resolution, separate app volumes, per-stream controls, Shizuku support, and a Pixel-style volume panel.</summary>
-    </entry>
-    <entry>
-      <title>munzzyy/tern</title>
-      <link href="https://github.com/munzzyy/tern"/>
-      <id>https://github.com/munzzyy/tern</id>
-      <updated>2026-10-01T15:41:22.000Z</updated>
-      <summary>Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.</summary>
-    </entry>
-    <entry>
-      <title>Lorax121/hotspot_channel_setter</title>
-      <link href="https://github.com/Lorax121/hotspot_channel_setter"/>
-      <id>https://github.com/Lorax121/hotspot_channel_setter</id>
-      <updated>2026-09-27T09:53:50.000Z</updated>
-      <summary>Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots.</summary>
     </entry>
 </feed>
