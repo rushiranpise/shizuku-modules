@@ -3,14 +3,105 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-05T09:40:28.155Z</updated>
+  <updated>2026-10-06T09:29:21.846Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>cr-zhichen/password-manager-switch</title>
+      <link href="https://github.com/cr-zhichen/password-manager-switch"/>
+      <id>https://github.com/cr-zhichen/password-manager-switch</id>
+      <updated>2026-09-26T10:23:40.000Z</updated>
+      <summary>无需 root，通过 Shizuku 查看并切换 Android 默认密码管理器、通行密钥提供者与自动填充服务。</summary>
+    </entry>
+    <entry>
+      <title>jrs8205/Device-Watch</title>
+      <link href="https://github.com/jrs8205/Device-Watch"/>
+      <id>https://github.com/jrs8205/Device-Watch</id>
+      <updated>2026-10-03T14:14:33.000Z</updated>
+      <summary>Offline device monitor with widgets, per-app usage insights and a charging screensaver; optional Shizuku access reveals battery statistics, real CPU/GPU load and temperatures.</summary>
+    </entry>
+    <entry>
+      <title>shiaho777/LogSleuth</title>
+      <link href="https://github.com/shiaho777/LogSleuth"/>
+      <id>https://github.com/shiaho777/LogSleuth</id>
+      <updated>2026-10-01T04:03:42.000Z</updated>
+      <summary>Powerful root-free logcat viewer and embeddable logging SDK with live streaming, search, filters, crash/ANR detection and session replay.</summary>
+    </entry>
+    <entry>
+      <title>mrYouki/Youki-Users</title>
+      <link href="https://github.com/mrYouki/Youki-Users"/>
+      <id>https://github.com/mrYouki/Youki-Users</id>
+      <updated>2026-10-04T21:59:49.000Z</updated>
+      <summary>Standalone Android multi-user manager to create, switch and delete user profiles with custom photos.</summary>
+    </entry>
+    <entry>
+      <title>dollarser/helix-agent</title>
+      <link href="https://github.com/dollarser/helix-agent"/>
+      <id>https://github.com/dollarser/helix-agent</id>
+      <updated>2026-10-05T18:15:33.000Z</updated>
+      <summary>Open-source Android AI agent for app automation, web browsing and file workflows. Bring your own model; extend with plugins, skills and MCP.</summary>
+    </entry>
+    <entry>
+      <title>fortifying/DroidPerf</title>
+      <link href="https://github.com/fortifying/DroidPerf"/>
+      <id>https://github.com/fortifying/DroidPerf</id>
+      <updated>2026-10-04T09:12:07.000Z</updated>
+      <summary>Real-time FPS and hardware telemetry overlay that measures true frame delivery from SurfaceFlinger; Shizuku is required for target FPS, frame times and shell-level app detection.</summary>
+    </entry>
+    <entry>
+      <title>567841vic-cmd/tidy-android-project</title>
+      <link href="https://github.com/567841vic-cmd/tidy-android-project"/>
+      <id>https://github.com/567841vic-cmd/tidy-android-project</id>
+      <updated>2026-10-06T05:33:54.000Z</updated>
+      <summary>淨機 Tidy：適用 Android 14+ 的儲存與電池整理工具</summary>
+    </entry>
+    <entry>
+      <title>aadarwal/parallel-root</title>
+      <link href="https://github.com/aadarwal/parallel-root"/>
+      <id>https://github.com/aadarwal/parallel-root</id>
+      <updated>2026-10-06T02:36:35.000Z</updated>
+      <summary>Let coding agents drive an Android phone, several at once on their own virtual displays, without root.</summary>
+    </entry>
+    <entry>
+      <title>bkrohit940-hub/game-boost</title>
+      <link href="https://github.com/bkrohit940-hub/game-boost"/>
+      <id>https://github.com/bkrohit940-hub/game-boost</id>
+      <updated>2026-10-06T07:32:22.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>Ctanhuawu/TouchGuard</title>
+      <link href="https://github.com/Ctanhuawu/TouchGuard"/>
+      <id>https://github.com/Ctanhuawu/TouchGuard</id>
+      <updated>2026-10-06T09:23:27.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>Eniggman/circle-to-search</title>
+      <link href="https://github.com/Eniggman/circle-to-search"/>
+      <id>https://github.com/Eniggman/circle-to-search</id>
+      <updated>2026-10-05T17:19:01.000Z</updated>
+      <summary>Активация нативного Circle to Search на смартфонах Android и HyperOS через ADB (по Wi-Fi или с ПК) и настройка жестов вызова</summary>
+    </entry>
+    <entry>
+      <title>lingxi821/simus-updater</title>
+      <link href="https://github.com/lingxi821/simus-updater"/>
+      <id>https://github.com/lingxi821/simus-updater</id>
+      <updated>2026-10-05T12:40:42.000Z</updated>
+      <summary>端上给 TikTok 打补丁并安装的小工具：LSPatch 集成模式 + 内嵌 Xposed 模块（美区 SIM 伪装），保留数据。由 灵曦以茗 制作</summary>
+    </entry>
+    <entry>
+      <title>Liuchijang/NotiGuard</title>
+      <link href="https://github.com/Liuchijang/NotiGuard"/>
+      <id>https://github.com/Liuchijang/NotiGuard</id>
+      <updated>2026-10-06T08:35:38.000Z</updated>
+      <summary>Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.</summary>
+    </entry>
     <entry>
       <title>cwuom/NeriPlayer</title>
       <link href="https://github.com/cwuom/NeriPlayer"/>
       <id>https://github.com/cwuom/NeriPlayer</id>
-      <updated>2026-10-05T09:32:11.000Z</updated>
+      <updated>2026-10-05T14:10:36.000Z</updated>
       <summary>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</summary>
     </entry>
     <entry>
@@ -24,7 +115,7 @@
       <title>johakovi/Continuum-Explorer-Memories</title>
       <link href="https://github.com/johakovi/Continuum-Explorer-Memories"/>
       <id>https://github.com/johakovi/Continuum-Explorer-Memories</id>
-      <updated>2026-10-04T22:28:50.000Z</updated>
+      <updated>2026-10-05T13:36:32.000Z</updated>
       <summary>A desktop-class multimedia file manager for Android optimized for DeX, tablets, phones and mouse/keyboard productivity. Now with integrated Game Manager, PDF reader and text editor!</summary>
     </entry>
     <entry>
@@ -52,7 +143,7 @@
       <title>katiusu/NetPilot</title>
       <link href="https://github.com/katiusu/NetPilot"/>
       <id>https://github.com/katiusu/NetPilot</id>
-      <updated>2026-10-05T06:35:01.000Z</updated>
+      <updated>2026-10-06T04:01:09.000Z</updated>
       <summary>Android 14+ 网络制式管家：5G「假满格」或信号过差时自动降回 4G，冷却后自动恢复。双卡独立策略 · Wi-Fi 规则库 · 后台保活 · Tasker 接口。Root 优先 / Shizuku 兜底。</summary>
     </entry>
     <entry>
@@ -73,14 +164,14 @@
       <title>guitar-dev-io/autobridge</title>
       <link href="https://github.com/guitar-dev-io/autobridge"/>
       <id>https://github.com/guitar-dev-io/autobridge</id>
-      <updated>2026-10-05T09:26:22.000Z</updated>
+      <updated>2026-10-06T01:57:10.000Z</updated>
       <summary>AutoBridge</summary>
     </entry>
     <entry>
       <title>K1tor/PixelVolte5G</title>
       <link href="https://github.com/K1tor/PixelVolte5G"/>
       <id>https://github.com/K1tor/PixelVolte5G</id>
-      <updated>2026-10-05T08:58:18.000Z</updated>
+      <updated>2026-10-06T02:51:16.000Z</updated>
       <summary>无 Root 开启 Pixel VoLTE/VoNR/5G —— Shizuku 运营商配置覆写助手（适配 Android 17 QPR1 / CVE-2025-48617）</summary>
     </entry>
     <entry>
@@ -108,7 +199,7 @@
       <title>Soodok/Deepseek-Harness-Local-Android</title>
       <link href="https://github.com/Soodok/Deepseek-Harness-Local-Android"/>
       <id>https://github.com/Soodok/Deepseek-Harness-Local-Android</id>
-      <updated>2026-10-04T08:02:44.000Z</updated>
+      <updated>2026-10-05T17:01:09.000Z</updated>
       <summary>Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux</summary>
     </entry>
     <entry>
@@ -119,101 +210,10 @@
       <summary>On-device AI agent for Android: free OpenRouter/Kilo LLMs with tool calling that browse with real Firefox via Termux, run shell commands via Shizuku, control apps with Accessibility and use Git, all in a Kotlin + Jetpack Compose app with no backend.</summary>
     </entry>
     <entry>
-      <title>SBFlabs/Lightspeed</title>
-      <link href="https://github.com/SBFlabs/Lightspeed"/>
-      <id>https://github.com/SBFlabs/Lightspeed</id>
-      <updated>2026-09-30T19:53:35.000Z</updated>
-      <summary>Offline gesture-driven workstation and control layer over OEM setups, using Shizuku for elevated navigation and seamless app switching.</summary>
-    </entry>
-    <entry>
       <title>Bingblop/ADB-Application-Manager</title>
       <link href="https://github.com/Bingblop/ADB-Application-Manager"/>
       <id>https://github.com/Bingblop/ADB-Application-Manager</id>
-      <updated>2026-10-05T05:22:12.000Z</updated>
+      <updated>2026-10-06T08:31:11.000Z</updated>
       <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
-    </entry>
-    <entry>
-      <title>udmodz0/adb-cloner</title>
-      <link href="https://github.com/udmodz0/adb-cloner"/>
-      <id>https://github.com/udmodz0/adb-cloner</id>
-      <updated>2026-10-03T07:33:17.000Z</updated>
-      <summary>Rootless Android app cloner &amp; isolated multi-user workspace powered by Shizuku IPC and native package manager virtualization. Zero-APK duplication, no root or PC required.</summary>
-    </entry>
-    <entry>
-      <title>aldiandrew/Duos</title>
-      <link href="https://github.com/aldiandrew/Duos"/>
-      <id>https://github.com/aldiandrew/Duos</id>
-      <updated>2026-10-04T04:19:58.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>WEITERFUNKEN-Thomas/pixelcomfort</title>
-      <link href="https://github.com/WEITERFUNKEN-Thomas/pixelcomfort"/>
-      <id>https://github.com/WEITERFUNKEN-Thomas/pixelcomfort</id>
-      <updated>2026-10-03T08:56:06.000Z</updated>
-      <summary>Pauses the Pixel comfort view (eye comfort) in camera &amp; photos, switches private DNS by Wi-Fi – via Shizuku</summary>
-    </entry>
-    <entry>
-      <title>OhMyMeme/OhMyMeme-Android</title>
-      <link href="https://github.com/OhMyMeme/OhMyMeme-Android"/>
-      <id>https://github.com/OhMyMeme/OhMyMeme-Android</id>
-      <updated>2026-10-03T09:59:02.000Z</updated>
-      <summary>轻量化跨平台表情包管理系统-安卓端</summary>
-    </entry>
-    <entry>
-      <title>84593320z/GKD-XA</title>
-      <link href="https://github.com/84593320z/GKD-XA"/>
-      <id>https://github.com/84593320z/GKD-XA</id>
-      <updated>2026-10-04T04:48:07.000Z</updated>
-      <summary>GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）</summary>
-    </entry>
-    <entry>
-      <title>kreza6173-pixel/void-apps</title>
-      <link href="https://github.com/kreza6173-pixel/void-apps"/>
-      <id>https://github.com/kreza6173-pixel/void-apps</id>
-      <updated>2026-10-05T00:44:30.000Z</updated>
-      <summary>Best Power Full App Manager </summary>
-    </entry>
-    <entry>
-      <title>Gustyx-Power/XArchiver</title>
-      <link href="https://github.com/Gustyx-Power/XArchiver"/>
-      <id>https://github.com/Gustyx-Power/XArchiver</id>
-      <updated>2026-10-04T10:17:30.000Z</updated>
-      <summary>Open Source File Manager on Android OS</summary>
-    </entry>
-    <entry>
-      <title>mimbasher/NetControl</title>
-      <link href="https://github.com/mimbasher/NetControl"/>
-      <id>https://github.com/mimbasher/NetControl</id>
-      <updated>2026-10-04T15:56:22.000Z</updated>
-      <summary>Block any app's internet, both WiFi and mobile data, on an unrooted Android phone. No VPN, no root, and nothing running in the background. Blocks are written straight into Android's own kernel firewall through Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>mrun1corn/power-warden</title>
-      <link href="https://github.com/mrun1corn/power-warden"/>
-      <id>https://github.com/mrun1corn/power-warden</id>
-      <updated>2026-10-04T07:07:16.000Z</updated>
-      <summary>Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.</summary>
-    </entry>
-    <entry>
-      <title>TerminalDev-1/AndroidMonitor-Preview</title>
-      <link href="https://github.com/TerminalDev-1/AndroidMonitor-Preview"/>
-      <id>https://github.com/TerminalDev-1/AndroidMonitor-Preview</id>
-      <updated>2026-10-02T15:55:08.000Z</updated>
-      <summary>PREVIEW, no maintenance guarantees. A Task Manager style system monitor for Android: live CPU, GPU, RAM, network and thermal graphs, plus a process list (Shizuku/root).</summary>
-    </entry>
-    <entry>
-      <title>JoeBuildsThings/gamedeck</title>
-      <link href="https://github.com/JoeBuildsThings/gamedeck"/>
-      <id>https://github.com/JoeBuildsThings/gamedeck</id>
-      <updated>2026-10-01T08:11:56.000Z</updated>
-      <summary>Rootless in game performance overlay and optimizer for Android 10 to 14. Live FPS, frame time, CPU and RAM HUD with reversible gaming profiles via Shizuku. Built with Kotlin and Jetpack Compose.</summary>
-    </entry>
-    <entry>
-      <title>molaugh-angel/FuckEts</title>
-      <link href="https://github.com/molaugh-angel/FuckEts"/>
-      <id>https://github.com/molaugh-angel/FuckEts</id>
-      <updated>2026-10-02T11:15:21.000Z</updated>
-      <summary></summary>
     </entry>
 </feed>
