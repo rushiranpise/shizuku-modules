@@ -3,9 +3,51 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-06T09:29:21.846Z</updated>
+  <updated>2026-10-07T09:25:31.273Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Cosmic-Ide/Cosmic-IDE</title>
+      <link href="https://github.com/Cosmic-Ide/Cosmic-IDE"/>
+      <id>https://github.com/Cosmic-Ide/Cosmic-IDE</id>
+      <updated>2026-09-19T08:36:05.000Z</updated>
+      <summary>IDE for JVM development. Uses Shizuku for an embedded shell</summary>
+    </entry>
+    <entry>
+      <title>knoop7/Ava-Pro</title>
+      <link href="https://github.com/knoop7/Ava-Pro"/>
+      <id>https://github.com/knoop7/Ava-Pro</id>
+      <updated>2026-10-07T00:27:35.000Z</updated>
+      <summary>Ava turns any Android 5+ device into a voice-first Home Assistant kiosk. Native C++ under the hood, so a 10-year-old tablet still listens, talks, and runs the house - with AirPlay-grade audio in every room, all in sync.</summary>
+    </entry>
+    <entry>
+      <title>wuyhong715/rikkahub-agent-pure</title>
+      <link href="https://github.com/wuyhong715/rikkahub-agent-pure"/>
+      <id>https://github.com/wuyhong715/rikkahub-agent-pure</id>
+      <updated>2026-10-07T08:22:50.000Z</updated>
+      <summary>RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledger &amp; budgets, on-demand tools, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. QQ group 1030362371.</summary>
+    </entry>
+    <entry>
+      <title>langraficagr-collab/adaptive-performance</title>
+      <link href="https://github.com/langraficagr-collab/adaptive-performance"/>
+      <id>https://github.com/langraficagr-collab/adaptive-performance</id>
+      <updated>2026-10-07T09:24:18.000Z</updated>
+      <summary>Adaptive Performance: otimização inteligente de bateria, temperatura, RAM e apps em segundo plano no Android com modo automático, meta de bateria e Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>kellyiscute/hciscope</title>
+      <link href="https://github.com/kellyiscute/hciscope"/>
+      <id>https://github.com/kellyiscute/hciscope</id>
+      <updated>2026-10-06T19:25:59.000Z</updated>
+      <summary>Live Bluetooth HCI packet viewer for rooted Android: decodes HCI, L2CAP, ATT and SMP on-device via the snoop log and Shizuku, exports btsnoop for Wireshark.</summary>
+    </entry>
+    <entry>
+      <title>MT Manager</title>
+      <link href="https://mt.cc/"/>
+      <id>https://mt.cc/</id>
+      <updated>2026-10-07T09:24:35.481Z</updated>
+      <summary>Split-screen file manager. Can install APKs and access Android/data and Android/obb using Shizuku</summary>
+    </entry>
     <entry>
       <title>cr-zhichen/password-manager-switch</title>
       <link href="https://github.com/cr-zhichen/password-manager-switch"/>
@@ -38,7 +80,7 @@
       <title>dollarser/helix-agent</title>
       <link href="https://github.com/dollarser/helix-agent"/>
       <id>https://github.com/dollarser/helix-agent</id>
-      <updated>2026-10-05T18:15:33.000Z</updated>
+      <updated>2026-10-06T13:15:34.000Z</updated>
       <summary>Open-source Android AI agent for app automation, web browsing and file workflows. Bring your own model; extend with plugins, skills and MCP.</summary>
     </entry>
     <entry>
@@ -80,7 +122,7 @@
       <title>Eniggman/circle-to-search</title>
       <link href="https://github.com/Eniggman/circle-to-search"/>
       <id>https://github.com/Eniggman/circle-to-search</id>
-      <updated>2026-10-05T17:19:01.000Z</updated>
+      <updated>2026-10-06T19:54:27.000Z</updated>
       <summary>Активация нативного Circle to Search на смартфонах Android и HyperOS через ADB (по Wi-Fi или с ПК) и настройка жестов вызова</summary>
     </entry>
     <entry>
@@ -140,10 +182,17 @@
       <summary>An advanced Android network reconnaissance tool leveraging Shizuku to bypass OS sandboxing for deep Layer-2/3 discovery without root.</summary>
     </entry>
     <entry>
+      <title>guitar-dev-io/autobridge</title>
+      <link href="https://github.com/guitar-dev-io/autobridge"/>
+      <id>https://github.com/guitar-dev-io/autobridge</id>
+      <updated>2026-10-07T08:38:48.000Z</updated>
+      <summary>AutoBridge</summary>
+    </entry>
+    <entry>
       <title>katiusu/NetPilot</title>
       <link href="https://github.com/katiusu/NetPilot"/>
       <id>https://github.com/katiusu/NetPilot</id>
-      <updated>2026-10-06T04:01:09.000Z</updated>
+      <updated>2026-10-07T04:12:35.000Z</updated>
       <summary>Android 14+ 网络制式管家：5G「假满格」或信号过差时自动降回 4G，冷却后自动恢复。双卡独立策略 · Wi-Fi 规则库 · 后台保活 · Tasker 接口。Root 优先 / Shizuku 兜底。</summary>
     </entry>
     <entry>
@@ -157,15 +206,8 @@
       <title>ericbruggema/TaskBarStatsMobile</title>
       <link href="https://github.com/ericbruggema/TaskBarStatsMobile"/>
       <id>https://github.com/ericbruggema/TaskBarStatsMobile</id>
-      <updated>2026-10-04T17:51:42.000Z</updated>
+      <updated>2026-10-07T05:08:52.000Z</updated>
       <summary>Live system stats for Android: dashboard, cockpit, widgets, status bar icons, data use, processes and cache. Companion of TaskbarStats (Windows).</summary>
-    </entry>
-    <entry>
-      <title>guitar-dev-io/autobridge</title>
-      <link href="https://github.com/guitar-dev-io/autobridge"/>
-      <id>https://github.com/guitar-dev-io/autobridge</id>
-      <updated>2026-10-06T01:57:10.000Z</updated>
-      <summary>AutoBridge</summary>
     </entry>
     <entry>
       <title>K1tor/PixelVolte5G</title>
@@ -173,47 +215,5 @@
       <id>https://github.com/K1tor/PixelVolte5G</id>
       <updated>2026-10-06T02:51:16.000Z</updated>
       <summary>无 Root 开启 Pixel VoLTE/VoNR/5G —— Shizuku 运营商配置覆写助手（适配 Android 17 QPR1 / CVE-2025-48617）</summary>
-    </entry>
-    <entry>
-      <title>kladenets-codes/android-keymapper</title>
-      <link href="https://github.com/kladenets-codes/android-keymapper"/>
-      <id>https://github.com/kladenets-codes/android-keymapper</id>
-      <updated>2026-10-04T22:09:50.000Z</updated>
-      <summary>Android: klavye WASD → ekran joystick / dokunma eşleyici (Shizuku + Erişilebilirlik). Root gerekmez.</summary>
-    </entry>
-    <entry>
-      <title>lws666/optiboost</title>
-      <link href="https://github.com/lws666/optiboost"/>
-      <id>https://github.com/lws666/optiboost</id>
-      <updated>2026-10-04T13:49:27.000Z</updated>
-      <summary>OptiBoost 极启 — Shizuku 免 Root 极致优化，三角洲行动专项加速</summary>
-    </entry>
-    <entry>
-      <title>TeaPieyyds/device-check</title>
-      <link href="https://github.com/TeaPieyyds/device-check"/>
-      <id>https://github.com/TeaPieyyds/device-check</id>
-      <updated>2026-10-05T06:09:09.000Z</updated>
-      <summary>一个只读、本地、不联网的安卓应用自查工具 | A read-only, offline Android app self-check tool</summary>
-    </entry>
-    <entry>
-      <title>Soodok/Deepseek-Harness-Local-Android</title>
-      <link href="https://github.com/Soodok/Deepseek-Harness-Local-Android"/>
-      <id>https://github.com/Soodok/Deepseek-Harness-Local-Android</id>
-      <updated>2026-10-05T17:01:09.000Z</updated>
-      <summary>Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux</summary>
-    </entry>
-    <entry>
-      <title>chr243/Farrow</title>
-      <link href="https://github.com/chr243/Farrow"/>
-      <id>https://github.com/chr243/Farrow</id>
-      <updated>2026-10-05T07:28:53.000Z</updated>
-      <summary>On-device AI agent for Android: free OpenRouter/Kilo LLMs with tool calling that browse with real Firefox via Termux, run shell commands via Shizuku, control apps with Accessibility and use Git, all in a Kotlin + Jetpack Compose app with no backend.</summary>
-    </entry>
-    <entry>
-      <title>Bingblop/ADB-Application-Manager</title>
-      <link href="https://github.com/Bingblop/ADB-Application-Manager"/>
-      <id>https://github.com/Bingblop/ADB-Application-Manager</id>
-      <updated>2026-10-06T08:31:11.000Z</updated>
-      <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
     </entry>
 </feed>
