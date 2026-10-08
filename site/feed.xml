@@ -3,9 +3,51 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-07T09:25:31.273Z</updated>
+  <updated>2026-10-08T09:35:20.283Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>cypressincloud/Tally</title>
+      <link href="https://github.com/cypressincloud/Tally"/>
+      <id>https://github.com/cypressincloud/Tally</id>
+      <updated>2026-10-07T09:30:12.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>Linwan-yn/Lin-Shizuku</title>
+      <link href="https://github.com/Linwan-yn/Lin-Shizuku"/>
+      <id>https://github.com/Linwan-yn/Lin-Shizuku</id>
+      <updated>2026-10-08T08:35:46.000Z</updated>
+      <summary>基于 Shizuku 13.5.4 + Sui 深度定制的 Android 授权管理工具（无线调试自启 / TCP 保活 / 刷新率锁定 / 进程守护）</summary>
+    </entry>
+    <entry>
+      <title>YasserNull/logcat-live-wallpaper</title>
+      <link href="https://github.com/YasserNull/logcat-live-wallpaper"/>
+      <id>https://github.com/YasserNull/logcat-live-wallpaper</id>
+      <updated>2026-10-07T08:49:20.000Z</updated>
+      <summary>Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log.</summary>
+    </entry>
+    <entry>
+      <title>meta-tabchen/MoonCast</title>
+      <link href="https://github.com/meta-tabchen/MoonCast"/>
+      <id>https://github.com/meta-tabchen/MoonCast</id>
+      <updated>2026-10-07T16:36:14.000Z</updated>
+      <summary>Android → Moonlight over LAN. Smart cinema, app displays, original-file playback, optional input and experimental multi-receiver/panel-off casting.</summary>
+    </entry>
+    <entry>
+      <title>getjump/call-translate</title>
+      <link href="https://github.com/getjump/call-translate"/>
+      <id>https://github.com/getjump/call-translate</id>
+      <updated>2026-10-07T20:22:59.000Z</updated>
+      <summary>Suspended Android experiment for SIM-call transcription and translation with an unfinished ElevenLabs voice agent. Unmaintained; forks welcome.</summary>
+    </entry>
+    <entry>
+      <title>RakinRkz/flip-ctl</title>
+      <link href="https://github.com/RakinRkz/flip-ctl"/>
+      <id>https://github.com/RakinRkz/flip-ctl</id>
+      <updated>2026-10-07T17:44:24.000Z</updated>
+      <summary>Use the cover screen of a Samsung Galaxy Z Flip on demand (alone or with the main screen), without root</summary>
+    </entry>
     <entry>
       <title>Cosmic-Ide/Cosmic-IDE</title>
       <link href="https://github.com/Cosmic-Ide/Cosmic-IDE"/>
@@ -24,15 +66,15 @@
       <title>wuyhong715/rikkahub-agent-pure</title>
       <link href="https://github.com/wuyhong715/rikkahub-agent-pure"/>
       <id>https://github.com/wuyhong715/rikkahub-agent-pure</id>
-      <updated>2026-10-07T08:22:50.000Z</updated>
+      <updated>2026-10-08T09:20:20.000Z</updated>
       <summary>RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledger &amp; budgets, on-demand tools, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. QQ group 1030362371.</summary>
     </entry>
     <entry>
       <title>langraficagr-collab/adaptive-performance</title>
       <link href="https://github.com/langraficagr-collab/adaptive-performance"/>
       <id>https://github.com/langraficagr-collab/adaptive-performance</id>
-      <updated>2026-10-07T09:24:18.000Z</updated>
-      <summary>Adaptive Performance: otimização inteligente de bateria, temperatura, RAM e apps em segundo plano no Android com modo automático, meta de bateria e Shizuku.</summary>
+      <updated>2026-10-08T08:23:22.000Z</updated>
+      <summary>Adaptive Performance para Android: pré-carregamento inteligente dos apps usados recentemente, ajuste por RAM e temperatura, e economia automática abaixo de 50%.</summary>
     </entry>
     <entry>
       <title>kellyiscute/hciscope</title>
@@ -108,7 +150,7 @@
       <title>bkrohit940-hub/game-boost</title>
       <link href="https://github.com/bkrohit940-hub/game-boost"/>
       <id>https://github.com/bkrohit940-hub/game-boost</id>
-      <updated>2026-10-06T07:32:22.000Z</updated>
+      <updated>2026-10-07T12:42:27.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -143,7 +185,7 @@
       <title>cwuom/NeriPlayer</title>
       <link href="https://github.com/cwuom/NeriPlayer"/>
       <id>https://github.com/cwuom/NeriPlayer</id>
-      <updated>2026-10-05T14:10:36.000Z</updated>
+      <updated>2026-10-08T08:49:33.000Z</updated>
       <summary>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</summary>
     </entry>
     <entry>
@@ -157,15 +199,15 @@
       <title>johakovi/Continuum-Explorer-Memories</title>
       <link href="https://github.com/johakovi/Continuum-Explorer-Memories"/>
       <id>https://github.com/johakovi/Continuum-Explorer-Memories</id>
-      <updated>2026-10-05T13:36:32.000Z</updated>
+      <updated>2026-10-07T20:27:15.000Z</updated>
       <summary>A desktop-class multimedia file manager for Android optimized for DeX, tablets, phones and mouse/keyboard productivity. Now with integrated Game Manager, PDF reader and text editor!</summary>
     </entry>
     <entry>
       <title>Farewell-coder/Dollhouse</title>
       <link href="https://github.com/Farewell-coder/Dollhouse"/>
       <id>https://github.com/Farewell-coder/Dollhouse</id>
-      <updated>2026-10-05T05:35:52.000Z</updated>
-      <summary>一款 Android 桌面宠物应用：鲸鱼娘「小肥鱼」以系统悬浮窗常驻桌面，会眨眼、待机摆动、贴边偷看，点她会说话。内置兼容任意 OpenAI 格式接口的 AI 对话与记忆系统，支持多套配置切换与星标收藏；可选接入 Shizuku，让 AI 也能执行 adb shell 级系统命令。GPL-3.0 开源。</summary>
+      <updated>2026-10-07T22:15:14.000Z</updated>
+      <summary>Android 桌宠小人：悬浮在屏幕上陪你聊天，带长期记忆与主题配色，可自行接自己的对话服务。</summary>
     </entry>
     <entry>
       <title>Verisonder/SonderIcons</title>
@@ -173,47 +215,5 @@
       <id>https://github.com/Verisonder/SonderIcons</id>
       <updated>2026-10-04T19:50:36.000Z</updated>
       <summary>Every app on a HyperOS phone in one look. No root.</summary>
-    </entry>
-    <entry>
-      <title>CyBaiSecurity/ScanZ</title>
-      <link href="https://github.com/CyBaiSecurity/ScanZ"/>
-      <id>https://github.com/CyBaiSecurity/ScanZ</id>
-      <updated>2026-10-04T07:14:21.000Z</updated>
-      <summary>An advanced Android network reconnaissance tool leveraging Shizuku to bypass OS sandboxing for deep Layer-2/3 discovery without root.</summary>
-    </entry>
-    <entry>
-      <title>guitar-dev-io/autobridge</title>
-      <link href="https://github.com/guitar-dev-io/autobridge"/>
-      <id>https://github.com/guitar-dev-io/autobridge</id>
-      <updated>2026-10-07T08:38:48.000Z</updated>
-      <summary>AutoBridge</summary>
-    </entry>
-    <entry>
-      <title>katiusu/NetPilot</title>
-      <link href="https://github.com/katiusu/NetPilot"/>
-      <id>https://github.com/katiusu/NetPilot</id>
-      <updated>2026-10-07T04:12:35.000Z</updated>
-      <summary>Android 14+ 网络制式管家：5G「假满格」或信号过差时自动降回 4G，冷却后自动恢复。双卡独立策略 · Wi-Fi 规则库 · 后台保活 · Tasker 接口。Root 优先 / Shizuku 兜底。</summary>
-    </entry>
-    <entry>
-      <title>BanglarBagh1/ClipGuard.apk</title>
-      <link href="https://github.com/BanglarBagh1/ClipGuard.apk"/>
-      <id>https://github.com/BanglarBagh1/ClipGuard.apk</id>
-      <updated>2026-10-04T15:02:12.000Z</updated>
-      <summary>Shizoku Supported app to enable or, disable clipboard permission of all apps in the phone </summary>
-    </entry>
-    <entry>
-      <title>ericbruggema/TaskBarStatsMobile</title>
-      <link href="https://github.com/ericbruggema/TaskBarStatsMobile"/>
-      <id>https://github.com/ericbruggema/TaskBarStatsMobile</id>
-      <updated>2026-10-07T05:08:52.000Z</updated>
-      <summary>Live system stats for Android: dashboard, cockpit, widgets, status bar icons, data use, processes and cache. Companion of TaskbarStats (Windows).</summary>
-    </entry>
-    <entry>
-      <title>K1tor/PixelVolte5G</title>
-      <link href="https://github.com/K1tor/PixelVolte5G"/>
-      <id>https://github.com/K1tor/PixelVolte5G</id>
-      <updated>2026-10-06T02:51:16.000Z</updated>
-      <summary>无 Root 开启 Pixel VoLTE/VoNR/5G —— Shizuku 运营商配置覆写助手（适配 Android 17 QPR1 / CVE-2025-48617）</summary>
     </entry>
 </feed>
