@@ -3,9 +3,86 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-08T09:35:20.283Z</updated>
+  <updated>2026-10-09T09:42:13.868Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>soralis0912/ShutterSoundToggle</title>
+      <link href="https://github.com/soralis0912/ShutterSoundToggle"/>
+      <id>https://github.com/soralis0912/ShutterSoundToggle</id>
+      <updated>2026-10-08T15:26:17.000Z</updated>
+      <summary>Toggle the enforced camera shutter sound through Shizuku</summary>
+    </entry>
+    <entry>
+      <title>alen123222/DSH-mobile-IDE-withTermux</title>
+      <link href="https://github.com/alen123222/DSH-mobile-IDE-withTermux"/>
+      <id>https://github.com/alen123222/DSH-mobile-IDE-withTermux</id>
+      <updated>2026-10-08T23:25:23.000Z</updated>
+      <summary>Android 原生编程助手：完整 Termux 环境、DeepSeek Harness Android arm64 适配、多工作区与自定义 API 预设。</summary>
+    </entry>
+    <entry>
+      <title>AppInsightLabs/AppInsight</title>
+      <link href="https://github.com/AppInsightLabs/AppInsight"/>
+      <id>https://github.com/AppInsightLabs/AppInsight</id>
+      <updated>2026-10-08T15:34:01.000Z</updated>
+      <summary>See and monitor when apps access the Mic, Camera, and Location</summary>
+    </entry>
+    <entry>
+      <title>Azx8788/AutoClicker</title>
+      <link href="https://github.com/Azx8788/AutoClicker"/>
+      <id>https://github.com/Azx8788/AutoClicker</id>
+      <updated>2026-10-08T12:37:35.000Z</updated>
+      <summary>轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）</summary>
+    </entry>
+    <entry>
+      <title>bl3xand/APK-Toolbox</title>
+      <link href="https://github.com/bl3xand/APK-Toolbox"/>
+      <id>https://github.com/bl3xand/APK-Toolbox</id>
+      <updated>2026-10-09T08:21:32.000Z</updated>
+      <summary>Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.</summary>
+    </entry>
+    <entry>
+      <title>BUGJI/IzukiJS</title>
+      <link href="https://github.com/BUGJI/IzukiJS"/>
+      <id>https://github.com/BUGJI/IzukiJS</id>
+      <updated>2026-10-08T19:10:19.000Z</updated>
+      <summary>Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困</summary>
+    </entry>
+    <entry>
+      <title>capitan0n/droynis</title>
+      <link href="https://github.com/capitan0n/droynis"/>
+      <id>https://github.com/capitan0n/droynis</id>
+      <updated>2026-10-08T17:06:23.000Z</updated>
+      <summary>Offline Android security audit tool. 54 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.</summary>
+    </entry>
+    <entry>
+      <title>FL8Y/LiteCloner</title>
+      <link href="https://github.com/FL8Y/LiteCloner"/>
+      <id>https://github.com/FL8Y/LiteCloner</id>
+      <updated>2026-10-08T14:31:00.000Z</updated>
+      <summary>Lite Cloner — private beta Android cloning utility.</summary>
+    </entry>
+    <entry>
+      <title>ReSerendipity/Android-IconAutoArrange</title>
+      <link href="https://github.com/ReSerendipity/Android-IconAutoArrange"/>
+      <id>https://github.com/ReSerendipity/Android-IconAutoArrange</id>
+      <updated>2026-10-09T04:59:36.000Z</updated>
+      <summary>安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。</summary>
+    </entry>
+    <entry>
+      <title>robbyczgw-cla/activity-plus-android</title>
+      <link href="https://github.com/robbyczgw-cla/activity-plus-android"/>
+      <id>https://github.com/robbyczgw-cla/activity-plus-android</id>
+      <updated>2026-10-09T08:54:55.000Z</updated>
+      <summary>Activity+ for Android: which app is responsible, and what to do about it. No internet permission.</summary>
+    </entry>
+    <entry>
+      <title>The-gold-of-wind233/LocalShare</title>
+      <link href="https://github.com/The-gold-of-wind233/LocalShare"/>
+      <id>https://github.com/The-gold-of-wind233/LocalShare</id>
+      <updated>2026-10-08T15:53:22.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>cypressincloud/Tally</title>
       <link href="https://github.com/cypressincloud/Tally"/>
@@ -31,7 +108,7 @@
       <title>meta-tabchen/MoonCast</title>
       <link href="https://github.com/meta-tabchen/MoonCast"/>
       <id>https://github.com/meta-tabchen/MoonCast</id>
-      <updated>2026-10-07T16:36:14.000Z</updated>
+      <updated>2026-10-08T14:28:30.000Z</updated>
       <summary>Android → Moonlight over LAN. Smart cinema, app displays, original-file playback, optional input and experimental multi-receiver/panel-off casting.</summary>
     </entry>
     <entry>
@@ -66,14 +143,14 @@
       <title>wuyhong715/rikkahub-agent-pure</title>
       <link href="https://github.com/wuyhong715/rikkahub-agent-pure"/>
       <id>https://github.com/wuyhong715/rikkahub-agent-pure</id>
-      <updated>2026-10-08T09:20:20.000Z</updated>
+      <updated>2026-10-09T09:09:48.000Z</updated>
       <summary>RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledger &amp; budgets, on-demand tools, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. QQ group 1030362371.</summary>
     </entry>
     <entry>
       <title>langraficagr-collab/adaptive-performance</title>
       <link href="https://github.com/langraficagr-collab/adaptive-performance"/>
       <id>https://github.com/langraficagr-collab/adaptive-performance</id>
-      <updated>2026-10-08T08:23:22.000Z</updated>
+      <updated>2026-10-09T05:03:01.000Z</updated>
       <summary>Adaptive Performance para Android: pré-carregamento inteligente dos apps usados recentemente, ajuste por RAM e temperatura, e economia automática abaixo de 50%.</summary>
     </entry>
     <entry>
@@ -138,82 +215,5 @@
       <id>https://github.com/567841vic-cmd/tidy-android-project</id>
       <updated>2026-10-06T05:33:54.000Z</updated>
       <summary>淨機 Tidy：適用 Android 14+ 的儲存與電池整理工具</summary>
-    </entry>
-    <entry>
-      <title>aadarwal/parallel-root</title>
-      <link href="https://github.com/aadarwal/parallel-root"/>
-      <id>https://github.com/aadarwal/parallel-root</id>
-      <updated>2026-10-06T02:36:35.000Z</updated>
-      <summary>Let coding agents drive an Android phone, several at once on their own virtual displays, without root.</summary>
-    </entry>
-    <entry>
-      <title>bkrohit940-hub/game-boost</title>
-      <link href="https://github.com/bkrohit940-hub/game-boost"/>
-      <id>https://github.com/bkrohit940-hub/game-boost</id>
-      <updated>2026-10-07T12:42:27.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Ctanhuawu/TouchGuard</title>
-      <link href="https://github.com/Ctanhuawu/TouchGuard"/>
-      <id>https://github.com/Ctanhuawu/TouchGuard</id>
-      <updated>2026-10-06T09:23:27.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Eniggman/circle-to-search</title>
-      <link href="https://github.com/Eniggman/circle-to-search"/>
-      <id>https://github.com/Eniggman/circle-to-search</id>
-      <updated>2026-10-06T19:54:27.000Z</updated>
-      <summary>Активация нативного Circle to Search на смартфонах Android и HyperOS через ADB (по Wi-Fi или с ПК) и настройка жестов вызова</summary>
-    </entry>
-    <entry>
-      <title>lingxi821/simus-updater</title>
-      <link href="https://github.com/lingxi821/simus-updater"/>
-      <id>https://github.com/lingxi821/simus-updater</id>
-      <updated>2026-10-05T12:40:42.000Z</updated>
-      <summary>端上给 TikTok 打补丁并安装的小工具：LSPatch 集成模式 + 内嵌 Xposed 模块（美区 SIM 伪装），保留数据。由 灵曦以茗 制作</summary>
-    </entry>
-    <entry>
-      <title>Liuchijang/NotiGuard</title>
-      <link href="https://github.com/Liuchijang/NotiGuard"/>
-      <id>https://github.com/Liuchijang/NotiGuard</id>
-      <updated>2026-10-06T08:35:38.000Z</updated>
-      <summary>Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>cwuom/NeriPlayer</title>
-      <link href="https://github.com/cwuom/NeriPlayer"/>
-      <id>https://github.com/cwuom/NeriPlayer</id>
-      <updated>2026-10-08T08:49:33.000Z</updated>
-      <summary>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</summary>
-    </entry>
-    <entry>
-      <title>YXBwbWFya2V0/AppMarket</title>
-      <link href="https://github.com/YXBwbWFya2V0/AppMarket"/>
-      <id>https://github.com/YXBwbWFya2V0/AppMarket</id>
-      <updated>2026-10-04T08:28:05.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>johakovi/Continuum-Explorer-Memories</title>
-      <link href="https://github.com/johakovi/Continuum-Explorer-Memories"/>
-      <id>https://github.com/johakovi/Continuum-Explorer-Memories</id>
-      <updated>2026-10-07T20:27:15.000Z</updated>
-      <summary>A desktop-class multimedia file manager for Android optimized for DeX, tablets, phones and mouse/keyboard productivity. Now with integrated Game Manager, PDF reader and text editor!</summary>
-    </entry>
-    <entry>
-      <title>Farewell-coder/Dollhouse</title>
-      <link href="https://github.com/Farewell-coder/Dollhouse"/>
-      <id>https://github.com/Farewell-coder/Dollhouse</id>
-      <updated>2026-10-07T22:15:14.000Z</updated>
-      <summary>Android 桌宠小人：悬浮在屏幕上陪你聊天，带长期记忆与主题配色，可自行接自己的对话服务。</summary>
-    </entry>
-    <entry>
-      <title>Verisonder/SonderIcons</title>
-      <link href="https://github.com/Verisonder/SonderIcons"/>
-      <id>https://github.com/Verisonder/SonderIcons</id>
-      <updated>2026-10-04T19:50:36.000Z</updated>
-      <summary>Every app on a HyperOS phone in one look. No root.</summary>
     </entry>
 </feed>
