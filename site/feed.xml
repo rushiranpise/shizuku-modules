@@ -3,15 +3,85 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-09T09:42:13.868Z</updated>
+  <updated>2026-10-10T09:08:57.892Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>HSSkyBoy/AppMarket</title>
+      <link href="https://github.com/HSSkyBoy/AppMarket"/>
+      <id>https://github.com/HSSkyBoy/AppMarket</id>
+      <updated>2026-10-07T13:02:18.000Z</updated>
+      <summary>开源多源的应用商店</summary>
+    </entry>
+    <entry>
+      <title>IstiN/flutter_agent_harness</title>
+      <link href="https://github.com/IstiN/flutter_agent_harness"/>
+      <id>https://github.com/IstiN/flutter_agent_harness</id>
+      <updated>2026-10-10T09:08:13.000Z</updated>
+      <summary>Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends</summary>
+    </entry>
+    <entry>
+      <title>Show-o4210/Soul-Knight-Save-Editor</title>
+      <link href="https://github.com/Show-o4210/Soul-Knight-Save-Editor"/>
+      <id>https://github.com/Show-o4210/Soul-Knight-Save-Editor</id>
+      <updated>2026-10-09T16:53:27.000Z</updated>
+      <summary>元气骑士 Android / Python 本地存档工具。Android 默认原生 Root，可选 Shizuku Root；文件修改测试：2026-10-09（合成文件）。真实游戏效果及反馈机型兼容性待复测，不保证实际可用。</summary>
+    </entry>
+    <entry>
+      <title>guzhou079-arch/deepseek-harness-android</title>
+      <link href="https://github.com/guzhou079-arch/deepseek-harness-android"/>
+      <id>https://github.com/guzhou079-arch/deepseek-harness-android</id>
+      <updated>2026-10-10T00:43:53.000Z</updated>
+      <summary>Packages the DeepSeek Harness agent runtime and 21 bundled skills into an APK with no Termux or root needed. Shizuku powers the privileged shell, app control and virtual-display automation; the app can also build and sign its own APK on-device.</summary>
+    </entry>
+    <entry>
+      <title>yijiacloud/shizuku-next</title>
+      <link href="https://github.com/yijiacloud/shizuku-next"/>
+      <id>https://github.com/yijiacloud/shizuku-next</id>
+      <updated>2026-09-06T11:23:25.000Z</updated>
+      <summary>Shizuku Next - 增强版 Shizuku：悬浮窗配对 + Shell终端 + 模块系统</summary>
+    </entry>
+    <entry>
+      <title>lilining308-prog/lock-escape</title>
+      <link href="https://github.com/lilining308-prog/lock-escape"/>
+      <id>https://github.com/lilining308-prog/lock-escape</id>
+      <updated>2026-10-10T08:39:47.000Z</updated>
+      <summary>Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件。半成品开源项目，GPL-3.0</summary>
+    </entry>
+    <entry>
+      <title>tingao/debian-on-s23-ultra</title>
+      <link href="https://github.com/tingao/debian-on-s23-ultra"/>
+      <id>https://github.com/tingao/debian-on-s23-ultra</id>
+      <updated>2026-10-10T05:46:07.000Z</updated>
+      <summary>A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.</summary>
+    </entry>
+    <entry>
+      <title>loyality7/headless-android-sdk</title>
+      <link href="https://github.com/loyality7/headless-android-sdk"/>
+      <id>https://github.com/loyality7/headless-android-sdk</id>
+      <updated>2026-10-09T15:35:31.000Z</updated>
+      <summary>Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.</summary>
+    </entry>
     <entry>
       <title>soralis0912/ShutterSoundToggle</title>
       <link href="https://github.com/soralis0912/ShutterSoundToggle"/>
       <id>https://github.com/soralis0912/ShutterSoundToggle</id>
       <updated>2026-10-08T15:26:17.000Z</updated>
       <summary>Toggle the enforced camera shutter sound through Shizuku</summary>
+    </entry>
+    <entry>
+      <title>bl3xand/APK-Toolbox</title>
+      <link href="https://github.com/bl3xand/APK-Toolbox"/>
+      <id>https://github.com/bl3xand/APK-Toolbox</id>
+      <updated>2026-10-10T08:54:56.000Z</updated>
+      <summary>Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.</summary>
+    </entry>
+    <entry>
+      <title>robbyczgw-cla/activity-plus-android</title>
+      <link href="https://github.com/robbyczgw-cla/activity-plus-android"/>
+      <id>https://github.com/robbyczgw-cla/activity-plus-android</id>
+      <updated>2026-10-09T15:50:59.000Z</updated>
+      <summary>Activity+ for Android: which app is responsible, and what to do about it. No internet permission.</summary>
     </entry>
     <entry>
       <title>alen123222/DSH-mobile-IDE-withTermux</title>
@@ -24,7 +94,7 @@
       <title>AppInsightLabs/AppInsight</title>
       <link href="https://github.com/AppInsightLabs/AppInsight"/>
       <id>https://github.com/AppInsightLabs/AppInsight</id>
-      <updated>2026-10-08T15:34:01.000Z</updated>
+      <updated>2026-10-10T02:07:20.000Z</updated>
       <summary>See and monitor when apps access the Mic, Camera, and Location</summary>
     </entry>
     <entry>
@@ -33,13 +103,6 @@
       <id>https://github.com/Azx8788/AutoClicker</id>
       <updated>2026-10-08T12:37:35.000Z</updated>
       <summary>轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）</summary>
-    </entry>
-    <entry>
-      <title>bl3xand/APK-Toolbox</title>
-      <link href="https://github.com/bl3xand/APK-Toolbox"/>
-      <id>https://github.com/bl3xand/APK-Toolbox</id>
-      <updated>2026-10-09T08:21:32.000Z</updated>
-      <summary>Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.</summary>
     </entry>
     <entry>
       <title>BUGJI/IzukiJS</title>
@@ -52,7 +115,7 @@
       <title>capitan0n/droynis</title>
       <link href="https://github.com/capitan0n/droynis"/>
       <id>https://github.com/capitan0n/droynis</id>
-      <updated>2026-10-08T17:06:23.000Z</updated>
+      <updated>2026-10-09T11:55:22.000Z</updated>
       <summary>Offline Android security audit tool. 54 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.</summary>
     </entry>
     <entry>
@@ -66,15 +129,8 @@
       <title>ReSerendipity/Android-IconAutoArrange</title>
       <link href="https://github.com/ReSerendipity/Android-IconAutoArrange"/>
       <id>https://github.com/ReSerendipity/Android-IconAutoArrange</id>
-      <updated>2026-10-09T04:59:36.000Z</updated>
+      <updated>2026-10-10T04:30:36.000Z</updated>
       <summary>安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。</summary>
-    </entry>
-    <entry>
-      <title>robbyczgw-cla/activity-plus-android</title>
-      <link href="https://github.com/robbyczgw-cla/activity-plus-android"/>
-      <id>https://github.com/robbyczgw-cla/activity-plus-android</id>
-      <updated>2026-10-09T08:54:55.000Z</updated>
-      <summary>Activity+ for Android: which app is responsible, and what to do about it. No internet permission.</summary>
     </entry>
     <entry>
       <title>The-gold-of-wind233/LocalShare</title>
@@ -98,18 +154,18 @@
       <summary>基于 Shizuku 13.5.4 + Sui 深度定制的 Android 授权管理工具（无线调试自启 / TCP 保活 / 刷新率锁定 / 进程守护）</summary>
     </entry>
     <entry>
-      <title>YasserNull/logcat-live-wallpaper</title>
-      <link href="https://github.com/YasserNull/logcat-live-wallpaper"/>
-      <id>https://github.com/YasserNull/logcat-live-wallpaper</id>
-      <updated>2026-10-07T08:49:20.000Z</updated>
-      <summary>Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log.</summary>
-    </entry>
-    <entry>
       <title>meta-tabchen/MoonCast</title>
       <link href="https://github.com/meta-tabchen/MoonCast"/>
       <id>https://github.com/meta-tabchen/MoonCast</id>
       <updated>2026-10-08T14:28:30.000Z</updated>
       <summary>Android → Moonlight over LAN. Smart cinema, app displays, original-file playback, optional input and experimental multi-receiver/panel-off casting.</summary>
+    </entry>
+    <entry>
+      <title>YasserNull/logcat-live-wallpaper</title>
+      <link href="https://github.com/YasserNull/logcat-live-wallpaper"/>
+      <id>https://github.com/YasserNull/logcat-live-wallpaper</id>
+      <updated>2026-10-07T08:49:20.000Z</updated>
+      <summary>Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log.</summary>
     </entry>
     <entry>
       <title>getjump/call-translate</title>
@@ -136,21 +192,21 @@
       <title>knoop7/Ava-Pro</title>
       <link href="https://github.com/knoop7/Ava-Pro"/>
       <id>https://github.com/knoop7/Ava-Pro</id>
-      <updated>2026-10-07T00:27:35.000Z</updated>
+      <updated>2026-10-09T16:43:31.000Z</updated>
       <summary>Ava turns any Android 5+ device into a voice-first Home Assistant kiosk. Native C++ under the hood, so a 10-year-old tablet still listens, talks, and runs the house - with AirPlay-grade audio in every room, all in sync.</summary>
     </entry>
     <entry>
       <title>wuyhong715/rikkahub-agent-pure</title>
       <link href="https://github.com/wuyhong715/rikkahub-agent-pure"/>
       <id>https://github.com/wuyhong715/rikkahub-agent-pure</id>
-      <updated>2026-10-09T09:09:48.000Z</updated>
+      <updated>2026-10-10T09:00:27.000Z</updated>
       <summary>RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledger &amp; budgets, on-demand tools, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. QQ group 1030362371.</summary>
     </entry>
     <entry>
       <title>langraficagr-collab/adaptive-performance</title>
       <link href="https://github.com/langraficagr-collab/adaptive-performance"/>
       <id>https://github.com/langraficagr-collab/adaptive-performance</id>
-      <updated>2026-10-09T05:03:01.000Z</updated>
+      <updated>2026-10-09T16:19:08.000Z</updated>
       <summary>Adaptive Performance para Android: pré-carregamento inteligente dos apps usados recentemente, ajuste por RAM e temperatura, e economia automática abaixo de 50%.</summary>
     </entry>
     <entry>
@@ -159,61 +215,5 @@
       <id>https://github.com/kellyiscute/hciscope</id>
       <updated>2026-10-06T19:25:59.000Z</updated>
       <summary>Live Bluetooth HCI packet viewer for rooted Android: decodes HCI, L2CAP, ATT and SMP on-device via the snoop log and Shizuku, exports btsnoop for Wireshark.</summary>
-    </entry>
-    <entry>
-      <title>MT Manager</title>
-      <link href="https://mt.cc/"/>
-      <id>https://mt.cc/</id>
-      <updated>2026-10-07T09:24:35.481Z</updated>
-      <summary>Split-screen file manager. Can install APKs and access Android/data and Android/obb using Shizuku</summary>
-    </entry>
-    <entry>
-      <title>cr-zhichen/password-manager-switch</title>
-      <link href="https://github.com/cr-zhichen/password-manager-switch"/>
-      <id>https://github.com/cr-zhichen/password-manager-switch</id>
-      <updated>2026-09-26T10:23:40.000Z</updated>
-      <summary>无需 root，通过 Shizuku 查看并切换 Android 默认密码管理器、通行密钥提供者与自动填充服务。</summary>
-    </entry>
-    <entry>
-      <title>jrs8205/Device-Watch</title>
-      <link href="https://github.com/jrs8205/Device-Watch"/>
-      <id>https://github.com/jrs8205/Device-Watch</id>
-      <updated>2026-10-03T14:14:33.000Z</updated>
-      <summary>Offline device monitor with widgets, per-app usage insights and a charging screensaver; optional Shizuku access reveals battery statistics, real CPU/GPU load and temperatures.</summary>
-    </entry>
-    <entry>
-      <title>shiaho777/LogSleuth</title>
-      <link href="https://github.com/shiaho777/LogSleuth"/>
-      <id>https://github.com/shiaho777/LogSleuth</id>
-      <updated>2026-10-01T04:03:42.000Z</updated>
-      <summary>Powerful root-free logcat viewer and embeddable logging SDK with live streaming, search, filters, crash/ANR detection and session replay.</summary>
-    </entry>
-    <entry>
-      <title>mrYouki/Youki-Users</title>
-      <link href="https://github.com/mrYouki/Youki-Users"/>
-      <id>https://github.com/mrYouki/Youki-Users</id>
-      <updated>2026-10-04T21:59:49.000Z</updated>
-      <summary>Standalone Android multi-user manager to create, switch and delete user profiles with custom photos.</summary>
-    </entry>
-    <entry>
-      <title>dollarser/helix-agent</title>
-      <link href="https://github.com/dollarser/helix-agent"/>
-      <id>https://github.com/dollarser/helix-agent</id>
-      <updated>2026-10-06T13:15:34.000Z</updated>
-      <summary>Open-source Android AI agent for app automation, web browsing and file workflows. Bring your own model; extend with plugins, skills and MCP.</summary>
-    </entry>
-    <entry>
-      <title>fortifying/DroidPerf</title>
-      <link href="https://github.com/fortifying/DroidPerf"/>
-      <id>https://github.com/fortifying/DroidPerf</id>
-      <updated>2026-10-04T09:12:07.000Z</updated>
-      <summary>Real-time FPS and hardware telemetry overlay that measures true frame delivery from SurfaceFlinger; Shizuku is required for target FPS, frame times and shell-level app detection.</summary>
-    </entry>
-    <entry>
-      <title>567841vic-cmd/tidy-android-project</title>
-      <link href="https://github.com/567841vic-cmd/tidy-android-project"/>
-      <id>https://github.com/567841vic-cmd/tidy-android-project</id>
-      <updated>2026-10-06T05:33:54.000Z</updated>
-      <summary>淨機 Tidy：適用 Android 14+ 的儲存與電池整理工具</summary>
     </entry>
 </feed>
