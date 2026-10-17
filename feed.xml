@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-10-17T07:14:34.498Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>KYRIE66nb/mobile-agent</title>
+      <link href="https://github.com/KYRIE66nb/mobile-agent"/>
+      <id>https://github.com/KYRIE66nb/mobile-agent</id>
+      <updated>2026-10-17T06:15:45.000Z</updated>
+      <summary>Android 端 AI 聊天 + 本地工具 Agent</summary>
+    </entry>
+    <entry>
+      <title>CluvexStudio/Strata</title>
+      <link href="https://github.com/CluvexStudio/Strata"/>
+      <id>https://github.com/CluvexStudio/Strata</id>
+      <updated>2026-10-16T10:57:56.000Z</updated>
+      <summary>An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.</summary>
+    </entry>
+    <entry>
+      <title>Sharif-bot-cmd/ShizuPosed</title>
+      <link href="https://github.com/Sharif-bot-cmd/ShizuPosed"/>
+      <id>https://github.com/Sharif-bot-cmd/ShizuPosed</id>
+      <updated>2026-10-16T14:15:47.000Z</updated>
+      <summary>Rootless Xposed Framework</summary>
+    </entry>
+    <entry>
+      <title>abysssnare/Axmanager-modle</title>
+      <link href="https://github.com/abysssnare/Axmanager-modle"/>
+      <id>https://github.com/abysssnare/Axmanager-modle</id>
+      <updated>2026-10-05T14:33:06.000Z</updated>
+      <summary>AXManager 30个系统工具插件 - ADB Shell - Material 3 WebUI - 免Root</summary>
+    </entry>
+    <entry>
+      <title>abysssnare/LSPatch-Noroot-modle</title>
+      <link href="https://github.com/abysssnare/LSPatch-Noroot-modle"/>
+      <id>https://github.com/abysssnare/LSPatch-Noroot-modle</id>
+      <updated>2026-07-24T13:31:41.000Z</updated>
+      <summary>LSPatch 免Root模块合集 - 11个Xposed模块 - Material 3毛玻璃悬浮球 - 三大铁律架构</summary>
+    </entry>
+    <entry>
+      <title>abysssnare/LSPosed-root-modle</title>
+      <link href="https://github.com/abysssnare/LSPosed-root-modle"/>
+      <id>https://github.com/abysssnare/LSPosed-root-modle</id>
+      <updated>2026-07-23T06:27:15.000Z</updated>
+      <summary>LSPosed Root模块合集 - 9个Xposed模块 - 需Root+Magisk - 系统级Hook</summary>
+    </entry>
+    <entry>
+      <title>pony-huang/Gimi</title>
+      <link href="https://github.com/pony-huang/Gimi"/>
+      <id>https://github.com/pony-huang/Gimi</id>
+      <updated>2026-10-17T06:24:43.000Z</updated>
+      <summary>Android AI 助手，支持多模型对话、工具调用与个性化扩展。An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.</summary>
+    </entry>
+    <entry>
+      <title>wized2/Latch</title>
+      <link href="https://github.com/wized2/Latch"/>
+      <id>https://github.com/wized2/Latch</id>
+      <updated>2026-10-16T14:24:50.000Z</updated>
+      <summary>Privacy-first Tasker-style automation for Android. Local if/then rules, no cloud, no trackers. Optional Shizuku/root. FOSS.</summary>
+    </entry>
+    <entry>
+      <title>lilining308-prog/tiedun</title>
+      <link href="https://github.com/lilining308-prog/tiedun"/>
+      <id>https://github.com/lilining308-prog/tiedun</id>
+      <updated>2026-10-17T05:40:43.000Z</updated>
+      <summary>Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件。半成品开源项目，GPL-3.0</summary>
+    </entry>
+    <entry>
+      <title>privshell/android-app-hub</title>
+      <link href="https://github.com/privshell/android-app-hub"/>
+      <id>https://github.com/privshell/android-app-hub</id>
+      <updated>2026-10-16T20:30:52.000Z</updated>
+      <summary>all shizuku resources </summary>
+    </entry>
+    <entry>
+      <title>privshell/void-apps</title>
+      <link href="https://github.com/privshell/void-apps"/>
+      <id>https://github.com/privshell/void-apps</id>
+      <updated>2026-10-16T19:37:43.000Z</updated>
+      <summary>Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android</summary>
+    </entry>
+    <entry>
+      <title>sqyCoder/slow-1e8</title>
+      <link href="https://github.com/sqyCoder/slow-1e8"/>
+      <id>https://github.com/sqyCoder/slow-1e8</id>
+      <updated>2026-10-17T04:11:34.000Z</updated>
+      <summary>把自己画的路线变成一段真的跑过的 GPS 轨迹，喂给手机上任意跑步软件。纯 Android Java，无 Gradle。</summary>
+    </entry>
+    <entry>
+      <title>arttvad9r/TypedDroid</title>
+      <link href="https://github.com/arttvad9r/TypedDroid"/>
+      <id>https://github.com/arttvad9r/TypedDroid</id>
+      <updated>2026-10-17T06:11:36.000Z</updated>
+      <summary>Security-first agent-neutral Android bridge for AI agents — typed MCP tools, local approvals, Shizuku, SAF, no unrestricted shell.</summary>
+    </entry>
+    <entry>
+      <title>Brazzo978/smootify</title>
+      <link href="https://github.com/Brazzo978/smootify"/>
+      <id>https://github.com/Brazzo978/smootify</id>
+      <updated>2026-10-16T11:32:40.000Z</updated>
+      <summary>Open-source Android SIM switching and seamless multipath VPN based on MQVPN, with a Bash VPS manager and QR profiles</summary>
+    </entry>
+    <entry>
+      <title>dynamicbeam/shortcut</title>
+      <link href="https://github.com/dynamicbeam/shortcut"/>
+      <id>https://github.com/dynamicbeam/shortcut</id>
+      <updated>2026-10-17T03:13:39.000Z</updated>
+      <summary>安卓8 adb小工具   参考了https://github.com/thejaustin/ShizukuPlus</summary>
+    </entry>
+    <entry>
+      <title>geek4945-creator/android-optimizer</title>
+      <link href="https://github.com/geek4945-creator/android-optimizer"/>
+      <id>https://github.com/geek4945-creator/android-optimizer</id>
+      <updated>2026-10-16T22:19:51.000Z</updated>
+      <summary>Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes</summary>
+    </entry>
+    <entry>
+      <title>xissus/AdBlockNoRoot</title>
+      <link href="https://github.com/xissus/AdBlockNoRoot"/>
+      <id>https://github.com/xissus/AdBlockNoRoot</id>
+      <updated>2026-10-17T04:42:14.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>AlanHuang99/Voyager</title>
+      <link href="https://github.com/AlanHuang99/Voyager"/>
+      <id>https://github.com/AlanHuang99/Voyager</id>
+      <updated>2026-10-16T11:38:44.000Z</updated>
+      <summary>Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support</summary>
+    </entry>
+    <entry>
+      <title>rn-os/superboox</title>
+      <link href="https://github.com/rn-os/superboox"/>
+      <id>https://github.com/rn-os/superboox</id>
+      <updated>2026-10-16T02:33:31.000Z</updated>
+      <summary>Supernote-style swipe-in quick access panel for ONYX BOOX e-ink tablets with pinned notes and books, quick controls, clipboard history</summary>
+    </entry>
+    <entry>
+      <title>btsearch/bunnylock</title>
+      <link href="https://github.com/btsearch/bunnylock"/>
+      <id>https://github.com/btsearch/bunnylock</id>
+      <updated>2026-10-15T16:42:53.000Z</updated>
+      <summary>Lock 2G/3G/4G/5G bands, RATs, frequencies and cells without root, picking the best backend available (Qualcomm, MediaTek, Pixel Tensor, Exynos, radio HAL)</summary>
+    </entry>
+    <entry>
+      <title>dlawoals2713/User-Hopper</title>
+      <link href="https://github.com/dlawoals2713/User-Hopper"/>
+      <id>https://github.com/dlawoals2713/User-Hopper</id>
+      <updated>2026-10-15T06:25:19.000Z</updated>
+      <summary>Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support</summary>
+    </entry>
+    <entry>
+      <title>privshell/pulse-battery</title>
+      <link href="https://github.com/privshell/pulse-battery"/>
+      <id>https://github.com/privshell/pulse-battery</id>
+      <updated>2026-10-16T03:51:24.000Z</updated>
+      <summary>Battery &amp; Wakelock Doctor, with an integrated Backup Vault</summary>
+    </entry>
+    <entry>
+      <title>R-Dilipkumar/one-tap-network-reset</title>
+      <link href="https://github.com/R-Dilipkumar/one-tap-network-reset"/>
+      <id>https://github.com/R-Dilipkumar/one-tap-network-reset</id>
+      <updated>2026-10-15T11:08:37.000Z</updated>
+      <summary>One tap to reset your Android mobile network without airplane mode, plus a 5G status notification per SIM. Kotlin, Shizuku/root.</summary>
+    </entry>
+    <entry>
+      <title>xUmutKx/Pulse</title>
+      <link href="https://github.com/xUmutKx/Pulse"/>
+      <id>https://github.com/xUmutKx/Pulse</id>
+      <updated>2026-10-15T23:21:29.000Z</updated>
+      <summary>All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal</summary>
+    </entry>
+    <entry>
+      <title>Airplane Scheduler</title>
+      <link href="https://f-droid.org/packages/io.github.probecat.airplanescheduler/"/>
+      <id>https://f-droid.org/packages/io.github.probecat.airplanescheduler/</id>
+      <updated>2026-10-16T07:33:43.030Z</updated>
+      <summary>Turns airplane mode on and off on a schedule so your phone goes quiet at night, with overnight ranges, optional Wi-Fi toggling</summary>
+    </entry>
+    <entry>
+      <title>david-x3d/adns-controld</title>
+      <link href="https://github.com/david-x3d/adns-controld"/>
+      <id>https://github.com/david-x3d/adns-controld</id>
+      <updated>2026-10-12T19:15:53.000Z</updated>
+      <summary>Android app for managing Control D (and NextDNS) with native Private DNS control</summary>
+    </entry>
+    <entry>
+      <title>felipegatoloko10/punk-app</title>
+      <link href="https://github.com/felipegatoloko10/punk-app"/>
+      <id>https://github.com/felipegatoloko10/punk-app</id>
+      <updated>2026-10-15T14:58:08.000Z</updated>
+      <summary>PUNK Companion - Automação Total, Visão Remota e Telemetria para Android via Hermes Agent &amp; Shizuku</summary>
+    </entry>
+    <entry>
+      <title>fiozxr/PocketRouter</title>
+      <link href="https://github.com/fiozxr/PocketRouter"/>
+      <id>https://github.com/fiozxr/PocketRouter</id>
+      <updated>2026-10-16T00:57:35.000Z</updated>
+      <summary>an open-source Android networking toolkit for local-network diagnostics and hotspot experiments. It targets Android 16 (API 36), uses Kotlin + Jetpack Compose + Material 3, and has a minimum SDK of Android 8.0 (API 26).</summary>
+    </entry>
+    <entry>
+      <title>GrayPause</title>
+      <link href="https://f-droid.org/packages/com.lpw.graypause/"/>
+      <id>https://f-droid.org/packages/com.lpw.graypause/</id>
+      <updated>2026-10-16T07:33:43.030Z</updated>
+      <summary>Keeps your phone in grayscale and runs self-ending color breaks on a timer, with a Quick Settings tile, launcher shortcuts, countdown notifications and per-app color exceptions</summary>
+    </entry>
+    <entry>
+      <title>justl3as/thai-clock-fix</title>
+      <link href="https://github.com/justl3as/thai-clock-fix"/>
+      <id>https://github.com/justl3as/thai-clock-fix</id>
+      <updated>2026-10-16T11:58:28.000Z</updated>
+      <summary>Android utility for configuring Thai SystemUI clock locale through Shizuku</summary>
+    </entry>
+</feed>
