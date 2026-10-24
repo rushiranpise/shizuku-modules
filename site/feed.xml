@@ -3,217 +3,217 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-24T07:39:18.958Z</updated>
+  <updated>2026-10-24T21:37:08.317Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>Ghostpanter/ghost-files</title>
-      <link href="https://github.com/Ghostpanter/ghost-files"/>
-      <id>https://github.com/Ghostpanter/ghost-files</id>
-      <updated>2026-10-22T08:19:34.000Z</updated>
-      <summary>Android dual-pane file manager (MT/MiXplorer style): root/Shizuku, SMB/FTP/SFTP/WebDAV with a stall-proof resumable transfer queue</summary>
+      <title>lladlam/MeloX-Android</title>
+      <link href="https://github.com/lladlam/MeloX-Android"/>
+      <id>https://github.com/lladlam/MeloX-Android</id>
+      <updated>2026-10-24T19:12:46.000Z</updated>
+      <summary>A third-party music client based on MeloX, styled after Apple Music and featuring unique functions.</summary>
     </entry>
     <entry>
-      <title>Order52/tinykit</title>
-      <link href="https://github.com/Order52/tinykit"/>
-      <id>https://github.com/Order52/tinykit</id>
-      <updated>2026-10-23T16:55:52.000Z</updated>
-      <summary>Small but useful Android tweaks in one clean menu, powered by Shizuku. No root, 34 KB, nothing in the background.</summary>
+      <title>xiaomaoju/zflip5screenhelper</title>
+      <link href="https://github.com/xiaomaoju/zflip5screenhelper"/>
+      <id>https://github.com/xiaomaoju/zflip5screenhelper</id>
+      <updated>2026-10-15T10:09:18.000Z</updated>
+      <summary>这个项目是为三星 Galaxy Z Flip5 设计的外屏增强工具，初衷是在内屏损坏后，仍能依靠外屏完成更多日常操作，减少对展开手机的依赖。它提供快捷栏、控制中心、通知查看、媒体控制和应用启动入口，支持应用搜索、文件夹整理、常用应用固定，以及最近任务切换、锁定和清理，还能组合放置桌面小组件。界面针对外屏尺寸、摄像头缺口和旋转方向适配，支持布局自定义与备份。无需 Root，部分系统功能通过 Shizuku 授权实现。</summary>
     </entry>
     <entry>
-      <title>coldMEW/Hush</title>
-      <link href="https://github.com/coldMEW/Hush"/>
-      <id>https://github.com/coldMEW/Hush</id>
-      <updated>2026-10-24T04:16:32.000Z</updated>
-      <summary>Ad-free listening for Spotify on Android: skips ad breaks without root or a modified Spotify app.</summary>
+      <title>pjk2336/huawei-eink-reader</title>
+      <link href="https://github.com/pjk2336/huawei-eink-reader"/>
+      <id>https://github.com/pjk2336/huawei-eink-reader</id>
+      <updated>2026-10-24T14:29:12.000Z</updated>
+      <summary>墨读：为华为 552×768 四色 NFC 墨水屏定向优化的本地 Android TXT 阅读器</summary>
     </entry>
     <entry>
-      <title>ankitchanki/CTS</title>
-      <link href="https://github.com/ankitchanki/CTS"/>
-      <id>https://github.com/ankitchanki/CTS</id>
-      <updated>2026-10-23T17:58:40.000Z</updated>
-      <summary>Trigger Circle to Search on Android 9–16, using Shizuku instead of an LSPosed module. It also adds a Pixel-style diagonal corner swipe gesture</summary>
+      <title>wmqc97/folia-android</title>
+      <link href="https://github.com/wmqc97/folia-android"/>
+      <id>https://github.com/wmqc97/folia-android</id>
+      <updated>2026-10-24T12:00:48.000Z</updated>
+      <summary>Folia 安卓版 · 小米「妙享背屏」适配：背屏歌词、逐样式构图、Shizuku 投屏</summary>
     </entry>
     <entry>
-      <title>WSK-build/DSHBox</title>
-      <link href="https://github.com/WSK-build/DSHBox"/>
-      <id>https://github.com/WSK-build/DSHBox</id>
-      <updated>2026-10-18T18:08:16.000Z</updated>
-      <summary>DSHBox —  Run DeepSeek Harness locally on Android phones and tablets. It integrates and coordinates DSH, PRoot, WebView, Debian and Node.js, together with a terminal, a file manager，a browser and other tools, into a personal AI workbench. No root access, and no separate Termux installation.</summary>
+      <title>xishanp/LotusAI</title>
+      <link href="https://github.com/xishanp/LotusAI"/>
+      <id>https://github.com/xishanp/LotusAI</id>
+      <updated>2026-10-24T14:41:20.000Z</updated>
+      <summary>本地 AI 工作站：用 Root/Shizuku 操作 Android，用 LinuxHub 连接本机 Linux 主机。</summary>
     </entry>
     <entry>
-      <title>Order52/shizuku-termux</title>
-      <link href="https://github.com/Order52/shizuku-termux"/>
-      <id>https://github.com/Order52/shizuku-termux</id>
-      <updated>2026-10-23T12:08:44.000Z</updated>
-      <summary>Start Shizuku without a PC: one command in Termux or one tap in a 17 KB app. Wireless debugging, adb tcpip or root. Works on Huawei/EMUI too.</summary>
+      <title>AG Displays</title>
+      <link href="https://play.google.com/store/apps/details?id=com.htl.agdisplays"/>
+      <id>https://play.google.com/store/apps/details?id=com.htl.agdisplays</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off</summary>
     </entry>
     <entry>
-      <title>zhixiang-luo/xiaozhu-dashou</title>
-      <link href="https://github.com/zhixiang-luo/xiaozhu-dashou"/>
-      <id>https://github.com/zhixiang-luo/xiaozhu-dashou</id>
-      <updated>2026-10-23T08:22:01.000Z</updated>
-      <summary>小猪搭手：你开口，我来做。Android 上听得懂自然语言、看得见屏幕、能动手完成任务的个人 Agent。</summary>
+      <title>AirData UAV</title>
+      <link href="https://play.google.com/store/apps/details?id=com.airdata.uav.app"/>
+      <id>https://play.google.com/store/apps/details?id=com.airdata.uav.app</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Drone flight analysis and fleet management platform with [access to /Android/Data](https://app.airdata.com/wiki/Help/Granting+Permissions+in+Android+13+and+14)</summary>
     </entry>
     <entry>
-      <title>Hinduc0der/voice-sip-agent-selfhost</title>
-      <link href="https://github.com/Hinduc0der/voice-sip-agent-selfhost"/>
-      <id>https://github.com/Hinduc0der/voice-sip-agent-selfhost</id>
-      <updated>2026-10-23T09:34:30.000Z</updated>
-      <summary>A &quot;device-in-itself&quot; phone gateway (fork): incoming calls and SMS from a home SIM reach you over the internet. No root (Android 13+, Shizuku), built-in SIP registrar, password-protected.</summary>
+      <title>APKMirror Installer</title>
+      <link href="https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"/>
+      <id>https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Helper app to install .apkm, .xapk and .apks app bundles as well as regular APK files</summary>
     </entry>
     <entry>
-      <title>0year/dsh-status-hud</title>
-      <link href="https://github.com/0year/dsh-status-hud"/>
-      <id>https://github.com/0year/dsh-status-hud</id>
-      <updated>2026-10-23T06:58:33.000Z</updated>
-      <summary>DSH 状态条：把 DSH agent 的实时进展显示在 Android 状态栏的滚动条上（手机端用 DSHBox 时随时看到后台在做什么）。Android overlay + Shizuku + DSH 自动推送插件。</summary>
+      <title>App Ops</title>
+      <link href="https://play.google.com/store/apps/details?id=rikka.appops"/>
+      <id>https://play.google.com/store/apps/details?id=rikka.appops</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Manage application permissions without root</summary>
     </entry>
     <entry>
-      <title>iQSOO/qo-direct-charge</title>
-      <link href="https://github.com/iQSOO/qo-direct-charge"/>
-      <id>https://github.com/iQSOO/qo-direct-charge</id>
-      <updated>2026-10-23T06:15:47.000Z</updated>
-      <summary>新好友开发 · iQSOO（iqsoo.com）发起并开源发布。面向 iQOO Neo11 / Android 16 的原生直驱自动化工具，支持横屏、应用与息屏规则，基于 Shizuku，无需 Root。</summary>
+      <title>AppDash</title>
+      <link href="https://play.google.com/store/apps/details?id=flar2.appdashboard"/>
+      <id>https://play.google.com/store/apps/details?id=flar2.appdashboard</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>An app manager that makes it easy to manage APKs and apps installed on your device</summary>
     </entry>
     <entry>
-      <title>ricardojrgpimentel/cachalote</title>
-      <link href="https://github.com/ricardojrgpimentel/cachalote"/>
-      <id>https://github.com/ricardojrgpimentel/cachalote</id>
-      <updated>2026-10-22T14:38:49.000Z</updated>
-      <summary>DeepSeek Harness a correr no telemovel: app Android nativa (root, Shizuku ou embutido)</summary>
+      <title>Auto Cursor</title>
+      <link href="https://play.google.com/store/apps/details?id=eu.toneiv.cursor"/>
+      <id>https://play.google.com/store/apps/details?id=eu.toneiv.cursor</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Makes it easy to use large smartphones with just one hand, thanks to a pointer accessible from the edges of the screen.</summary>
     </entry>
     <entry>
-      <title>andreknieriem/open-headunit</title>
-      <link href="https://github.com/andreknieriem/open-headunit"/>
-      <id>https://github.com/andreknieriem/open-headunit</id>
-      <updated>2026-10-23T15:01:56.000Z</updated>
-      <summary>Headunit App for displaying Android Auto</summary>
+      <title>Battery Guru</title>
+      <link href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru"/>
+      <id>https://play.google.com/store/apps/details?id=com.paget96.batteryguru</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Battery health monitor with actual capacity in mAh, charging speed, temperature and usage tracking. Can request additional permissions via Shizuku.</summary>
     </entry>
     <entry>
-      <title>jieapi/AiCode</title>
-      <link href="https://github.com/jieapi/AiCode"/>
-      <id>https://github.com/jieapi/AiCode</id>
-      <updated>2026-10-23T08:59:07.000Z</updated>
-      <summary>在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。</summary>
+      <title>Canta</title>
+      <link href="https://play.google.com/store/apps/details?id=io.github.samolego.canta"/>
+      <id>https://play.google.com/store/apps/details?id=io.github.samolego.canta</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Uninstall any app without root</summary>
     </entry>
     <entry>
-      <title>rushiranpise/lsposed-modules-manager</title>
-      <link href="https://github.com/rushiranpise/lsposed-modules-manager"/>
-      <id>https://github.com/rushiranpise/lsposed-modules-manager</id>
-      <updated>2026-10-23T03:38:01.000Z</updated>
-      <summary>An Android client for the Xposed modules</summary>
+      <title>CellReader</title>
+      <link href="https://play.google.com/store/apps/details?id=dev.zwander.cellreader"/>
+      <id>https://play.google.com/store/apps/details?id=dev.zwander.cellreader</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Can read cell tower info on Android</summary>
     </entry>
     <entry>
-      <title>438417623wq/DSH-Kxxy</title>
-      <link href="https://github.com/438417623wq/DSH-Kxxy"/>
-      <id>https://github.com/438417623wq/DSH-Kxxy</id>
-      <updated>2026-10-23T16:41:34.000Z</updated>
-      <summary>DSH 手机移植，方便手机开发的项目</summary>
+      <title>Cover Screen Trackpad</title>
+      <link href="https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad"/>
+      <id>https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Turns a Samsung foldable's cover screen into a rear trackpad while the phone is open: a finger on the back moves a pointer on the main display, and a tap clicks.</summary>
     </entry>
     <entry>
-      <title>monarchsofchaos004-gif/splitaudio</title>
-      <link href="https://github.com/monarchsofchaos004-gif/splitaudio"/>
-      <id>https://github.com/monarchsofchaos004-gif/splitaudio</id>
-      <updated>2026-10-24T01:52:34.000Z</updated>
-      <summary>Android: keep the music app on Bluetooth, route every other app to the phone speaker (Shizuku, no root) / 藍牙只放音樂，其他 App 走手機喇叭</summary>
+      <title>File Manager Plus</title>
+      <link href="https://play.google.com/store/apps/details?id=com.alphainventor.filemanager"/>
+      <id>https://play.google.com/store/apps/details?id=com.alphainventor.filemanager</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /.</summary>
     </entry>
     <entry>
-      <title>Mirochill/Phone-MCP</title>
-      <link href="https://github.com/Mirochill/Phone-MCP"/>
-      <id>https://github.com/Mirochill/Phone-MCP</id>
-      <updated>2026-10-21T19:28:22.000Z</updated>
-      <summary>Android control for AI agents over MCP: separate displays, app interaction, notifications, files and APK installation. Chat, Work, Codex and HTTP MCP clients.</summary>
+      <title>FiveGSwitcher</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>5G shortcut switch for HyperOS/MIUI</summary>
     </entry>
     <entry>
-      <title>santo1993/drainscope</title>
-      <link href="https://github.com/santo1993/drainscope"/>
-      <id>https://github.com/santo1993/drainscope</id>
-      <updated>2026-10-21T09:01:49.000Z</updated>
-      <summary>Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.</summary>
+      <title>FpsSwitcher</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Refresh rate shortcut switch for HyperOS/MIUI</summary>
     </entry>
     <entry>
-      <title>846572691/droidmcp</title>
-      <link href="https://github.com/846572691/droidmcp"/>
-      <id>https://github.com/846572691/droidmcp</id>
-      <updated>2026-10-21T08:55:32.000Z</updated>
-      <summary>MCP server that lets AI assistants read and control an Android device over adb or a local root shell</summary>
+      <title>FV File Manager</title>
+      <link href="https://play.google.com/store/apps/details?id=com.folderv.file"/>
+      <id>https://play.google.com/store/apps/details?id=com.folderv.file</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>File manager to [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/)</summary>
     </entry>
     <entry>
-      <title>misakidebugged/Virtual-Xbox-Controller-Android</title>
-      <link href="https://github.com/misakidebugged/Virtual-Xbox-Controller-Android"/>
-      <id>https://github.com/misakidebugged/Virtual-Xbox-Controller-Android</id>
-      <updated>2026-10-21T13:14:45.000Z</updated>
-      <summary>An app that lets you turn your HID/Xinput generic controller as well as steam controllers into a system-wide Xbox 360 controller using Shizuku</summary>
+      <title>GMD Gestures</title>
+      <link href="https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures"/>
+      <id>https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Create system-wide multitouch and custom-drawn gestures anywhere on the screen to navigate, launch apps and shortcuts, or control device settings.</summary>
     </entry>
     <entry>
-      <title>vovaxa55/Monik</title>
-      <link href="https://github.com/vovaxa55/Monik"/>
-      <id>https://github.com/vovaxa55/Monik</id>
-      <updated>2026-10-21T13:44:41.000Z</updated>
-      <summary>Control Android background app behavior via Shizuku: AppOps, Doze whitelist, standby buckets and force-stop. Keeps important apps and notifications alive on aggressive Chinese-market ROMs (ColorOS, HyperOS/MIUI).</summary>
+      <title>Ice Box</title>
+      <link href="https://play.google.com/store/apps/details?id=com.catchingnow.icebox"/>
+      <id>https://play.google.com/store/apps/details?id=com.catchingnow.icebox</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Freeze or hide apps using Shizuku</summary>
     </entry>
     <entry>
-      <title>abduznik/rommdroid-saves</title>
-      <link href="https://github.com/abduznik/rommdroid-saves"/>
-      <id>https://github.com/abduznik/rommdroid-saves</id>
-      <updated>2026-10-21T13:55:39.000Z</updated>
-      <summary>Back up and sync native Android game saves to your self-hosted RomM server using Shizuku. No root required.</summary>
+      <title>Island</title>
+      <link href="https://play.google.com/store/apps/details?id=com.oasisfeng.island"/>
+      <id>https://play.google.com/store/apps/details?id=com.oasisfeng.island</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Isolate and clone apps for privacy protection and parallel running</summary>
     </entry>
     <entry>
-      <title>HusniHeartnet/android-rust-taskmanager</title>
-      <link href="https://github.com/HusniHeartnet/android-rust-taskmanager"/>
-      <id>https://github.com/HusniHeartnet/android-rust-taskmanager</id>
-      <updated>2026-10-21T17:52:35.000Z</updated>
-      <summary>Task manager for Android written in Rust: memory, CPU, temperatures, processes and startup apps</summary>
+      <title>MacroDroid</title>
+      <link href="https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid"/>
+      <id>https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Automation app for Android devices. Version 5.46 and later introduce Shizuku support.</summary>
     </entry>
     <entry>
-      <title>jianling17/CoolStream</title>
-      <link href="https://github.com/jianling17/CoolStream"/>
-      <id>https://github.com/jianling17/CoolStream</id>
-      <updated>2026-10-23T15:07:28.000Z</updated>
-      <summary>医学生用 AI 做的：原生 Compose 聊天客户端，50ms 批处理减少 93.6% 无效重绘 | 用 DeepSeek + WorkBuddy 辅助开发Hand-crafted native Android client for DeepSeek · Jetpack Compose · 50ms batching (−93.6% redraws) · Tool-calling agent · Shizuku shell escalation.</summary>
+      <title>Mastodon Redirect</title>
+      <link href="https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect"/>
+      <id>https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>A simple app for automatically launching fediverse links in your preferred Mastodon client.</summary>
     </entry>
     <entry>
-      <title>pkok1099/imgtxd-studio</title>
-      <link href="https://github.com/pkok1099/imgtxd-studio"/>
-      <id>https://github.com/pkok1099/imgtxd-studio</id>
-      <updated>2026-10-24T04:30:24.000Z</updated>
-      <summary>⚡ Modern, high-performance GTA SA/VC/III .IMG archive &amp; .TXD texture tool for Android (Android 12-16) with Shizuku &amp; Material 3</summary>
+      <title>MiXplorer Silver</title>
+      <link href="https://play.google.com/store/apps/details?id=com.mixplorer.silver"/>
+      <id>https://play.google.com/store/apps/details?id=com.mixplorer.silver</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Paid Google Play version of MiXplorer</summary>
     </entry>
     <entry>
-      <title>ramizarif/ramrom-emu-manager</title>
-      <link href="https://github.com/ramizarif/ramrom-emu-manager"/>
-      <id>https://github.com/ramizarif/ramrom-emu-manager</id>
-      <updated>2026-10-21T16:50:35.000Z</updated>
-      <summary>Sets up an Android handheld for emulation: emulators, frontends, folders, BIOS checks and health, driven by a controller.</summary>
+      <title>Netmonitor</title>
+      <link href="https://play.google.com/store/apps/details?id=com.parizene.netmonitor"/>
+      <id>https://play.google.com/store/apps/details?id=com.parizene.netmonitor</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Monitor cellular (2G/3G/4G/5G) and WiFi networks: signal strength, cell tower info and network diagnostics</summary>
     </entry>
     <entry>
-      <title>Sygix/Tsuyu</title>
-      <link href="https://github.com/Sygix/Tsuyu"/>
-      <id>https://github.com/Sygix/Tsuyu</id>
-      <updated>2026-10-21T09:09:07.000Z</updated>
-      <summary>Shizuku-API-compatible privileged service for Android TV, driven with the remote</summary>
+      <title>NetWall</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.app.firewall"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.app.firewall</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Another app firewall that doesn't depend on a local VPN or root</summary>
     </entry>
     <entry>
-      <title>superboyyy/HOneClick</title>
-      <link href="https://github.com/superboyyy/HOneClick"/>
-      <id>https://github.com/superboyyy/HOneClick</id>
-      <updated>2026-10-20T23:03:32.000Z</updated>
-      <summary>荣耀临时 root 工具，目前适用于 Magic9 Pro Max，仅用于个人研究。Experimental temporary-root research tool for Honor (supports Magic9 Pro Max - WKL-AN20/WKL-AN80).</summary>
+      <title>Nightcap</title>
+      <link href="https://play.google.com/store/apps/details?id=com.sleepshutdown.app"/>
+      <id>https://play.google.com/store/apps/details?id=com.sleepshutdown.app</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Power off your phone automatically for focus, sleep or any scheduled time you pick</summary>
     </entry>
     <entry>
-      <title>3dhaoxinren/miaomo</title>
-      <link href="https://github.com/3dhaoxinren/miaomo"/>
-      <id>https://github.com/3dhaoxinren/miaomo</id>
-      <updated>2026-10-24T06:16:20.000Z</updated>
-      <summary>喵墨 Miaomo｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色 NFC 电子纸照片编辑与刷屏 App，手机内置 NFC + Shizuku，无需 root；支持裁剪、文字、相框、InkSight 四色预览。PolyForm 非商用许可。</summary>
+      <title>Package Manager</title>
+      <link href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager"/>
+      <id>https://play.google.com/store/apps/details?id=com.smartpack.packagemanager</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>A powerful app to manage both system and user apps</summary>
     </entry>
     <entry>
-      <title>AnoY606-git/SplitBox</title>
-      <link href="https://github.com/AnoY606-git/SplitBox"/>
-      <id>https://github.com/AnoY606-git/SplitBox</id>
-      <updated>2026-10-20T13:04:18.000Z</updated>
-      <summary>Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.</summary>
+      <title>Package Name Scripter</title>
+      <link href="https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter"/>
+      <id>https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands.</summary>
     </entry>
 </feed>
