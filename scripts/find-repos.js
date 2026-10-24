@@ -882,7 +882,9 @@ async function main() {
         } else {
           // Non-GitHub app (Play Store, F-Droid, etc.)
           // Use a synthetic key based on the URL
-          const key = `_store_${Buffer.from(app.url).toString("base64url").slice(0, 64)}`;
+          // Keep the whole URL: the first 64 encoded characters are identical
+          // for many Play Store apps, so truncating silently skips distinct apps.
+          const key = `_store_${Buffer.from(app.url).toString("base64url")}`;
           if (final.has(key)) {
             awesomeSkipped++;
             continue;
