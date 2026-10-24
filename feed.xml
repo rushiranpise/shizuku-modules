@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-10-24T21:37:08.317Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>lladlam/MeloX-Android</title>
+      <link href="https://github.com/lladlam/MeloX-Android"/>
+      <id>https://github.com/lladlam/MeloX-Android</id>
+      <updated>2026-10-24T19:12:46.000Z</updated>
+      <summary>A third-party music client based on MeloX, styled after Apple Music and featuring unique functions.</summary>
+    </entry>
+    <entry>
+      <title>xiaomaoju/zflip5screenhelper</title>
+      <link href="https://github.com/xiaomaoju/zflip5screenhelper"/>
+      <id>https://github.com/xiaomaoju/zflip5screenhelper</id>
+      <updated>2026-10-15T10:09:18.000Z</updated>
+      <summary>这个项目是为三星 Galaxy Z Flip5 设计的外屏增强工具，初衷是在内屏损坏后，仍能依靠外屏完成更多日常操作，减少对展开手机的依赖。它提供快捷栏、控制中心、通知查看、媒体控制和应用启动入口，支持应用搜索、文件夹整理、常用应用固定，以及最近任务切换、锁定和清理，还能组合放置桌面小组件。界面针对外屏尺寸、摄像头缺口和旋转方向适配，支持布局自定义与备份。无需 Root，部分系统功能通过 Shizuku 授权实现。</summary>
+    </entry>
+    <entry>
+      <title>pjk2336/huawei-eink-reader</title>
+      <link href="https://github.com/pjk2336/huawei-eink-reader"/>
+      <id>https://github.com/pjk2336/huawei-eink-reader</id>
+      <updated>2026-10-24T14:29:12.000Z</updated>
+      <summary>墨读：为华为 552×768 四色 NFC 墨水屏定向优化的本地 Android TXT 阅读器</summary>
+    </entry>
+    <entry>
+      <title>wmqc97/folia-android</title>
+      <link href="https://github.com/wmqc97/folia-android"/>
+      <id>https://github.com/wmqc97/folia-android</id>
+      <updated>2026-10-24T12:00:48.000Z</updated>
+      <summary>Folia 安卓版 · 小米「妙享背屏」适配：背屏歌词、逐样式构图、Shizuku 投屏</summary>
+    </entry>
+    <entry>
+      <title>xishanp/LotusAI</title>
+      <link href="https://github.com/xishanp/LotusAI"/>
+      <id>https://github.com/xishanp/LotusAI</id>
+      <updated>2026-10-24T14:41:20.000Z</updated>
+      <summary>本地 AI 工作站：用 Root/Shizuku 操作 Android，用 LinuxHub 连接本机 Linux 主机。</summary>
+    </entry>
+    <entry>
+      <title>AG Displays</title>
+      <link href="https://play.google.com/store/apps/details?id=com.htl.agdisplays"/>
+      <id>https://play.google.com/store/apps/details?id=com.htl.agdisplays</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off</summary>
+    </entry>
+    <entry>
+      <title>AirData UAV</title>
+      <link href="https://play.google.com/store/apps/details?id=com.airdata.uav.app"/>
+      <id>https://play.google.com/store/apps/details?id=com.airdata.uav.app</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Drone flight analysis and fleet management platform with [access to /Android/Data](https://app.airdata.com/wiki/Help/Granting+Permissions+in+Android+13+and+14)</summary>
+    </entry>
+    <entry>
+      <title>APKMirror Installer</title>
+      <link href="https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"/>
+      <id>https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Helper app to install .apkm, .xapk and .apks app bundles as well as regular APK files</summary>
+    </entry>
+    <entry>
+      <title>App Ops</title>
+      <link href="https://play.google.com/store/apps/details?id=rikka.appops"/>
+      <id>https://play.google.com/store/apps/details?id=rikka.appops</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Manage application permissions without root</summary>
+    </entry>
+    <entry>
+      <title>AppDash</title>
+      <link href="https://play.google.com/store/apps/details?id=flar2.appdashboard"/>
+      <id>https://play.google.com/store/apps/details?id=flar2.appdashboard</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>An app manager that makes it easy to manage APKs and apps installed on your device</summary>
+    </entry>
+    <entry>
+      <title>Auto Cursor</title>
+      <link href="https://play.google.com/store/apps/details?id=eu.toneiv.cursor"/>
+      <id>https://play.google.com/store/apps/details?id=eu.toneiv.cursor</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Makes it easy to use large smartphones with just one hand, thanks to a pointer accessible from the edges of the screen.</summary>
+    </entry>
+    <entry>
+      <title>Battery Guru</title>
+      <link href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru"/>
+      <id>https://play.google.com/store/apps/details?id=com.paget96.batteryguru</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Battery health monitor with actual capacity in mAh, charging speed, temperature and usage tracking. Can request additional permissions via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>Canta</title>
+      <link href="https://play.google.com/store/apps/details?id=io.github.samolego.canta"/>
+      <id>https://play.google.com/store/apps/details?id=io.github.samolego.canta</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Uninstall any app without root</summary>
+    </entry>
+    <entry>
+      <title>CellReader</title>
+      <link href="https://play.google.com/store/apps/details?id=dev.zwander.cellreader"/>
+      <id>https://play.google.com/store/apps/details?id=dev.zwander.cellreader</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Can read cell tower info on Android</summary>
+    </entry>
+    <entry>
+      <title>Cover Screen Trackpad</title>
+      <link href="https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad"/>
+      <id>https://play.google.com/store/apps/details?id=com.june8llc.covertrackpad</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Turns a Samsung foldable's cover screen into a rear trackpad while the phone is open: a finger on the back moves a pointer on the main display, and a tap clicks.</summary>
+    </entry>
+    <entry>
+      <title>File Manager Plus</title>
+      <link href="https://play.google.com/store/apps/details?id=com.alphainventor.filemanager"/>
+      <id>https://play.google.com/store/apps/details?id=com.alphainventor.filemanager</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /.</summary>
+    </entry>
+    <entry>
+      <title>FiveGSwitcher</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>5G shortcut switch for HyperOS/MIUI</summary>
+    </entry>
+    <entry>
+      <title>FpsSwitcher</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Refresh rate shortcut switch for HyperOS/MIUI</summary>
+    </entry>
+    <entry>
+      <title>FV File Manager</title>
+      <link href="https://play.google.com/store/apps/details?id=com.folderv.file"/>
+      <id>https://play.google.com/store/apps/details?id=com.folderv.file</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>File manager to [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/)</summary>
+    </entry>
+    <entry>
+      <title>GMD Gestures</title>
+      <link href="https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures"/>
+      <id>https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Create system-wide multitouch and custom-drawn gestures anywhere on the screen to navigate, launch apps and shortcuts, or control device settings.</summary>
+    </entry>
+    <entry>
+      <title>Ice Box</title>
+      <link href="https://play.google.com/store/apps/details?id=com.catchingnow.icebox"/>
+      <id>https://play.google.com/store/apps/details?id=com.catchingnow.icebox</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Freeze or hide apps using Shizuku</summary>
+    </entry>
+    <entry>
+      <title>Island</title>
+      <link href="https://play.google.com/store/apps/details?id=com.oasisfeng.island"/>
+      <id>https://play.google.com/store/apps/details?id=com.oasisfeng.island</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Isolate and clone apps for privacy protection and parallel running</summary>
+    </entry>
+    <entry>
+      <title>MacroDroid</title>
+      <link href="https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid"/>
+      <id>https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Automation app for Android devices. Version 5.46 and later introduce Shizuku support.</summary>
+    </entry>
+    <entry>
+      <title>Mastodon Redirect</title>
+      <link href="https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect"/>
+      <id>https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>A simple app for automatically launching fediverse links in your preferred Mastodon client.</summary>
+    </entry>
+    <entry>
+      <title>MiXplorer Silver</title>
+      <link href="https://play.google.com/store/apps/details?id=com.mixplorer.silver"/>
+      <id>https://play.google.com/store/apps/details?id=com.mixplorer.silver</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Paid Google Play version of MiXplorer</summary>
+    </entry>
+    <entry>
+      <title>Netmonitor</title>
+      <link href="https://play.google.com/store/apps/details?id=com.parizene.netmonitor"/>
+      <id>https://play.google.com/store/apps/details?id=com.parizene.netmonitor</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Monitor cellular (2G/3G/4G/5G) and WiFi networks: signal strength, cell tower info and network diagnostics</summary>
+    </entry>
+    <entry>
+      <title>NetWall</title>
+      <link href="https://play.google.com/store/apps/details?id=com.ysy.app.firewall"/>
+      <id>https://play.google.com/store/apps/details?id=com.ysy.app.firewall</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Another app firewall that doesn't depend on a local VPN or root</summary>
+    </entry>
+    <entry>
+      <title>Nightcap</title>
+      <link href="https://play.google.com/store/apps/details?id=com.sleepshutdown.app"/>
+      <id>https://play.google.com/store/apps/details?id=com.sleepshutdown.app</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Power off your phone automatically for focus, sleep or any scheduled time you pick</summary>
+    </entry>
+    <entry>
+      <title>Package Manager</title>
+      <link href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager"/>
+      <id>https://play.google.com/store/apps/details?id=com.smartpack.packagemanager</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>A powerful app to manage both system and user apps</summary>
+    </entry>
+    <entry>
+      <title>Package Name Scripter</title>
+      <link href="https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter"/>
+      <id>https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter</id>
+      <updated>2026-10-24T21:36:12.259Z</updated>
+      <summary>Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands.</summary>
+    </entry>
+</feed>
