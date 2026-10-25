@@ -3,14 +3,42 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-24T21:37:08.317Z</updated>
+  <updated>2026-10-25T07:51:35.714Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>FixeQD/PeerBay</title>
+      <link href="https://github.com/FixeQD/PeerBay"/>
+      <id>https://github.com/FixeQD/PeerBay</id>
+      <updated>2026-10-25T06:16:52.000Z</updated>
+      <summary>[AWIP] Local-first peer-to-peer connectivity and sharing across Android, Linux and Windows, made with Tauri</summary>
+    </entry>
+    <entry>
+      <title>ForrestGump618/mobile-agent</title>
+      <link href="https://github.com/ForrestGump618/mobile-agent"/>
+      <id>https://github.com/ForrestGump618/mobile-agent</id>
+      <updated>2026-10-25T07:16:42.000Z</updated>
+      <summary>Native Android AI agent: policy-gated tools, resumable tasks, DeepSeek-ready chat.</summary>
+    </entry>
+    <entry>
+      <title>Halo0sama/Notice</title>
+      <link href="https://github.com/Halo0sama/Notice"/>
+      <id>https://github.com/Halo0sama/Notice</id>
+      <updated>2026-10-24T23:35:19.000Z</updated>
+      <summary>知序：内置云雀 AI 的 Android 通知管理器，跨应用批量控制通知类别、预设轮播、可预览与撤销的智能建议。Material 3 Expressive · Shizuku · DeepSeek Responses API</summary>
+    </entry>
+    <entry>
+      <title>tittiesmyluv/layerctl</title>
+      <link href="https://github.com/tittiesmyluv/layerctl"/>
+      <id>https://github.com/tittiesmyluv/layerctl</id>
+      <updated>2026-10-25T03:41:31.000Z</updated>
+      <summary>Non-root Android app-standby layer switchboard. Re-map packages into 7 tiers, apply only the diff. No root.</summary>
+    </entry>
     <entry>
       <title>lladlam/MeloX-Android</title>
       <link href="https://github.com/lladlam/MeloX-Android"/>
       <id>https://github.com/lladlam/MeloX-Android</id>
-      <updated>2026-10-24T19:12:46.000Z</updated>
+      <updated>2026-10-25T07:43:41.000Z</updated>
       <summary>A third-party music client based on MeloX, styled after Apple Music and featuring unique functions.</summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://play.google.com/store/apps/details?id=com.parizene.netmonitor</id>
       <updated>2026-10-24T21:36:12.259Z</updated>
       <summary>Monitor cellular (2G/3G/4G/5G) and WiFi networks: signal strength, cell tower info and network diagnostics</summary>
-    </entry>
-    <entry>
-      <title>NetWall</title>
-      <link href="https://play.google.com/store/apps/details?id=com.ysy.app.firewall"/>
-      <id>https://play.google.com/store/apps/details?id=com.ysy.app.firewall</id>
-      <updated>2026-10-24T21:36:12.259Z</updated>
-      <summary>Another app firewall that doesn't depend on a local VPN or root</summary>
-    </entry>
-    <entry>
-      <title>Nightcap</title>
-      <link href="https://play.google.com/store/apps/details?id=com.sleepshutdown.app"/>
-      <id>https://play.google.com/store/apps/details?id=com.sleepshutdown.app</id>
-      <updated>2026-10-24T21:36:12.259Z</updated>
-      <summary>Power off your phone automatically for focus, sleep or any scheduled time you pick</summary>
-    </entry>
-    <entry>
-      <title>Package Manager</title>
-      <link href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager"/>
-      <id>https://play.google.com/store/apps/details?id=com.smartpack.packagemanager</id>
-      <updated>2026-10-24T21:36:12.259Z</updated>
-      <summary>A powerful app to manage both system and user apps</summary>
-    </entry>
-    <entry>
-      <title>Package Name Scripter</title>
-      <link href="https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter"/>
-      <id>https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter</id>
-      <updated>2026-10-24T21:36:12.259Z</updated>
-      <summary>Manage installed apps using Shizuku or create ADB scripts to enable, disable, uninstall, reinstall, or run other app-related ADB commands.</summary>
     </entry>
 </feed>
