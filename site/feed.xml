@@ -3,9 +3,16 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-26T08:11:03.383Z</updated>
+  <updated>2026-10-27T08:25:52.035Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>No-World/rootkit</title>
+      <link href="https://github.com/No-World/rootkit"/>
+      <id>https://github.com/No-World/rootkit</id>
+      <updated>2026-10-27T06:31:59.000Z</updated>
+      <summary>越狱助手 · RootKit for Honor Magic9 (CVE-2026-64560 → cred 写 → 自制内核模块 → KernelSU)，Flutter + Shizuku 一键 root</summary>
+    </entry>
     <entry>
       <title>prototux/AARE</title>
       <link href="https://github.com/prototux/AARE"/>
@@ -208,12 +215,5 @@
       <id>https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher</id>
       <updated>2026-10-24T21:36:12.259Z</updated>
       <summary>Refresh rate shortcut switch for HyperOS/MIUI</summary>
-    </entry>
-    <entry>
-      <title>FV File Manager</title>
-      <link href="https://play.google.com/store/apps/details?id=com.folderv.file"/>
-      <id>https://play.google.com/store/apps/details?id=com.folderv.file</id>
-      <updated>2026-10-24T21:36:12.259Z</updated>
-      <summary>File manager to [access Android/data and Android/obb](https://folderv.com/2023/11/24/access-Android-data-and-Android-obb-on-Android-14/)</summary>
     </entry>
 </feed>
