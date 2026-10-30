@@ -3,15 +3,99 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-29T09:00:52.901Z</updated>
+  <updated>2026-10-30T09:07:46.179Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ccch1mneyyy/dsh-go</title>
+      <link href="https://github.com/ccch1mneyyy/dsh-go"/>
+      <id>https://github.com/ccch1mneyyy/dsh-go</id>
+      <updated>2026-10-30T08:23:27.000Z</updated>
+      <summary>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</summary>
+    </entry>
+    <entry>
+      <title>JunWan666/astrbot-for-android</title>
+      <link href="https://github.com/JunWan666/astrbot-for-android"/>
+      <id>https://github.com/JunWan666/astrbot-for-android</id>
+      <updated>2026-10-29T19:24:02.000Z</updated>
+      <summary>在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。</summary>
+    </entry>
+    <entry>
+      <title>taixu-lab/taixu</title>
+      <link href="https://github.com/taixu-lab/taixu"/>
+      <id>https://github.com/taixu-lab/taixu</id>
+      <updated>2026-10-30T07:58:44.000Z</updated>
+      <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
+    </entry>
+    <entry>
+      <title>Again1996-bit/CVE-2026-98260-GhostKey</title>
+      <link href="https://github.com/Again1996-bit/CVE-2026-98260-GhostKey"/>
+      <id>https://github.com/Again1996-bit/CVE-2026-98260-GhostKey</id>
+      <updated>2026-10-29T05:13:36.000Z</updated>
+      <summary>GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）</summary>
+    </entry>
+    <entry>
+      <title>954349345/procmanager</title>
+      <link href="https://github.com/954349345/procmanager"/>
+      <id>https://github.com/954349345/procmanager</id>
+      <updated>2026-10-30T01:16:22.000Z</updated>
+      <summary>查看 Android 全部应用进程，支持仅第三方筛选与强行停止（基于 Shizuku / Root）</summary>
+    </entry>
+    <entry>
+      <title>andrewr8712/legend-tuner</title>
+      <link href="https://github.com/andrewr8712/legend-tuner"/>
+      <id>https://github.com/andrewr8712/legend-tuner</id>
+      <updated>2026-10-30T05:04:59.000Z</updated>
+      <summary>Tablet-first Android editor for GRID Legends graphics preferences. Root, Shizuku, or manual file access.</summary>
+    </entry>
+    <entry>
+      <title>HmnDev-Tech/chronics</title>
+      <link href="https://github.com/HmnDev-Tech/chronics"/>
+      <id>https://github.com/HmnDev-Tech/chronics</id>
+      <updated>2026-10-29T16:08:10.000Z</updated>
+      <summary>Chronics — a local Android notification archive with full-text capture, filters, and Downloads export</summary>
+    </entry>
+    <entry>
+      <title>karvanidx/appman</title>
+      <link href="https://github.com/karvanidx/appman"/>
+      <id>https://github.com/karvanidx/appman</id>
+      <updated>2026-10-30T08:14:13.000Z</updated>
+      <summary>Tiny no-root Android app manager, APK backuper, Shizuku power tools and usage analytics. Java, Termux, no Gradle.</summary>
+    </entry>
+    <entry>
+      <title>luislorenzocalvo/Windroid-Minecraft-Sync</title>
+      <link href="https://github.com/luislorenzocalvo/Windroid-Minecraft-Sync"/>
+      <id>https://github.com/luislorenzocalvo/Windroid-Minecraft-Sync</id>
+      <updated>2026-10-29T19:15:40.000Z</updated>
+      <summary>Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.</summary>
+    </entry>
+    <entry>
+      <title>silasdv/TaskDeck</title>
+      <link href="https://github.com/silasdv/TaskDeck"/>
+      <id>https://github.com/silasdv/TaskDeck</id>
+      <updated>2026-10-29T19:52:26.000Z</updated>
+      <summary>Controller-first Android task manager for gaming handhelds. Shizuku, gamepad mapping, app protection and RAM charts. By SilasDV.</summary>
+    </entry>
+    <entry>
+      <title>tokhirdzhon/ClearPhone</title>
+      <link href="https://github.com/tokhirdzhon/ClearPhone"/>
+      <id>https://github.com/tokhirdzhon/ClearPhone</id>
+      <updated>2026-10-29T18:39:37.000Z</updated>
+      <summary>Открытый Android-чистильщик: большие файлы, дубликаты, размер папок, приложения и кэш через Shizuku. Без рекламы и интернета.</summary>
+    </entry>
     <entry>
       <title>Jman-Github/Universal-Patch-Manager</title>
       <link href="https://github.com/Jman-Github/Universal-Patch-Manager"/>
       <id>https://github.com/Jman-Github/Universal-Patch-Manager</id>
-      <updated>2026-10-29T02:18:08.000Z</updated>
+      <updated>2026-10-30T02:47:41.000Z</updated>
       <summary>💊 Android manager for ReVanced, Morphe, and Reseam with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.</summary>
+    </entry>
+    <entry>
+      <title>jackwener/DeepseekHarness-Android</title>
+      <link href="https://github.com/jackwener/DeepseekHarness-Android"/>
+      <id>https://github.com/jackwener/DeepseekHarness-Android</id>
+      <updated>2026-10-30T07:48:13.000Z</updated>
+      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
     </entry>
     <entry>
       <title>Yukstarlight/NekoType</title>
@@ -19,13 +103,6 @@
       <id>https://github.com/Yukstarlight/NekoType</id>
       <updated>2026-10-28T12:48:49.000Z</updated>
       <summary>Android 系统级文本改写工具：悬浮球 / 篡改键盘 / 断句追加 / 摇一摇四种模式，前缀·后缀·随机尾缀·文本替换一键改写并发送；Shizuku / Root 通道，完全离线，无网络权限</summary>
-    </entry>
-    <entry>
-      <title>jackwener/DeepseekHarness-Android</title>
-      <link href="https://github.com/jackwener/DeepseekHarness-Android"/>
-      <id>https://github.com/jackwener/DeepseekHarness-Android</id>
-      <updated>2026-10-28T19:53:17.000Z</updated>
-      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
     </entry>
     <entry>
       <title>kpgc10kai/TimerRoot</title>
@@ -45,7 +122,7 @@
       <title>Arora-Sir/DualClone</title>
       <link href="https://github.com/Arora-Sir/DualClone"/>
       <id>https://github.com/Arora-Sir/DualClone</id>
-      <updated>2026-10-29T08:55:23.000Z</updated>
+      <updated>2026-10-29T21:23:53.000Z</updated>
       <summary>Clone any Android app into Samsung Dual Messenger or a Work Profile with Shizuku. Free, open source, GPL-3.0.</summary>
     </entry>
     <entry>
@@ -66,14 +143,14 @@
       <title>Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT</title>
       <link href="https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT"/>
       <id>https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT</id>
-      <updated>2026-10-27T13:03:04.000Z</updated>
+      <updated>2026-10-29T13:31:36.000Z</updated>
       <summary>将dsh移植到了手机上，not Root，一键安装apk，可以读取文件并且编辑，在无障碍权限下还能做更多事情，欢迎来尝试。</summary>
     </entry>
     <entry>
       <title>rdevz-ph/RedirectGuard</title>
       <link href="https://github.com/rdevz-ph/RedirectGuard"/>
       <id>https://github.com/rdevz-ph/RedirectGuard</id>
-      <updated>2026-10-29T08:04:07.000Z</updated>
+      <updated>2026-10-29T11:25:05.000Z</updated>
       <summary>An open-source Android tool that helps prevent unwanted ad redirects and deep links to external apps, with permission prompts and automatic return to the previous app.</summary>
     </entry>
     <entry>
@@ -87,8 +164,22 @@
       <title>krishna3163/OmniShizuku</title>
       <link href="https://github.com/krishna3163/OmniShizuku"/>
       <id>https://github.com/krishna3163/OmniShizuku</id>
-      <updated>2026-10-28T04:51:24.000Z</updated>
+      <updated>2026-10-30T05:44:43.000Z</updated>
       <summary>An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools for Android phones, Android TV, and Wear OS.</summary>
+    </entry>
+    <entry>
+      <title>oytuncagil/ethertether</title>
+      <link href="https://github.com/oytuncagil/ethertether"/>
+      <id>https://github.com/oytuncagil/ethertether</id>
+      <updated>2026-10-28T11:17:22.000Z</updated>
+      <summary>Android's Ethernet tethering with a fixed IPv4 address or normal DHCP, for any USB-C Ethernet adapter, through Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>ripplefocus/ripplefocus.github.io</title>
+      <link href="https://github.com/ripplefocus/ripplefocus.github.io"/>
+      <id>https://github.com/ripplefocus/ripplefocus.github.io</id>
+      <updated>2026-10-29T11:11:09.000Z</updated>
+      <summary>涟漪 (Ripple) · Free Android &amp; iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code &amp; anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具</summary>
     </entry>
     <entry>
       <title>ernisn/Applingo</title>
@@ -119,101 +210,10 @@
       <summary>Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha.</summary>
     </entry>
     <entry>
-      <title>oytuncagil/ethertether</title>
-      <link href="https://github.com/oytuncagil/ethertether"/>
-      <id>https://github.com/oytuncagil/ethertether</id>
-      <updated>2026-10-28T11:17:22.000Z</updated>
-      <summary>Android's Ethernet tethering with a fixed IPv4 address or normal DHCP, for any USB-C Ethernet adapter, through Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>ripplefocus/ripplefocus.github.io</title>
-      <link href="https://github.com/ripplefocus/ripplefocus.github.io"/>
-      <id>https://github.com/ripplefocus/ripplefocus.github.io</id>
-      <updated>2026-10-29T05:48:04.000Z</updated>
-      <summary>涟漪 (Ripple) · Free Android &amp; iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code &amp; anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具</summary>
-    </entry>
-    <entry>
       <title>Xiao-yu-ze/XYZ</title>
       <link href="https://github.com/Xiao-yu-ze/XYZ"/>
       <id>https://github.com/Xiao-yu-ze/XYZ</id>
-      <updated>2026-10-29T06:40:32.000Z</updated>
+      <updated>2026-10-29T09:47:51.000Z</updated>
       <summary>安卓 PVZ2 自动化：Shizuku 虚拟屏 + 后台注入 + 自动精灵 .zjs 脚本引擎（无尽/心塔复刻）</summary>
-    </entry>
-    <entry>
-      <title>2927683690myn-rgb/koudai-writing-chapter-titles</title>
-      <link href="https://github.com/2927683690myn-rgb/koudai-writing-chapter-titles"/>
-      <id>https://github.com/2927683690myn-rgb/koudai-writing-chapter-titles</id>
-      <updated>2026-10-29T08:21:27.000Z</updated>
-      <summary>口袋写作章节标题批量生成并写回：自动判定 Android 手机（UI 改名，40 秒/章）或 Windows 桌面版（SQLite 直改，整本 1-2 分钟）</summary>
-    </entry>
-    <entry>
-      <title>fcll32/kiraai-phone-assistant</title>
-      <link href="https://github.com/fcll32/kiraai-phone-assistant"/>
-      <id>https://github.com/fcll32/kiraai-phone-assistant</id>
-      <updated>2026-10-27T12:25:37.000Z</updated>
-      <summary>KiraAI 手机助手：Android 无障碍控制、实时语音和截图，手机主动通过 WSS 连接 KiraAI 插件。</summary>
-    </entry>
-    <entry>
-      <title>huangankun/android-car-study</title>
-      <link href="https://github.com/huangankun/android-car-study"/>
-      <id>https://github.com/huangankun/android-car-study</id>
-      <updated>2026-10-29T07:41:35.000Z</updated>
-      <summary>座舱 Android 系统服务学习记录：dumpsys / Shizuku / CarService 黄金链路 / perfetto（公开学习日志）</summary>
-    </entry>
-    <entry>
-      <title>nixolas1/bluecodec</title>
-      <link href="https://github.com/nixolas1/bluecodec"/>
-      <id>https://github.com/nixolas1/bluecodec</id>
-      <updated>2026-10-28T14:04:43.000Z</updated>
-      <summary>Bluetooth codec preferences and optional automatic reconnect blocking for Android, powered by Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>Ripple</title>
-      <link href="https://ripplefocus.github.io/en/"/>
-      <id>https://ripplefocus.github.io/en/</id>
-      <updated>2026-10-28T09:01:46.200Z</updated>
-      <summary>Free screen-time and app blocker with focus schedules, daily limits and a mandatory cooldown before relaxing rules; uses Shizuku or wireless debugging to lock uninstallation and auto-heal accessibility. `Proprietary`</summary>
-    </entry>
-    <entry>
-      <title>stephansantos250-spec/OnStop2FinishAndRemoveTask-Timer</title>
-      <link href="https://github.com/stephansantos250-spec/OnStop2FinishAndRemoveTask-Timer"/>
-      <id>https://github.com/stephansantos250-spec/OnStop2FinishAndRemoveTask-Timer</id>
-      <updated>2026-10-27T15:27:45.000Z</updated>
-      <summary>Versão não oficial com temporizador de 1–5 minutos e filtros de apps instalados/sistema. Requer Shizuku. Baseado no projeto de takusan23, Apache-2.0.</summary>
-    </entry>
-    <entry>
-      <title>tumingke0/ripple</title>
-      <link href="https://github.com/tumingke0/ripple"/>
-      <id>https://github.com/tumingke0/ripple</id>
-      <updated>2026-10-28T06:40:40.000Z</updated>
-      <summary>涟漪 (Ripple) · Free Android &amp; iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code &amp; anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具</summary>
-    </entry>
-    <entry>
-      <title>No-World/rootkit</title>
-      <link href="https://github.com/No-World/rootkit"/>
-      <id>https://github.com/No-World/rootkit</id>
-      <updated>2026-10-28T10:51:24.000Z</updated>
-      <summary>越狱助手 · RootKit for Honor Magic9 (CVE-2026-64560 → cred 写 → 自制内核模块 → KernelSU)，Flutter + Shizuku 一键 root</summary>
-    </entry>
-    <entry>
-      <title>prototux/AARE</title>
-      <link href="https://github.com/prototux/AARE"/>
-      <id>https://github.com/prototux/AARE</id>
-      <updated>2026-10-26T03:20:06.000Z</updated>
-      <summary>A proof-of-concept opensource implementation of Android Auto's client side (phone side)</summary>
-    </entry>
-    <entry>
-      <title>BeiChen-CN/AppHarbor</title>
-      <link href="https://github.com/BeiChen-CN/AppHarbor"/>
-      <id>https://github.com/BeiChen-CN/AppHarbor</id>
-      <updated>2026-10-27T10:52:35.000Z</updated>
-      <summary>Fork of YXBwbWFya2V0/AppMarket - KMP cross-platform app store (Android/Desktop) with F-Droid source and signature-gated updates</summary>
-    </entry>
-    <entry>
-      <title>zsw125/o3root</title>
-      <link href="https://github.com/zsw125/o3root"/>
-      <id>https://github.com/zsw125/o3root</id>
-      <updated>2026-10-25T19:06:56.000Z</updated>
-      <summary>Shizuku-driven CVE-2026-98260 root + KernelSU runtime LKM loader for Xiaomi yingtian / lhasa (kernel 6.18.21)</summary>
     </entry>
 </feed>
