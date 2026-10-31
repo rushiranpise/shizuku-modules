@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-10-31T08:59:50.790Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>WSTxda/SwitchAI</title>
+      <link href="https://github.com/WSTxda/SwitchAI"/>
+      <id>https://github.com/WSTxda/SwitchAI</id>
+      <updated>2026-10-17T02:46:16.000Z</updated>
+      <summary>Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants</summary>
+    </entry>
+    <entry>
+      <title>jackwener/DSH-Android</title>
+      <link href="https://github.com/jackwener/DSH-Android"/>
+      <id>https://github.com/jackwener/DSH-Android</id>
+      <updated>2026-10-31T08:44:43.000Z</updated>
+      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
+    </entry>
+    <entry>
+      <title>zenithblue-oss/fluxlinux</title>
+      <link href="https://github.com/zenithblue-oss/fluxlinux"/>
+      <id>https://github.com/zenithblue-oss/fluxlinux</id>
+      <updated>2026-10-08T11:02:34.000Z</updated>
+      <summary>Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix</summary>
+    </entry>
+    <entry>
+      <title>moonoops/Droy</title>
+      <link href="https://github.com/moonoops/Droy"/>
+      <id>https://github.com/moonoops/Droy</id>
+      <updated>2026-10-31T08:01:43.000Z</updated>
+      <summary>An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.</summary>
+    </entry>
+    <entry>
+      <title>Velocity081/droidbubble</title>
+      <link href="https://github.com/Velocity081/droidbubble"/>
+      <id>https://github.com/Velocity081/droidbubble</id>
+      <updated>2026-10-29T19:05:39.000Z</updated>
+      <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
+    </entry>
+    <entry>
+      <title>GitMag/UnknownAuto</title>
+      <link href="https://github.com/GitMag/UnknownAuto"/>
+      <id>https://github.com/GitMag/UnknownAuto</id>
+      <updated>2026-10-30T07:13:14.000Z</updated>
+      <summary>Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku</summary>
+    </entry>
+    <entry>
+      <title>henry-97/MineApp</title>
+      <link href="https://github.com/henry-97/MineApp"/>
+      <id>https://github.com/henry-97/MineApp</id>
+      <updated>2026-10-30T15:09:58.000Z</updated>
+      <summary>Root-free, Shizuku-free lightweight Android app manager (&lt;1MB APK, &lt;10MB storage). Boost laggy &amp; legacy devices with app freezing, background restriction, AOT compilation, and sustained performance mode—slashing battery drain while locking in peak smoothness. Free, open source. 免 Root、免 Sh</summary>
+    </entry>
+    <entry>
+      <title>abanana84/abCheck</title>
+      <link href="https://github.com/abanana84/abCheck"/>
+      <id>https://github.com/abanana84/abCheck</id>
+      <updated>2026-10-22T14:46:34.000Z</updated>
+      <summary>Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics</summary>
+    </entry>
+    <entry>
+      <title>rentianyu/shell2apk</title>
+      <link href="https://github.com/rentianyu/shell2apk"/>
+      <id>https://github.com/rentianyu/shell2apk</id>
+      <updated>2026-10-31T08:55:47.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>rn-os/inkpalm-plus</title>
+      <link href="https://github.com/rn-os/inkpalm-plus"/>
+      <id>https://github.com/rn-os/inkpalm-plus</id>
+      <updated>2026-10-29T05:10:36.000Z</updated>
+      <summary>Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles</summary>
+    </entry>
+    <entry>
+      <title>ganzhong2/danmaku-assistant</title>
+      <link href="https://github.com/ganzhong2/danmaku-assistant"/>
+      <id>https://github.com/ganzhong2/danmaku-assistant</id>
+      <updated>2026-10-31T04:14:10.000Z</updated>
+      <summary>给本地 / 网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android 双版本（GPL-3.0）。</summary>
+    </entry>
+    <entry>
+      <title>Whyms1998/ActivityLocking</title>
+      <link href="https://github.com/Whyms1998/ActivityLocking"/>
+      <id>https://github.com/Whyms1998/ActivityLocking</id>
+      <updated>2026-10-31T00:18:21.000Z</updated>
+      <summary>Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。</summary>
+    </entry>
+    <entry>
+      <title>Xiax550/DeepSeek-Harness-for-Android-by-X</title>
+      <link href="https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X"/>
+      <id>https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X</id>
+      <updated>2026-10-30T14:46:20.000Z</updated>
+      <summary>DeepSeek Harness for Android by X (DHA). Unofficial Android client with floating assistant, voice input, sandbox tools and plugins.</summary>
+    </entry>
+    <entry>
+      <title>ccch1mneyyy/dsh-Go</title>
+      <link href="https://github.com/ccch1mneyyy/dsh-Go"/>
+      <id>https://github.com/ccch1mneyyy/dsh-Go</id>
+      <updated>2026-10-31T07:11:50.000Z</updated>
+      <summary>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</summary>
+    </entry>
+    <entry>
+      <title>JunWan666/astrbot-for-android</title>
+      <link href="https://github.com/JunWan666/astrbot-for-android"/>
+      <id>https://github.com/JunWan666/astrbot-for-android</id>
+      <updated>2026-10-29T19:24:02.000Z</updated>
+      <summary>在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。</summary>
+    </entry>
+    <entry>
+      <title>taixu-lab/taixu</title>
+      <link href="https://github.com/taixu-lab/taixu"/>
+      <id>https://github.com/taixu-lab/taixu</id>
+      <updated>2026-10-31T02:36:32.000Z</updated>
+      <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
+    </entry>
+    <entry>
+      <title>Again1996-bit/CVE-2026-98260-GhostKey</title>
+      <link href="https://github.com/Again1996-bit/CVE-2026-98260-GhostKey"/>
+      <id>https://github.com/Again1996-bit/CVE-2026-98260-GhostKey</id>
+      <updated>2026-10-29T05:13:36.000Z</updated>
+      <summary>GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）</summary>
+    </entry>
+    <entry>
+      <title>karvanidx/appman</title>
+      <link href="https://github.com/karvanidx/appman"/>
+      <id>https://github.com/karvanidx/appman</id>
+      <updated>2026-10-30T14:57:20.000Z</updated>
+      <summary>Tiny no-root Android app manager, APK backuper, Shizuku power tools and usage analytics. Java, Termux, no Gradle.</summary>
+    </entry>
+    <entry>
+      <title>954349345/procmanager</title>
+      <link href="https://github.com/954349345/procmanager"/>
+      <id>https://github.com/954349345/procmanager</id>
+      <updated>2026-10-30T01:16:22.000Z</updated>
+      <summary>查看 Android 全部应用进程，支持仅第三方筛选与强行停止（基于 Shizuku / Root）</summary>
+    </entry>
+    <entry>
+      <title>tokhirdzhon/ClearPhone</title>
+      <link href="https://github.com/tokhirdzhon/ClearPhone"/>
+      <id>https://github.com/tokhirdzhon/ClearPhone</id>
+      <updated>2026-10-29T18:39:37.000Z</updated>
+      <summary>Открытый Android-чистильщик: большие файлы, дубликаты, размер папок, приложения и кэш через Shizuku. Без рекламы и интернета.</summary>
+    </entry>
+    <entry>
+      <title>andrewr8712/legend-tuner</title>
+      <link href="https://github.com/andrewr8712/legend-tuner"/>
+      <id>https://github.com/andrewr8712/legend-tuner</id>
+      <updated>2026-10-30T05:04:59.000Z</updated>
+      <summary>Tablet-first Android editor for GRID Legends graphics preferences. Root, Shizuku, or manual file access.</summary>
+    </entry>
+    <entry>
+      <title>HmnDev-Tech/chronics</title>
+      <link href="https://github.com/HmnDev-Tech/chronics"/>
+      <id>https://github.com/HmnDev-Tech/chronics</id>
+      <updated>2026-10-31T08:38:30.000Z</updated>
+      <summary>Chronics — a local Android notification archive with full-text capture, filters, and Downloads export</summary>
+    </entry>
+    <entry>
+      <title>luislorenzocalvo/Windroid-Minecraft-Sync</title>
+      <link href="https://github.com/luislorenzocalvo/Windroid-Minecraft-Sync"/>
+      <id>https://github.com/luislorenzocalvo/Windroid-Minecraft-Sync</id>
+      <updated>2026-10-29T19:15:40.000Z</updated>
+      <summary>Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.</summary>
+    </entry>
+    <entry>
+      <title>silasdv/TaskDeck</title>
+      <link href="https://github.com/silasdv/TaskDeck"/>
+      <id>https://github.com/silasdv/TaskDeck</id>
+      <updated>2026-10-29T19:52:26.000Z</updated>
+      <summary>Controller-first Android task manager for gaming handhelds. Shizuku, gamepad mapping, app protection and RAM charts. By SilasDV.</summary>
+    </entry>
+    <entry>
+      <title>Jman-Github/Universal-Patch-Manager</title>
+      <link href="https://github.com/Jman-Github/Universal-Patch-Manager"/>
+      <id>https://github.com/Jman-Github/Universal-Patch-Manager</id>
+      <updated>2026-10-31T06:04:52.000Z</updated>
+      <summary>💊 Android manager for ReVanced, Morphe, and Reseam with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.</summary>
+    </entry>
+    <entry>
+      <title>jackwener/DeepseekHarness-Android</title>
+      <link href="https://github.com/jackwener/DeepseekHarness-Android"/>
+      <id>https://github.com/jackwener/DeepseekHarness-Android</id>
+      <updated>2026-10-30T07:48:13.000Z</updated>
+      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
+    </entry>
+    <entry>
+      <title>Yukstarlight/NekoType</title>
+      <link href="https://github.com/Yukstarlight/NekoType"/>
+      <id>https://github.com/Yukstarlight/NekoType</id>
+      <updated>2026-10-28T12:48:49.000Z</updated>
+      <summary>Android 系统级文本改写工具：悬浮球 / 篡改键盘 / 断句追加 / 摇一摇四种模式，前缀·后缀·随机尾缀·文本替换一键改写并发送；Shizuku / Root 通道，完全离线，无网络权限</summary>
+    </entry>
+    <entry>
+      <title>kpgc10kai/TimerRoot</title>
+      <link href="https://github.com/kpgc10kai/TimerRoot"/>
+      <id>https://github.com/kpgc10kai/TimerRoot</id>
+      <updated>2026-10-28T15:26:42.000Z</updated>
+      <summary>Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku</summary>
+    </entry>
+    <entry>
+      <title>Arora-Sir/DualClone</title>
+      <link href="https://github.com/Arora-Sir/DualClone"/>
+      <id>https://github.com/Arora-Sir/DualClone</id>
+      <updated>2026-10-29T21:23:53.000Z</updated>
+      <summary>Clone any Android app into Samsung Dual Messenger or a Work Profile with Shizuku. Free, open source, GPL-3.0.</summary>
+    </entry>
+    <entry>
+      <title>MnemosyneLab/ghostlock-honor</title>
+      <link href="https://github.com/MnemosyneLab/ghostlock-honor"/>
+      <id>https://github.com/MnemosyneLab/ghostlock-honor</id>
+      <updated>2026-10-29T08:08:53.000Z</updated>
+      <summary>Temporary root recovery for HONOR 400 (DNY-NX9), with standalone and Shizuku-assisted recovery paths. A device-specific fork of ghostlock-app.</summary>
+    </entry>
+</feed>
