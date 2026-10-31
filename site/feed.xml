@@ -3,14 +3,105 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-30T09:07:46.179Z</updated>
+  <updated>2026-10-31T08:59:50.790Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>ccch1mneyyy/dsh-go</title>
-      <link href="https://github.com/ccch1mneyyy/dsh-go"/>
-      <id>https://github.com/ccch1mneyyy/dsh-go</id>
-      <updated>2026-10-30T08:23:27.000Z</updated>
+      <title>WSTxda/SwitchAI</title>
+      <link href="https://github.com/WSTxda/SwitchAI"/>
+      <id>https://github.com/WSTxda/SwitchAI</id>
+      <updated>2026-10-17T02:46:16.000Z</updated>
+      <summary>Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants</summary>
+    </entry>
+    <entry>
+      <title>jackwener/DSH-Android</title>
+      <link href="https://github.com/jackwener/DSH-Android"/>
+      <id>https://github.com/jackwener/DSH-Android</id>
+      <updated>2026-10-31T08:44:43.000Z</updated>
+      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
+    </entry>
+    <entry>
+      <title>zenithblue-oss/fluxlinux</title>
+      <link href="https://github.com/zenithblue-oss/fluxlinux"/>
+      <id>https://github.com/zenithblue-oss/fluxlinux</id>
+      <updated>2026-10-08T11:02:34.000Z</updated>
+      <summary>Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix</summary>
+    </entry>
+    <entry>
+      <title>moonoops/Droy</title>
+      <link href="https://github.com/moonoops/Droy"/>
+      <id>https://github.com/moonoops/Droy</id>
+      <updated>2026-10-31T08:01:43.000Z</updated>
+      <summary>An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.</summary>
+    </entry>
+    <entry>
+      <title>Velocity081/droidbubble</title>
+      <link href="https://github.com/Velocity081/droidbubble"/>
+      <id>https://github.com/Velocity081/droidbubble</id>
+      <updated>2026-10-29T19:05:39.000Z</updated>
+      <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
+    </entry>
+    <entry>
+      <title>GitMag/UnknownAuto</title>
+      <link href="https://github.com/GitMag/UnknownAuto"/>
+      <id>https://github.com/GitMag/UnknownAuto</id>
+      <updated>2026-10-30T07:13:14.000Z</updated>
+      <summary>Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku</summary>
+    </entry>
+    <entry>
+      <title>henry-97/MineApp</title>
+      <link href="https://github.com/henry-97/MineApp"/>
+      <id>https://github.com/henry-97/MineApp</id>
+      <updated>2026-10-30T15:09:58.000Z</updated>
+      <summary>Root-free, Shizuku-free lightweight Android app manager (&lt;1MB APK, &lt;10MB storage). Boost laggy &amp; legacy devices with app freezing, background restriction, AOT compilation, and sustained performance mode—slashing battery drain while locking in peak smoothness. Free, open source. 免 Root、免 Sh</summary>
+    </entry>
+    <entry>
+      <title>abanana84/abCheck</title>
+      <link href="https://github.com/abanana84/abCheck"/>
+      <id>https://github.com/abanana84/abCheck</id>
+      <updated>2026-10-22T14:46:34.000Z</updated>
+      <summary>Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics</summary>
+    </entry>
+    <entry>
+      <title>rentianyu/shell2apk</title>
+      <link href="https://github.com/rentianyu/shell2apk"/>
+      <id>https://github.com/rentianyu/shell2apk</id>
+      <updated>2026-10-31T08:55:47.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>rn-os/inkpalm-plus</title>
+      <link href="https://github.com/rn-os/inkpalm-plus"/>
+      <id>https://github.com/rn-os/inkpalm-plus</id>
+      <updated>2026-10-29T05:10:36.000Z</updated>
+      <summary>Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles</summary>
+    </entry>
+    <entry>
+      <title>ganzhong2/danmaku-assistant</title>
+      <link href="https://github.com/ganzhong2/danmaku-assistant"/>
+      <id>https://github.com/ganzhong2/danmaku-assistant</id>
+      <updated>2026-10-31T04:14:10.000Z</updated>
+      <summary>给本地 / 网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android 双版本（GPL-3.0）。</summary>
+    </entry>
+    <entry>
+      <title>Whyms1998/ActivityLocking</title>
+      <link href="https://github.com/Whyms1998/ActivityLocking"/>
+      <id>https://github.com/Whyms1998/ActivityLocking</id>
+      <updated>2026-10-31T00:18:21.000Z</updated>
+      <summary>Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。</summary>
+    </entry>
+    <entry>
+      <title>Xiax550/DeepSeek-Harness-for-Android-by-X</title>
+      <link href="https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X"/>
+      <id>https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X</id>
+      <updated>2026-10-30T14:46:20.000Z</updated>
+      <summary>DeepSeek Harness for Android by X (DHA). Unofficial Android client with floating assistant, voice input, sandbox tools and plugins.</summary>
+    </entry>
+    <entry>
+      <title>ccch1mneyyy/dsh-Go</title>
+      <link href="https://github.com/ccch1mneyyy/dsh-Go"/>
+      <id>https://github.com/ccch1mneyyy/dsh-Go</id>
+      <updated>2026-10-31T07:11:50.000Z</updated>
       <summary>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</summary>
     </entry>
     <entry>
@@ -24,7 +115,7 @@
       <title>taixu-lab/taixu</title>
       <link href="https://github.com/taixu-lab/taixu"/>
       <id>https://github.com/taixu-lab/taixu</id>
-      <updated>2026-10-30T07:58:44.000Z</updated>
+      <updated>2026-10-31T02:36:32.000Z</updated>
       <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
     </entry>
     <entry>
@@ -35,11 +126,25 @@
       <summary>GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）</summary>
     </entry>
     <entry>
+      <title>karvanidx/appman</title>
+      <link href="https://github.com/karvanidx/appman"/>
+      <id>https://github.com/karvanidx/appman</id>
+      <updated>2026-10-30T14:57:20.000Z</updated>
+      <summary>Tiny no-root Android app manager, APK backuper, Shizuku power tools and usage analytics. Java, Termux, no Gradle.</summary>
+    </entry>
+    <entry>
       <title>954349345/procmanager</title>
       <link href="https://github.com/954349345/procmanager"/>
       <id>https://github.com/954349345/procmanager</id>
       <updated>2026-10-30T01:16:22.000Z</updated>
       <summary>查看 Android 全部应用进程，支持仅第三方筛选与强行停止（基于 Shizuku / Root）</summary>
+    </entry>
+    <entry>
+      <title>tokhirdzhon/ClearPhone</title>
+      <link href="https://github.com/tokhirdzhon/ClearPhone"/>
+      <id>https://github.com/tokhirdzhon/ClearPhone</id>
+      <updated>2026-10-29T18:39:37.000Z</updated>
+      <summary>Открытый Android-чистильщик: большие файлы, дубликаты, размер папок, приложения и кэш через Shizuku. Без рекламы и интернета.</summary>
     </entry>
     <entry>
       <title>andrewr8712/legend-tuner</title>
@@ -52,15 +157,8 @@
       <title>HmnDev-Tech/chronics</title>
       <link href="https://github.com/HmnDev-Tech/chronics"/>
       <id>https://github.com/HmnDev-Tech/chronics</id>
-      <updated>2026-10-29T16:08:10.000Z</updated>
+      <updated>2026-10-31T08:38:30.000Z</updated>
       <summary>Chronics — a local Android notification archive with full-text capture, filters, and Downloads export</summary>
-    </entry>
-    <entry>
-      <title>karvanidx/appman</title>
-      <link href="https://github.com/karvanidx/appman"/>
-      <id>https://github.com/karvanidx/appman</id>
-      <updated>2026-10-30T08:14:13.000Z</updated>
-      <summary>Tiny no-root Android app manager, APK backuper, Shizuku power tools and usage analytics. Java, Termux, no Gradle.</summary>
     </entry>
     <entry>
       <title>luislorenzocalvo/Windroid-Minecraft-Sync</title>
@@ -77,17 +175,10 @@
       <summary>Controller-first Android task manager for gaming handhelds. Shizuku, gamepad mapping, app protection and RAM charts. By SilasDV.</summary>
     </entry>
     <entry>
-      <title>tokhirdzhon/ClearPhone</title>
-      <link href="https://github.com/tokhirdzhon/ClearPhone"/>
-      <id>https://github.com/tokhirdzhon/ClearPhone</id>
-      <updated>2026-10-29T18:39:37.000Z</updated>
-      <summary>Открытый Android-чистильщик: большие файлы, дубликаты, размер папок, приложения и кэш через Shizuku. Без рекламы и интернета.</summary>
-    </entry>
-    <entry>
       <title>Jman-Github/Universal-Patch-Manager</title>
       <link href="https://github.com/Jman-Github/Universal-Patch-Manager"/>
       <id>https://github.com/Jman-Github/Universal-Patch-Manager</id>
-      <updated>2026-10-30T02:47:41.000Z</updated>
+      <updated>2026-10-31T06:04:52.000Z</updated>
       <summary>💊 Android manager for ReVanced, Morphe, and Reseam with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.</summary>
     </entry>
     <entry>
@@ -112,13 +203,6 @@
       <summary>Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku</summary>
     </entry>
     <entry>
-      <title>MnemosyneLab/ghostlock-honor</title>
-      <link href="https://github.com/MnemosyneLab/ghostlock-honor"/>
-      <id>https://github.com/MnemosyneLab/ghostlock-honor</id>
-      <updated>2026-10-29T08:08:53.000Z</updated>
-      <summary>Temporary root recovery for HONOR 400 (DNY-NX9), with standalone and Shizuku-assisted recovery paths. A device-specific fork of ghostlock-app.</summary>
-    </entry>
-    <entry>
       <title>Arora-Sir/DualClone</title>
       <link href="https://github.com/Arora-Sir/DualClone"/>
       <id>https://github.com/Arora-Sir/DualClone</id>
@@ -126,94 +210,10 @@
       <summary>Clone any Android app into Samsung Dual Messenger or a Work Profile with Shizuku. Free, open source, GPL-3.0.</summary>
     </entry>
     <entry>
-      <title>jkBegginer/DualSenseDeadzone</title>
-      <link href="https://github.com/jkBegginer/DualSenseDeadzone"/>
-      <id>https://github.com/jkBegginer/DualSenseDeadzone</id>
-      <updated>2026-10-28T16:14:41.000Z</updated>
-      <summary>System-wide DualSense stick/trigger deadzone for Android via Shizuku + uhid</summary>
-    </entry>
-    <entry>
-      <title>serifdrms/hey-claude-android</title>
-      <link href="https://github.com/serifdrms/hey-claude-android"/>
-      <id>https://github.com/serifdrms/hey-claude-android</id>
-      <updated>2026-10-28T23:13:48.000Z</updated>
-      <summary>Say &quot;Hey Claude&quot; and Claude opens in voice mode. On-device wake word for Android, no internet permission.</summary>
-    </entry>
-    <entry>
-      <title>Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT</title>
-      <link href="https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT"/>
-      <id>https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT</id>
-      <updated>2026-10-29T13:31:36.000Z</updated>
-      <summary>将dsh移植到了手机上，not Root，一键安装apk，可以读取文件并且编辑，在无障碍权限下还能做更多事情，欢迎来尝试。</summary>
-    </entry>
-    <entry>
-      <title>rdevz-ph/RedirectGuard</title>
-      <link href="https://github.com/rdevz-ph/RedirectGuard"/>
-      <id>https://github.com/rdevz-ph/RedirectGuard</id>
-      <updated>2026-10-29T11:25:05.000Z</updated>
-      <summary>An open-source Android tool that helps prevent unwanted ad redirects and deep links to external apps, with permission prompts and automatic return to the previous app.</summary>
-    </entry>
-    <entry>
-      <title>burakgon/stop</title>
-      <link href="https://github.com/burakgon/stop"/>
-      <id>https://github.com/burakgon/stop</id>
-      <updated>2026-10-26T09:23:54.000Z</updated>
-      <summary>Background app blocker for Android. The apps you pick run only while you use them: leave one and it's force-stopped, with no background sync, alarms or push wake-ups. No root, works through Shizuku. Asks about every new install, and Play Store updates keep working.</summary>
-    </entry>
-    <entry>
-      <title>krishna3163/OmniShizuku</title>
-      <link href="https://github.com/krishna3163/OmniShizuku"/>
-      <id>https://github.com/krishna3163/OmniShizuku</id>
-      <updated>2026-10-30T05:44:43.000Z</updated>
-      <summary>An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools for Android phones, Android TV, and Wear OS.</summary>
-    </entry>
-    <entry>
-      <title>oytuncagil/ethertether</title>
-      <link href="https://github.com/oytuncagil/ethertether"/>
-      <id>https://github.com/oytuncagil/ethertether</id>
-      <updated>2026-10-28T11:17:22.000Z</updated>
-      <summary>Android's Ethernet tethering with a fixed IPv4 address or normal DHCP, for any USB-C Ethernet adapter, through Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>ripplefocus/ripplefocus.github.io</title>
-      <link href="https://github.com/ripplefocus/ripplefocus.github.io"/>
-      <id>https://github.com/ripplefocus/ripplefocus.github.io</id>
-      <updated>2026-10-29T11:11:09.000Z</updated>
-      <summary>涟漪 (Ripple) · Free Android &amp; iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code &amp; anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具</summary>
-    </entry>
-    <entry>
-      <title>ernisn/Applingo</title>
-      <link href="https://github.com/ernisn/Applingo"/>
-      <id>https://github.com/ernisn/Applingo</id>
-      <updated>2026-10-22T13:40:20.000Z</updated>
-      <summary>Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support</summary>
-    </entry>
-    <entry>
-      <title>fanzhanxiang8-ops/shizuku-remote-shell</title>
-      <link href="https://github.com/fanzhanxiang8-ops/shizuku-remote-shell"/>
-      <id>https://github.com/fanzhanxiang8-ops/shizuku-remote-shell</id>
-      <updated>2026-10-27T01:09:49.000Z</updated>
-      <summary>Remote Android shell over Shizuku: Android app + Flask relay server + MCP/CLI clients</summary>
-    </entry>
-    <entry>
-      <title>hiiamtrong/vivo-nfc-switch</title>
-      <link href="https://github.com/hiiamtrong/vivo-nfc-switch"/>
-      <id>https://github.com/hiiamtrong/vivo-nfc-switch</id>
-      <updated>2026-10-27T10:14:31.000Z</updated>
-      <summary>One-tap switch of the default NFC payment wallet on vivo phones (OriginOS): vivo Wallet, Google Pay and more, via app, Quick Settings tile, or Smart Button.</summary>
-    </entry>
-    <entry>
-      <title>monarchsofchaos004-gif/phoneguard</title>
-      <link href="https://github.com/monarchsofchaos004-gif/phoneguard"/>
-      <id>https://github.com/monarchsofchaos004-gif/phoneguard</id>
-      <updated>2026-10-25T00:36:30.000Z</updated>
-      <summary>Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha.</summary>
-    </entry>
-    <entry>
-      <title>Xiao-yu-ze/XYZ</title>
-      <link href="https://github.com/Xiao-yu-ze/XYZ"/>
-      <id>https://github.com/Xiao-yu-ze/XYZ</id>
-      <updated>2026-10-29T09:47:51.000Z</updated>
-      <summary>安卓 PVZ2 自动化：Shizuku 虚拟屏 + 后台注入 + 自动精灵 .zjs 脚本引擎（无尽/心塔复刻）</summary>
+      <title>MnemosyneLab/ghostlock-honor</title>
+      <link href="https://github.com/MnemosyneLab/ghostlock-honor"/>
+      <id>https://github.com/MnemosyneLab/ghostlock-honor</id>
+      <updated>2026-10-29T08:08:53.000Z</updated>
+      <summary>Temporary root recovery for HONOR 400 (DNY-NX9), with standalone and Shizuku-assisted recovery paths. A device-specific fork of ghostlock-app.</summary>
     </entry>
 </feed>
