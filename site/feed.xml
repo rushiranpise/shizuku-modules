@@ -3,9 +3,79 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-01T09:49:53.113Z</updated>
+  <updated>2026-11-02T10:09:13.508Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Nk-Be/AppMarket</title>
+      <link href="https://github.com/Nk-Be/AppMarket"/>
+      <id>https://github.com/Nk-Be/AppMarket</id>
+      <updated>2026-11-01T13:43:38.000Z</updated>
+      <summary>开源多源的应用商店</summary>
+    </entry>
+    <entry>
+      <title>HmnDev-Tech/How-App-Coded</title>
+      <link href="https://github.com/HmnDev-Tech/How-App-Coded"/>
+      <id>https://github.com/HmnDev-Tech/How-App-Coded</id>
+      <updated>2026-11-01T18:28:48.000Z</updated>
+      <summary>How app coded? So, install module and see! </summary>
+    </entry>
+    <entry>
+      <title>ATRI072121/DSH-forAndroid</title>
+      <link href="https://github.com/ATRI072121/DSH-forAndroid"/>
+      <id>https://github.com/ATRI072121/DSH-forAndroid</id>
+      <updated>2026-11-01T15:22:11.000Z</updated>
+      <summary>在 Android 本地运行 DeepSeek Harness，支持插件、悬浮对话与 Root / Shizuku。Run DeepSeek Harness locally on Android.</summary>
+    </entry>
+    <entry>
+      <title>brandlll-lee/PhoneBot-Android</title>
+      <link href="https://github.com/brandlll-lee/PhoneBot-Android"/>
+      <id>https://github.com/brandlll-lee/PhoneBot-Android</id>
+      <updated>2026-11-02T08:48:06.000Z</updated>
+      <summary>phonebot 是一名住在你手机里的 AI 伙伴，替你操作手机，处理日常事务。 </summary>
+    </entry>
+    <entry>
+      <title>MENGQIUNIAN/FlipImeSwitch</title>
+      <link href="https://github.com/MENGQIUNIAN/FlipImeSwitch"/>
+      <id>https://github.com/MENGQIUNIAN/FlipImeSwitch</id>
+      <updated>2026-11-01T15:38:58.000Z</updated>
+      <summary>让小米小折叠的外屏可以使用任意第三方输入法（基于 Shizuku，免 root）</summary>
+    </entry>
+    <entry>
+      <title>NAHIDA100/Sakura-ADB-Toolbox</title>
+      <link href="https://github.com/NAHIDA100/Sakura-ADB-Toolbox"/>
+      <id>https://github.com/NAHIDA100/Sakura-ADB-Toolbox</id>
+      <updated>2026-11-02T08:32:18.000Z</updated>
+      <summary>Windows 液态玻璃风格 ADB/Fastboot 工具箱：应用管理、免Root激活、刷写、双清、终端与重启矩阵</summary>
+    </entry>
+    <entry>
+      <title>Om-Alve/g2-ring-remote</title>
+      <link href="https://github.com/Om-Alve/g2-ring-remote"/>
+      <id>https://github.com/Om-Alve/g2-ring-remote</id>
+      <updated>2026-11-01T10:23:23.000Z</updated>
+      <summary>Use a cheap K02 Bluetooth ring as a remote for Even Realities G2 glasses via Faceclaw. No root.</summary>
+    </entry>
+    <entry>
+      <title>partofcosmos-site/autonomous-android-controller</title>
+      <link href="https://github.com/partofcosmos-site/autonomous-android-controller"/>
+      <id>https://github.com/partofcosmos-site/autonomous-android-controller</id>
+      <updated>2026-09-04T12:33:16.000Z</updated>
+      <summary>Rootless autonomous Android agent and UI perception engine executing via Shizuku (UID 2000) with multi-provider AI failover.</summary>
+    </entry>
+    <entry>
+      <title>shiyidzyk/Device-Owner-App</title>
+      <link href="https://github.com/shiyidzyk/Device-Owner-App"/>
+      <id>https://github.com/shiyidzyk/Device-Owner-App</id>
+      <updated>2026-11-01T12:49:45.000Z</updated>
+      <summary>WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，22 项系统级限制，PIN 应用锁与纯离线挑战-应答重置。免 root。</summary>
+    </entry>
+    <entry>
+      <title>vc68/ScreenOff</title>
+      <link href="https://github.com/vc68/ScreenOff"/>
+      <id>https://github.com/vc68/ScreenOff</id>
+      <updated>2026-11-02T07:15:24.000Z</updated>
+      <summary>仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）</summary>
+    </entry>
     <entry>
       <title>Sathvik-Rao/ClipCascade</title>
       <link href="https://github.com/Sathvik-Rao/ClipCascade"/>
@@ -38,8 +108,15 @@
       <title>huleixin/folia-rear-lyrics</title>
       <link href="https://github.com/huleixin/folia-rear-lyrics"/>
       <id>https://github.com/huleixin/folia-rear-lyrics</id>
-      <updated>2026-11-01T09:08:21.000Z</updated>
+      <updated>2026-11-02T09:49:33.000Z</updated>
       <summary>Folia Android 小米 17 Pro 背屏歌词适配测试版 · Shizuku · 原版歌词动画</summary>
+    </entry>
+    <entry>
+      <title>Yukstarlight/guang-lab</title>
+      <link href="https://github.com/Yukstarlight/guang-lab"/>
+      <id>https://github.com/Yukstarlight/guang-lab</id>
+      <updated>2026-11-01T13:05:30.000Z</updated>
+      <summary>光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0</summary>
     </entry>
     <entry>
       <title>Andy-scy/fe-by-Andy</title>
@@ -49,31 +126,31 @@
       <summary>Fe（by Andy）：读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板</summary>
     </entry>
     <entry>
-      <title>Yukstarlight/guang-lab</title>
-      <link href="https://github.com/Yukstarlight/guang-lab"/>
-      <id>https://github.com/Yukstarlight/guang-lab</id>
-      <updated>2026-11-01T07:44:20.000Z</updated>
-      <summary>光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0</summary>
+      <title>wubinKKK/x5-remoteplay-bridge</title>
+      <link href="https://github.com/wubinKKK/x5-remoteplay-bridge"/>
+      <id>https://github.com/wubinKKK/x5-remoteplay-bridge</id>
+      <updated>2026-11-01T09:35:35.000Z</updated>
+      <summary>No-root Android bridge for supported third-party gamepads in official PS Remote Play on PS5, via Shizuku shell. X5 Lite-only source filter; predecessor tested. DS4-compatible, not full DualSense. Source-only; public build not device-tested.</summary>
     </entry>
     <entry>
       <title>Chuniex-0631/honor-anb-an00-root</title>
       <link href="https://github.com/Chuniex-0631/honor-anb-an00-root"/>
       <id>https://github.com/Chuniex-0631/honor-anb-an00-root</id>
-      <updated>2026-11-01T01:04:39.000Z</updated>
-      <summary>ANB Root：荣耀 80 Pro 直屏版（ANB-AN00）临时 Root 工具。Shizuku 无线调试 + GhostLock + KernelSU LKM；仅支持 MagicOS 9.0.0.230 / Android 15。Temporary root for HONOR 80 Pro Flat.</summary>
+      <updated>2026-11-02T04:24:11.000Z</updated>
+      <summary>Temporary root for HONOR 80 Pro Flat / ANB-AN00 · 荣耀 80 Pro 直屏版临时 Root · Shizuku + KernelSU · MagicOS 9.0.0.230 / Android 15</summary>
     </entry>
     <entry>
       <title>magicrulerr-art/Nazarick-agent</title>
       <link href="https://github.com/magicrulerr-art/Nazarick-agent"/>
       <id>https://github.com/magicrulerr-art/Nazarick-agent</id>
-      <updated>2026-11-01T07:49:11.000Z</updated>
+      <updated>2026-11-02T01:57:37.000Z</updated>
       <summary>An Android AI agent that survives long runs on its own silicon — no server, no bill, no mercy for a prompt that won't fit. llama.cpp fork with Adreno OpenCL offload, ~180 on-demand tools, usage budgets, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. Built on R</summary>
     </entry>
     <entry>
       <title>needanapp-de/myzel</title>
       <link href="https://github.com/needanapp-de/myzel"/>
       <id>https://github.com/needanapp-de/myzel</id>
-      <updated>2026-10-31T10:44:23.000Z</updated>
+      <updated>2026-11-02T07:44:35.000Z</updated>
       <summary>App-Store für freie Software aus F-Droid-Paketquellen, mit Begleit-App für Wear OS · App store for free software from F-Droid repositories, with a Wear OS companion</summary>
     </entry>
     <entry>
@@ -89,13 +166,6 @@
       <id>https://github.com/ulolol/Ka0SGFX</id>
       <updated>2026-11-01T04:23:03.000Z</updated>
       <summary>Rootless and Root Android graphics driver orchestrator &amp; runtime instrumentation platform for Qualcomm Adreno (Mesa Turnip, custom Adreno, ANGLE GLES) via Shizuku</summary>
-    </entry>
-    <entry>
-      <title>wubinKKK/x5-remoteplay-bridge</title>
-      <link href="https://github.com/wubinKKK/x5-remoteplay-bridge"/>
-      <id>https://github.com/wubinKKK/x5-remoteplay-bridge</id>
-      <updated>2026-11-01T09:35:35.000Z</updated>
-      <summary>No-root Android bridge for supported third-party gamepads in official PS Remote Play on PS5, via Shizuku shell. X5 Lite-only source filter; predecessor tested. DS4-compatible, not full DualSense. Source-only; public build not device-tested.</summary>
     </entry>
     <entry>
       <title>zhen200704/ZhenGameBoost</title>
@@ -115,7 +185,7 @@
       <title>jackwener/DSH-Android</title>
       <link href="https://github.com/jackwener/DSH-Android"/>
       <id>https://github.com/jackwener/DSH-Android</id>
-      <updated>2026-10-31T11:12:36.000Z</updated>
+      <updated>2026-11-02T03:58:05.000Z</updated>
       <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
     </entry>
     <entry>
@@ -136,7 +206,7 @@
       <title>GitMag/UnknownAuto</title>
       <link href="https://github.com/GitMag/UnknownAuto"/>
       <id>https://github.com/GitMag/UnknownAuto</id>
-      <updated>2026-10-30T07:13:14.000Z</updated>
+      <updated>2026-11-02T07:51:09.000Z</updated>
       <summary>Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.</summary>
     </entry>
     <entry>
@@ -145,75 +215,5 @@
       <id>https://github.com/Velocity081/droidbubble</id>
       <updated>2026-10-29T19:05:39.000Z</updated>
       <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
-    </entry>
-    <entry>
-      <title>henry-97/MineApp</title>
-      <link href="https://github.com/henry-97/MineApp"/>
-      <id>https://github.com/henry-97/MineApp</id>
-      <updated>2026-10-31T14:46:44.000Z</updated>
-      <summary>Root-free, Shizuku-free lightweight Android app manager (&lt;1MB APK, &lt;10MB storage). Boost laggy &amp; legacy devices with app freezing, background restriction, AOT compilation, and sustained performance mode—slashing battery drain while locking in peak smoothness. Free, open source. 免 Root、免 Sh</summary>
-    </entry>
-    <entry>
-      <title>abanana84/abCheck</title>
-      <link href="https://github.com/abanana84/abCheck"/>
-      <id>https://github.com/abanana84/abCheck</id>
-      <updated>2026-10-22T14:46:34.000Z</updated>
-      <summary>Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics</summary>
-    </entry>
-    <entry>
-      <title>rentianyu/shell2apk</title>
-      <link href="https://github.com/rentianyu/shell2apk"/>
-      <id>https://github.com/rentianyu/shell2apk</id>
-      <updated>2026-10-31T09:51:07.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>rn-os/inkpalm-plus</title>
-      <link href="https://github.com/rn-os/inkpalm-plus"/>
-      <id>https://github.com/rn-os/inkpalm-plus</id>
-      <updated>2026-10-29T05:10:36.000Z</updated>
-      <summary>Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles</summary>
-    </entry>
-    <entry>
-      <title>ganzhong2/danmaku-assistant</title>
-      <link href="https://github.com/ganzhong2/danmaku-assistant"/>
-      <id>https://github.com/ganzhong2/danmaku-assistant</id>
-      <updated>2026-10-31T04:14:10.000Z</updated>
-      <summary>给本地 / 网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android 双版本（GPL-3.0）。</summary>
-    </entry>
-    <entry>
-      <title>Whyms1998/ActivityLocking</title>
-      <link href="https://github.com/Whyms1998/ActivityLocking"/>
-      <id>https://github.com/Whyms1998/ActivityLocking</id>
-      <updated>2026-10-31T00:18:21.000Z</updated>
-      <summary>Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。</summary>
-    </entry>
-    <entry>
-      <title>Xiax550/DeepSeek-Harness-for-Android-by-X</title>
-      <link href="https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X"/>
-      <id>https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X</id>
-      <updated>2026-10-30T14:46:20.000Z</updated>
-      <summary>DeepSeek Harness for Android by X (DHA). Unofficial Android client with floating assistant, voice input, sandbox tools and plugins.</summary>
-    </entry>
-    <entry>
-      <title>ccch1mneyyy/dsh-Go</title>
-      <link href="https://github.com/ccch1mneyyy/dsh-Go"/>
-      <id>https://github.com/ccch1mneyyy/dsh-Go</id>
-      <updated>2026-11-01T09:01:40.000Z</updated>
-      <summary>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</summary>
-    </entry>
-    <entry>
-      <title>JunWan666/astrbot-for-android</title>
-      <link href="https://github.com/JunWan666/astrbot-for-android"/>
-      <id>https://github.com/JunWan666/astrbot-for-android</id>
-      <updated>2026-11-01T09:15:49.000Z</updated>
-      <summary>在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。</summary>
-    </entry>
-    <entry>
-      <title>taixu-lab/taixu</title>
-      <link href="https://github.com/taixu-lab/taixu"/>
-      <id>https://github.com/taixu-lab/taixu</id>
-      <updated>2026-11-01T05:36:54.000Z</updated>
-      <summary>Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace &amp; Tool Ecosystem</summary>
     </entry>
 </feed>
