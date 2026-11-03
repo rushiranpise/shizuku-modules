@@ -54877,6 +54877,40 @@
     "release": null
   },
   {
+    "full_name": "miuiadmin/Berry-FCM",
+    "html_url": "https://github.com/miuiadmin/Berry-FCM",
+    "description": "OriginOS/vivo FCM push guardian — Shizuku/Shevery ADB module (shell-only port of OriginOS FCM Guardian)",
+    "homepage": "https://github.com/miuiadmin/Berry-FCM",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML",
+    "topics": [
+      "fcm",
+      "originos",
+      "shevery-modules",
+      "shizuku",
+      "vivo"
+    ],
+    "archived": false,
+    "owner": {
+      "login": "miuiadmin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33443359?v=4"
+    },
+    "created_at": "2026-11-03T01:09:24Z",
+    "updated_at": "2026-11-03T02:53:31Z",
+    "pushed_at": "2026-11-03T02:53:48Z",
+    "verified": true,
+    "license": "MIT",
+    "store_fetched_at": "2026-11-03T03:20:40.439Z",
+    "marker": "shizu_store.json",
+    "category": "Vendor-specific",
+    "source": "search",
+    "added_at": "2026-11-03T03:20:40.439Z",
+    "last_seen": "2026-11-03T03:20:40.439Z",
+    "release_fetched_at": "2026-11-03T03:20:40.439Z",
+    "release": null
+  },
+  {
     "full_name": "MiXplorer",
     "html_url": "https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280",
     "description": "File manager that can batch install APKs and access Android/data and obb using Shizuku",
