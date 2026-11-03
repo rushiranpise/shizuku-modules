@@ -3,9 +3,65 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-03T03:54:05.286Z</updated>
+  <updated>2026-11-03T10:11:04.992Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>shreyagarwal72/petal</title>
+      <link href="https://github.com/shreyagarwal72/petal"/>
+      <id>https://github.com/shreyagarwal72/petal</id>
+      <updated>2026-11-03T10:01:26.000Z</updated>
+      <summary>Material 3 Expressive Browser For Android </summary>
+    </entry>
+    <entry>
+      <title>w1b/LibreWakeWord</title>
+      <link href="https://github.com/w1b/LibreWakeWord"/>
+      <id>https://github.com/w1b/LibreWakeWord</id>
+      <updated>2026-10-30T00:46:35.000Z</updated>
+      <summary>Real, hardware-based custom wake word support for Android (including the original reverse-engineered &quot;Hey Google&quot; pipeline). Supports GrapheneOS and other de-Googled OSes! Currently POC and alpha. Powered by Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>UmiSlat/AICEcho</title>
+      <link href="https://github.com/UmiSlat/AICEcho"/>
+      <id>https://github.com/UmiSlat/AICEcho</id>
+      <updated>2026-10-14T17:28:56.000Z</updated>
+      <summary>Android NFC-F / Amusement IC card manager and emulator with Shizuku and optional PMm compatibility hooks.</summary>
+    </entry>
+    <entry>
+      <title>xiaojiuwo233/QAlbum</title>
+      <link href="https://github.com/xiaojiuwo233/QAlbum"/>
+      <id>https://github.com/xiaojiuwo233/QAlbum</id>
+      <updated>2026-11-03T09:28:34.000Z</updated>
+      <summary>像系统相册一样查看、管理与清理QQ的缓存图片</summary>
+    </entry>
+    <entry>
+      <title>Greg-Street/tmall-miao-android</title>
+      <link href="https://github.com/Greg-Street/tmall-miao-android"/>
+      <id>https://github.com/Greg-Street/tmall-miao-android</id>
+      <updated>2026-11-03T09:07:34.000Z</updated>
+      <summary>淘宝活动助手 Android / Shizuku 版：浏览、搜索、应用访问与悬浮控制。</summary>
+    </entry>
+    <entry>
+      <title>precisescope/IX-bootstrap</title>
+      <link href="https://github.com/precisescope/IX-bootstrap"/>
+      <id>https://github.com/precisescope/IX-bootstrap</id>
+      <updated>2026-11-02T14:11:40.000Z</updated>
+      <summary>A lightweight, ncurses-based ADB helper for Termux, written in C. Includes wireless ADB pairing and connection, APK downloads, and setup guides for Developer options and Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>D1siDe/fgo-scene-translator</title>
+      <link href="https://github.com/D1siDe/fgo-scene-translator"/>
+      <id>https://github.com/D1siDe/fgo-scene-translator</id>
+      <updated>2026-11-03T07:18:36.000Z</updated>
+      <summary>Unofficial scene translation installer for FGO (JP) on Android, no APK repacking</summary>
+    </entry>
+    <entry>
+      <title>mostrowski123/homesnap</title>
+      <link href="https://github.com/mostrowski123/homesnap"/>
+      <id>https://github.com/mostrowski123/homesnap</id>
+      <updated>2026-11-03T07:21:29.000Z</updated>
+      <summary>Removes the delay when swiping home with a third-party launcher on ColorOS 17. Uses Shizuku, no root.</summary>
+    </entry>
     <entry>
       <title>QFDY-GZC/RawS-Music</title>
       <link href="https://github.com/QFDY-GZC/RawS-Music"/>
@@ -122,8 +178,15 @@
       <title>brandlll-lee/PhoneBot-Android</title>
       <link href="https://github.com/brandlll-lee/PhoneBot-Android"/>
       <id>https://github.com/brandlll-lee/PhoneBot-Android</id>
-      <updated>2026-11-02T13:19:33.000Z</updated>
+      <updated>2026-11-03T08:36:18.000Z</updated>
       <summary>phonebot 是一名住在你手机里的 AI 伙伴，替你操作手机，处理日常事务。 </summary>
+    </entry>
+    <entry>
+      <title>vc68/ScreenOff</title>
+      <link href="https://github.com/vc68/ScreenOff"/>
+      <id>https://github.com/vc68/ScreenOff</id>
+      <updated>2026-11-02T10:32:15.000Z</updated>
+      <summary>仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）</summary>
     </entry>
     <entry>
       <title>MENGQIUNIAN/FlipImeSwitch</title>
@@ -152,68 +215,5 @@
       <id>https://github.com/partofcosmos-site/autonomous-android-controller</id>
       <updated>2026-09-04T12:33:16.000Z</updated>
       <summary>Rootless autonomous Android agent and UI perception engine executing via Shizuku (UID 2000) with multi-provider AI failover.</summary>
-    </entry>
-    <entry>
-      <title>shiyidzyk/Device-Owner-App</title>
-      <link href="https://github.com/shiyidzyk/Device-Owner-App"/>
-      <id>https://github.com/shiyidzyk/Device-Owner-App</id>
-      <updated>2026-11-01T12:49:45.000Z</updated>
-      <summary>WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，22 项系统级限制，PIN 应用锁与纯离线挑战-应答重置。免 root。</summary>
-    </entry>
-    <entry>
-      <title>vc68/ScreenOff</title>
-      <link href="https://github.com/vc68/ScreenOff"/>
-      <id>https://github.com/vc68/ScreenOff</id>
-      <updated>2026-11-02T10:32:15.000Z</updated>
-      <summary>仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）</summary>
-    </entry>
-    <entry>
-      <title>Sathvik-Rao/ClipCascade</title>
-      <link href="https://github.com/Sathvik-Rao/ClipCascade"/>
-      <id>https://github.com/Sathvik-Rao/ClipCascade</id>
-      <updated>2026-11-01T04:49:24.000Z</updated>
-      <summary>ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.</summary>
-    </entry>
-    <entry>
-      <title>arpanjot-coding/AVault</title>
-      <link href="https://github.com/arpanjot-coding/AVault"/>
-      <id>https://github.com/arpanjot-coding/AVault</id>
-      <updated>2026-11-02T11:13:11.000Z</updated>
-      <summary>AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics &amp; auto-cleanup.</summary>
-    </entry>
-    <entry>
-      <title>Bingblop/ADB-Root-Toolbox</title>
-      <link href="https://github.com/Bingblop/ADB-Root-Toolbox"/>
-      <id>https://github.com/Bingblop/ADB-Root-Toolbox</id>
-      <updated>2026-10-31T20:47:20.000Z</updated>
-      <summary>Privacy-first full featured application and device control using ADB/Shizuku/Wireless Debugging/Root. A swiss army knife of ADB possible features.</summary>
-    </entry>
-    <entry>
-      <title>xishanp/Linuxhub</title>
-      <link href="https://github.com/xishanp/Linuxhub"/>
-      <id>https://github.com/xishanp/Linuxhub</id>
-      <updated>2026-11-01T07:35:32.000Z</updated>
-      <summary>面向 Android ARM64 的 Linux 桌面与本地 Agent 运行环境</summary>
-    </entry>
-    <entry>
-      <title>huleixin/folia-rear-lyrics</title>
-      <link href="https://github.com/huleixin/folia-rear-lyrics"/>
-      <id>https://github.com/huleixin/folia-rear-lyrics</id>
-      <updated>2026-11-03T03:00:59.000Z</updated>
-      <summary>Folia Android 小米 17 Pro 背屏歌词适配测试版 · Shizuku · 原版歌词动画</summary>
-    </entry>
-    <entry>
-      <title>Yukstarlight/guang-lab</title>
-      <link href="https://github.com/Yukstarlight/guang-lab"/>
-      <id>https://github.com/Yukstarlight/guang-lab</id>
-      <updated>2026-11-01T13:05:30.000Z</updated>
-      <summary>光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0</summary>
-    </entry>
-    <entry>
-      <title>Andy-scy/fe-by-Andy</title>
-      <link href="https://github.com/Andy-scy/fe-by-Andy"/>
-      <id>https://github.com/Andy-scy/fe-by-Andy</id>
-      <updated>2026-10-31T14:18:28.000Z</updated>
-      <summary>Fe（by Andy）：读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板</summary>
     </entry>
 </feed>
