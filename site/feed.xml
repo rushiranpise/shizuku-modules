@@ -3,9 +3,100 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-02T10:09:13.508Z</updated>
+  <updated>2026-11-03T03:54:05.286Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>QFDY-GZC/RawS-Music</title>
+      <link href="https://github.com/QFDY-GZC/RawS-Music"/>
+      <id>https://github.com/QFDY-GZC/RawS-Music</id>
+      <updated>2026-10-28T05:38:46.000Z</updated>
+      <summary>一款支持USB独占的播放器(A player that supports USB exclusive mode)</summary>
+    </entry>
+    <entry>
+      <title>xliaoy/DeepSeekHarness</title>
+      <link href="https://github.com/xliaoy/DeepSeekHarness"/>
+      <id>https://github.com/xliaoy/DeepSeekHarness</id>
+      <updated>2026-10-23T11:18:01.000Z</updated>
+      <summary>DeepSeek Harness 安卓端（DSHA 二开版）：在手机上跑完整 DeepSeek Harness 编码智能体，免 ROOT 免 Termux</summary>
+    </entry>
+    <entry>
+      <title>LumiaGG/GestureEVO</title>
+      <link href="https://github.com/LumiaGG/GestureEVO"/>
+      <id>https://github.com/LumiaGG/GestureEVO</id>
+      <updated>2026-11-01T16:39:09.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>laststudio/Fuck_ets100</title>
+      <link href="https://github.com/laststudio/Fuck_ets100"/>
+      <id>https://github.com/laststudio/Fuck_ets100</id>
+      <updated>2026-11-01T12:34:37.000Z</updated>
+      <summary>科大讯飞 e听说 (ETS100) 答案提取、自动完成与外挂辅助工具 · 官方发布站与极速下载：https://lastudio.cc</summary>
+    </entry>
+    <entry>
+      <title>JHR-deve/Nrfr-Android17</title>
+      <link href="https://github.com/JHR-deve/Nrfr-Android17"/>
+      <id>https://github.com/JHR-deve/Nrfr-Android17</id>
+      <updated>2026-09-25T13:09:22.000Z</updated>
+      <summary>免 Root 修改系统报告的 SIM 国家码，支持双卡设置与还原，修复 Android 17 保存失败。</summary>
+    </entry>
+    <entry>
+      <title>JingMatrix/pixel-ksu-root</title>
+      <link href="https://github.com/JingMatrix/pixel-ksu-root"/>
+      <id>https://github.com/JingMatrix/pixel-ksu-root</id>
+      <updated>2026-10-22T19:47:39.000Z</updated>
+      <summary>CVE research and exploits to help gaining roots for Pixel devices</summary>
+    </entry>
+    <entry>
+      <title>Zer0Qing/Muse</title>
+      <link href="https://github.com/Zer0Qing/Muse"/>
+      <id>https://github.com/Zer0Qing/Muse</id>
+      <updated>2026-11-01T14:00:34.000Z</updated>
+      <summary>不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 | Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion that gets things done.</summary>
+    </entry>
+    <entry>
+      <title>oneroomlife/blyy</title>
+      <link href="https://github.com/oneroomlife/blyy"/>
+      <id>https://github.com/oneroomlife/blyy</id>
+      <updated>2026-11-01T16:14:52.000Z</updated>
+      <summary>碧蓝语音是一款专为碧蓝航线玩家设计的语音播放器应用，提供优雅的界面和流畅的用户体验。用户可以浏览舰娘列表、收藏喜爱的角色、播放各种语音台词，并享受精美的视觉效果。</summary>
+    </entry>
+    <entry>
+      <title>pht88888888/DSHAPP</title>
+      <link href="https://github.com/pht88888888/DSHAPP"/>
+      <id>https://github.com/pht88888888/DSHAPP</id>
+      <updated>2026-11-02T16:47:37.000Z</updated>
+      <summary>DSH Android 客户端：内置 Termux 环境跑 Node，在 Node 上跑 DSH 引擎，WebView 加载官方 Web GUI</summary>
+    </entry>
+    <entry>
+      <title>akane599/umbra</title>
+      <link href="https://github.com/akane599/umbra"/>
+      <id>https://github.com/akane599/umbra</id>
+      <updated>2026-11-03T03:40:53.000Z</updated>
+      <summary>Turn the display panel off while your Android phone keeps running at full speed (Shizuku / root).</summary>
+    </entry>
+    <entry>
+      <title>paulovitin/haval-camera</title>
+      <link href="https://github.com/paulovitin/haval-camera"/>
+      <id>https://github.com/paulovitin/haval-camera</id>
+      <updated>2026-11-02T18:02:41.000Z</updated>
+      <summary>Exemplo Android de captura AVM do Haval via Qualcomm AIS/QCarCam e Shizuku root, com APK e guia de integração.</summary>
+    </entry>
+    <entry>
+      <title>Uriel1010/CallReplay</title>
+      <link href="https://github.com/Uriel1010/CallReplay"/>
+      <id>https://github.com/Uriel1010/CallReplay</id>
+      <updated>2026-11-02T14:27:13.000Z</updated>
+      <summary>Android call recorder with playable call logs, recording sharing, and Hebrew RTL UI. Independent ShizuCallRecorder fork.</summary>
+    </entry>
+    <entry>
+      <title>miuiadmin/Berry-FCM</title>
+      <link href="https://github.com/miuiadmin/Berry-FCM"/>
+      <id>https://github.com/miuiadmin/Berry-FCM</id>
+      <updated>2026-11-03T03:20:53.000Z</updated>
+      <summary>OriginOS/vivo FCM push guardian — Shizuku/Shevery ADB module (shell-only port of OriginOS FCM Guardian)</summary>
+    </entry>
     <entry>
       <title>Nk-Be/AppMarket</title>
       <link href="https://github.com/Nk-Be/AppMarket"/>
@@ -17,7 +108,7 @@
       <title>HmnDev-Tech/How-App-Coded</title>
       <link href="https://github.com/HmnDev-Tech/How-App-Coded"/>
       <id>https://github.com/HmnDev-Tech/How-App-Coded</id>
-      <updated>2026-11-01T18:28:48.000Z</updated>
+      <updated>2026-11-02T17:50:40.000Z</updated>
       <summary>How app coded? So, install module and see! </summary>
     </entry>
     <entry>
@@ -31,7 +122,7 @@
       <title>brandlll-lee/PhoneBot-Android</title>
       <link href="https://github.com/brandlll-lee/PhoneBot-Android"/>
       <id>https://github.com/brandlll-lee/PhoneBot-Android</id>
-      <updated>2026-11-02T08:48:06.000Z</updated>
+      <updated>2026-11-02T13:19:33.000Z</updated>
       <summary>phonebot 是一名住在你手机里的 AI 伙伴，替你操作手机，处理日常事务。 </summary>
     </entry>
     <entry>
@@ -73,7 +164,7 @@
       <title>vc68/ScreenOff</title>
       <link href="https://github.com/vc68/ScreenOff"/>
       <id>https://github.com/vc68/ScreenOff</id>
-      <updated>2026-11-02T07:15:24.000Z</updated>
+      <updated>2026-11-02T10:32:15.000Z</updated>
       <summary>仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）</summary>
     </entry>
     <entry>
@@ -87,7 +178,7 @@
       <title>arpanjot-coding/AVault</title>
       <link href="https://github.com/arpanjot-coding/AVault"/>
       <id>https://github.com/arpanjot-coding/AVault</id>
-      <updated>2026-11-01T09:05:17.000Z</updated>
+      <updated>2026-11-02T11:13:11.000Z</updated>
       <summary>AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics &amp; auto-cleanup.</summary>
     </entry>
     <entry>
@@ -108,7 +199,7 @@
       <title>huleixin/folia-rear-lyrics</title>
       <link href="https://github.com/huleixin/folia-rear-lyrics"/>
       <id>https://github.com/huleixin/folia-rear-lyrics</id>
-      <updated>2026-11-02T09:49:33.000Z</updated>
+      <updated>2026-11-03T03:00:59.000Z</updated>
       <summary>Folia Android 小米 17 Pro 背屏歌词适配测试版 · Shizuku · 原版歌词动画</summary>
     </entry>
     <entry>
@@ -124,96 +215,5 @@
       <id>https://github.com/Andy-scy/fe-by-Andy</id>
       <updated>2026-10-31T14:18:28.000Z</updated>
       <summary>Fe（by Andy）：读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板</summary>
-    </entry>
-    <entry>
-      <title>wubinKKK/x5-remoteplay-bridge</title>
-      <link href="https://github.com/wubinKKK/x5-remoteplay-bridge"/>
-      <id>https://github.com/wubinKKK/x5-remoteplay-bridge</id>
-      <updated>2026-11-01T09:35:35.000Z</updated>
-      <summary>No-root Android bridge for supported third-party gamepads in official PS Remote Play on PS5, via Shizuku shell. X5 Lite-only source filter; predecessor tested. DS4-compatible, not full DualSense. Source-only; public build not device-tested.</summary>
-    </entry>
-    <entry>
-      <title>Chuniex-0631/honor-anb-an00-root</title>
-      <link href="https://github.com/Chuniex-0631/honor-anb-an00-root"/>
-      <id>https://github.com/Chuniex-0631/honor-anb-an00-root</id>
-      <updated>2026-11-02T04:24:11.000Z</updated>
-      <summary>Temporary root for HONOR 80 Pro Flat / ANB-AN00 · 荣耀 80 Pro 直屏版临时 Root · Shizuku + KernelSU · MagicOS 9.0.0.230 / Android 15</summary>
-    </entry>
-    <entry>
-      <title>magicrulerr-art/Nazarick-agent</title>
-      <link href="https://github.com/magicrulerr-art/Nazarick-agent"/>
-      <id>https://github.com/magicrulerr-art/Nazarick-agent</id>
-      <updated>2026-11-02T01:57:37.000Z</updated>
-      <summary>An Android AI agent that survives long runs on its own silicon — no server, no bill, no mercy for a prompt that won't fit. llama.cpp fork with Adreno OpenCL offload, ~180 on-demand tools, usage budgets, expert sub-agents, cold memory, chained workflows. Kotlin/Compose, Shizuku/Termux/MCP. Built on R</summary>
-    </entry>
-    <entry>
-      <title>needanapp-de/myzel</title>
-      <link href="https://github.com/needanapp-de/myzel"/>
-      <id>https://github.com/needanapp-de/myzel</id>
-      <updated>2026-11-02T07:44:35.000Z</updated>
-      <summary>App-Store für freie Software aus F-Droid-Paketquellen, mit Begleit-App für Wear OS · App store for free software from F-Droid repositories, with a Wear OS companion</summary>
-    </entry>
-    <entry>
-      <title>tern</title>
-      <link href="https://gitlab.com/Munzzyy/tern"/>
-      <id>https://gitlab.com/Munzzyy/tern</id>
-      <updated>2026-11-01T09:48:52.655Z</updated>
-      <summary>Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.</summary>
-    </entry>
-    <entry>
-      <title>ulolol/Ka0SGFX</title>
-      <link href="https://github.com/ulolol/Ka0SGFX"/>
-      <id>https://github.com/ulolol/Ka0SGFX</id>
-      <updated>2026-11-01T04:23:03.000Z</updated>
-      <summary>Rootless and Root Android graphics driver orchestrator &amp; runtime instrumentation platform for Qualcomm Adreno (Mesa Turnip, custom Adreno, ANGLE GLES) via Shizuku</summary>
-    </entry>
-    <entry>
-      <title>zhen200704/ZhenGameBoost</title>
-      <link href="https://github.com/zhen200704/ZhenGameBoost"/>
-      <id>https://github.com/zhen200704/ZhenGameBoost</id>
-      <updated>2026-10-31T11:13:30.000Z</updated>
-      <summary>Shizuku-powered game booster for TECNO Spark 10C</summary>
-    </entry>
-    <entry>
-      <title>WSTxda/SwitchAI</title>
-      <link href="https://github.com/WSTxda/SwitchAI"/>
-      <id>https://github.com/WSTxda/SwitchAI</id>
-      <updated>2026-10-17T02:46:16.000Z</updated>
-      <summary>Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants</summary>
-    </entry>
-    <entry>
-      <title>jackwener/DSH-Android</title>
-      <link href="https://github.com/jackwener/DSH-Android"/>
-      <id>https://github.com/jackwener/DSH-Android</id>
-      <updated>2026-11-02T03:58:05.000Z</updated>
-      <summary>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</summary>
-    </entry>
-    <entry>
-      <title>zenithblue-oss/fluxlinux</title>
-      <link href="https://github.com/zenithblue-oss/fluxlinux"/>
-      <id>https://github.com/zenithblue-oss/fluxlinux</id>
-      <updated>2026-10-08T11:02:34.000Z</updated>
-      <summary>Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix</summary>
-    </entry>
-    <entry>
-      <title>moonoops/Droy</title>
-      <link href="https://github.com/moonoops/Droy"/>
-      <id>https://github.com/moonoops/Droy</id>
-      <updated>2026-10-31T11:29:10.000Z</updated>
-      <summary>An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.</summary>
-    </entry>
-    <entry>
-      <title>GitMag/UnknownAuto</title>
-      <link href="https://github.com/GitMag/UnknownAuto"/>
-      <id>https://github.com/GitMag/UnknownAuto</id>
-      <updated>2026-11-02T07:51:09.000Z</updated>
-      <summary>Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.</summary>
-    </entry>
-    <entry>
-      <title>Velocity081/droidbubble</title>
-      <link href="https://github.com/Velocity081/droidbubble"/>
-      <id>https://github.com/Velocity081/droidbubble</id>
-      <updated>2026-10-29T19:05:39.000Z</updated>
-      <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
     </entry>
 </feed>
