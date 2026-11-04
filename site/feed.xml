@@ -3,14 +3,42 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-03T10:11:04.992Z</updated>
+  <updated>2026-11-04T10:00:40.998Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>boyazzam/NetPilot</title>
+      <link href="https://github.com/boyazzam/NetPilot"/>
+      <id>https://github.com/boyazzam/NetPilot</id>
+      <updated>2026-11-03T23:55:20.000Z</updated>
+      <summary>Control Android and Windows network traffic with custom DNS testing, live monitoring, per-app bandwidth caps, schedules, and shareable VPN</summary>
+    </entry>
+    <entry>
+      <title>itsgreat2misha/KioskSatelliteAutostart</title>
+      <link href="https://github.com/itsgreat2misha/KioskSatelliteAutostart"/>
+      <id>https://github.com/itsgreat2misha/KioskSatelliteAutostart</id>
+      <updated>2026-11-04T05:06:55.000Z</updated>
+      <summary>Autostart for Kiosk Satellite: run your own commands every time Kiosk Satellite starts, via root (su) or Shizuku, once per boot or on every start.</summary>
+    </entry>
+    <entry>
+      <title>throwarray/VSCodeTermux</title>
+      <link href="https://github.com/throwarray/VSCodeTermux"/>
+      <id>https://github.com/throwarray/VSCodeTermux</id>
+      <updated>2026-10-27T22:00:53.000Z</updated>
+      <summary>A development environment for coding and building apps on android, built with a termux terminal view and code-server, running in a secure webview, with platform tweaks and optional android build tools.</summary>
+    </entry>
+    <entry>
+      <title>YesterdayDreamer/android-wifi-migrate</title>
+      <link href="https://github.com/YesterdayDreamer/android-wifi-migrate"/>
+      <id>https://github.com/YesterdayDreamer/android-wifi-migrate</id>
+      <updated>2026-11-04T05:34:43.000Z</updated>
+      <summary>Cross-brand Android Wi-Fi migration from your Windows PC. Import, organize, convert, and transfer saved Wi-Fi networks using multiple methods.</summary>
+    </entry>
     <entry>
       <title>shreyagarwal72/petal</title>
       <link href="https://github.com/shreyagarwal72/petal"/>
       <id>https://github.com/shreyagarwal72/petal</id>
-      <updated>2026-11-03T10:01:26.000Z</updated>
+      <updated>2026-11-04T09:31:07.000Z</updated>
       <summary>Material 3 Expressive Browser For Android </summary>
     </entry>
     <entry>
@@ -31,7 +59,7 @@
       <title>xiaojiuwo233/QAlbum</title>
       <link href="https://github.com/xiaojiuwo233/QAlbum"/>
       <id>https://github.com/xiaojiuwo233/QAlbum</id>
-      <updated>2026-11-03T09:28:34.000Z</updated>
+      <updated>2026-11-03T13:07:20.000Z</updated>
       <summary>像系统相册一样查看、管理与清理QQ的缓存图片</summary>
     </entry>
     <entry>
@@ -45,7 +73,7 @@
       <title>precisescope/IX-bootstrap</title>
       <link href="https://github.com/precisescope/IX-bootstrap"/>
       <id>https://github.com/precisescope/IX-bootstrap</id>
-      <updated>2026-11-02T14:11:40.000Z</updated>
+      <updated>2026-11-04T05:17:06.000Z</updated>
       <summary>A lightweight, ncurses-based ADB helper for Termux, written in C. Includes wireless ADB pairing and connection, APK downloads, and setup guides for Developer options and Shizuku.</summary>
     </entry>
     <entry>
@@ -59,7 +87,7 @@
       <title>mostrowski123/homesnap</title>
       <link href="https://github.com/mostrowski123/homesnap"/>
       <id>https://github.com/mostrowski123/homesnap</id>
-      <updated>2026-11-03T07:21:29.000Z</updated>
+      <updated>2026-11-03T13:20:57.000Z</updated>
       <summary>Removes the delay when swiping home with a third-party launcher on ColorOS 17. Uses Shizuku, no root.</summary>
     </entry>
     <entry>
@@ -143,14 +171,14 @@
       <title>Uriel1010/CallReplay</title>
       <link href="https://github.com/Uriel1010/CallReplay"/>
       <id>https://github.com/Uriel1010/CallReplay</id>
-      <updated>2026-11-02T14:27:13.000Z</updated>
+      <updated>2026-11-03T22:51:20.000Z</updated>
       <summary>Android call recorder with playable call logs, recording sharing, and Hebrew RTL UI. Independent ShizuCallRecorder fork.</summary>
     </entry>
     <entry>
       <title>miuiadmin/Berry-FCM</title>
       <link href="https://github.com/miuiadmin/Berry-FCM"/>
       <id>https://github.com/miuiadmin/Berry-FCM</id>
-      <updated>2026-11-03T03:20:53.000Z</updated>
+      <updated>2026-11-03T19:12:25.000Z</updated>
       <summary>OriginOS/vivo FCM push guardian — Shizuku/Shevery ADB module (shell-only port of OriginOS FCM Guardian)</summary>
     </entry>
     <entry>
@@ -178,7 +206,7 @@
       <title>brandlll-lee/PhoneBot-Android</title>
       <link href="https://github.com/brandlll-lee/PhoneBot-Android"/>
       <id>https://github.com/brandlll-lee/PhoneBot-Android</id>
-      <updated>2026-11-03T08:36:18.000Z</updated>
+      <updated>2026-11-03T16:03:51.000Z</updated>
       <summary>phonebot 是一名住在你手机里的 AI 伙伴，替你操作手机，处理日常事务。 </summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://github.com/vc68/ScreenOff</id>
       <updated>2026-11-02T10:32:15.000Z</updated>
       <summary>仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）</summary>
-    </entry>
-    <entry>
-      <title>MENGQIUNIAN/FlipImeSwitch</title>
-      <link href="https://github.com/MENGQIUNIAN/FlipImeSwitch"/>
-      <id>https://github.com/MENGQIUNIAN/FlipImeSwitch</id>
-      <updated>2026-11-01T15:38:58.000Z</updated>
-      <summary>让小米小折叠的外屏可以使用任意第三方输入法（基于 Shizuku，免 root）</summary>
-    </entry>
-    <entry>
-      <title>NAHIDA100/Sakura-ADB-Toolbox</title>
-      <link href="https://github.com/NAHIDA100/Sakura-ADB-Toolbox"/>
-      <id>https://github.com/NAHIDA100/Sakura-ADB-Toolbox</id>
-      <updated>2026-11-02T08:32:18.000Z</updated>
-      <summary>Windows 液态玻璃风格 ADB/Fastboot 工具箱：应用管理、免Root激活、刷写、双清、终端与重启矩阵</summary>
-    </entry>
-    <entry>
-      <title>Om-Alve/g2-ring-remote</title>
-      <link href="https://github.com/Om-Alve/g2-ring-remote"/>
-      <id>https://github.com/Om-Alve/g2-ring-remote</id>
-      <updated>2026-11-01T10:23:23.000Z</updated>
-      <summary>Use a cheap K02 Bluetooth ring as a remote for Even Realities G2 glasses via Faceclaw. No root.</summary>
-    </entry>
-    <entry>
-      <title>partofcosmos-site/autonomous-android-controller</title>
-      <link href="https://github.com/partofcosmos-site/autonomous-android-controller"/>
-      <id>https://github.com/partofcosmos-site/autonomous-android-controller</id>
-      <updated>2026-09-04T12:33:16.000Z</updated>
-      <summary>Rootless autonomous Android agent and UI perception engine executing via Shizuku (UID 2000) with multi-provider AI failover.</summary>
     </entry>
 </feed>
