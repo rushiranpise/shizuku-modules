@@ -3,14 +3,35 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-05T09:58:07.920Z</updated>
+  <updated>2026-11-06T10:00:05.374Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>RitelDevs/SamsungRegionOverride</title>
+      <link href="https://github.com/RitelDevs/SamsungRegionOverride"/>
+      <id>https://github.com/RitelDevs/SamsungRegionOverride</id>
+      <updated>2026-11-06T05:41:12.000Z</updated>
+      <summary>Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.</summary>
+    </entry>
+    <entry>
+      <title>Verlintas/NovaBAIC</title>
+      <link href="https://github.com/Verlintas/NovaBAIC"/>
+      <id>https://github.com/Verlintas/NovaBAIC</id>
+      <updated>2026-11-06T06:42:17.000Z</updated>
+      <summary>BetterAIChat2 (BAIC2) — 本地优先的 Android AI 智能体：57 个真实设备工具（无 GMS：截屏 OCR / UI 自动化 / 离线定位 / 文件 / 网页 / 提醒 / 通知触发自动化 / 技能与子代理）、仿生记忆（别名、时间线、自省巩固、出处、时间旅行、导出/导入）、中途提问、MCP。Local-first Android AI agent with real device control. GPL-3.0-or-later.</summary>
+    </entry>
+    <entry>
+      <title>edgy7493/dsh-go-adb-link</title>
+      <link href="https://github.com/edgy7493/dsh-go-adb-link"/>
+      <id>https://github.com/edgy7493/dsh-go-adb-link</id>
+      <updated>2026-11-06T01:25:44.000Z</updated>
+      <summary>DSH Go 原生插件：自动找到手机上的 ADB TCP 端口并保持连接 · Native dsh-go plugin: finds the phone's ADB TCP port and keeps adb connected</summary>
+    </entry>
     <entry>
       <title>GeneralZyonix/morphe-download-helper</title>
       <link href="https://github.com/GeneralZyonix/morphe-download-helper"/>
       <id>https://github.com/GeneralZyonix/morphe-download-helper</id>
-      <updated>2026-11-04T15:45:43.000Z</updated>
+      <updated>2026-11-06T09:54:10.000Z</updated>
       <summary>Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks</summary>
     </entry>
     <entry>
@@ -31,7 +52,7 @@
       <title>hillofsky/cheertok-recovery</title>
       <link href="https://github.com/hillofsky/cheertok-recovery"/>
       <id>https://github.com/hillofsky/cheertok-recovery</id>
-      <updated>2026-11-05T04:03:06.000Z</updated>
+      <updated>2026-11-06T04:35:07.000Z</updated>
       <summary>Experimental Android CheerTok Special recovery via Shizuku and virtual HID</summary>
     </entry>
     <entry>
@@ -40,6 +61,13 @@
       <id>https://github.com/RedTowerInc/medtrum-guardian</id>
       <updated>2026-11-04T11:55:36.000Z</updated>
       <summary>Android-приложение для контроля Medtrum EasySense и восстановления через Shizuku. Java, HTTP API, журнал событий и уведомления.</summary>
+    </entry>
+    <entry>
+      <title>throwarray/VSCodeTermux</title>
+      <link href="https://github.com/throwarray/VSCodeTermux"/>
+      <id>https://github.com/throwarray/VSCodeTermux</id>
+      <updated>2026-10-27T22:00:53.000Z</updated>
+      <summary>A development environment for coding and building apps on android, built with a termux terminal view and code-server, running in a secure webview, with platform tweaks and optional android build tools.</summary>
     </entry>
     <entry>
       <title>boyazzam/NetPilot</title>
@@ -56,13 +84,6 @@
       <summary>Autostart for Kiosk Satellite: run your own commands every time Kiosk Satellite starts, via root (su) or Shizuku, once per boot or on every start.</summary>
     </entry>
     <entry>
-      <title>throwarray/VSCodeTermux</title>
-      <link href="https://github.com/throwarray/VSCodeTermux"/>
-      <id>https://github.com/throwarray/VSCodeTermux</id>
-      <updated>2026-10-27T22:00:53.000Z</updated>
-      <summary>A development environment for coding and building apps on android, built with a termux terminal view and code-server, running in a secure webview, with platform tweaks and optional android build tools.</summary>
-    </entry>
-    <entry>
       <title>YesterdayDreamer/android-wifi-migrate</title>
       <link href="https://github.com/YesterdayDreamer/android-wifi-migrate"/>
       <id>https://github.com/YesterdayDreamer/android-wifi-migrate</id>
@@ -73,7 +94,7 @@
       <title>shreyagarwal72/petal</title>
       <link href="https://github.com/shreyagarwal72/petal"/>
       <id>https://github.com/shreyagarwal72/petal</id>
-      <updated>2026-11-05T09:35:37.000Z</updated>
+      <updated>2026-11-06T09:04:06.000Z</updated>
       <summary>Material 3 Expressive Browser For Android </summary>
     </entry>
     <entry>
@@ -94,7 +115,7 @@
       <title>xiaojiuwo233/QAlbum</title>
       <link href="https://github.com/xiaojiuwo233/QAlbum"/>
       <id>https://github.com/xiaojiuwo233/QAlbum</id>
-      <updated>2026-11-05T02:52:06.000Z</updated>
+      <updated>2026-11-06T00:53:44.000Z</updated>
       <summary>像系统相册一样查看、管理与清理QQ的缓存图片</summary>
     </entry>
     <entry>
@@ -140,18 +161,18 @@
       <summary>一款支持USB独占的播放器(A player that supports USB exclusive mode)</summary>
     </entry>
     <entry>
-      <title>LumiaGG/GestureEVO</title>
-      <link href="https://github.com/LumiaGG/GestureEVO"/>
-      <id>https://github.com/LumiaGG/GestureEVO</id>
-      <updated>2026-11-01T16:39:09.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
       <title>JHR-deve/Nrfr-Android17</title>
       <link href="https://github.com/JHR-deve/Nrfr-Android17"/>
       <id>https://github.com/JHR-deve/Nrfr-Android17</id>
       <updated>2026-09-25T13:09:22.000Z</updated>
       <summary>免 Root 修改系统报告的 SIM 国家码，支持双卡设置与还原，修复 Android 17 保存失败。</summary>
+    </entry>
+    <entry>
+      <title>LumiaGG/GestureEVO</title>
+      <link href="https://github.com/LumiaGG/GestureEVO"/>
+      <id>https://github.com/LumiaGG/GestureEVO</id>
+      <updated>2026-11-05T13:32:40.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
       <title>laststudio/Fuck_ets100</title>
@@ -178,7 +199,7 @@
       <title>Zer0Qing/Muse</title>
       <link href="https://github.com/Zer0Qing/Muse"/>
       <id>https://github.com/Zer0Qing/Muse</id>
-      <updated>2026-11-03T15:11:35.000Z</updated>
+      <updated>2026-11-05T19:15:56.000Z</updated>
       <summary>不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 | Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion that gets things done.</summary>
     </entry>
     <entry>
@@ -194,26 +215,5 @@
       <id>https://github.com/akane599/umbra</id>
       <updated>2026-11-03T03:40:53.000Z</updated>
       <summary>Turn the display panel off while your Android phone keeps running at full speed (Shizuku / root).</summary>
-    </entry>
-    <entry>
-      <title>paulovitin/haval-camera</title>
-      <link href="https://github.com/paulovitin/haval-camera"/>
-      <id>https://github.com/paulovitin/haval-camera</id>
-      <updated>2026-11-02T18:02:41.000Z</updated>
-      <summary>Exemplo Android de captura AVM do Haval via Qualcomm AIS/QCarCam e Shizuku root, com APK e guia de integração.</summary>
-    </entry>
-    <entry>
-      <title>Uriel1010/CallReplay</title>
-      <link href="https://github.com/Uriel1010/CallReplay"/>
-      <id>https://github.com/Uriel1010/CallReplay</id>
-      <updated>2026-11-03T22:51:20.000Z</updated>
-      <summary>Android call recorder with playable call logs, recording sharing, and Hebrew RTL UI. Independent ShizuCallRecorder fork.</summary>
-    </entry>
-    <entry>
-      <title>miuiadmin/Berry-FCM</title>
-      <link href="https://github.com/miuiadmin/Berry-FCM"/>
-      <id>https://github.com/miuiadmin/Berry-FCM</id>
-      <updated>2026-11-03T19:12:25.000Z</updated>
-      <summary>OriginOS/vivo FCM push guardian — Shizuku/Shevery ADB module (shell-only port of OriginOS FCM Guardian)</summary>
     </entry>
 </feed>
