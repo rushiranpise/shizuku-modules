@@ -3,9 +3,86 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-06T10:00:05.374Z</updated>
+  <updated>2026-11-07T09:20:05.724Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Yunnijian/Shark</title>
+      <link href="https://github.com/Yunnijian/Shark"/>
+      <id>https://github.com/Yunnijian/Shark</id>
+      <updated>2026-11-06T12:19:21.000Z</updated>
+      <summary>多机型 Android 一键临时 Root 与管理器切换工具：支持 OnePlus / OPPO / Realme / iQOO，KernelSU / KernelSU Next / BakaSU / SukiSU Ultra / FinaSU</summary>
+    </entry>
+    <entry>
+      <title>uamo11/OpenManager</title>
+      <link href="https://github.com/uamo11/OpenManager"/>
+      <id>https://github.com/uamo11/OpenManager</id>
+      <updated>2026-11-07T02:01:26.000Z</updated>
+      <summary>Dual-panel Android file manager &amp; reverse engineering suite (MT Manager alternative). DEX/Smali &amp; HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku &amp; Root.</summary>
+    </entry>
+    <entry>
+      <title>3651407074/AxManager-Shizuku-Mod</title>
+      <link href="https://github.com/3651407074/AxManager-Shizuku-Mod"/>
+      <id>https://github.com/3651407074/AxManager-Shizuku-Mod</id>
+      <updated>2026-11-07T02:14:25.000Z</updated>
+      <summary>非官方 AxManager 修改版：修复 Android 16/17 上服务端找不到管理器导致的激活失败，并新增通过 Shizuku 授权以 shell 身份激活的通道</summary>
+    </entry>
+    <entry>
+      <title>1caru3zz3/ControllerStarRail</title>
+      <link href="https://github.com/1caru3zz3/ControllerStarRail"/>
+      <id>https://github.com/1caru3zz3/ControllerStarRail</id>
+      <updated>2026-11-06T15:57:34.000Z</updated>
+      <summary>让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件</summary>
+    </entry>
+    <entry>
+      <title>abdulsamad/warden</title>
+      <link href="https://github.com/abdulsamad/warden"/>
+      <id>https://github.com/abdulsamad/warden</id>
+      <updated>2026-11-07T06:14:30.000Z</updated>
+      <summary>Switches off Developer options, USB and wireless debugging, and accessibility services while picky apps (banking, payments, ID) are open, and puts everything back when you leave. No root, no internet permission.</summary>
+    </entry>
+    <entry>
+      <title>BlastVic/three-finger-magnification</title>
+      <link href="https://github.com/BlastVic/three-finger-magnification"/>
+      <id>https://github.com/BlastVic/three-finger-magnification</id>
+      <updated>2026-11-07T08:08:57.000Z</updated>
+      <summary>iOS-style three-finger double tap to toggle Android magnification, system-wide and zero-interference, powered by Shizuku</summary>
+    </entry>
+    <entry>
+      <title>fellnessme/coloros-stylus-penpad</title>
+      <link href="https://github.com/fellnessme/coloros-stylus-penpad"/>
+      <id>https://github.com/fellnessme/coloros-stylus-penpad</id>
+      <updated>2026-11-07T05:11:05.000Z</updated>
+      <summary>把第三方 ROM 上被砍掉的手写笔功能补回来。以联想小新 Pad Pro GT（TB710FU）刷 ColorOS 17 为例，定位并解决四个问题：①笔完全无压感 ②笔键被系统手势层吞掉 ③系统全局批注无入口 ④重启后设置被重置。附基于 Jetpack Ink 的全屏批注 App（Java，无需 Gradle）、Shizuku/ShizukuX 笔键守护，以及三篇带实证的排障文档。</summary>
+    </entry>
+    <entry>
+      <title>lg5874/ai-phone-control</title>
+      <link href="https://github.com/lg5874/ai-phone-control"/>
+      <id>https://github.com/lg5874/ai-phone-control</id>
+      <updated>2026-11-06T21:58:23.000Z</updated>
+      <summary>Give an LLM agent eyes and hands on an Android phone: the screen as text with coordinates, tap by visible label, and an honest report on whether it changed. No Appium, no OCR, no daemon.</summary>
+    </entry>
+    <entry>
+      <title>nhan2k91221/ThermalCompanion</title>
+      <link href="https://github.com/nhan2k91221/ThermalCompanion"/>
+      <id>https://github.com/nhan2k91221/ThermalCompanion</id>
+      <updated>2026-11-06T16:32:32.000Z</updated>
+      <summary>Android thermal, power and FPS monitor with on-device session recording and a local LAN web dashboard (Kotlin, Jetpack Compose, Shizuku)</summary>
+    </entry>
+    <entry>
+      <title>wyrmbound/onnshell</title>
+      <link href="https://github.com/wyrmbound/onnshell"/>
+      <id>https://github.com/wyrmbound/onnshell</id>
+      <updated>2026-11-07T02:43:37.000Z</updated>
+      <summary>Device Owner home layer for the onn 4K Pro (Android 14, no root): gamepad UI, DualShock 4 touchpad input, zero-copy display for native GPU games</summary>
+    </entry>
+    <entry>
+      <title>ZJ929-max/yaoxia</title>
+      <link href="https://github.com/ZJ929-max/yaoxia"/>
+      <id>https://github.com/ZJ929-max/yaoxia</id>
+      <updated>2026-11-07T06:50:46.000Z</updated>
+      <summary>适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具</summary>
+    </entry>
     <entry>
       <title>RitelDevs/SamsungRegionOverride</title>
       <link href="https://github.com/RitelDevs/SamsungRegionOverride"/>
@@ -31,7 +108,7 @@
       <title>GeneralZyonix/morphe-download-helper</title>
       <link href="https://github.com/GeneralZyonix/morphe-download-helper"/>
       <id>https://github.com/GeneralZyonix/morphe-download-helper</id>
-      <updated>2026-11-06T09:54:10.000Z</updated>
+      <updated>2026-11-07T08:24:14.000Z</updated>
       <summary>Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks</summary>
     </entry>
     <entry>
@@ -45,7 +122,7 @@
       <title>seko121/oktobot-releases</title>
       <link href="https://github.com/seko121/oktobot-releases"/>
       <id>https://github.com/seko121/oktobot-releases</id>
-      <updated>2026-11-04T12:58:08.000Z</updated>
+      <updated>2026-11-07T04:35:05.000Z</updated>
       <summary>Oktobot: AI agent for Android with optional Shizuku support. Signed release builds (closed source).</summary>
     </entry>
     <entry>
@@ -73,7 +150,7 @@
       <title>boyazzam/NetPilot</title>
       <link href="https://github.com/boyazzam/NetPilot"/>
       <id>https://github.com/boyazzam/NetPilot</id>
-      <updated>2026-11-03T23:55:20.000Z</updated>
+      <updated>2026-11-06T18:57:18.000Z</updated>
       <summary>Control Android and Windows network traffic with custom DNS testing, live monitoring, per-app bandwidth caps, schedules, and shareable VPN</summary>
     </entry>
     <entry>
@@ -94,7 +171,7 @@
       <title>shreyagarwal72/petal</title>
       <link href="https://github.com/shreyagarwal72/petal"/>
       <id>https://github.com/shreyagarwal72/petal</id>
-      <updated>2026-11-06T09:04:06.000Z</updated>
+      <updated>2026-11-07T09:14:37.000Z</updated>
       <summary>Material 3 Expressive Browser For Android </summary>
     </entry>
     <entry>
@@ -138,82 +215,5 @@
       <id>https://github.com/D1siDe/fgo-scene-translator</id>
       <updated>2026-11-03T07:18:36.000Z</updated>
       <summary>Unofficial scene translation installer for FGO (JP) on Android, no APK repacking</summary>
-    </entry>
-    <entry>
-      <title>mostrowski123/homesnap</title>
-      <link href="https://github.com/mostrowski123/homesnap"/>
-      <id>https://github.com/mostrowski123/homesnap</id>
-      <updated>2026-11-03T13:20:57.000Z</updated>
-      <summary>Removes the delay when swiping home with a third-party launcher on ColorOS 17. Uses Shizuku, no root.</summary>
-    </entry>
-    <entry>
-      <title>xliaoy/DeepSeekHarness</title>
-      <link href="https://github.com/xliaoy/DeepSeekHarness"/>
-      <id>https://github.com/xliaoy/DeepSeekHarness</id>
-      <updated>2026-10-23T11:18:01.000Z</updated>
-      <summary>DeepSeek Harness 安卓端（DSHA 二开版）：在手机上跑完整 DeepSeek Harness 编码智能体，免 ROOT 免 Termux</summary>
-    </entry>
-    <entry>
-      <title>QFDY-GZC/RawS-Music</title>
-      <link href="https://github.com/QFDY-GZC/RawS-Music"/>
-      <id>https://github.com/QFDY-GZC/RawS-Music</id>
-      <updated>2026-10-28T05:38:46.000Z</updated>
-      <summary>一款支持USB独占的播放器(A player that supports USB exclusive mode)</summary>
-    </entry>
-    <entry>
-      <title>JHR-deve/Nrfr-Android17</title>
-      <link href="https://github.com/JHR-deve/Nrfr-Android17"/>
-      <id>https://github.com/JHR-deve/Nrfr-Android17</id>
-      <updated>2026-09-25T13:09:22.000Z</updated>
-      <summary>免 Root 修改系统报告的 SIM 国家码，支持双卡设置与还原，修复 Android 17 保存失败。</summary>
-    </entry>
-    <entry>
-      <title>LumiaGG/GestureEVO</title>
-      <link href="https://github.com/LumiaGG/GestureEVO"/>
-      <id>https://github.com/LumiaGG/GestureEVO</id>
-      <updated>2026-11-05T13:32:40.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>laststudio/Fuck_ets100</title>
-      <link href="https://github.com/laststudio/Fuck_ets100"/>
-      <id>https://github.com/laststudio/Fuck_ets100</id>
-      <updated>2026-11-01T12:34:37.000Z</updated>
-      <summary>科大讯飞 e听说 (ETS100) 答案提取、自动完成与外挂辅助工具 · 官方发布站与极速下载：https://lastudio.cc</summary>
-    </entry>
-    <entry>
-      <title>pht88888888/DSHAPP</title>
-      <link href="https://github.com/pht88888888/DSHAPP"/>
-      <id>https://github.com/pht88888888/DSHAPP</id>
-      <updated>2026-11-02T16:47:37.000Z</updated>
-      <summary>DSH Android 客户端：内置 Termux 环境跑 Node，在 Node 上跑 DSH 引擎，WebView 加载官方 Web GUI</summary>
-    </entry>
-    <entry>
-      <title>JingMatrix/pixel-ksu-root</title>
-      <link href="https://github.com/JingMatrix/pixel-ksu-root"/>
-      <id>https://github.com/JingMatrix/pixel-ksu-root</id>
-      <updated>2026-10-22T19:47:39.000Z</updated>
-      <summary>CVE research and exploits to help gaining roots for Pixel devices</summary>
-    </entry>
-    <entry>
-      <title>Zer0Qing/Muse</title>
-      <link href="https://github.com/Zer0Qing/Muse"/>
-      <id>https://github.com/Zer0Qing/Muse</id>
-      <updated>2026-11-05T19:15:56.000Z</updated>
-      <summary>不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 | Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion that gets things done.</summary>
-    </entry>
-    <entry>
-      <title>oneroomlife/blyy</title>
-      <link href="https://github.com/oneroomlife/blyy"/>
-      <id>https://github.com/oneroomlife/blyy</id>
-      <updated>2026-11-01T16:14:52.000Z</updated>
-      <summary>碧蓝语音是一款专为碧蓝航线玩家设计的语音播放器应用，提供优雅的界面和流畅的用户体验。用户可以浏览舰娘列表、收藏喜爱的角色、播放各种语音台词，并享受精美的视觉效果。</summary>
-    </entry>
-    <entry>
-      <title>akane599/umbra</title>
-      <link href="https://github.com/akane599/umbra"/>
-      <id>https://github.com/akane599/umbra</id>
-      <updated>2026-11-03T03:40:53.000Z</updated>
-      <summary>Turn the display panel off while your Android phone keeps running at full speed (Shizuku / root).</summary>
     </entry>
 </feed>
