@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-11-07T09:20:05.724Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Yunnijian/Shark</title>
+      <link href="https://github.com/Yunnijian/Shark"/>
+      <id>https://github.com/Yunnijian/Shark</id>
+      <updated>2026-11-06T12:19:21.000Z</updated>
+      <summary>多机型 Android 一键临时 Root 与管理器切换工具：支持 OnePlus / OPPO / Realme / iQOO，KernelSU / KernelSU Next / BakaSU / SukiSU Ultra / FinaSU</summary>
+    </entry>
+    <entry>
+      <title>uamo11/OpenManager</title>
+      <link href="https://github.com/uamo11/OpenManager"/>
+      <id>https://github.com/uamo11/OpenManager</id>
+      <updated>2026-11-07T02:01:26.000Z</updated>
+      <summary>Dual-panel Android file manager &amp; reverse engineering suite (MT Manager alternative). DEX/Smali &amp; HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku &amp; Root.</summary>
+    </entry>
+    <entry>
+      <title>3651407074/AxManager-Shizuku-Mod</title>
+      <link href="https://github.com/3651407074/AxManager-Shizuku-Mod"/>
+      <id>https://github.com/3651407074/AxManager-Shizuku-Mod</id>
+      <updated>2026-11-07T02:14:25.000Z</updated>
+      <summary>非官方 AxManager 修改版：修复 Android 16/17 上服务端找不到管理器导致的激活失败，并新增通过 Shizuku 授权以 shell 身份激活的通道</summary>
+    </entry>
+    <entry>
+      <title>1caru3zz3/ControllerStarRail</title>
+      <link href="https://github.com/1caru3zz3/ControllerStarRail"/>
+      <id>https://github.com/1caru3zz3/ControllerStarRail</id>
+      <updated>2026-11-06T15:57:34.000Z</updated>
+      <summary>让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件</summary>
+    </entry>
+    <entry>
+      <title>abdulsamad/warden</title>
+      <link href="https://github.com/abdulsamad/warden"/>
+      <id>https://github.com/abdulsamad/warden</id>
+      <updated>2026-11-07T06:14:30.000Z</updated>
+      <summary>Switches off Developer options, USB and wireless debugging, and accessibility services while picky apps (banking, payments, ID) are open, and puts everything back when you leave. No root, no internet permission.</summary>
+    </entry>
+    <entry>
+      <title>BlastVic/three-finger-magnification</title>
+      <link href="https://github.com/BlastVic/three-finger-magnification"/>
+      <id>https://github.com/BlastVic/three-finger-magnification</id>
+      <updated>2026-11-07T08:08:57.000Z</updated>
+      <summary>iOS-style three-finger double tap to toggle Android magnification, system-wide and zero-interference, powered by Shizuku</summary>
+    </entry>
+    <entry>
+      <title>fellnessme/coloros-stylus-penpad</title>
+      <link href="https://github.com/fellnessme/coloros-stylus-penpad"/>
+      <id>https://github.com/fellnessme/coloros-stylus-penpad</id>
+      <updated>2026-11-07T05:11:05.000Z</updated>
+      <summary>把第三方 ROM 上被砍掉的手写笔功能补回来。以联想小新 Pad Pro GT（TB710FU）刷 ColorOS 17 为例，定位并解决四个问题：①笔完全无压感 ②笔键被系统手势层吞掉 ③系统全局批注无入口 ④重启后设置被重置。附基于 Jetpack Ink 的全屏批注 App（Java，无需 Gradle）、Shizuku/ShizukuX 笔键守护，以及三篇带实证的排障文档。</summary>
+    </entry>
+    <entry>
+      <title>lg5874/ai-phone-control</title>
+      <link href="https://github.com/lg5874/ai-phone-control"/>
+      <id>https://github.com/lg5874/ai-phone-control</id>
+      <updated>2026-11-06T21:58:23.000Z</updated>
+      <summary>Give an LLM agent eyes and hands on an Android phone: the screen as text with coordinates, tap by visible label, and an honest report on whether it changed. No Appium, no OCR, no daemon.</summary>
+    </entry>
+    <entry>
+      <title>nhan2k91221/ThermalCompanion</title>
+      <link href="https://github.com/nhan2k91221/ThermalCompanion"/>
+      <id>https://github.com/nhan2k91221/ThermalCompanion</id>
+      <updated>2026-11-06T16:32:32.000Z</updated>
+      <summary>Android thermal, power and FPS monitor with on-device session recording and a local LAN web dashboard (Kotlin, Jetpack Compose, Shizuku)</summary>
+    </entry>
+    <entry>
+      <title>wyrmbound/onnshell</title>
+      <link href="https://github.com/wyrmbound/onnshell"/>
+      <id>https://github.com/wyrmbound/onnshell</id>
+      <updated>2026-11-07T02:43:37.000Z</updated>
+      <summary>Device Owner home layer for the onn 4K Pro (Android 14, no root): gamepad UI, DualShock 4 touchpad input, zero-copy display for native GPU games</summary>
+    </entry>
+    <entry>
+      <title>ZJ929-max/yaoxia</title>
+      <link href="https://github.com/ZJ929-max/yaoxia"/>
+      <id>https://github.com/ZJ929-max/yaoxia</id>
+      <updated>2026-11-07T06:50:46.000Z</updated>
+      <summary>适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具</summary>
+    </entry>
+    <entry>
+      <title>RitelDevs/SamsungRegionOverride</title>
+      <link href="https://github.com/RitelDevs/SamsungRegionOverride"/>
+      <id>https://github.com/RitelDevs/SamsungRegionOverride</id>
+      <updated>2026-11-06T05:41:12.000Z</updated>
+      <summary>Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.</summary>
+    </entry>
+    <entry>
+      <title>Verlintas/NovaBAIC</title>
+      <link href="https://github.com/Verlintas/NovaBAIC"/>
+      <id>https://github.com/Verlintas/NovaBAIC</id>
+      <updated>2026-11-06T06:42:17.000Z</updated>
+      <summary>BetterAIChat2 (BAIC2) — 本地优先的 Android AI 智能体：57 个真实设备工具（无 GMS：截屏 OCR / UI 自动化 / 离线定位 / 文件 / 网页 / 提醒 / 通知触发自动化 / 技能与子代理）、仿生记忆（别名、时间线、自省巩固、出处、时间旅行、导出/导入）、中途提问、MCP。Local-first Android AI agent with real device control. GPL-3.0-or-later.</summary>
+    </entry>
+    <entry>
+      <title>edgy7493/dsh-go-adb-link</title>
+      <link href="https://github.com/edgy7493/dsh-go-adb-link"/>
+      <id>https://github.com/edgy7493/dsh-go-adb-link</id>
+      <updated>2026-11-06T01:25:44.000Z</updated>
+      <summary>DSH Go 原生插件：自动找到手机上的 ADB TCP 端口并保持连接 · Native dsh-go plugin: finds the phone's ADB TCP port and keeps adb connected</summary>
+    </entry>
+    <entry>
+      <title>GeneralZyonix/morphe-download-helper</title>
+      <link href="https://github.com/GeneralZyonix/morphe-download-helper"/>
+      <id>https://github.com/GeneralZyonix/morphe-download-helper</id>
+      <updated>2026-11-07T08:24:14.000Z</updated>
+      <summary>Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks</summary>
+    </entry>
+    <entry>
+      <title>kiyiyip/UnscopeMyData</title>
+      <link href="https://github.com/kiyiyip/UnscopeMyData"/>
+      <id>https://github.com/kiyiyip/UnscopeMyData</id>
+      <updated>2026-09-03T00:44:54.000Z</updated>
+      <summary>A simple app that hooks into Shizuku and allows you to have easy one click access move data around from android data folders to a location that doesn't have scoped data.</summary>
+    </entry>
+    <entry>
+      <title>seko121/oktobot-releases</title>
+      <link href="https://github.com/seko121/oktobot-releases"/>
+      <id>https://github.com/seko121/oktobot-releases</id>
+      <updated>2026-11-07T04:35:05.000Z</updated>
+      <summary>Oktobot: AI agent for Android with optional Shizuku support. Signed release builds (closed source).</summary>
+    </entry>
+    <entry>
+      <title>hillofsky/cheertok-recovery</title>
+      <link href="https://github.com/hillofsky/cheertok-recovery"/>
+      <id>https://github.com/hillofsky/cheertok-recovery</id>
+      <updated>2026-11-06T04:35:07.000Z</updated>
+      <summary>Experimental Android CheerTok Special recovery via Shizuku and virtual HID</summary>
+    </entry>
+    <entry>
+      <title>RedTowerInc/medtrum-guardian</title>
+      <link href="https://github.com/RedTowerInc/medtrum-guardian"/>
+      <id>https://github.com/RedTowerInc/medtrum-guardian</id>
+      <updated>2026-11-04T11:55:36.000Z</updated>
+      <summary>Android-приложение для контроля Medtrum EasySense и восстановления через Shizuku. Java, HTTP API, журнал событий и уведомления.</summary>
+    </entry>
+    <entry>
+      <title>throwarray/VSCodeTermux</title>
+      <link href="https://github.com/throwarray/VSCodeTermux"/>
+      <id>https://github.com/throwarray/VSCodeTermux</id>
+      <updated>2026-10-27T22:00:53.000Z</updated>
+      <summary>A development environment for coding and building apps on android, built with a termux terminal view and code-server, running in a secure webview, with platform tweaks and optional android build tools.</summary>
+    </entry>
+    <entry>
+      <title>boyazzam/NetPilot</title>
+      <link href="https://github.com/boyazzam/NetPilot"/>
+      <id>https://github.com/boyazzam/NetPilot</id>
+      <updated>2026-11-06T18:57:18.000Z</updated>
+      <summary>Control Android and Windows network traffic with custom DNS testing, live monitoring, per-app bandwidth caps, schedules, and shareable VPN</summary>
+    </entry>
+    <entry>
+      <title>itsgreat2misha/KioskSatelliteAutostart</title>
+      <link href="https://github.com/itsgreat2misha/KioskSatelliteAutostart"/>
+      <id>https://github.com/itsgreat2misha/KioskSatelliteAutostart</id>
+      <updated>2026-11-04T05:06:55.000Z</updated>
+      <summary>Autostart for Kiosk Satellite: run your own commands every time Kiosk Satellite starts, via root (su) or Shizuku, once per boot or on every start.</summary>
+    </entry>
+    <entry>
+      <title>YesterdayDreamer/android-wifi-migrate</title>
+      <link href="https://github.com/YesterdayDreamer/android-wifi-migrate"/>
+      <id>https://github.com/YesterdayDreamer/android-wifi-migrate</id>
+      <updated>2026-11-04T05:34:43.000Z</updated>
+      <summary>Cross-brand Android Wi-Fi migration from your Windows PC. Import, organize, convert, and transfer saved Wi-Fi networks using multiple methods.</summary>
+    </entry>
+    <entry>
+      <title>shreyagarwal72/petal</title>
+      <link href="https://github.com/shreyagarwal72/petal"/>
+      <id>https://github.com/shreyagarwal72/petal</id>
+      <updated>2026-11-07T09:14:37.000Z</updated>
+      <summary>Material 3 Expressive Browser For Android </summary>
+    </entry>
+    <entry>
+      <title>w1b/LibreWakeWord</title>
+      <link href="https://github.com/w1b/LibreWakeWord"/>
+      <id>https://github.com/w1b/LibreWakeWord</id>
+      <updated>2026-10-30T00:46:35.000Z</updated>
+      <summary>Real, hardware-based custom wake word support for Android (including the original reverse-engineered &quot;Hey Google&quot; pipeline). Supports GrapheneOS and other de-Googled OSes! Currently POC and alpha. Powered by Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>UmiSlat/AICEcho</title>
+      <link href="https://github.com/UmiSlat/AICEcho"/>
+      <id>https://github.com/UmiSlat/AICEcho</id>
+      <updated>2026-10-14T17:28:56.000Z</updated>
+      <summary>Android NFC-F / Amusement IC card manager and emulator with Shizuku and optional PMm compatibility hooks.</summary>
+    </entry>
+    <entry>
+      <title>xiaojiuwo233/QAlbum</title>
+      <link href="https://github.com/xiaojiuwo233/QAlbum"/>
+      <id>https://github.com/xiaojiuwo233/QAlbum</id>
+      <updated>2026-11-06T00:53:44.000Z</updated>
+      <summary>像系统相册一样查看、管理与清理QQ的缓存图片</summary>
+    </entry>
+    <entry>
+      <title>Greg-Street/tmall-miao-android</title>
+      <link href="https://github.com/Greg-Street/tmall-miao-android"/>
+      <id>https://github.com/Greg-Street/tmall-miao-android</id>
+      <updated>2026-11-03T09:07:34.000Z</updated>
+      <summary>淘宝活动助手 Android / Shizuku 版：浏览、搜索、应用访问与悬浮控制。</summary>
+    </entry>
+    <entry>
+      <title>precisescope/IX-bootstrap</title>
+      <link href="https://github.com/precisescope/IX-bootstrap"/>
+      <id>https://github.com/precisescope/IX-bootstrap</id>
+      <updated>2026-11-04T13:35:26.000Z</updated>
+      <summary>A lightweight, ncurses-based ADB helper for Termux, written in C. Includes wireless ADB pairing and connection, APK downloads, and setup guides for Developer options and Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>D1siDe/fgo-scene-translator</title>
+      <link href="https://github.com/D1siDe/fgo-scene-translator"/>
+      <id>https://github.com/D1siDe/fgo-scene-translator</id>
+      <updated>2026-11-03T07:18:36.000Z</updated>
+      <summary>Unofficial scene translation installer for FGO (JP) on Android, no APK repacking</summary>
+    </entry>
+</feed>
