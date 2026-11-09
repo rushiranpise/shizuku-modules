@@ -3,9 +3,58 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-08T09:38:04.370Z</updated>
+  <updated>2026-11-09T10:28:58.128Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>hg552/eSIM-Matrix</title>
+      <link href="https://github.com/hg552/eSIM-Matrix"/>
+      <id>https://github.com/hg552/eSIM-Matrix</id>
+      <updated>2026-11-09T03:57:18.000Z</updated>
+      <summary>eSIM-Matrix: 基于 Android 备用机的远程多国 eSIM 切卡、基带漫游监控、3D 异构海外环境联动（SIM + 代理 + 虚拟定位）与短信/验证码转发网关</summary>
+    </entry>
+    <entry>
+      <title>kilolonion/agent-vscreen</title>
+      <link href="https://github.com/kilolonion/agent-vscreen"/>
+      <id>https://github.com/kilolonion/agent-vscreen</id>
+      <updated>2026-11-09T05:05:48.000Z</updated>
+      <summary>A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。</summary>
+    </entry>
+    <entry>
+      <title>involvex/kiln</title>
+      <link href="https://github.com/involvex/kiln"/>
+      <id>https://github.com/involvex/kiln</id>
+      <updated>2026-11-09T10:13:31.000Z</updated>
+      <summary>All-in-one Android package, APK, and storage manager (Apache-2.0)</summary>
+    </entry>
+    <entry>
+      <title>saroo98/cliphistory-android</title>
+      <link href="https://github.com/saroo98/cliphistory-android"/>
+      <id>https://github.com/saroo98/cliphistory-android</id>
+      <updated>2026-11-08T16:36:28.000Z</updated>
+      <summary>ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline.</summary>
+    </entry>
+    <entry>
+      <title>Tsifrokayf/feral-launcher</title>
+      <link href="https://github.com/Tsifrokayf/feral-launcher"/>
+      <id>https://github.com/Tsifrokayf/feral-launcher</id>
+      <updated>2026-11-09T07:29:14.000Z</updated>
+      <summary>Лаунчер настроек для Android-портов Feral: Saints Row: The Third, Tomb Raider, Hitman (Absolution, Blood Money), GRID (Legends, Autosport), XCOM 2, Tropico</summary>
+    </entry>
+    <entry>
+      <title>Rhythm6X9/wireless-tool</title>
+      <link href="https://github.com/Rhythm6X9/wireless-tool"/>
+      <id>https://github.com/Rhythm6X9/wireless-tool</id>
+      <updated>2026-11-08T09:30:33.000Z</updated>
+      <summary>一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)</summary>
+    </entry>
+    <entry>
+      <title>caochuankuan/AppLens</title>
+      <link href="https://github.com/caochuankuan/AppLens"/>
+      <id>https://github.com/caochuankuan/AppLens</id>
+      <updated>2026-11-08T15:31:09.000Z</updated>
+      <summary>Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.</summary>
+    </entry>
     <entry>
       <title>danielealbano/android-remote-control-mcp</title>
       <link href="https://github.com/danielealbano/android-remote-control-mcp"/>
@@ -24,15 +73,8 @@
       <title>mubai0122/baicodex</title>
       <link href="https://github.com/mubai0122/baicodex"/>
       <id>https://github.com/mubai0122/baicodex</id>
-      <updated>2026-11-08T07:37:38.000Z</updated>
+      <updated>2026-11-09T05:49:06.000Z</updated>
       <summary>跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn</summary>
-    </entry>
-    <entry>
-      <title>david-x3d/wisp</title>
-      <link href="https://github.com/david-x3d/wisp"/>
-      <id>https://github.com/david-x3d/wisp</id>
-      <updated>2026-11-07T16:30:51.000Z</updated>
-      <summary>Voice assistant for Android – live conversations via Grok Voice or OpenAI Realtime, with real phone actions. Material 3 Expressive.</summary>
     </entry>
     <entry>
       <title>knowlily/m6-shell</title>
@@ -40,6 +82,13 @@
       <id>https://github.com/knowlily/m6-shell</id>
       <updated>2026-11-08T08:40:47.000Z</updated>
       <summary>M6 Shell：荣耀 Magic6 Pro (BVL-AN16) 一键临时 root。Shizuku 拿 shell + CVE-2026-98260 UAF + 装载匹配内核的 KernelSU 模块，源码与构建产物都在这。</summary>
+    </entry>
+    <entry>
+      <title>david-x3d/wisp</title>
+      <link href="https://github.com/david-x3d/wisp"/>
+      <id>https://github.com/david-x3d/wisp</id>
+      <updated>2026-11-07T16:30:51.000Z</updated>
+      <summary>Voice assistant for Android – live conversations via Grok Voice or OpenAI Realtime, with real phone actions. Material 3 Expressive.</summary>
     </entry>
     <entry>
       <title>xd123456qwq/shizuku-keepalive</title>
@@ -59,14 +108,14 @@
       <title>arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode</title>
       <link href="https://github.com/arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode"/>
       <id>https://github.com/arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode</id>
-      <updated>2026-11-08T09:35:38.000Z</updated>
+      <updated>2026-11-08T10:20:42.000Z</updated>
       <summary>Just like people hunt for old Pixels for unlimited storage, NXTPAPER phones hide the ultimate digital minimalism secret. This app unlocks the hardware switch for enforced Max Ink pre-commitment and eye-strain-free focus.</summary>
     </entry>
     <entry>
       <title>ccee2000/vivo-xfold6-cast-assistant</title>
       <link href="https://github.com/ccee2000/vivo-xfold6-cast-assistant"/>
       <id>https://github.com/ccee2000/vivo-xfold6-cast-assistant</id>
-      <updated>2026-11-08T09:17:40.000Z</updated>
+      <updated>2026-11-08T14:59:55.000Z</updated>
       <summary>Personal hobby tool, AI-assisted, switch 4K/2K for vivo X Fold6 wired HDMI PC Mode | 自用小工具，AI辅助开发，vivo X Fold6 电脑模式有线HDMI外接屏 4K/2K 分辨率切换</summary>
     </entry>
     <entry>
@@ -116,21 +165,14 @@
       <link href="https://github.com/Yunnijian/Shark"/>
       <id>https://github.com/Yunnijian/Shark</id>
       <updated>2026-11-06T12:19:21.000Z</updated>
-      <summary>多机型 Android 一键临时 Root 与管理器切换工具：支持 OnePlus / OPPO / Realme / iQOO，KernelSU / KernelSU Next / BakaSU / SukiSU Ultra / FinaSU</summary>
+      <summary>CVE-2026-98260-多机型 Android 一键临时 Root 与管理器切换工具：支持 OnePlus / OPPO / Realme / iQOO，KernelSU / KernelSU Next / BakaSU / SukiSU Ultra / FinaSU</summary>
     </entry>
     <entry>
       <title>uamo11/OpenManager</title>
       <link href="https://github.com/uamo11/OpenManager"/>
       <id>https://github.com/uamo11/OpenManager</id>
-      <updated>2026-11-08T04:23:17.000Z</updated>
+      <updated>2026-11-09T02:59:25.000Z</updated>
       <summary>Dual-panel Android file manager &amp; reverse engineering suite (MT Manager alternative). DEX/Smali &amp; HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku &amp; Root.</summary>
-    </entry>
-    <entry>
-      <title>3651407074/AxManager-Shizuku-Mod</title>
-      <link href="https://github.com/3651407074/AxManager-Shizuku-Mod"/>
-      <id>https://github.com/3651407074/AxManager-Shizuku-Mod</id>
-      <updated>2026-11-07T02:14:25.000Z</updated>
-      <summary>非官方 AxManager 修改版：修复 Android 16/17 上服务端找不到管理器导致的激活失败，并新增通过 Shizuku 授权以 shell 身份激活的通道</summary>
     </entry>
     <entry>
       <title>abdulsamad/warden</title>
@@ -140,11 +182,25 @@
       <summary>Switches off Developer options, USB and wireless debugging, and accessibility services while picky apps (banking, payments, ID) are open, and puts everything back when you leave. No root, no internet permission.</summary>
     </entry>
     <entry>
+      <title>3651407074/AxManager-Shizuku-Mod</title>
+      <link href="https://github.com/3651407074/AxManager-Shizuku-Mod"/>
+      <id>https://github.com/3651407074/AxManager-Shizuku-Mod</id>
+      <updated>2026-11-07T02:14:25.000Z</updated>
+      <summary>非官方 AxManager 修改版：修复 Android 16/17 上服务端找不到管理器导致的激活失败，并新增通过 Shizuku 授权以 shell 身份激活的通道</summary>
+    </entry>
+    <entry>
       <title>1caru3zz3/ControllerStarRail</title>
       <link href="https://github.com/1caru3zz3/ControllerStarRail"/>
       <id>https://github.com/1caru3zz3/ControllerStarRail</id>
       <updated>2026-11-06T15:57:34.000Z</updated>
       <summary>让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件</summary>
+    </entry>
+    <entry>
+      <title>fellnessme/coloros-stylus-penpad</title>
+      <link href="https://github.com/fellnessme/coloros-stylus-penpad"/>
+      <id>https://github.com/fellnessme/coloros-stylus-penpad</id>
+      <updated>2026-11-08T15:43:57.000Z</updated>
+      <summary>把第三方 ROM 上被砍掉的手写笔功能补回来。以联想小新 Pad Pro GT（TB710FU）刷 ColorOS 17 为例，定位并解决四个问题：①笔完全无压感 ②笔键被系统手势层吞掉 ③系统全局批注无入口 ④重启后设置被重置。附基于 Jetpack Ink 的全屏批注 App（Java，无需 Gradle）、Shizuku/ShizukuX 笔键守护，以及三篇带实证的排障文档。</summary>
     </entry>
     <entry>
       <title>BlastVic/three-finger-magnification</title>
@@ -154,66 +210,10 @@
       <summary>iOS-style three-finger double tap to toggle Android magnification, system-wide and zero-interference, powered by Shizuku</summary>
     </entry>
     <entry>
-      <title>fellnessme/coloros-stylus-penpad</title>
-      <link href="https://github.com/fellnessme/coloros-stylus-penpad"/>
-      <id>https://github.com/fellnessme/coloros-stylus-penpad</id>
-      <updated>2026-11-08T02:59:07.000Z</updated>
-      <summary>把第三方 ROM 上被砍掉的手写笔功能补回来。以联想小新 Pad Pro GT（TB710FU）刷 ColorOS 17 为例，定位并解决四个问题：①笔完全无压感 ②笔键被系统手势层吞掉 ③系统全局批注无入口 ④重启后设置被重置。附基于 Jetpack Ink 的全屏批注 App（Java，无需 Gradle）、Shizuku/ShizukuX 笔键守护，以及三篇带实证的排障文档。</summary>
-    </entry>
-    <entry>
       <title>lg5874/ai-phone-control</title>
       <link href="https://github.com/lg5874/ai-phone-control"/>
       <id>https://github.com/lg5874/ai-phone-control</id>
       <updated>2026-11-07T10:14:57.000Z</updated>
       <summary>Give an LLM agent eyes and hands on an Android phone: the screen as text with coordinates, tap by visible label, and an honest report on whether it changed. No Appium, no OCR, no daemon.</summary>
-    </entry>
-    <entry>
-      <title>nhan2k91221/ThermalCompanion</title>
-      <link href="https://github.com/nhan2k91221/ThermalCompanion"/>
-      <id>https://github.com/nhan2k91221/ThermalCompanion</id>
-      <updated>2026-11-06T16:32:32.000Z</updated>
-      <summary>Android thermal, power and FPS monitor with on-device session recording and a local LAN web dashboard (Kotlin, Jetpack Compose, Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>wyrmbound/onnshell</title>
-      <link href="https://github.com/wyrmbound/onnshell"/>
-      <id>https://github.com/wyrmbound/onnshell</id>
-      <updated>2026-11-08T04:24:00.000Z</updated>
-      <summary>Device Owner home layer for the onn 4K Pro (Android 14, no root): gamepad UI, DualShock 4 touchpad input, zero-copy display for native GPU games</summary>
-    </entry>
-    <entry>
-      <title>ZJ929-max/yaoxia</title>
-      <link href="https://github.com/ZJ929-max/yaoxia"/>
-      <id>https://github.com/ZJ929-max/yaoxia</id>
-      <updated>2026-11-07T14:19:50.000Z</updated>
-      <summary>适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具</summary>
-    </entry>
-    <entry>
-      <title>RitelDevs/SamsungRegionOverride</title>
-      <link href="https://github.com/RitelDevs/SamsungRegionOverride"/>
-      <id>https://github.com/RitelDevs/SamsungRegionOverride</id>
-      <updated>2026-11-06T05:41:12.000Z</updated>
-      <summary>Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.</summary>
-    </entry>
-    <entry>
-      <title>Verlintas/NovaBAIC</title>
-      <link href="https://github.com/Verlintas/NovaBAIC"/>
-      <id>https://github.com/Verlintas/NovaBAIC</id>
-      <updated>2026-11-06T06:42:17.000Z</updated>
-      <summary>BetterAIChat2 (BAIC2) — 本地优先的 Android AI 智能体：57 个真实设备工具（无 GMS：截屏 OCR / UI 自动化 / 离线定位 / 文件 / 网页 / 提醒 / 通知触发自动化 / 技能与子代理）、仿生记忆（别名、时间线、自省巩固、出处、时间旅行、导出/导入）、中途提问、MCP。Local-first Android AI agent with real device control. GPL-3.0-or-later.</summary>
-    </entry>
-    <entry>
-      <title>edgy7493/dsh-go-adb-link</title>
-      <link href="https://github.com/edgy7493/dsh-go-adb-link"/>
-      <id>https://github.com/edgy7493/dsh-go-adb-link</id>
-      <updated>2026-11-06T01:25:44.000Z</updated>
-      <summary>DSH Go 原生插件：自动找到手机上的 ADB TCP 端口并保持连接 · Native dsh-go plugin: finds the phone's ADB TCP port and keeps adb connected</summary>
-    </entry>
-    <entry>
-      <title>GeneralZyonix/morphe-download-helper</title>
-      <link href="https://github.com/GeneralZyonix/morphe-download-helper"/>
-      <id>https://github.com/GeneralZyonix/morphe-download-helper</id>
-      <updated>2026-11-08T09:28:37.000Z</updated>
-      <summary>Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks</summary>
     </entry>
 </feed>
