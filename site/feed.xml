@@ -3,14 +3,77 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-09T10:28:58.128Z</updated>
+  <updated>2026-11-10T10:32:32.745Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Windows-LPG/oplus_toolkit</title>
+      <link href="https://github.com/Windows-LPG/oplus_toolkit"/>
+      <id>https://github.com/Windows-LPG/oplus_toolkit</id>
+      <updated>2026-10-17T10:10:32.000Z</updated>
+      <summary>一个专为 ColorOS 机型打造的轻量级硬件识别工具，基于 Material 3 设计 通过读取系统底层文件，告别复杂的终端命令与翻文件过程，一键了解手机的屏幕面板厂商、运行内存（RAM）颗粒以及闪存（ROM）物料详情</summary>
+    </entry>
+    <entry>
+      <title>0xgh0stri13y/Clean-Your-Mobile</title>
+      <link href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"/>
+      <id>https://github.com/0xgh0stri13y/Clean-Your-Mobile</id>
+      <updated>2026-11-10T03:59:34.000Z</updated>
+      <summary>Your phone, minus the bloat. Debloat right on your phone via the Shizuku app (no PC needed) or from a computer over Wi-Fi/USB. Strip ads, bloatware, and telemetry—zero root, fully reversible.</summary>
+    </entry>
+    <entry>
+      <title>kevxngg/monitor-root</title>
+      <link href="https://github.com/kevxngg/monitor-root"/>
+      <id>https://github.com/kevxngg/monitor-root</id>
+      <updated>2026-11-10T08:57:05.000Z</updated>
+      <summary>📊 Monitor del sistema para Android con root o Shizuku, con el estilo del administrador de tareas de Windows 11 o del Monitor de Actividad de macOS: procesos, CPU, GPU, RAM, disco, red, batería, temperaturas, monitor flotante y modo juego.</summary>
+    </entry>
+    <entry>
+      <title>Alex17273747576777/gltools-reborn</title>
+      <link href="https://github.com/Alex17273747576777/gltools-reborn"/>
+      <id>https://github.com/Alex17273747576777/gltools-reborn</id>
+      <updated>2026-11-10T10:18:21.000Z</updated>
+      <summary>Perfiles de dispositivo para Android sin root obligatorio: con Shizuku o root, sin servidores y sin nada de pago. Panel de cristal por app y generacion de perfiles desde el aparato real. Apache-2.0.</summary>
+    </entry>
+    <entry>
+      <title>7k7k666OUO/bilimerge</title>
+      <link href="https://github.com/7k7k666OUO/bilimerge"/>
+      <id>https://github.com/7k7k666OUO/bilimerge</id>
+      <updated>2026-11-08T16:07:53.000Z</updated>
+      <summary>B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）</summary>
+    </entry>
+    <entry>
+      <title>AlreadyNoob/pocketscreen</title>
+      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
+      <id>https://github.com/AlreadyNoob/pocketscreen</id>
+      <updated>2026-11-10T10:28:36.000Z</updated>
+      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>overnightcoder219/systemmonitor-app</title>
+      <link href="https://github.com/overnightcoder219/systemmonitor-app"/>
+      <id>https://github.com/overnightcoder219/systemmonitor-app</id>
+      <updated>2026-11-10T09:56:51.000Z</updated>
+      <summary>SystemMonitor - situs unduh &amp; rilis APK</summary>
+    </entry>
+    <entry>
+      <title>Vibe-Coded-Studio/nightfold</title>
+      <link href="https://github.com/Vibe-Coded-Studio/nightfold"/>
+      <id>https://github.com/Vibe-Coded-Studio/nightfold</id>
+      <updated>2026-11-09T20:01:20.000Z</updated>
+      <summary>Fold-open animation for Samsung Galaxy Z Fold: the screen builds in with an effect that follows the hinge</summary>
+    </entry>
+    <entry>
+      <title>WahuVN/VHWuWa-Mobile</title>
+      <link href="https://github.com/WahuVN/VHWuWa-Mobile"/>
+      <id>https://github.com/WahuVN/VHWuWa-Mobile</id>
+      <updated>2026-11-09T11:57:33.000Z</updated>
+      <summary>Android companion for Vietnamese Wuthering Waves localization: Shizuku-based installation, language packs and alpha release QA.</summary>
+    </entry>
     <entry>
       <title>hg552/eSIM-Matrix</title>
       <link href="https://github.com/hg552/eSIM-Matrix"/>
       <id>https://github.com/hg552/eSIM-Matrix</id>
-      <updated>2026-11-09T03:57:18.000Z</updated>
+      <updated>2026-11-09T17:22:53.000Z</updated>
       <summary>eSIM-Matrix: 基于 Android 备用机的远程多国 eSIM 切卡、基带漫游监控、3D 异构海外环境联动（SIM + 代理 + 虚拟定位）与短信/验证码转发网关</summary>
     </entry>
     <entry>
@@ -21,10 +84,17 @@
       <summary>A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。</summary>
     </entry>
     <entry>
+      <title>Tsifrokayf/feral-launcher</title>
+      <link href="https://github.com/Tsifrokayf/feral-launcher"/>
+      <id>https://github.com/Tsifrokayf/feral-launcher</id>
+      <updated>2026-11-09T07:29:14.000Z</updated>
+      <summary>Лаунчер настроек для Android-портов Feral: Saints Row: The Third, Tomb Raider, Hitman (Absolution, Blood Money), GRID (Legends, Autosport), XCOM 2, Tropico</summary>
+    </entry>
+    <entry>
       <title>involvex/kiln</title>
       <link href="https://github.com/involvex/kiln"/>
       <id>https://github.com/involvex/kiln</id>
-      <updated>2026-11-09T10:13:31.000Z</updated>
+      <updated>2026-11-10T08:36:27.000Z</updated>
       <summary>All-in-one Android package, APK, and storage manager (Apache-2.0)</summary>
     </entry>
     <entry>
@@ -35,11 +105,11 @@
       <summary>ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline.</summary>
     </entry>
     <entry>
-      <title>Tsifrokayf/feral-launcher</title>
-      <link href="https://github.com/Tsifrokayf/feral-launcher"/>
-      <id>https://github.com/Tsifrokayf/feral-launcher</id>
-      <updated>2026-11-09T07:29:14.000Z</updated>
-      <summary>Лаунчер настроек для Android-портов Feral: Saints Row: The Third, Tomb Raider, Hitman (Absolution, Blood Money), GRID (Legends, Autosport), XCOM 2, Tropico</summary>
+      <title>caochuankuan/AppLens</title>
+      <link href="https://github.com/caochuankuan/AppLens"/>
+      <id>https://github.com/caochuankuan/AppLens</id>
+      <updated>2026-11-08T15:31:09.000Z</updated>
+      <summary>Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.</summary>
     </entry>
     <entry>
       <title>Rhythm6X9/wireless-tool</title>
@@ -49,17 +119,10 @@
       <summary>一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)</summary>
     </entry>
     <entry>
-      <title>caochuankuan/AppLens</title>
-      <link href="https://github.com/caochuankuan/AppLens"/>
-      <id>https://github.com/caochuankuan/AppLens</id>
-      <updated>2026-11-08T15:31:09.000Z</updated>
-      <summary>Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.</summary>
-    </entry>
-    <entry>
       <title>danielealbano/android-remote-control-mcp</title>
       <link href="https://github.com/danielealbano/android-remote-control-mcp"/>
       <id>https://github.com/danielealbano/android-remote-control-mcp</id>
-      <updated>2026-11-07T21:15:02.000Z</updated>
+      <updated>2026-11-10T07:11:47.000Z</updated>
       <summary>An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads, camera, a privacy mode (to anonymize/pseudononymize your PII) and support various tunnelling (included a free E2E HTTPS tunnel out of the box in addition to cloudflare and ngrok).</summary>
     </entry>
     <entry>
@@ -73,7 +136,7 @@
       <title>mubai0122/baicodex</title>
       <link href="https://github.com/mubai0122/baicodex"/>
       <id>https://github.com/mubai0122/baicodex</id>
-      <updated>2026-11-09T05:49:06.000Z</updated>
+      <updated>2026-11-09T23:50:00.000Z</updated>
       <summary>跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn</summary>
     </entry>
     <entry>
@@ -152,68 +215,5 @@
       <id>https://github.com/Rhythm6X9/adb-wireless-tool</id>
       <updated>2026-11-08T09:30:33.000Z</updated>
       <summary>一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>xiaoiecc/PhonePilot</title>
-      <link href="https://github.com/xiaoiecc/PhonePilot"/>
-      <id>https://github.com/xiaoiecc/PhonePilot</id>
-      <updated>2026-11-08T09:26:46.000Z</updated>
-      <summary>基于 AutoGLM-For-Android 大幅改进的 Android 手机助手：原生工具调用、无障碍语义操作、持续对话、完整历史与内置代理。当前支持 OpenAI 官方 API。</summary>
-    </entry>
-    <entry>
-      <title>Yunnijian/Shark</title>
-      <link href="https://github.com/Yunnijian/Shark"/>
-      <id>https://github.com/Yunnijian/Shark</id>
-      <updated>2026-11-06T12:19:21.000Z</updated>
-      <summary>CVE-2026-98260-多机型 Android 一键临时 Root 与管理器切换工具：支持 OnePlus / OPPO / Realme / iQOO，KernelSU / KernelSU Next / BakaSU / SukiSU Ultra / FinaSU</summary>
-    </entry>
-    <entry>
-      <title>uamo11/OpenManager</title>
-      <link href="https://github.com/uamo11/OpenManager"/>
-      <id>https://github.com/uamo11/OpenManager</id>
-      <updated>2026-11-09T02:59:25.000Z</updated>
-      <summary>Dual-panel Android file manager &amp; reverse engineering suite (MT Manager alternative). DEX/Smali &amp; HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku &amp; Root.</summary>
-    </entry>
-    <entry>
-      <title>abdulsamad/warden</title>
-      <link href="https://github.com/abdulsamad/warden"/>
-      <id>https://github.com/abdulsamad/warden</id>
-      <updated>2026-11-07T10:45:28.000Z</updated>
-      <summary>Switches off Developer options, USB and wireless debugging, and accessibility services while picky apps (banking, payments, ID) are open, and puts everything back when you leave. No root, no internet permission.</summary>
-    </entry>
-    <entry>
-      <title>3651407074/AxManager-Shizuku-Mod</title>
-      <link href="https://github.com/3651407074/AxManager-Shizuku-Mod"/>
-      <id>https://github.com/3651407074/AxManager-Shizuku-Mod</id>
-      <updated>2026-11-07T02:14:25.000Z</updated>
-      <summary>非官方 AxManager 修改版：修复 Android 16/17 上服务端找不到管理器导致的激活失败，并新增通过 Shizuku 授权以 shell 身份激活的通道</summary>
-    </entry>
-    <entry>
-      <title>1caru3zz3/ControllerStarRail</title>
-      <link href="https://github.com/1caru3zz3/ControllerStarRail"/>
-      <id>https://github.com/1caru3zz3/ControllerStarRail</id>
-      <updated>2026-11-06T15:57:34.000Z</updated>
-      <summary>让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件</summary>
-    </entry>
-    <entry>
-      <title>fellnessme/coloros-stylus-penpad</title>
-      <link href="https://github.com/fellnessme/coloros-stylus-penpad"/>
-      <id>https://github.com/fellnessme/coloros-stylus-penpad</id>
-      <updated>2026-11-08T15:43:57.000Z</updated>
-      <summary>把第三方 ROM 上被砍掉的手写笔功能补回来。以联想小新 Pad Pro GT（TB710FU）刷 ColorOS 17 为例，定位并解决四个问题：①笔完全无压感 ②笔键被系统手势层吞掉 ③系统全局批注无入口 ④重启后设置被重置。附基于 Jetpack Ink 的全屏批注 App（Java，无需 Gradle）、Shizuku/ShizukuX 笔键守护，以及三篇带实证的排障文档。</summary>
-    </entry>
-    <entry>
-      <title>BlastVic/three-finger-magnification</title>
-      <link href="https://github.com/BlastVic/three-finger-magnification"/>
-      <id>https://github.com/BlastVic/three-finger-magnification</id>
-      <updated>2026-11-07T08:08:57.000Z</updated>
-      <summary>iOS-style three-finger double tap to toggle Android magnification, system-wide and zero-interference, powered by Shizuku</summary>
-    </entry>
-    <entry>
-      <title>lg5874/ai-phone-control</title>
-      <link href="https://github.com/lg5874/ai-phone-control"/>
-      <id>https://github.com/lg5874/ai-phone-control</id>
-      <updated>2026-11-07T10:14:57.000Z</updated>
-      <summary>Give an LLM agent eyes and hands on an Android phone: the screen as text with coordinates, tap by visible label, and an honest report on whether it changed. No Appium, no OCR, no daemon.</summary>
     </entry>
 </feed>
