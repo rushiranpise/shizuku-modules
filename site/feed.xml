@@ -3,9 +3,93 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-10T10:32:32.745Z</updated>
+  <updated>2026-11-11T09:56:04.921Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Feiman55/CVE-2026-98260-GhostKey</title>
+      <link href="https://github.com/Feiman55/CVE-2026-98260-GhostKey"/>
+      <id>https://github.com/Feiman55/CVE-2026-98260-GhostKey</id>
+      <updated>2026-10-29T01:46:53.000Z</updated>
+      <summary>GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）</summary>
+    </entry>
+    <entry>
+      <title>WafflingNinja/waffleboost</title>
+      <link href="https://github.com/WafflingNinja/waffleboost"/>
+      <id>https://github.com/WafflingNinja/waffleboost</id>
+      <updated>2026-11-10T13:41:28.000Z</updated>
+      <summary>Free, open-source game booster for Android. No root, no PC, no ads. Runs ADB performance tweaks over wireless debugging and reverts them when you stop playing.</summary>
+    </entry>
+    <entry>
+      <title>udmodz0/majician</title>
+      <link href="https://github.com/udmodz0/majician"/>
+      <id>https://github.com/udmodz0/majician</id>
+      <updated>2026-11-07T06:27:41.000Z</updated>
+      <summary>Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location</summary>
+    </entry>
+    <entry>
+      <title>NERRY3621/JingPing</title>
+      <link href="https://github.com/NERRY3621/JingPing"/>
+      <id>https://github.com/NERRY3621/JingPing</id>
+      <updated>2026-11-10T15:31:04.000Z</updated>
+      <summary>净屏 · Android 开屏/摇一摇广告拦截（无障碍 + Root/Shizuku + LSPosed，RhineLab 视觉）</summary>
+    </entry>
+    <entry>
+      <title>yashsaxena15/FrameScope</title>
+      <link href="https://github.com/yashsaxena15/FrameScope"/>
+      <id>https://github.com/yashsaxena15/FrameScope</id>
+      <updated>2026-11-10T15:48:51.000Z</updated>
+      <summary>Accurate FPS, 1% lows, frame-time graph, CPU, RAM &amp; temperature overlay for Android. No root, via Shizuku. ~140 KB, no internet permission.</summary>
+    </entry>
+    <entry>
+      <title>throwarray/tv-settings</title>
+      <link href="https://github.com/throwarray/tv-settings"/>
+      <id>https://github.com/throwarray/tv-settings</id>
+      <updated>2026-11-11T03:00:44.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode</title>
+      <link href="https://github.com/arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode"/>
+      <id>https://github.com/arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode</id>
+      <updated>2026-11-08T10:20:42.000Z</updated>
+      <summary>Just like people hunt for old Pixels for unlimited storage, NXTPAPER phones hide the ultimate digital minimalism secret. This app unlocks the hardware switch for enforced Max Ink pre-commitment and eye-strain-free focus.</summary>
+    </entry>
+    <entry>
+      <title>david-x3d/tempest</title>
+      <link href="https://github.com/david-x3d/tempest"/>
+      <id>https://github.com/david-x3d/tempest</id>
+      <updated>2026-11-04T22:22:18.000Z</updated>
+      <summary>A wavy, expressive thermometer for your Android phone's battery and SoC. Jetpack Compose + Material 3 Expressive.</summary>
+    </entry>
+    <entry>
+      <title>DHIRAJ-J-S/MinimalSF_Extended</title>
+      <link href="https://github.com/DHIRAJ-J-S/MinimalSF_Extended"/>
+      <id>https://github.com/DHIRAJ-J-S/MinimalSF_Extended</id>
+      <updated>2026-11-10T22:54:34.000Z</updated>
+      <summary>Optional plugin for the MinimalSF launcher: extended menu (coloured icons, hidden search bar, long press options) and power-user actions (freeform, force stop, clear data, freeze) through Shizuku or root.</summary>
+    </entry>
+    <entry>
+      <title>museme7/my-notes</title>
+      <link href="https://github.com/museme7/my-notes"/>
+      <id>https://github.com/museme7/my-notes</id>
+      <updated>2026-11-11T08:01:25.000Z</updated>
+      <summary>Daily log — English practice, crypto research, problem-solving notes (Shizuku, Android, Termux)</summary>
+    </entry>
+    <entry>
+      <title>overnightcoder219/tabstation-app</title>
+      <link href="https://github.com/overnightcoder219/tabstation-app"/>
+      <id>https://github.com/overnightcoder219/tabstation-app</id>
+      <updated>2026-11-11T09:18:25.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>SAKTHIVEL280/wallhue</title>
+      <link href="https://github.com/SAKTHIVEL280/wallhue"/>
+      <id>https://github.com/SAKTHIVEL280/wallhue</id>
+      <updated>2026-11-11T05:50:22.000Z</updated>
+      <summary>Material You wallpaper colors for Google apps on Samsung One UI. No root, no background service. Material 3 Expressive, Kotlin + Compose.</summary>
+    </entry>
     <entry>
       <title>Windows-LPG/oplus_toolkit</title>
       <link href="https://github.com/Windows-LPG/oplus_toolkit"/>
@@ -21,6 +105,20 @@
       <summary>Your phone, minus the bloat. Debloat right on your phone via the Shizuku app (no PC needed) or from a computer over Wi-Fi/USB. Strip ads, bloatware, and telemetry—zero root, fully reversible.</summary>
     </entry>
     <entry>
+      <title>Vibe-Coded-Studio/nightfold</title>
+      <link href="https://github.com/Vibe-Coded-Studio/nightfold"/>
+      <id>https://github.com/Vibe-Coded-Studio/nightfold</id>
+      <updated>2026-11-10T19:13:53.000Z</updated>
+      <summary>Fold-open animation for Samsung Galaxy Z Fold: the screen builds in with an effect that follows the hinge</summary>
+    </entry>
+    <entry>
+      <title>Alex17273747576777/gltools-reborn</title>
+      <link href="https://github.com/Alex17273747576777/gltools-reborn"/>
+      <id>https://github.com/Alex17273747576777/gltools-reborn</id>
+      <updated>2026-11-11T09:45:26.000Z</updated>
+      <summary>Perfiles de dispositivo para Android sin root obligatorio: con Shizuku o root, sin servidores y sin nada de pago. Panel de cristal por app y generacion de perfiles desde el aparato real. Apache-2.0.</summary>
+    </entry>
+    <entry>
       <title>kevxngg/monitor-root</title>
       <link href="https://github.com/kevxngg/monitor-root"/>
       <id>https://github.com/kevxngg/monitor-root</id>
@@ -28,11 +126,11 @@
       <summary>📊 Monitor del sistema para Android con root o Shizuku, con el estilo del administrador de tareas de Windows 11 o del Monitor de Actividad de macOS: procesos, CPU, GPU, RAM, disco, red, batería, temperaturas, monitor flotante y modo juego.</summary>
     </entry>
     <entry>
-      <title>Alex17273747576777/gltools-reborn</title>
-      <link href="https://github.com/Alex17273747576777/gltools-reborn"/>
-      <id>https://github.com/Alex17273747576777/gltools-reborn</id>
-      <updated>2026-11-10T10:18:21.000Z</updated>
-      <summary>Perfiles de dispositivo para Android sin root obligatorio: con Shizuku o root, sin servidores y sin nada de pago. Panel de cristal por app y generacion de perfiles desde el aparato real. Apache-2.0.</summary>
+      <title>AlreadyNoob/pocketscreen</title>
+      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
+      <id>https://github.com/AlreadyNoob/pocketscreen</id>
+      <updated>2026-11-10T23:24:51.000Z</updated>
+      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
     </entry>
     <entry>
       <title>7k7k666OUO/bilimerge</title>
@@ -42,25 +140,11 @@
       <summary>B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）</summary>
     </entry>
     <entry>
-      <title>AlreadyNoob/pocketscreen</title>
-      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
-      <id>https://github.com/AlreadyNoob/pocketscreen</id>
-      <updated>2026-11-10T10:28:36.000Z</updated>
-      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
-    </entry>
-    <entry>
       <title>overnightcoder219/systemmonitor-app</title>
       <link href="https://github.com/overnightcoder219/systemmonitor-app"/>
       <id>https://github.com/overnightcoder219/systemmonitor-app</id>
-      <updated>2026-11-10T09:56:51.000Z</updated>
+      <updated>2026-11-11T06:35:09.000Z</updated>
       <summary>SystemMonitor - situs unduh &amp; rilis APK</summary>
-    </entry>
-    <entry>
-      <title>Vibe-Coded-Studio/nightfold</title>
-      <link href="https://github.com/Vibe-Coded-Studio/nightfold"/>
-      <id>https://github.com/Vibe-Coded-Studio/nightfold</id>
-      <updated>2026-11-09T20:01:20.000Z</updated>
-      <summary>Fold-open animation for Samsung Galaxy Z Fold: the screen builds in with an effect that follows the hinge</summary>
     </entry>
     <entry>
       <title>WahuVN/VHWuWa-Mobile</title>
@@ -80,7 +164,7 @@
       <title>kilolonion/agent-vscreen</title>
       <link href="https://github.com/kilolonion/agent-vscreen"/>
       <id>https://github.com/kilolonion/agent-vscreen</id>
-      <updated>2026-11-09T05:05:48.000Z</updated>
+      <updated>2026-11-10T13:14:50.000Z</updated>
       <summary>A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。</summary>
     </entry>
     <entry>
@@ -122,7 +206,7 @@
       <title>danielealbano/android-remote-control-mcp</title>
       <link href="https://github.com/danielealbano/android-remote-control-mcp"/>
       <id>https://github.com/danielealbano/android-remote-control-mcp</id>
-      <updated>2026-11-10T07:11:47.000Z</updated>
+      <updated>2026-11-10T12:06:16.000Z</updated>
       <summary>An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads, camera, a privacy mode (to anonymize/pseudononymize your PII) and support various tunnelling (included a free E2E HTTPS tunnel out of the box in addition to cloudflare and ngrok).</summary>
     </entry>
     <entry>
@@ -131,89 +215,5 @@
       <id>https://github.com/4zyz4/GKME</id>
       <updated>2026-11-08T07:03:52.000Z</updated>
       <summary>Turn your Android phone into a virtual gamepad — or a virtual keyboard and mouse! Supports WiFi LAN, direct USB, and direct Bluetooth connections.把你的 Android 手机变成一台虚拟游戏手柄！也可以是虚拟键盘、鼠标！支持 WiFi 局域网、USB 直连与蓝牙直连。</summary>
-    </entry>
-    <entry>
-      <title>mubai0122/baicodex</title>
-      <link href="https://github.com/mubai0122/baicodex"/>
-      <id>https://github.com/mubai0122/baicodex</id>
-      <updated>2026-11-09T23:50:00.000Z</updated>
-      <summary>跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn</summary>
-    </entry>
-    <entry>
-      <title>knowlily/m6-shell</title>
-      <link href="https://github.com/knowlily/m6-shell"/>
-      <id>https://github.com/knowlily/m6-shell</id>
-      <updated>2026-11-08T08:40:47.000Z</updated>
-      <summary>M6 Shell：荣耀 Magic6 Pro (BVL-AN16) 一键临时 root。Shizuku 拿 shell + CVE-2026-98260 UAF + 装载匹配内核的 KernelSU 模块，源码与构建产物都在这。</summary>
-    </entry>
-    <entry>
-      <title>david-x3d/wisp</title>
-      <link href="https://github.com/david-x3d/wisp"/>
-      <id>https://github.com/david-x3d/wisp</id>
-      <updated>2026-11-07T16:30:51.000Z</updated>
-      <summary>Voice assistant for Android – live conversations via Grok Voice or OpenAI Realtime, with real phone actions. Material 3 Expressive.</summary>
-    </entry>
-    <entry>
-      <title>xd123456qwq/shizuku-keepalive</title>
-      <link href="https://github.com/xd123456qwq/shizuku-keepalive"/>
-      <id>https://github.com/xd123456qwq/shizuku-keepalive</id>
-      <updated>2026-11-08T03:45:00.000Z</updated>
-      <summary>免root让 Shizuku 持续激活：固定 adbd 端口 + 双看门狗，附 Termux 部署与排障</summary>
-    </entry>
-    <entry>
-      <title>277383761/siyecao-boot-helper</title>
-      <link href="https://github.com/277383761/siyecao-boot-helper"/>
-      <id>https://github.com/277383761/siyecao-boot-helper</id>
-      <updated>2026-11-07T13:08:16.000Z</updated>
-      <summary>四叶草开机助手 - Android TV 自动化助手（Android 4.4 ~ 15）</summary>
-    </entry>
-    <entry>
-      <title>arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode</title>
-      <link href="https://github.com/arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode"/>
-      <id>https://github.com/arazi-hash/AnalogAnchor_NXTPAPER_E-Ink-Pre-Commitment-Mode</id>
-      <updated>2026-11-08T10:20:42.000Z</updated>
-      <summary>Just like people hunt for old Pixels for unlimited storage, NXTPAPER phones hide the ultimate digital minimalism secret. This app unlocks the hardware switch for enforced Max Ink pre-commitment and eye-strain-free focus.</summary>
-    </entry>
-    <entry>
-      <title>ccee2000/vivo-xfold6-cast-assistant</title>
-      <link href="https://github.com/ccee2000/vivo-xfold6-cast-assistant"/>
-      <id>https://github.com/ccee2000/vivo-xfold6-cast-assistant</id>
-      <updated>2026-11-08T14:59:55.000Z</updated>
-      <summary>Personal hobby tool, AI-assisted, switch 4K/2K for vivo X Fold6 wired HDMI PC Mode | 自用小工具，AI辅助开发，vivo X Fold6 电脑模式有线HDMI外接屏 4K/2K 分辨率切换</summary>
-    </entry>
-    <entry>
-      <title>ChenChen913/android-deep-clean</title>
-      <link href="https://github.com/ChenChen913/android-deep-clean"/>
-      <id>https://github.com/ChenChen913/android-deep-clean</id>
-      <updated>2026-11-06T11:00:02.000Z</updated>
-      <summary>AI-assisted Android deep cleanup skill: read-only scan, evidence review, risk gating, quarantine-first execution, verification.</summary>
-    </entry>
-    <entry>
-      <title>draumaz/hidenav</title>
-      <link href="https://github.com/draumaz/hidenav"/>
-      <id>https://github.com/draumaz/hidenav</id>
-      <updated>2026-11-08T08:32:26.000Z</updated>
-      <summary>HideNav hides the gesture navigation pill on Pixel phones without root using Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>gkzhb/autox-bridge</title>
-      <link href="https://github.com/gkzhb/autox-bridge"/>
-      <id>https://github.com/gkzhb/autox-bridge</id>
-      <updated>2026-11-06T07:33:26.000Z</updated>
-      <summary>autox-bridge cli: 远程控制手机 AutoxJS</summary>
-    </entry>
-    <entry>
-      <title>mehmettilkicik/pen-bridge</title>
-      <link href="https://github.com/mehmettilkicik/pen-bridge"/>
-      <id>https://github.com/mehmettilkicik/pen-bridge</id>
-      <updated>2026-11-05T10:03:55.000Z</updated>
-      <summary>Root-free REDMI Smart Pen 1S bridge for Xiaomi Pad Mini (Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>Rhythm6X9/adb-wireless-tool</title>
-      <link href="https://github.com/Rhythm6X9/adb-wireless-tool"/>
-      <id>https://github.com/Rhythm6X9/adb-wireless-tool</id>
-      <updated>2026-11-08T09:30:33.000Z</updated>
-      <summary>一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)</summary>
     </entry>
 </feed>
