@@ -3,9 +3,86 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-11T09:56:04.921Z</updated>
+  <updated>2026-11-12T10:24:42.273Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>BeiChen-CN/Trove</title>
+      <link href="https://github.com/BeiChen-CN/Trove"/>
+      <id>https://github.com/BeiChen-CN/Trove</id>
+      <updated>2026-11-11T14:48:04.000Z</updated>
+      <summary>Fork of YXBwbWFya2V0/AppMarket - KMP cross-platform app store (Android/Desktop) with F-Droid source and signature-gated updates</summary>
+    </entry>
+    <entry>
+      <title>Eynnzerr/TelemetryCleaner</title>
+      <link href="https://github.com/Eynnzerr/TelemetryCleaner"/>
+      <id>https://github.com/Eynnzerr/TelemetryCleaner</id>
+      <updated>2026-11-12T03:17:38.000Z</updated>
+      <summary>基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块</summary>
+    </entry>
+    <entry>
+      <title>lab-ok/galaxy-optimization-advanced-tool</title>
+      <link href="https://github.com/lab-ok/galaxy-optimization-advanced-tool"/>
+      <id>https://github.com/lab-ok/galaxy-optimization-advanced-tool</id>
+      <updated>2026-11-11T16:03:23.000Z</updated>
+      <summary>Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat &amp; more via Shizuku. English / 한국어</summary>
+    </entry>
+    <entry>
+      <title>qq2770355800/ExtractKit</title>
+      <link href="https://github.com/qq2770355800/ExtractKit"/>
+      <id>https://github.com/qq2770355800/ExtractKit</id>
+      <updated>2026-11-11T17:45:27.000Z</updated>
+      <summary>Honor 内核标定 + CVE-2026-98260 提权链（Shizuku + KernelSU late-load），内置 74 条内核 profile</summary>
+    </entry>
+    <entry>
+      <title>114514hhha233/shizuku-keypad</title>
+      <link href="https://github.com/114514hhha233/shizuku-keypad"/>
+      <id>https://github.com/114514hhha233/shizuku-keypad</id>
+      <updated>2026-11-12T09:22:44.000Z</updated>
+      <summary>可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。</summary>
+    </entry>
+    <entry>
+      <title>bingxizhe/Axgent</title>
+      <link href="https://github.com/bingxizhe/Axgent"/>
+      <id>https://github.com/bingxizhe/Axgent</id>
+      <updated>2026-11-11T18:35:50.000Z</updated>
+      <summary>Android AI agent with accessibility, Shizuku and Root privilege tiers</summary>
+    </entry>
+    <entry>
+      <title>HyacineFengJin/Codex-Go</title>
+      <link href="https://github.com/HyacineFengJin/Codex-Go"/>
+      <id>https://github.com/HyacineFengJin/Codex-Go</id>
+      <updated>2026-11-11T12:49:43.000Z</updated>
+      <summary>Run Codex locally on Android · Material 3 Expressive · Accessibility, ADB, Shizuku and Root</summary>
+    </entry>
+    <entry>
+      <title>itsgreat2misha/ks-task-scheduler</title>
+      <link href="https://github.com/itsgreat2misha/ks-task-scheduler"/>
+      <id>https://github.com/itsgreat2misha/ks-task-scheduler</id>
+      <updated>2026-11-12T00:15:07.000Z</updated>
+      <summary>Task Scheduler for Kiosk Satellite: run your own commands on boot, on Kiosk start, or on a schedule (interval, daily, weekly), via root (su) or Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>michaelkage/OmniLauncher</title>
+      <link href="https://github.com/michaelkage/OmniLauncher"/>
+      <id>https://github.com/michaelkage/OmniLauncher</id>
+      <updated>2026-11-03T19:28:21.000Z</updated>
+      <summary>Open-source Android launcher engine that morphs your entire home screen archetype in one click. Turns UI layouts into modular, shareable data files—letting you visually build or code setups that switch from a Pixel grid to a Niagara list instantly, powered by Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>nekounknown/lapisroot</title>
+      <link href="https://github.com/nekounknown/lapisroot"/>
+      <id>https://github.com/nekounknown/lapisroot</id>
+      <updated>2026-11-11T20:30:16.000Z</updated>
+      <summary>Temporary-root toolkit for the Redmi Note 15 Pro 5G (lapis / MT6878) via KernelSU LKM and a Shizuku APK</summary>
+    </entry>
+    <entry>
+      <title>nocunru/RxinFiles-Tool</title>
+      <link href="https://github.com/nocunru/RxinFiles-Tool"/>
+      <id>https://github.com/nocunru/RxinFiles-Tool</id>
+      <updated>2026-11-12T00:38:27.000Z</updated>
+      <summary>Android ?????:ROOT/Shizuku ??,????/??/??/??/??(???,????? HTTP ????)</summary>
+    </entry>
     <entry>
       <title>Feiman55/CVE-2026-98260-GhostKey</title>
       <link href="https://github.com/Feiman55/CVE-2026-98260-GhostKey"/>
@@ -38,15 +115,22 @@
       <title>yashsaxena15/FrameScope</title>
       <link href="https://github.com/yashsaxena15/FrameScope"/>
       <id>https://github.com/yashsaxena15/FrameScope</id>
-      <updated>2026-11-10T15:48:51.000Z</updated>
+      <updated>2026-11-11T16:49:51.000Z</updated>
       <summary>Accurate FPS, 1% lows, frame-time graph, CPU, RAM &amp; temperature overlay for Android. No root, via Shizuku. ~140 KB, no internet permission.</summary>
+    </entry>
+    <entry>
+      <title>DHIRAJ-J-S/MinimalSF_Extended</title>
+      <link href="https://github.com/DHIRAJ-J-S/MinimalSF_Extended"/>
+      <id>https://github.com/DHIRAJ-J-S/MinimalSF_Extended</id>
+      <updated>2026-11-10T22:54:34.000Z</updated>
+      <summary>Optional plugin for the MinimalSF launcher: extended menu (coloured icons, hidden search bar, long press options) and power-user actions (freeform, force stop, clear data, freeze) through Shizuku or root.</summary>
     </entry>
     <entry>
       <title>throwarray/tv-settings</title>
       <link href="https://github.com/throwarray/tv-settings"/>
       <id>https://github.com/throwarray/tv-settings</id>
-      <updated>2026-11-11T03:00:44.000Z</updated>
-      <summary></summary>
+      <updated>2026-11-12T04:15:40.000Z</updated>
+      <summary>work in progress</summary>
     </entry>
     <entry>
       <title>arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode</title>
@@ -63,13 +147,6 @@
       <summary>A wavy, expressive thermometer for your Android phone's battery and SoC. Jetpack Compose + Material 3 Expressive.</summary>
     </entry>
     <entry>
-      <title>DHIRAJ-J-S/MinimalSF_Extended</title>
-      <link href="https://github.com/DHIRAJ-J-S/MinimalSF_Extended"/>
-      <id>https://github.com/DHIRAJ-J-S/MinimalSF_Extended</id>
-      <updated>2026-11-10T22:54:34.000Z</updated>
-      <summary>Optional plugin for the MinimalSF launcher: extended menu (coloured icons, hidden search bar, long press options) and power-user actions (freeform, force stop, clear data, freeze) through Shizuku or root.</summary>
-    </entry>
-    <entry>
       <title>museme7/my-notes</title>
       <link href="https://github.com/museme7/my-notes"/>
       <id>https://github.com/museme7/my-notes</id>
@@ -80,7 +157,7 @@
       <title>overnightcoder219/tabstation-app</title>
       <link href="https://github.com/overnightcoder219/tabstation-app"/>
       <id>https://github.com/overnightcoder219/tabstation-app</id>
-      <updated>2026-11-11T09:18:25.000Z</updated>
+      <updated>2026-11-12T03:55:15.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -101,7 +178,7 @@
       <title>0xgh0stri13y/Clean-Your-Mobile</title>
       <link href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"/>
       <id>https://github.com/0xgh0stri13y/Clean-Your-Mobile</id>
-      <updated>2026-11-10T03:59:34.000Z</updated>
+      <updated>2026-11-12T09:11:02.000Z</updated>
       <summary>Your phone, minus the bloat. Debloat right on your phone via the Shizuku app (no PC needed) or from a computer over Wi-Fi/USB. Strip ads, bloatware, and telemetry—zero root, fully reversible.</summary>
     </entry>
     <entry>
@@ -115,8 +192,15 @@
       <title>Alex17273747576777/gltools-reborn</title>
       <link href="https://github.com/Alex17273747576777/gltools-reborn"/>
       <id>https://github.com/Alex17273747576777/gltools-reborn</id>
-      <updated>2026-11-11T09:45:26.000Z</updated>
+      <updated>2026-11-11T10:12:54.000Z</updated>
       <summary>Perfiles de dispositivo para Android sin root obligatorio: con Shizuku o root, sin servidores y sin nada de pago. Panel de cristal por app y generacion de perfiles desde el aparato real. Apache-2.0.</summary>
+    </entry>
+    <entry>
+      <title>AlreadyNoob/pocketscreen</title>
+      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
+      <id>https://github.com/AlreadyNoob/pocketscreen</id>
+      <updated>2026-11-11T22:31:59.000Z</updated>
+      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
     </entry>
     <entry>
       <title>kevxngg/monitor-root</title>
@@ -126,94 +210,10 @@
       <summary>📊 Monitor del sistema para Android con root o Shizuku, con el estilo del administrador de tareas de Windows 11 o del Monitor de Actividad de macOS: procesos, CPU, GPU, RAM, disco, red, batería, temperaturas, monitor flotante y modo juego.</summary>
     </entry>
     <entry>
-      <title>AlreadyNoob/pocketscreen</title>
-      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
-      <id>https://github.com/AlreadyNoob/pocketscreen</id>
-      <updated>2026-11-10T23:24:51.000Z</updated>
-      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
-    </entry>
-    <entry>
       <title>7k7k666OUO/bilimerge</title>
       <link href="https://github.com/7k7k666OUO/bilimerge"/>
       <id>https://github.com/7k7k666OUO/bilimerge</id>
       <updated>2026-11-08T16:07:53.000Z</updated>
       <summary>B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）</summary>
-    </entry>
-    <entry>
-      <title>overnightcoder219/systemmonitor-app</title>
-      <link href="https://github.com/overnightcoder219/systemmonitor-app"/>
-      <id>https://github.com/overnightcoder219/systemmonitor-app</id>
-      <updated>2026-11-11T06:35:09.000Z</updated>
-      <summary>SystemMonitor - situs unduh &amp; rilis APK</summary>
-    </entry>
-    <entry>
-      <title>WahuVN/VHWuWa-Mobile</title>
-      <link href="https://github.com/WahuVN/VHWuWa-Mobile"/>
-      <id>https://github.com/WahuVN/VHWuWa-Mobile</id>
-      <updated>2026-11-09T11:57:33.000Z</updated>
-      <summary>Android companion for Vietnamese Wuthering Waves localization: Shizuku-based installation, language packs and alpha release QA.</summary>
-    </entry>
-    <entry>
-      <title>hg552/eSIM-Matrix</title>
-      <link href="https://github.com/hg552/eSIM-Matrix"/>
-      <id>https://github.com/hg552/eSIM-Matrix</id>
-      <updated>2026-11-09T17:22:53.000Z</updated>
-      <summary>eSIM-Matrix: 基于 Android 备用机的远程多国 eSIM 切卡、基带漫游监控、3D 异构海外环境联动（SIM + 代理 + 虚拟定位）与短信/验证码转发网关</summary>
-    </entry>
-    <entry>
-      <title>kilolonion/agent-vscreen</title>
-      <link href="https://github.com/kilolonion/agent-vscreen"/>
-      <id>https://github.com/kilolonion/agent-vscreen</id>
-      <updated>2026-11-10T13:14:50.000Z</updated>
-      <summary>A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。</summary>
-    </entry>
-    <entry>
-      <title>Tsifrokayf/feral-launcher</title>
-      <link href="https://github.com/Tsifrokayf/feral-launcher"/>
-      <id>https://github.com/Tsifrokayf/feral-launcher</id>
-      <updated>2026-11-09T07:29:14.000Z</updated>
-      <summary>Лаунчер настроек для Android-портов Feral: Saints Row: The Third, Tomb Raider, Hitman (Absolution, Blood Money), GRID (Legends, Autosport), XCOM 2, Tropico</summary>
-    </entry>
-    <entry>
-      <title>involvex/kiln</title>
-      <link href="https://github.com/involvex/kiln"/>
-      <id>https://github.com/involvex/kiln</id>
-      <updated>2026-11-10T08:36:27.000Z</updated>
-      <summary>All-in-one Android package, APK, and storage manager (Apache-2.0)</summary>
-    </entry>
-    <entry>
-      <title>saroo98/cliphistory-android</title>
-      <link href="https://github.com/saroo98/cliphistory-android"/>
-      <id>https://github.com/saroo98/cliphistory-android</id>
-      <updated>2026-11-08T16:36:28.000Z</updated>
-      <summary>ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline.</summary>
-    </entry>
-    <entry>
-      <title>caochuankuan/AppLens</title>
-      <link href="https://github.com/caochuankuan/AppLens"/>
-      <id>https://github.com/caochuankuan/AppLens</id>
-      <updated>2026-11-08T15:31:09.000Z</updated>
-      <summary>Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.</summary>
-    </entry>
-    <entry>
-      <title>Rhythm6X9/wireless-tool</title>
-      <link href="https://github.com/Rhythm6X9/wireless-tool"/>
-      <id>https://github.com/Rhythm6X9/wireless-tool</id>
-      <updated>2026-11-08T09:30:33.000Z</updated>
-      <summary>一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>danielealbano/android-remote-control-mcp</title>
-      <link href="https://github.com/danielealbano/android-remote-control-mcp"/>
-      <id>https://github.com/danielealbano/android-remote-control-mcp</id>
-      <updated>2026-11-10T12:06:16.000Z</updated>
-      <summary>An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads, camera, a privacy mode (to anonymize/pseudononymize your PII) and support various tunnelling (included a free E2E HTTPS tunnel out of the box in addition to cloudflare and ngrok).</summary>
-    </entry>
-    <entry>
-      <title>4zyz4/GKME</title>
-      <link href="https://github.com/4zyz4/GKME"/>
-      <id>https://github.com/4zyz4/GKME</id>
-      <updated>2026-11-08T07:03:52.000Z</updated>
-      <summary>Turn your Android phone into a virtual gamepad — or a virtual keyboard and mouse! Supports WiFi LAN, direct USB, and direct Bluetooth connections.把你的 Android 手机变成一台虚拟游戏手柄！也可以是虚拟键盘、鼠标！支持 WiFi 局域网、USB 直连与蓝牙直连。</summary>
     </entry>
 </feed>
