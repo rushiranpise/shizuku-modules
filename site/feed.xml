@@ -3,9 +3,37 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-12T10:24:42.273Z</updated>
+  <updated>2026-11-13T10:09:42.356Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>JHR-deve/BiliView</title>
+      <link href="https://github.com/JHR-deve/BiliView"/>
+      <id>https://github.com/JHR-deve/BiliView</id>
+      <updated>2026-11-13T06:12:40.000Z</updated>
+      <summary>BiliView · Android 上的 B 站视频与合集批量下载、离线缓存转换和 MP4 弹幕烧录。</summary>
+    </entry>
+    <entry>
+      <title>nourddinak/BandLock</title>
+      <link href="https://github.com/nourddinak/BandLock"/>
+      <id>https://github.com/nourddinak/BandLock</id>
+      <updated>2026-11-12T10:45:49.000Z</updated>
+      <summary>Keep Android on fast 5 GHz / 6 GHz Wi-Fi instead of slow 2.4 GHz with the same name. Smart roaming, automatic fallback, no root, no ads. Open source.</summary>
+    </entry>
+    <entry>
+      <title>CodeByLiad/Tidyra</title>
+      <link href="https://github.com/CodeByLiad/Tidyra"/>
+      <id>https://github.com/CodeByLiad/Tidyra</id>
+      <updated>2026-11-13T07:49:34.000Z</updated>
+      <summary>Understand your Android storage. Decide what goes. Nothing happens without your approval. On-device AI, no ads, no trackers.</summary>
+    </entry>
+    <entry>
+      <title>usi112/dsh-go-adb-link</title>
+      <link href="https://github.com/usi112/dsh-go-adb-link"/>
+      <id>https://github.com/usi112/dsh-go-adb-link</id>
+      <updated>2026-11-13T09:20:24.000Z</updated>
+      <summary>dsh-go ADB 自动连接插件（二改自 edgy7493/dsh-go-adb-link）：自动找 adbd 端口 · adb tcpip 固定 3455 · Android 11+ 无线调试 TLS 配对 | Modified fork of edgy7493/dsh-go-adb-link</summary>
+    </entry>
     <entry>
       <title>BeiChen-CN/Trove</title>
       <link href="https://github.com/BeiChen-CN/Trove"/>
@@ -17,28 +45,28 @@
       <title>Eynnzerr/TelemetryCleaner</title>
       <link href="https://github.com/Eynnzerr/TelemetryCleaner"/>
       <id>https://github.com/Eynnzerr/TelemetryCleaner</id>
-      <updated>2026-11-12T03:17:38.000Z</updated>
+      <updated>2026-11-13T09:55:57.000Z</updated>
       <summary>基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块</summary>
     </entry>
     <entry>
       <title>lab-ok/galaxy-optimization-advanced-tool</title>
       <link href="https://github.com/lab-ok/galaxy-optimization-advanced-tool"/>
       <id>https://github.com/lab-ok/galaxy-optimization-advanced-tool</id>
-      <updated>2026-11-11T16:03:23.000Z</updated>
+      <updated>2026-11-13T01:31:25.000Z</updated>
       <summary>Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat &amp; more via Shizuku. English / 한국어</summary>
     </entry>
     <entry>
       <title>qq2770355800/ExtractKit</title>
       <link href="https://github.com/qq2770355800/ExtractKit"/>
       <id>https://github.com/qq2770355800/ExtractKit</id>
-      <updated>2026-11-11T17:45:27.000Z</updated>
+      <updated>2026-11-12T15:29:07.000Z</updated>
       <summary>Honor 内核标定 + CVE-2026-98260 提权链（Shizuku + KernelSU late-load），内置 74 条内核 profile</summary>
     </entry>
     <entry>
       <title>114514hhha233/shizuku-keypad</title>
       <link href="https://github.com/114514hhha233/shizuku-keypad"/>
       <id>https://github.com/114514hhha233/shizuku-keypad</id>
-      <updated>2026-11-12T09:22:44.000Z</updated>
+      <updated>2026-11-12T11:44:16.000Z</updated>
       <summary>可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。</summary>
     </entry>
     <entry>
@@ -59,7 +87,7 @@
       <title>itsgreat2misha/ks-task-scheduler</title>
       <link href="https://github.com/itsgreat2misha/ks-task-scheduler"/>
       <id>https://github.com/itsgreat2misha/ks-task-scheduler</id>
-      <updated>2026-11-12T00:15:07.000Z</updated>
+      <updated>2026-11-12T22:25:31.000Z</updated>
       <summary>Task Scheduler for Kiosk Satellite: run your own commands on boot, on Kiosk start, or on a schedule (interval, daily, weekly), via root (su) or Shizuku.</summary>
     </entry>
     <entry>
@@ -105,18 +133,18 @@
       <summary>Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location</summary>
     </entry>
     <entry>
-      <title>NERRY3621/JingPing</title>
-      <link href="https://github.com/NERRY3621/JingPing"/>
-      <id>https://github.com/NERRY3621/JingPing</id>
-      <updated>2026-11-10T15:31:04.000Z</updated>
-      <summary>净屏 · Android 开屏/摇一摇广告拦截（无障碍 + Root/Shizuku + LSPosed，RhineLab 视觉）</summary>
-    </entry>
-    <entry>
       <title>yashsaxena15/FrameScope</title>
       <link href="https://github.com/yashsaxena15/FrameScope"/>
       <id>https://github.com/yashsaxena15/FrameScope</id>
       <updated>2026-11-11T16:49:51.000Z</updated>
       <summary>Accurate FPS, 1% lows, frame-time graph, CPU, RAM &amp; temperature overlay for Android. No root, via Shizuku. ~140 KB, no internet permission.</summary>
+    </entry>
+    <entry>
+      <title>NERRY3621/JingPing</title>
+      <link href="https://github.com/NERRY3621/JingPing"/>
+      <id>https://github.com/NERRY3621/JingPing</id>
+      <updated>2026-11-10T15:31:04.000Z</updated>
+      <summary>净屏 · Android 开屏/摇一摇广告拦截（无障碍 + Root/Shizuku + LSPosed，RhineLab 视觉）</summary>
     </entry>
     <entry>
       <title>DHIRAJ-J-S/MinimalSF_Extended</title>
@@ -178,7 +206,7 @@
       <title>0xgh0stri13y/Clean-Your-Mobile</title>
       <link href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"/>
       <id>https://github.com/0xgh0stri13y/Clean-Your-Mobile</id>
-      <updated>2026-11-12T09:11:02.000Z</updated>
+      <updated>2026-11-13T06:27:10.000Z</updated>
       <summary>Your phone, minus the bloat. Debloat right on your phone via the Shizuku app (no PC needed) or from a computer over Wi-Fi/USB. Strip ads, bloatware, and telemetry—zero root, fully reversible.</summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://github.com/Vibe-Coded-Studio/nightfold</id>
       <updated>2026-11-10T19:13:53.000Z</updated>
       <summary>Fold-open animation for Samsung Galaxy Z Fold: the screen builds in with an effect that follows the hinge</summary>
-    </entry>
-    <entry>
-      <title>Alex17273747576777/gltools-reborn</title>
-      <link href="https://github.com/Alex17273747576777/gltools-reborn"/>
-      <id>https://github.com/Alex17273747576777/gltools-reborn</id>
-      <updated>2026-11-11T10:12:54.000Z</updated>
-      <summary>Perfiles de dispositivo para Android sin root obligatorio: con Shizuku o root, sin servidores y sin nada de pago. Panel de cristal por app y generacion de perfiles desde el aparato real. Apache-2.0.</summary>
-    </entry>
-    <entry>
-      <title>AlreadyNoob/pocketscreen</title>
-      <link href="https://github.com/AlreadyNoob/pocketscreen"/>
-      <id>https://github.com/AlreadyNoob/pocketscreen</id>
-      <updated>2026-11-11T22:31:59.000Z</updated>
-      <summary>Run Android apps on hidden virtual displays so they keep running in the background. Uses Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>kevxngg/monitor-root</title>
-      <link href="https://github.com/kevxngg/monitor-root"/>
-      <id>https://github.com/kevxngg/monitor-root</id>
-      <updated>2026-11-10T08:57:05.000Z</updated>
-      <summary>📊 Monitor del sistema para Android con root o Shizuku, con el estilo del administrador de tareas de Windows 11 o del Monitor de Actividad de macOS: procesos, CPU, GPU, RAM, disco, red, batería, temperaturas, monitor flotante y modo juego.</summary>
-    </entry>
-    <entry>
-      <title>7k7k666OUO/bilimerge</title>
-      <link href="https://github.com/7k7k666OUO/bilimerge"/>
-      <id>https://github.com/7k7k666OUO/bilimerge</id>
-      <updated>2026-11-08T16:07:53.000Z</updated>
-      <summary>B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）</summary>
     </entry>
 </feed>
