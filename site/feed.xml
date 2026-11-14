@@ -3,9 +3,114 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-13T10:09:42.356Z</updated>
+  <updated>2026-11-14T09:33:52.757Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>nktnet1/webview-kiosk</title>
+      <link href="https://github.com/nktnet1/webview-kiosk"/>
+      <id>https://github.com/nktnet1/webview-kiosk</id>
+      <updated>2026-11-14T04:31:11.000Z</updated>
+      <summary>Turn your Android device into a locked-down web page in fullscreen mode.</summary>
+    </entry>
+    <entry>
+      <title>dhilipmpms/NovaDial</title>
+      <link href="https://github.com/dhilipmpms/NovaDial"/>
+      <id>https://github.com/dhilipmpms/NovaDial</id>
+      <updated>2026-11-13T15:37:07.000Z</updated>
+      <summary>Modern Android dialer with built-in contacts, fast call history, AMOLED themes, dual-SIM support, privacy-focused calling, and rich contact management — a powerful alternative to Google Phone</summary>
+    </entry>
+    <entry>
+      <title>XZY-01/DSUManager</title>
+      <link href="https://github.com/XZY-01/DSUManager"/>
+      <id>https://github.com/XZY-01/DSUManager</id>
+      <updated>2026-11-14T09:09:48.000Z</updated>
+      <summary>在 Android 上管理 DSU 多槽的 Material 3 工具；支持 Root 与 Shizuku 免 Root 原生安装</summary>
+    </entry>
+    <entry>
+      <title>CocoCopi/dualaudio</title>
+      <link href="https://github.com/CocoCopi/dualaudio"/>
+      <id>https://github.com/CocoCopi/dualaudio</id>
+      <updated>2026-11-14T07:57:43.000Z</updated>
+      <summary>Play media on two Bluetooth audio devices on one Android phone — capability-aware, no root, optional Shizuku routing.</summary>
+    </entry>
+    <entry>
+      <title>rdavydov/PrivateDnsOneTap</title>
+      <link href="https://github.com/rdavydov/PrivateDnsOneTap"/>
+      <id>https://github.com/rdavydov/PrivateDnsOneTap</id>
+      <updated>2026-11-13T15:22:20.000Z</updated>
+      <summary>Private DNS Switcher v3 — widgets, Shizuku setup and themes</summary>
+    </entry>
+    <entry>
+      <title>ritikthakur22/wifi_analyzer_app</title>
+      <link href="https://github.com/ritikthakur22/wifi_analyzer_app"/>
+      <id>https://github.com/ritikthakur22/wifi_analyzer_app</id>
+      <updated>2026-11-13T14:31:49.000Z</updated>
+      <summary>A comprehensive, modern Android application for Wi-Fi analysis, signal graphing, LAN discovery, and network telemetry built with Jetpack Compose.</summary>
+    </entry>
+    <entry>
+      <title>armyja/boxscreen</title>
+      <link href="https://github.com/armyja/boxscreen"/>
+      <id>https://github.com/armyja/boxscreen</id>
+      <updated>2026-11-14T08:51:20.000Z</updated>
+      <summary>Android virtual-display host for OnePlus 16 (PYB110)</summary>
+    </entry>
+    <entry>
+      <title>CurrenSama/android17-pm-uninstall</title>
+      <link href="https://github.com/CurrenSama/android17-pm-uninstall"/>
+      <id>https://github.com/CurrenSama/android17-pm-uninstall</id>
+      <updated>2026-11-12T21:18:53.000Z</updated>
+      <summary>Android 17 起（以HyperOS4为例） pm uninstall --user 0 失效的根因与绕过（含证据链）</summary>
+    </entry>
+    <entry>
+      <title>marcoslor/contigua</title>
+      <link href="https://github.com/marcoslor/contigua"/>
+      <id>https://github.com/marcoslor/contigua</id>
+      <updated>2026-11-14T00:36:50.000Z</updated>
+      <summary>Mac-style continuity for Android: your phone's apps in native Mac windows, over your home network, with the phone locked.</summary>
+    </entry>
+    <entry>
+      <title>mengchengqi1/ZERO-ops</title>
+      <link href="https://github.com/mengchengqi1/ZERO-ops"/>
+      <id>https://github.com/mengchengqi1/ZERO-ops</id>
+      <updated>2026-11-14T09:28:05.000Z</updated>
+      <summary>Human-readable AppOps for Android (Android 8.0+ / API 26+). 3309 ops in 23 groups, 129 zh-CN labels, dual-channel privilege without root.</summary>
+    </entry>
+    <entry>
+      <title>nathanrodrigues2111/matte</title>
+      <link href="https://github.com/nathanrodrigues2111/matte"/>
+      <id>https://github.com/nathanrodrigues2111/matte</id>
+      <updated>2026-11-14T04:59:37.000Z</updated>
+      <summary>Make ColorOS 17 notifications solid and readable. One tap, no root, fully reversible. For OnePlus, OPPO and realme.</summary>
+    </entry>
+    <entry>
+      <title>S1LENCE-D/Aegis</title>
+      <link href="https://github.com/S1LENCE-D/Aegis"/>
+      <id>https://github.com/S1LENCE-D/Aegis</id>
+      <updated>2026-11-14T07:31:58.000Z</updated>
+      <summary>Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。</summary>
+    </entry>
+    <entry>
+      <title>Skeezad/SimHelp</title>
+      <link href="https://github.com/Skeezad/SimHelp"/>
+      <id>https://github.com/Skeezad/SimHelp</id>
+      <updated>2026-11-13T18:05:59.000Z</updated>
+      <summary>SimHelp by TheSkeezad — personal Android-to-iPhone call and SMS bridge</summary>
+    </entry>
+    <entry>
+      <title>throwarray/SelfieStick</title>
+      <link href="https://github.com/throwarray/SelfieStick"/>
+      <id>https://github.com/throwarray/SelfieStick</id>
+      <updated>2026-11-14T04:06:05.000Z</updated>
+      <summary>Run an adb command at boot by using a temporary / local VPN connection to self-connect.</summary>
+    </entry>
+    <entry>
+      <title>usi112/dsh-go-adb-link-plus</title>
+      <link href="https://github.com/usi112/dsh-go-adb-link-plus"/>
+      <id>https://github.com/usi112/dsh-go-adb-link-plus</id>
+      <updated>2026-11-13T17:22:41.000Z</updated>
+      <summary>dsh-go ADB 自动连接插件（二改自 edgy7493/dsh-go-adb-link）：自动找 adbd 端口 · adb tcpip 固定 3455 · Android 11+ 无线调试 TLS 配对 | Modified fork of edgy7493/dsh-go-adb-link</summary>
+    </entry>
     <entry>
       <title>JHR-deve/BiliView</title>
       <link href="https://github.com/JHR-deve/BiliView"/>
@@ -38,22 +143,15 @@
       <title>BeiChen-CN/Trove</title>
       <link href="https://github.com/BeiChen-CN/Trove"/>
       <id>https://github.com/BeiChen-CN/Trove</id>
-      <updated>2026-11-11T14:48:04.000Z</updated>
+      <updated>2026-11-14T09:05:25.000Z</updated>
       <summary>Fork of YXBwbWFya2V0/AppMarket - KMP cross-platform app store (Android/Desktop) with F-Droid source and signature-gated updates</summary>
     </entry>
     <entry>
       <title>Eynnzerr/TelemetryCleaner</title>
       <link href="https://github.com/Eynnzerr/TelemetryCleaner"/>
       <id>https://github.com/Eynnzerr/TelemetryCleaner</id>
-      <updated>2026-11-13T09:55:57.000Z</updated>
+      <updated>2026-11-13T12:00:29.000Z</updated>
       <summary>基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块</summary>
-    </entry>
-    <entry>
-      <title>lab-ok/galaxy-optimization-advanced-tool</title>
-      <link href="https://github.com/lab-ok/galaxy-optimization-advanced-tool"/>
-      <id>https://github.com/lab-ok/galaxy-optimization-advanced-tool</id>
-      <updated>2026-11-13T01:31:25.000Z</updated>
-      <summary>Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat &amp; more via Shizuku. English / 한국어</summary>
     </entry>
     <entry>
       <title>qq2770355800/ExtractKit</title>
@@ -63,11 +161,18 @@
       <summary>Honor 内核标定 + CVE-2026-98260 提权链（Shizuku + KernelSU late-load），内置 74 条内核 profile</summary>
     </entry>
     <entry>
+      <title>lab-ok/galaxy-optimization-advanced-tool</title>
+      <link href="https://github.com/lab-ok/galaxy-optimization-advanced-tool"/>
+      <id>https://github.com/lab-ok/galaxy-optimization-advanced-tool</id>
+      <updated>2026-11-13T01:31:25.000Z</updated>
+      <summary>Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat &amp; more via Shizuku. English / 한국어</summary>
+    </entry>
+    <entry>
       <title>114514hhha233/shizuku-keypad</title>
       <link href="https://github.com/114514hhha233/shizuku-keypad"/>
       <id>https://github.com/114514hhha233/shizuku-keypad</id>
-      <updated>2026-11-12T11:44:16.000Z</updated>
-      <summary>可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。</summary>
+      <updated>2026-11-14T07:50:43.000Z</updated>
+      <summary>HJM Keypad：可自由摆放的 Android 虚拟键鼠悬浮层。多点触控热区让「滑视角」和「按新键」同时进行，通过 Shizuku 注入系统输入，免 root。</summary>
     </entry>
     <entry>
       <title>bingxizhe/Axgent</title>
@@ -101,7 +206,7 @@
       <title>nekounknown/lapisroot</title>
       <link href="https://github.com/nekounknown/lapisroot"/>
       <id>https://github.com/nekounknown/lapisroot</id>
-      <updated>2026-11-11T20:30:16.000Z</updated>
+      <updated>2026-11-12T15:53:26.000Z</updated>
       <summary>Temporary-root toolkit for the Redmi Note 15 Pro 5G (lapis / MT6878) via KernelSU LKM and a Shizuku APK</summary>
     </entry>
     <entry>
@@ -110,110 +215,5 @@
       <id>https://github.com/nocunru/RxinFiles-Tool</id>
       <updated>2026-11-12T00:38:27.000Z</updated>
       <summary>Android ?????:ROOT/Shizuku ??,????/??/??/??/??(???,????? HTTP ????)</summary>
-    </entry>
-    <entry>
-      <title>Feiman55/CVE-2026-98260-GhostKey</title>
-      <link href="https://github.com/Feiman55/CVE-2026-98260-GhostKey"/>
-      <id>https://github.com/Feiman55/CVE-2026-98260-GhostKey</id>
-      <updated>2026-10-29T01:46:53.000Z</updated>
-      <summary>GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）</summary>
-    </entry>
-    <entry>
-      <title>WafflingNinja/waffleboost</title>
-      <link href="https://github.com/WafflingNinja/waffleboost"/>
-      <id>https://github.com/WafflingNinja/waffleboost</id>
-      <updated>2026-11-10T13:41:28.000Z</updated>
-      <summary>Free, open-source game booster for Android. No root, no PC, no ads. Runs ADB performance tweaks over wireless debugging and reverts them when you stop playing.</summary>
-    </entry>
-    <entry>
-      <title>udmodz0/majician</title>
-      <link href="https://github.com/udmodz0/majician"/>
-      <id>https://github.com/udmodz0/majician</id>
-      <updated>2026-11-07T06:27:41.000Z</updated>
-      <summary>Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location</summary>
-    </entry>
-    <entry>
-      <title>yashsaxena15/FrameScope</title>
-      <link href="https://github.com/yashsaxena15/FrameScope"/>
-      <id>https://github.com/yashsaxena15/FrameScope</id>
-      <updated>2026-11-11T16:49:51.000Z</updated>
-      <summary>Accurate FPS, 1% lows, frame-time graph, CPU, RAM &amp; temperature overlay for Android. No root, via Shizuku. ~140 KB, no internet permission.</summary>
-    </entry>
-    <entry>
-      <title>NERRY3621/JingPing</title>
-      <link href="https://github.com/NERRY3621/JingPing"/>
-      <id>https://github.com/NERRY3621/JingPing</id>
-      <updated>2026-11-10T15:31:04.000Z</updated>
-      <summary>净屏 · Android 开屏/摇一摇广告拦截（无障碍 + Root/Shizuku + LSPosed，RhineLab 视觉）</summary>
-    </entry>
-    <entry>
-      <title>DHIRAJ-J-S/MinimalSF_Extended</title>
-      <link href="https://github.com/DHIRAJ-J-S/MinimalSF_Extended"/>
-      <id>https://github.com/DHIRAJ-J-S/MinimalSF_Extended</id>
-      <updated>2026-11-10T22:54:34.000Z</updated>
-      <summary>Optional plugin for the MinimalSF launcher: extended menu (coloured icons, hidden search bar, long press options) and power-user actions (freeform, force stop, clear data, freeze) through Shizuku or root.</summary>
-    </entry>
-    <entry>
-      <title>throwarray/tv-settings</title>
-      <link href="https://github.com/throwarray/tv-settings"/>
-      <id>https://github.com/throwarray/tv-settings</id>
-      <updated>2026-11-12T04:15:40.000Z</updated>
-      <summary>work in progress</summary>
-    </entry>
-    <entry>
-      <title>arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode</title>
-      <link href="https://github.com/arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode"/>
-      <id>https://github.com/arazi-hash/TCL_NXTPAPER_E-Ink-Pre-Commitment-Mode</id>
-      <updated>2026-11-08T10:20:42.000Z</updated>
-      <summary>Just like people hunt for old Pixels for unlimited storage, NXTPAPER phones hide the ultimate digital minimalism secret. This app unlocks the hardware switch for enforced Max Ink pre-commitment and eye-strain-free focus.</summary>
-    </entry>
-    <entry>
-      <title>david-x3d/tempest</title>
-      <link href="https://github.com/david-x3d/tempest"/>
-      <id>https://github.com/david-x3d/tempest</id>
-      <updated>2026-11-04T22:22:18.000Z</updated>
-      <summary>A wavy, expressive thermometer for your Android phone's battery and SoC. Jetpack Compose + Material 3 Expressive.</summary>
-    </entry>
-    <entry>
-      <title>museme7/my-notes</title>
-      <link href="https://github.com/museme7/my-notes"/>
-      <id>https://github.com/museme7/my-notes</id>
-      <updated>2026-11-11T08:01:25.000Z</updated>
-      <summary>Daily log — English practice, crypto research, problem-solving notes (Shizuku, Android, Termux)</summary>
-    </entry>
-    <entry>
-      <title>overnightcoder219/tabstation-app</title>
-      <link href="https://github.com/overnightcoder219/tabstation-app"/>
-      <id>https://github.com/overnightcoder219/tabstation-app</id>
-      <updated>2026-11-12T03:55:15.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>SAKTHIVEL280/wallhue</title>
-      <link href="https://github.com/SAKTHIVEL280/wallhue"/>
-      <id>https://github.com/SAKTHIVEL280/wallhue</id>
-      <updated>2026-11-11T05:50:22.000Z</updated>
-      <summary>Material You wallpaper colors for Google apps on Samsung One UI. No root, no background service. Material 3 Expressive, Kotlin + Compose.</summary>
-    </entry>
-    <entry>
-      <title>Windows-LPG/oplus_toolkit</title>
-      <link href="https://github.com/Windows-LPG/oplus_toolkit"/>
-      <id>https://github.com/Windows-LPG/oplus_toolkit</id>
-      <updated>2026-10-17T10:10:32.000Z</updated>
-      <summary>一个专为 ColorOS 机型打造的轻量级硬件识别工具，基于 Material 3 设计 通过读取系统底层文件，告别复杂的终端命令与翻文件过程，一键了解手机的屏幕面板厂商、运行内存（RAM）颗粒以及闪存（ROM）物料详情</summary>
-    </entry>
-    <entry>
-      <title>0xgh0stri13y/Clean-Your-Mobile</title>
-      <link href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"/>
-      <id>https://github.com/0xgh0stri13y/Clean-Your-Mobile</id>
-      <updated>2026-11-13T06:27:10.000Z</updated>
-      <summary>Your phone, minus the bloat. Debloat right on your phone via the Shizuku app (no PC needed) or from a computer over Wi-Fi/USB. Strip ads, bloatware, and telemetry—zero root, fully reversible.</summary>
-    </entry>
-    <entry>
-      <title>Vibe-Coded-Studio/nightfold</title>
-      <link href="https://github.com/Vibe-Coded-Studio/nightfold"/>
-      <id>https://github.com/Vibe-Coded-Studio/nightfold</id>
-      <updated>2026-11-10T19:13:53.000Z</updated>
-      <summary>Fold-open animation for Samsung Galaxy Z Fold: the screen builds in with an effect that follows the hinge</summary>
     </entry>
 </feed>
