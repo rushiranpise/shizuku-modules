@@ -3,9 +3,51 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-15T10:00:43.204Z</updated>
+  <updated>2026-11-16T10:14:46.121Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Arusaky/Dynamic-Island-</title>
+      <link href="https://github.com/Arusaky/Dynamic-Island-"/>
+      <id>https://github.com/Arusaky/Dynamic-Island-</id>
+      <updated>2026-11-15T20:53:26.000Z</updated>
+      <summary>Dynamic Island для Android — остров как на iPhone: музыка, звонки, таймеры, оплата. RU/EN</summary>
+    </entry>
+    <entry>
+      <title>wangxso/mcarplay</title>
+      <link href="https://github.com/wangxso/mcarplay"/>
+      <id>https://github.com/wangxso/mcarplay</id>
+      <updated>2026-11-16T09:41:49.000Z</updated>
+      <summary>mCarPlay bridges Xiaomi CarWith to wireless CarPlay for seamless in-car connectivity.</summary>
+    </entry>
+    <entry>
+      <title>MocLG/Time-My-Galaxy</title>
+      <link href="https://github.com/MocLG/Time-My-Galaxy"/>
+      <id>https://github.com/MocLG/Time-My-Galaxy</id>
+      <updated>2026-11-13T17:36:53.000Z</updated>
+      <summary>CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung</summary>
+    </entry>
+    <entry>
+      <title>aoooa101/aoooa-webadb</title>
+      <link href="https://github.com/aoooa101/aoooa-webadb"/>
+      <id>https://github.com/aoooa101/aoooa-webadb</id>
+      <updated>2026-10-31T15:32:05.000Z</updated>
+      <summary>WebADB 浏览器端 Android ADB 工具：通过 WebUSB 连接手机，支持 Shizuku / Dhizuku 激活、无线 ADB 开关与自定义 Shell 命令。纯前端，中英双语，无需安装 ADB 客户端。Browser-based Android ADB tool.</summary>
+    </entry>
+    <entry>
+      <title>huner-c/stormbridge</title>
+      <link href="https://github.com/huner-c/stormbridge"/>
+      <id>https://github.com/huner-c/stormbridge</id>
+      <updated>2026-11-16T09:22:26.000Z</updated>
+      <summary>Experimental Shizuku-powered XInput USB receiver bridge for Android. Tested with Mojhon Storm on LG G7 / Android 10.</summary>
+    </entry>
+    <entry>
+      <title>SubmitCodes/VFont</title>
+      <link href="https://github.com/SubmitCodes/VFont"/>
+      <id>https://github.com/SubmitCodes/VFont</id>
+      <updated>2026-11-15T16:50:18.000Z</updated>
+      <summary>Native fonts, icons and local themes for supported Vivo/iQOO phones. Shizuku, no root. Universal Android APK.</summary>
+    </entry>
     <entry>
       <title>ReSo7200/InstaEclipse</title>
       <link href="https://github.com/ReSo7200/InstaEclipse"/>
@@ -17,7 +59,7 @@
       <title>rushiranpise/helper-for-morphe</title>
       <link href="https://github.com/rushiranpise/helper-for-morphe"/>
       <id>https://github.com/rushiranpise/helper-for-morphe</id>
-      <updated>2026-11-15T04:25:17.000Z</updated>
+      <updated>2026-11-16T03:50:45.000Z</updated>
       <summary>Standalone APK download helper for Morphe Manager</summary>
     </entry>
     <entry>
@@ -35,18 +77,18 @@
       <summary>Runs Android apps or a Linux desktop on an external, car or wireless display, with the phone as touchpad and keyboard; based on Termux:X11, no root required.</summary>
     </entry>
     <entry>
+      <title>stupidgiraffe/Kizuku</title>
+      <link href="https://github.com/stupidgiraffe/Kizuku"/>
+      <id>https://github.com/stupidgiraffe/Kizuku</id>
+      <updated>2026-11-15T19:14:18.000Z</updated>
+      <summary>An open-source Android privilege manager with Shizuku compatibility, an Axeron runtime, and per-app permissions.</summary>
+    </entry>
+    <entry>
       <title>CarlenGoss/Galaxy-Tab-S10-FE-root-temporal</title>
       <link href="https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal"/>
       <id>https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal</id>
       <updated>2026-11-15T05:07:04.000Z</updated>
       <summary>Root temporal por arranque para Samsung Galaxy Tab S10 FE (SM-X520, X520XXSBCZI2): exploit GhostLock + KernelSU y app lanzadora con Shizuku</summary>
-    </entry>
-    <entry>
-      <title>stupidgiraffe/Kizuku</title>
-      <link href="https://github.com/stupidgiraffe/Kizuku"/>
-      <id>https://github.com/stupidgiraffe/Kizuku</id>
-      <updated>2026-11-14T10:14:57.000Z</updated>
-      <summary>An open-source Android privilege manager with Shizuku compatibility, an Axeron runtime, and per-app permissions.</summary>
     </entry>
     <entry>
       <title>VaibhLabs/HyperCapsule</title>
@@ -59,14 +101,14 @@
       <title>Yhoanes/antigravity-android</title>
       <link href="https://github.com/Yhoanes/antigravity-android"/>
       <id>https://github.com/Yhoanes/antigravity-android</id>
-      <updated>2026-11-14T21:32:35.000Z</updated>
+      <updated>2026-11-15T18:48:02.000Z</updated>
       <summary>Antigravity for Android (by Yhoanes) — Standalone Google Antigravity IDE &amp; Native ARM64 Reverse-Engineering APK (Bionic/Rust agy-box, Ghidra 12.1.4, Live Voice &amp; Smart Marketplace)</summary>
     </entry>
     <entry>
       <title>myuverr/codecobo</title>
       <link href="https://github.com/myuverr/codecobo"/>
       <id>https://github.com/myuverr/codecobo</id>
-      <updated>2026-11-14T14:11:23.000Z</updated>
+      <updated>2026-11-16T09:17:42.000Z</updated>
       <summary>Adjust Bluetooth audio settings on Android, save per-device configurations, and restore them on reconnect</summary>
     </entry>
     <entry>
@@ -80,7 +122,7 @@
       <title>nktnet1/webview-kiosk</title>
       <link href="https://github.com/nktnet1/webview-kiosk"/>
       <id>https://github.com/nktnet1/webview-kiosk</id>
-      <updated>2026-11-15T09:21:35.000Z</updated>
+      <updated>2026-11-16T05:31:29.000Z</updated>
       <summary>Turn your Android device into a locked-down web page in fullscreen mode.</summary>
     </entry>
     <entry>
@@ -173,47 +215,5 @@
       <id>https://github.com/throwarray/SelfieStick</id>
       <updated>2026-11-14T04:06:05.000Z</updated>
       <summary>Run an adb command at boot by using a temporary / local VPN connection to self-connect.</summary>
-    </entry>
-    <entry>
-      <title>usi112/dsh-go-adb-link-plus</title>
-      <link href="https://github.com/usi112/dsh-go-adb-link-plus"/>
-      <id>https://github.com/usi112/dsh-go-adb-link-plus</id>
-      <updated>2026-11-13T17:22:41.000Z</updated>
-      <summary>dsh-go ADB 自动连接插件（二改自 edgy7493/dsh-go-adb-link）：自动找 adbd 端口 · adb tcpip 固定 3455 · Android 11+ 无线调试 TLS 配对 | Modified fork of edgy7493/dsh-go-adb-link</summary>
-    </entry>
-    <entry>
-      <title>JHR-deve/BiliView</title>
-      <link href="https://github.com/JHR-deve/BiliView"/>
-      <id>https://github.com/JHR-deve/BiliView</id>
-      <updated>2026-11-13T06:12:40.000Z</updated>
-      <summary>BiliView · 支持Android 手机上的 B 站视频与合集批量下载、离线缓存转换和 MP4 弹幕烧录，配合shizuki权限解决b站视频缓存目录被隐藏问题 支持自动扫描</summary>
-    </entry>
-    <entry>
-      <title>nourddinak/BandLock</title>
-      <link href="https://github.com/nourddinak/BandLock"/>
-      <id>https://github.com/nourddinak/BandLock</id>
-      <updated>2026-11-12T10:45:49.000Z</updated>
-      <summary>Keep Android on fast 5 GHz / 6 GHz Wi-Fi instead of slow 2.4 GHz with the same name. Smart roaming, automatic fallback, no root, no ads. Open source.</summary>
-    </entry>
-    <entry>
-      <title>CodeByLiad/Tidyra</title>
-      <link href="https://github.com/CodeByLiad/Tidyra"/>
-      <id>https://github.com/CodeByLiad/Tidyra</id>
-      <updated>2026-11-13T07:49:34.000Z</updated>
-      <summary>Understand your Android storage. Decide what goes. Nothing happens without your approval. On-device AI, no ads, no trackers.</summary>
-    </entry>
-    <entry>
-      <title>usi112/dsh-go-adb-link</title>
-      <link href="https://github.com/usi112/dsh-go-adb-link"/>
-      <id>https://github.com/usi112/dsh-go-adb-link</id>
-      <updated>2026-11-13T09:20:24.000Z</updated>
-      <summary>dsh-go ADB 自动连接插件（二改自 edgy7493/dsh-go-adb-link）：自动找 adbd 端口 · adb tcpip 固定 3455 · Android 11+ 无线调试 TLS 配对 | Modified fork of edgy7493/dsh-go-adb-link</summary>
-    </entry>
-    <entry>
-      <title>Eynnzerr/TelemetryCleaner</title>
-      <link href="https://github.com/Eynnzerr/TelemetryCleaner"/>
-      <id>https://github.com/Eynnzerr/TelemetryCleaner</id>
-      <updated>2026-11-15T04:47:14.000Z</updated>
-      <summary>基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块</summary>
     </entry>
 </feed>
