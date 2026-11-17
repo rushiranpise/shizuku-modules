@@ -3,9 +3,58 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-16T10:14:46.121Z</updated>
+  <updated>2026-11-17T11:16:28.674Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>DarkAspect1/Nudge</title>
+      <link href="https://github.com/DarkAspect1/Nudge"/>
+      <id>https://github.com/DarkAspect1/Nudge</id>
+      <updated>2026-11-17T10:30:12.000Z</updated>
+      <summary>An app that shows edge pops/animation when you press side buttons, a custom volume slider, and two action panels inspired by a concept design is now a reality</summary>
+    </entry>
+    <entry>
+      <title>ybblab/Jiumi</title>
+      <link href="https://github.com/ybblab/Jiumi"/>
+      <id>https://github.com/ybblab/Jiumi</id>
+      <updated>2026-11-16T14:45:26.000Z</updated>
+      <summary>揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity &amp; privacy monitor. No root required.</summary>
+    </entry>
+    <entry>
+      <title>Fleve-MY/DexLink</title>
+      <link href="https://github.com/Fleve-MY/DexLink"/>
+      <id>https://github.com/Fleve-MY/DexLink</id>
+      <updated>2026-11-17T10:15:19.000Z</updated>
+      <summary>Control Android from Windows: screen mirroring, independent app windows, keyboard/mouse input, and file transfer. Android 手机与 Windows 桌面协作。</summary>
+    </entry>
+    <entry>
+      <title>revBlackCore/RevCoreManager</title>
+      <link href="https://github.com/revBlackCore/RevCoreManager"/>
+      <id>https://github.com/revBlackCore/RevCoreManager</id>
+      <updated>2026-11-17T06:16:05.000Z</updated>
+      <summary>Privileged Plugin Manager for Android (AX Manager-Compatible)</summary>
+    </entry>
+    <entry>
+      <title>yyzmia1/Pinpoint</title>
+      <link href="https://github.com/yyzmia1/Pinpoint"/>
+      <id>https://github.com/yyzmia1/Pinpoint</id>
+      <updated>2026-11-17T09:38:29.000Z</updated>
+      <summary>Offline Android full-disk file &amp; document content search engine — Normal / Shizuku / Root privilege tiers, two-tier SQLite FTS5 CJK N-gram indexing, Everything query syntax.</summary>
+    </entry>
+    <entry>
+      <title>gwenz2/DrionTune</title>
+      <link href="https://github.com/gwenz2/DrionTune"/>
+      <id>https://github.com/gwenz2/DrionTune</id>
+      <updated>2026-11-17T07:32:45.000Z</updated>
+      <summary>Freeze background apps at 0% CPU/RAM and fix Android game lag without root (via Shizuku).</summary>
+    </entry>
+    <entry>
+      <title>yudigaga/LightFreeze</title>
+      <link href="https://github.com/yudigaga/LightFreeze"/>
+      <id>https://github.com/yudigaga/LightFreeze</id>
+      <updated>2026-11-16T14:38:06.000Z</updated>
+      <summary>轻冻 LightFreeze · Android 13+ Root/Shizuku 按需冻结与 API 102 系统事件回冻</summary>
+    </entry>
     <entry>
       <title>Arusaky/Dynamic-Island-</title>
       <link href="https://github.com/Arusaky/Dynamic-Island-"/>
@@ -17,7 +66,7 @@
       <title>wangxso/mcarplay</title>
       <link href="https://github.com/wangxso/mcarplay"/>
       <id>https://github.com/wangxso/mcarplay</id>
-      <updated>2026-11-16T09:41:49.000Z</updated>
+      <updated>2026-11-17T08:51:33.000Z</updated>
       <summary>mCarPlay bridges Xiaomi CarWith to wireless CarPlay for seamless in-car connectivity.</summary>
     </entry>
     <entry>
@@ -59,7 +108,7 @@
       <title>rushiranpise/helper-for-morphe</title>
       <link href="https://github.com/rushiranpise/helper-for-morphe"/>
       <id>https://github.com/rushiranpise/helper-for-morphe</id>
-      <updated>2026-11-16T03:50:45.000Z</updated>
+      <updated>2026-11-17T03:21:57.000Z</updated>
       <summary>Standalone APK download helper for Morphe Manager</summary>
     </entry>
     <entry>
@@ -80,7 +129,7 @@
       <title>stupidgiraffe/Kizuku</title>
       <link href="https://github.com/stupidgiraffe/Kizuku"/>
       <id>https://github.com/stupidgiraffe/Kizuku</id>
-      <updated>2026-11-15T19:14:18.000Z</updated>
+      <updated>2026-11-17T03:00:18.000Z</updated>
       <summary>An open-source Android privilege manager with Shizuku compatibility, an Axeron runtime, and per-app permissions.</summary>
     </entry>
     <entry>
@@ -108,21 +157,21 @@
       <title>myuverr/codecobo</title>
       <link href="https://github.com/myuverr/codecobo"/>
       <id>https://github.com/myuverr/codecobo</id>
-      <updated>2026-11-16T09:17:42.000Z</updated>
+      <updated>2026-11-16T10:44:35.000Z</updated>
       <summary>Adjust Bluetooth audio settings on Android, save per-device configurations, and restore them on reconnect</summary>
     </entry>
     <entry>
       <title>Yhoanes/antigravity-android-plugins</title>
       <link href="https://github.com/Yhoanes/antigravity-android-plugins"/>
       <id>https://github.com/Yhoanes/antigravity-android-plugins</id>
-      <updated>2026-11-15T04:26:08.000Z</updated>
+      <updated>2026-11-17T10:56:12.000Z</updated>
       <summary>Official ARM64 Bionic Plugin Marketplace for Google Antigravity Android (by Yhoanes) — AGY Video Studio GPU, Craft Anything + Ghidra 12.1.4, Game Studio 2D/3D, GitHub MCP &amp; Headless Chromium</summary>
     </entry>
     <entry>
       <title>nktnet1/webview-kiosk</title>
       <link href="https://github.com/nktnet1/webview-kiosk"/>
       <id>https://github.com/nktnet1/webview-kiosk</id>
-      <updated>2026-11-16T05:31:29.000Z</updated>
+      <updated>2026-11-17T10:49:11.000Z</updated>
       <summary>Turn your Android device into a locked-down web page in fullscreen mode.</summary>
     </entry>
     <entry>
@@ -166,54 +215,5 @@
       <id>https://github.com/rdavydov/PrivateDnsOneTap</id>
       <updated>2026-11-13T15:22:20.000Z</updated>
       <summary>Private DNS Switcher v3 — widgets, Shizuku setup and themes</summary>
-    </entry>
-    <entry>
-      <title>ritikthakur22/wifi_analyzer_app</title>
-      <link href="https://github.com/ritikthakur22/wifi_analyzer_app"/>
-      <id>https://github.com/ritikthakur22/wifi_analyzer_app</id>
-      <updated>2026-11-13T14:31:49.000Z</updated>
-      <summary>A comprehensive, modern Android application for Wi-Fi analysis, signal graphing, LAN discovery, and network telemetry built with Jetpack Compose.</summary>
-    </entry>
-    <entry>
-      <title>armyja/boxscreen</title>
-      <link href="https://github.com/armyja/boxscreen"/>
-      <id>https://github.com/armyja/boxscreen</id>
-      <updated>2026-11-14T08:51:20.000Z</updated>
-      <summary>Android virtual-display host for OnePlus 16 (PYB110)</summary>
-    </entry>
-    <entry>
-      <title>CurrenSama/android17-pm-uninstall</title>
-      <link href="https://github.com/CurrenSama/android17-pm-uninstall"/>
-      <id>https://github.com/CurrenSama/android17-pm-uninstall</id>
-      <updated>2026-11-12T21:18:53.000Z</updated>
-      <summary>Android 17 起（以HyperOS4为例） pm uninstall --user 0 失效的根因与绕过（含证据链）</summary>
-    </entry>
-    <entry>
-      <title>marcoslor/contigua</title>
-      <link href="https://github.com/marcoslor/contigua"/>
-      <id>https://github.com/marcoslor/contigua</id>
-      <updated>2026-11-14T00:36:50.000Z</updated>
-      <summary>Mac-style continuity for Android: your phone's apps in native Mac windows, over your home network, with the phone locked.</summary>
-    </entry>
-    <entry>
-      <title>S1LENCE-D/Aegis</title>
-      <link href="https://github.com/S1LENCE-D/Aegis"/>
-      <id>https://github.com/S1LENCE-D/Aegis</id>
-      <updated>2026-11-14T07:31:58.000Z</updated>
-      <summary>Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。</summary>
-    </entry>
-    <entry>
-      <title>Skeezad/SimHelp</title>
-      <link href="https://github.com/Skeezad/SimHelp"/>
-      <id>https://github.com/Skeezad/SimHelp</id>
-      <updated>2026-11-13T18:05:59.000Z</updated>
-      <summary>SimHelp by TheSkeezad — personal Android-to-iPhone call and SMS bridge</summary>
-    </entry>
-    <entry>
-      <title>throwarray/SelfieStick</title>
-      <link href="https://github.com/throwarray/SelfieStick"/>
-      <id>https://github.com/throwarray/SelfieStick</id>
-      <updated>2026-11-14T04:06:05.000Z</updated>
-      <summary>Run an adb command at boot by using a temporary / local VPN connection to self-connect.</summary>
     </entry>
 </feed>
