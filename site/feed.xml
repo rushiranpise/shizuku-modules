@@ -3,29 +3,78 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-17T11:16:28.674Z</updated>
+  <updated>2026-11-18T10:48:53.521Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>DarkAspect1/Nudge</title>
-      <link href="https://github.com/DarkAspect1/Nudge"/>
-      <id>https://github.com/DarkAspect1/Nudge</id>
-      <updated>2026-11-17T10:30:12.000Z</updated>
-      <summary>An app that shows edge pops/animation when you press side buttons, a custom volume slider, and two action panels inspired by a concept design is now a reality</summary>
+      <title>moesnow/March7thAssistant</title>
+      <link href="https://github.com/moesnow/March7thAssistant"/>
+      <id>https://github.com/moesnow/March7thAssistant</id>
+      <updated>2026-11-18T09:34:23.000Z</updated>
+      <summary>日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。</summary>
+    </entry>
+    <entry>
+      <title>djsusmith/hyperstream-android</title>
+      <link href="https://github.com/djsusmith/hyperstream-android"/>
+      <id>https://github.com/djsusmith/hyperstream-android</id>
+      <updated>2026-11-18T08:25:24.000Z</updated>
+      <summary>⚡ 128-Thread Native Rust Download Accelerator, BitTorrent Swarm Client &amp; 4K/No-Watermark Media Sniffer for Android. 0 Ads • Smart Link Refresh • Shizuku • GPL-3.0</summary>
+    </entry>
+    <entry>
+      <title>caiyuxinghai/alien-booster-auto-claim</title>
+      <link href="https://github.com/caiyuxinghai/alien-booster-auto-claim"/>
+      <id>https://github.com/caiyuxinghai/alien-booster-auto-claim</id>
+      <updated>2026-11-17T14:22:56.000Z</updated>
+      <summary>外星仔加速器「看广告领时长」自动化：Windows ADB Python 引擎 + Shizuku 手机版（双账号/分身）。荣耀 WIN 实测。</summary>
+    </entry>
+    <entry>
+      <title>JMINN0/dsh-go-plugin-adb</title>
+      <link href="https://github.com/JMINN0/dsh-go-plugin-adb"/>
+      <id>https://github.com/JMINN0/dsh-go-plugin-adb</id>
+      <updated>2026-11-16T17:55:26.000Z</updated>
+      <summary>让 AI 在手机内部拿到真 adb shell（uid 2000，无 root、不踢掉你的 Shizuku）</summary>
+    </entry>
+    <entry>
+      <title>MWT6433/onehand-touchpad</title>
+      <link href="https://github.com/MWT6433/onehand-touchpad"/>
+      <id>https://github.com/MWT6433/onehand-touchpad</id>
+      <updated>2026-11-18T07:32:23.000Z</updated>
+      <summary>为大屏手机单手操作做的屏幕边缘虚拟触控板：无障碍手势注入，无网络权限，可选 Shizuku 通道</summary>
+    </entry>
+    <entry>
+      <title>aoxzh/cve-2026-98260-tb710fu</title>
+      <link href="https://github.com/aoxzh/cve-2026-98260-tb710fu"/>
+      <id>https://github.com/aoxzh/cve-2026-98260-tb710fu</id>
+      <updated>2026-11-16T20:11:20.000Z</updated>
+      <summary>CVE-2026-98260 one-click temporary root for Lenovo Tab TB710FU (Android 16, kernel 6.1.128) + KernelSU LKM late-load: on-device .ko patching (kallsyms relocation, vermagic, __versions), manager crowned to Working [Jailbreak mode], su in u:r:ksu:s0.</summary>
+    </entry>
+    <entry>
+      <title>elhizazi1/RawanIDE</title>
+      <link href="https://github.com/elhizazi1/RawanIDE"/>
+      <id>https://github.com/elhizazi1/RawanIDE</id>
+      <updated>2026-11-17T22:07:25.000Z</updated>
+      <summary>Android IDE for editing, managing, and previewing local development projects, with Termux integration and an extensible marketplace.</summary>
     </entry>
     <entry>
       <title>ybblab/Jiumi</title>
       <link href="https://github.com/ybblab/Jiumi"/>
       <id>https://github.com/ybblab/Jiumi</id>
-      <updated>2026-11-16T14:45:26.000Z</updated>
+      <updated>2026-11-18T04:03:15.000Z</updated>
       <summary>揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity &amp; privacy monitor. No root required.</summary>
     </entry>
     <entry>
-      <title>Fleve-MY/DexLink</title>
-      <link href="https://github.com/Fleve-MY/DexLink"/>
-      <id>https://github.com/Fleve-MY/DexLink</id>
-      <updated>2026-11-17T10:15:19.000Z</updated>
-      <summary>Control Android from Windows: screen mirroring, independent app windows, keyboard/mouse input, and file transfer. Android 手机与 Windows 桌面协作。</summary>
+      <title>DarkAspect1/Nudge</title>
+      <link href="https://github.com/DarkAspect1/Nudge"/>
+      <id>https://github.com/DarkAspect1/Nudge</id>
+      <updated>2026-11-17T17:01:09.000Z</updated>
+      <summary>An app that shows edge pops/animation when you press side buttons, a custom volume slider, and two action panels inspired by a concept design is now a reality</summary>
+    </entry>
+    <entry>
+      <title>yyzmia1/Pinpoint</title>
+      <link href="https://github.com/yyzmia1/Pinpoint"/>
+      <id>https://github.com/yyzmia1/Pinpoint</id>
+      <updated>2026-11-18T05:24:01.000Z</updated>
+      <summary>Offline Android full-disk file &amp; document content search engine — Normal / Shizuku / Root privilege tiers, two-tier SQLite FTS5 CJK N-gram indexing, Everything query syntax.</summary>
     </entry>
     <entry>
       <title>revBlackCore/RevCoreManager</title>
@@ -35,17 +84,17 @@
       <summary>Privileged Plugin Manager for Android (AX Manager-Compatible)</summary>
     </entry>
     <entry>
-      <title>yyzmia1/Pinpoint</title>
-      <link href="https://github.com/yyzmia1/Pinpoint"/>
-      <id>https://github.com/yyzmia1/Pinpoint</id>
-      <updated>2026-11-17T09:38:29.000Z</updated>
-      <summary>Offline Android full-disk file &amp; document content search engine — Normal / Shizuku / Root privilege tiers, two-tier SQLite FTS5 CJK N-gram indexing, Everything query syntax.</summary>
+      <title>Fleve-MY/DexLink</title>
+      <link href="https://github.com/Fleve-MY/DexLink"/>
+      <id>https://github.com/Fleve-MY/DexLink</id>
+      <updated>2026-11-17T10:15:19.000Z</updated>
+      <summary>Control Android from Windows: screen mirroring, independent app windows, keyboard/mouse input, and file transfer. Android 手机与 Windows 桌面协作。</summary>
     </entry>
     <entry>
       <title>gwenz2/DrionTune</title>
       <link href="https://github.com/gwenz2/DrionTune"/>
       <id>https://github.com/gwenz2/DrionTune</id>
-      <updated>2026-11-17T07:32:45.000Z</updated>
+      <updated>2026-11-18T08:06:42.000Z</updated>
       <summary>Freeze background apps at 0% CPU/RAM and fix Android game lag without root (via Shizuku).</summary>
     </entry>
     <entry>
@@ -66,15 +115,22 @@
       <title>wangxso/mcarplay</title>
       <link href="https://github.com/wangxso/mcarplay"/>
       <id>https://github.com/wangxso/mcarplay</id>
-      <updated>2026-11-17T08:51:33.000Z</updated>
+      <updated>2026-11-18T10:38:12.000Z</updated>
       <summary>mCarPlay bridges Xiaomi CarWith to wireless CarPlay for seamless in-car connectivity.</summary>
     </entry>
     <entry>
       <title>MocLG/Time-My-Galaxy</title>
       <link href="https://github.com/MocLG/Time-My-Galaxy"/>
       <id>https://github.com/MocLG/Time-My-Galaxy</id>
-      <updated>2026-11-13T17:36:53.000Z</updated>
+      <updated>2026-11-17T22:16:24.000Z</updated>
       <summary>CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung</summary>
+    </entry>
+    <entry>
+      <title>SubmitCodes/VFont</title>
+      <link href="https://github.com/SubmitCodes/VFont"/>
+      <id>https://github.com/SubmitCodes/VFont</id>
+      <updated>2026-11-15T16:50:18.000Z</updated>
+      <summary>Native fonts, icons and local themes for supported Vivo/iQOO phones. Shizuku, no root. Universal Android APK.</summary>
     </entry>
     <entry>
       <title>aoooa101/aoooa-webadb</title>
@@ -91,13 +147,6 @@
       <summary>Experimental Shizuku-powered XInput USB receiver bridge for Android. Tested with Mojhon Storm on LG G7 / Android 10.</summary>
     </entry>
     <entry>
-      <title>SubmitCodes/VFont</title>
-      <link href="https://github.com/SubmitCodes/VFont"/>
-      <id>https://github.com/SubmitCodes/VFont</id>
-      <updated>2026-11-15T16:50:18.000Z</updated>
-      <summary>Native fonts, icons and local themes for supported Vivo/iQOO phones. Shizuku, no root. Universal Android APK.</summary>
-    </entry>
-    <entry>
       <title>ReSo7200/InstaEclipse</title>
       <link href="https://github.com/ReSo7200/InstaEclipse"/>
       <id>https://github.com/ReSo7200/InstaEclipse</id>
@@ -108,14 +157,14 @@
       <title>rushiranpise/helper-for-morphe</title>
       <link href="https://github.com/rushiranpise/helper-for-morphe"/>
       <id>https://github.com/rushiranpise/helper-for-morphe</id>
-      <updated>2026-11-17T03:21:57.000Z</updated>
+      <updated>2026-11-18T04:36:07.000Z</updated>
       <summary>Standalone APK download helper for Morphe Manager</summary>
     </entry>
     <entry>
       <title>ybblab/Droidance</title>
       <link href="https://github.com/ybblab/Droidance"/>
       <id>https://github.com/ybblab/Droidance</id>
-      <updated>2026-11-14T12:42:59.000Z</updated>
+      <updated>2026-11-18T02:28:41.000Z</updated>
       <summary>Autonomous on-device Android AI agent powered by pure vision (13MB APK). Runs 100% natively on a background virtual display—no root, no PC, no Accessibility Service, and no Termux/Linux sandbox needed. Just pair once via Wireless Debugging, add your API key, and go.</summary>
     </entry>
     <entry>
@@ -129,8 +178,15 @@
       <title>stupidgiraffe/Kizuku</title>
       <link href="https://github.com/stupidgiraffe/Kizuku"/>
       <id>https://github.com/stupidgiraffe/Kizuku</id>
-      <updated>2026-11-17T03:00:18.000Z</updated>
+      <updated>2026-11-18T02:29:25.000Z</updated>
       <summary>An open-source Android privilege manager with Shizuku compatibility, an Axeron runtime, and per-app permissions.</summary>
+    </entry>
+    <entry>
+      <title>Yhoanes/antigravity-android</title>
+      <link href="https://github.com/Yhoanes/antigravity-android"/>
+      <id>https://github.com/Yhoanes/antigravity-android</id>
+      <updated>2026-11-18T03:36:35.000Z</updated>
+      <summary>Antigravity for Android (by Yhoanes) — Standalone Google Antigravity IDE &amp; Native ARM64 Reverse-Engineering APK (Bionic/Rust agy-box, Ghidra 12.1.4, Live Voice &amp; Smart Marketplace)</summary>
     </entry>
     <entry>
       <title>CarlenGoss/Galaxy-Tab-S10-FE-root-temporal</title>
@@ -147,13 +203,6 @@
       <summary>A customizable, iPhone-style Dynamic Island &amp; HyperOS notification capsule experience for Android. Supports Media playback, Google Maps turn-by-turn navigation, Calls, Downloads, and Always-On Permanent Island.</summary>
     </entry>
     <entry>
-      <title>Yhoanes/antigravity-android</title>
-      <link href="https://github.com/Yhoanes/antigravity-android"/>
-      <id>https://github.com/Yhoanes/antigravity-android</id>
-      <updated>2026-11-15T18:48:02.000Z</updated>
-      <summary>Antigravity for Android (by Yhoanes) — Standalone Google Antigravity IDE &amp; Native ARM64 Reverse-Engineering APK (Bionic/Rust agy-box, Ghidra 12.1.4, Live Voice &amp; Smart Marketplace)</summary>
-    </entry>
-    <entry>
       <title>myuverr/codecobo</title>
       <link href="https://github.com/myuverr/codecobo"/>
       <id>https://github.com/myuverr/codecobo</id>
@@ -166,54 +215,5 @@
       <id>https://github.com/Yhoanes/antigravity-android-plugins</id>
       <updated>2026-11-17T10:56:12.000Z</updated>
       <summary>Official ARM64 Bionic Plugin Marketplace for Google Antigravity Android (by Yhoanes) — AGY Video Studio GPU, Craft Anything + Ghidra 12.1.4, Game Studio 2D/3D, GitHub MCP &amp; Headless Chromium</summary>
-    </entry>
-    <entry>
-      <title>nktnet1/webview-kiosk</title>
-      <link href="https://github.com/nktnet1/webview-kiosk"/>
-      <id>https://github.com/nktnet1/webview-kiosk</id>
-      <updated>2026-11-17T10:49:11.000Z</updated>
-      <summary>Turn your Android device into a locked-down web page in fullscreen mode.</summary>
-    </entry>
-    <entry>
-      <title>dhilipmpms/NovaDial</title>
-      <link href="https://github.com/dhilipmpms/NovaDial"/>
-      <id>https://github.com/dhilipmpms/NovaDial</id>
-      <updated>2026-11-14T15:51:32.000Z</updated>
-      <summary>Modern Android dialer with built-in contacts, fast call history, AMOLED themes, dual-SIM support, privacy-focused calling, and rich contact management — a powerful alternative to Google Phone</summary>
-    </entry>
-    <entry>
-      <title>mengchengqi1/ZERO-ops</title>
-      <link href="https://github.com/mengchengqi1/ZERO-ops"/>
-      <id>https://github.com/mengchengqi1/ZERO-ops</id>
-      <updated>2026-11-14T09:28:05.000Z</updated>
-      <summary>Human-readable AppOps for Android (Android 8.0+ / API 26+). 3309 ops in 23 groups, 129 zh-CN labels, dual-channel privilege without root.</summary>
-    </entry>
-    <entry>
-      <title>XZY-01/DSUManager</title>
-      <link href="https://github.com/XZY-01/DSUManager"/>
-      <id>https://github.com/XZY-01/DSUManager</id>
-      <updated>2026-11-14T10:41:10.000Z</updated>
-      <summary>在 Android 上管理 DSU 多槽的 Material 3 工具；支持 Root 与 Shizuku 免 Root 原生安装</summary>
-    </entry>
-    <entry>
-      <title>CocoCopi/dualaudio</title>
-      <link href="https://github.com/CocoCopi/dualaudio"/>
-      <id>https://github.com/CocoCopi/dualaudio</id>
-      <updated>2026-11-14T07:57:43.000Z</updated>
-      <summary>Play media on two Bluetooth audio devices on one Android phone — capability-aware, no root, optional Shizuku routing.</summary>
-    </entry>
-    <entry>
-      <title>nathanrodrigues2111/matte</title>
-      <link href="https://github.com/nathanrodrigues2111/matte"/>
-      <id>https://github.com/nathanrodrigues2111/matte</id>
-      <updated>2026-11-14T04:59:37.000Z</updated>
-      <summary>Make ColorOS 17 notifications solid and readable. One tap, no root, fully reversible. For OnePlus, OPPO and realme.</summary>
-    </entry>
-    <entry>
-      <title>rdavydov/PrivateDnsOneTap</title>
-      <link href="https://github.com/rdavydov/PrivateDnsOneTap"/>
-      <id>https://github.com/rdavydov/PrivateDnsOneTap</id>
-      <updated>2026-11-13T15:22:20.000Z</updated>
-      <summary>Private DNS Switcher v3 — widgets, Shizuku setup and themes</summary>
     </entry>
 </feed>
