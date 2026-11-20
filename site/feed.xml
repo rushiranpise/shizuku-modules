@@ -3,217 +3,217 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-19T10:50:01.426Z</updated>
+  <updated>2026-11-20T10:39:47.367Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>FourTwooo/JumpReplay</title>
-      <link href="https://github.com/FourTwooo/JumpReplay"/>
-      <id>https://github.com/FourTwooo/JumpReplay</id>
-      <updated>2026-11-19T08:38:06.000Z</updated>
-      <summary>Xposed Hook Android Intent/Scheme</summary>
+      <title>JMAN730/opendroid</title>
+      <link href="https://github.com/JMAN730/opendroid"/>
+      <id>https://github.com/JMAN730/opendroid</id>
+      <updated>2026-11-10T19:35:42.000Z</updated>
+      <summary>Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation</summary>
     </entry>
     <entry>
-      <title>f1rzen-n/LenovoMotorolovichY70</title>
-      <link href="https://github.com/f1rzen-n/LenovoMotorolovichY70"/>
-      <id>https://github.com/f1rzen-n/LenovoMotorolovichY70</id>
-      <updated>2026-11-19T08:49:25.000Z</updated>
-      <summary>Системные твики, настройка дисплея, DC Dimming, скорость сети и Debloater для Lenovo Legion Y70 / Motorola Edge 70 Max</summary>
+      <title>Velocity081/droidtools</title>
+      <link href="https://github.com/Velocity081/droidtools"/>
+      <id>https://github.com/Velocity081/droidtools</id>
+      <updated>2026-11-07T14:36:27.000Z</updated>
+      <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
     </entry>
     <entry>
-      <title>303562915/Canta</title>
-      <link href="https://github.com/303562915/Canta"/>
-      <id>https://github.com/303562915/Canta</id>
-      <updated>2026-11-19T10:47:09.000Z</updated>
+      <title>kenkawakenkenke/power-struggle</title>
+      <link href="https://github.com/kenkawakenkenke/power-struggle"/>
+      <id>https://github.com/kenkawakenkenke/power-struggle</id>
+      <updated>2026-10-07T06:44:58.000Z</updated>
+      <summary>A two-player tap battle over USB-C where you physically steal battery power from your opponent.</summary>
+    </entry>
+    <entry>
+      <title>Ultra-Guru/Android-Guru-Agent</title>
+      <link href="https://github.com/Ultra-Guru/Android-Guru-Agent"/>
+      <id>https://github.com/Ultra-Guru/Android-Guru-Agent</id>
+      <updated>2026-11-15T07:57:14.000Z</updated>
+      <summary>🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory (cs-mem) · BYO-LLM. No server. No PC.</summary>
+    </entry>
+    <entry>
+      <title>Lucent-Project/Lucent</title>
+      <link href="https://github.com/Lucent-Project/Lucent"/>
+      <id>https://github.com/Lucent-Project/Lucent</id>
+      <updated>2026-11-02T05:18:44.000Z</updated>
+      <summary>Lucent 📝 — Notes, tasks &amp; an AI assistant that respects your privacy 🔒 Encrypted &amp; offline-first ✨</summary>
+    </entry>
+    <entry>
+      <title>shangu2003/SamsungRootKit</title>
+      <link href="https://github.com/shangu2003/SamsungRootKit"/>
+      <id>https://github.com/shangu2003/SamsungRootKit</id>
+      <updated>2026-10-21T02:09:35.000Z</updated>
+      <summary>Offline Android root toolkit for Samsung Galaxy (S23-S26 / Z Flip / Z Fold / Tab S9 Ultra). DF chain (DirtyFrag) first, auto-fallback to the SRK chain (CVE-2026-43499, firmware-matched payloads), then DFReroot persistence. KernelSU &amp; KernelSU-Next. For security research only.</summary>
+    </entry>
+    <entry>
+      <title>chengzi2333/StayHiFi</title>
+      <link href="https://github.com/chengzi2333/StayHiFi"/>
+      <id>https://github.com/chengzi2333/StayHiFi</id>
+      <updated>2026-11-19T14:43:40.000Z</updated>
+      <summary>免 root 蓝牙音质拉满：耳机一连，自动把编码器、采样率、位深写回设备协商上限（LHDC / LDAC / aptX），断连重连不回滚。</summary>
+    </entry>
+    <entry>
+      <title>303562915/unicanta</title>
+      <link href="https://github.com/303562915/unicanta"/>
+      <id>https://github.com/303562915/unicanta</id>
+      <updated>2026-11-20T10:36:35.000Z</updated>
       <summary>Canta unicanta — 免 root 卸载系统应用 / uninstall preinstalled Android apps without root. Device-aware safety rules, community plans, self-hosted telemetry.</summary>
     </entry>
     <entry>
-      <title>coding-nyx/hands</title>
-      <link href="https://github.com/coding-nyx/hands"/>
-      <id>https://github.com/coding-nyx/hands</id>
-      <updated>2026-11-18T16:31:00.000Z</updated>
-      <summary>Sovereign, Headless, Privileged Android Automation for AI Agents (Virtual Display, Shizuku &amp; MCP)</summary>
+      <title>Afaqraza12/xper5</title>
+      <link href="https://github.com/Afaqraza12/xper5"/>
+      <id>https://github.com/Afaqraza12/xper5</id>
+      <updated>2026-11-14T20:45:05.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>Comzvy/antigravity-arm64-android</title>
-      <link href="https://github.com/Comzvy/antigravity-arm64-android"/>
-      <id>https://github.com/Comzvy/antigravity-arm64-android</id>
-      <updated>2026-11-18T17:40:39.000Z</updated>
-      <summary>Native Android ARM64 port of Antigravity v2.33.0 — AI coding workstation on Bionic userspace with BYOK multi-provider gateway, voice mode, and PTY terminal</summary>
+      <title>cunkai/CangHai-Desk</title>
+      <link href="https://github.com/cunkai/CangHai-Desk"/>
+      <id>https://github.com/cunkai/CangHai-Desk</id>
+      <updated>2026-11-18T09:05:23.000Z</updated>
+      <summary>CangHai Desk - Android desktop / DeX streaming &amp; remote control (Root/Shizuku, wired display, Moonlight)</summary>
     </entry>
     <entry>
-      <title>cubsync/CubClone</title>
-      <link href="https://github.com/cubsync/CubClone"/>
-      <id>https://github.com/cubsync/CubClone</id>
-      <updated>2026-11-19T08:04:02.000Z</updated>
-      <summary>Multi-instance app cloner for Android — real clone profiles via native multi-user, driven by Shizuku or root.</summary>
+      <title>MetxStudio/FreeFile</title>
+      <link href="https://github.com/MetxStudio/FreeFile"/>
+      <id>https://github.com/MetxStudio/FreeFile</id>
+      <updated>2026-11-01T10:41:36.000Z</updated>
+      <summary>FreeFile is a Kotlin and Jetpack Compose-based Android file manager with dual-pane navigation, Root/Shizuku support, remote storage, terminal integration, scripting, APK tools and so on.</summary>
     </entry>
     <entry>
-      <title>geraldotech/shizzyluna</title>
-      <link href="https://github.com/geraldotech/shizzyluna"/>
-      <id>https://github.com/geraldotech/shizzyluna</id>
-      <updated>2026-11-15T16:16:35.000Z</updated>
-      <summary>Rootless wifi-tethering bypass for Android with Shizuku.</summary>
+      <title>s1ngerax1le/AutoSign</title>
+      <link href="https://github.com/s1ngerax1le/AutoSign"/>
+      <id>https://github.com/s1ngerax1le/AutoSign</id>
+      <updated>2026-11-06T07:49:37.000Z</updated>
+      <summary>一个今日校园自动签到软件，有root和无root两种模式，通过讯息-辅导员通知-签到通知消息进入签到界面，能在每天设置的时间自动唤醒手机并签到</summary>
     </entry>
     <entry>
-      <title>hxy132465/orientation-locker</title>
-      <link href="https://github.com/hxy132465/orientation-locker"/>
-      <id>https://github.com/hxy132465/orientation-locker</id>
-      <updated>2026-11-19T10:21:40.000Z</updated>
-      <summary>Android 10 全局屏幕方向锁定 App 方案（Shizuku + freezeRotation，低占用）</summary>
+      <title>huliaiya/Mugshot</title>
+      <link href="https://github.com/huliaiya/Mugshot"/>
+      <id>https://github.com/huliaiya/Mugshot</id>
+      <updated>2026-11-19T17:42:18.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>JimmyXiao2026/PhigrosOffline</title>
-      <link href="https://github.com/JimmyXiao2026/PhigrosOffline"/>
-      <id>https://github.com/JimmyXiao2026/PhigrosOffline</id>
-      <updated>2026-11-17T13:48:21.000Z</updated>
-      <summary>完全离线的 Phigros 存档分析安卓 App：本地读取 B30 / X30 / 越30 / 所有成绩，需 Shizuku 或 Root，不联网。</summary>
+      <title>osamaassolimany-ui/TimerRoot</title>
+      <link href="https://github.com/osamaassolimany-ui/TimerRoot"/>
+      <id>https://github.com/osamaassolimany-ui/TimerRoot</id>
+      <updated>2026-10-29T02:33:47.000Z</updated>
+      <summary>Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku</summary>
     </entry>
     <entry>
-      <title>rcarbonell682-beep/Tipo-Launcher</title>
-      <link href="https://github.com/rcarbonell682-beep/Tipo-Launcher"/>
-      <id>https://github.com/rcarbonell682-beep/Tipo-Launcher</id>
-      <updated>2026-11-14T15:22:59.000Z</updated>
-      <summary>Launcher Android 100% tipográfico: solo texto, sin anuncios y sin internet. Incluye panel de optimización opcional con Shizuku. Código hecho con Claude.</summary>
+      <title>qianyumeng0228/ShizukuX-API</title>
+      <link href="https://github.com/qianyumeng0228/ShizukuX-API"/>
+      <id>https://github.com/qianyumeng0228/ShizukuX-API</id>
+      <updated>2026-11-02T05:09:42.000Z</updated>
+      <summary>ShizukuX-API：增强版 Shizuku API，提供同步 Shell 执行、Dhizuku 集成与高级系统接口（Apache-2.0 / MIT）。</summary>
     </entry>
     <entry>
-      <title>SaiXiLyy/ROI-Aim</title>
-      <link href="https://github.com/SaiXiLyy/ROI-Aim"/>
-      <id>https://github.com/SaiXiLyy/ROI-Aim</id>
-      <updated>2026-11-15T08:49:35.000Z</updated>
-      <summary>Android screen-center ROI detection with NCNN and virtual-finger aiming via uinput, Shizuku, or pure visual mode.</summary>
+      <title>VinSon326/CVE-2026-98260-iQOO12</title>
+      <link href="https://github.com/VinSon326/CVE-2026-98260-iQOO12"/>
+      <id>https://github.com/VinSon326/CVE-2026-98260-iQOO12</id>
+      <updated>2026-11-06T09:26:54.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>stilton2/escaner-qr</title>
-      <link href="https://github.com/stilton2/escaner-qr"/>
-      <id>https://github.com/stilton2/escaner-qr</id>
-      <updated>2026-11-16T18:22:36.000Z</updated>
-      <summary>Lector QR y de barras para Android sin anuncios ni internet. Etiquetas de equipos (MAC, SIM), wifi con Conectar y gestión de wifis con Shizuku.</summary>
+      <title>ardia-kun/android-ram-cleaner</title>
+      <link href="https://github.com/ardia-kun/android-ram-cleaner"/>
+      <id>https://github.com/ardia-kun/android-ram-cleaner</id>
+      <updated>2026-10-04T11:33:55.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>swmckailani/Redensity</title>
-      <link href="https://github.com/swmckailani/Redensity"/>
-      <id>https://github.com/swmckailani/Redensity</id>
-      <updated>2026-11-18T18:34:14.000Z</updated>
-      <summary>Aplikasi Android tanpa root untuk mengubah resolusi &amp; density layar HP via Shizuku - uji coba 15 detik dengan pengembalian otomatis</summary>
+      <title>kinsonstudio/krfr</title>
+      <link href="https://github.com/kinsonstudio/krfr"/>
+      <id>https://github.com/kinsonstudio/krfr</id>
+      <updated>2026-11-19T09:44:24.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>Valghora/shrimpl</title>
-      <link href="https://github.com/Valghora/shrimpl"/>
-      <id>https://github.com/Valghora/shrimpl</id>
-      <updated>2026-11-18T08:00:59.000Z</updated>
-      <summary>Shrimpl is a Progressive Web App (PWA) Manager designed for Googlebooks. It provides on-device creation of fully customizable PWAs wrapped in a native APK.</summary>
+      <title>chenuzi63-ctrl/potential-octo-journey</title>
+      <link href="https://github.com/chenuzi63-ctrl/potential-octo-journey"/>
+      <id>https://github.com/chenuzi63-ctrl/potential-octo-journey</id>
+      <updated>2026-11-11T02:20:05.000Z</updated>
+      <summary></summary>
     </entry>
     <entry>
-      <title>x1eddy/custo</title>
-      <link href="https://github.com/x1eddy/custo"/>
-      <id>https://github.com/x1eddy/custo</id>
-      <updated>2026-11-17T19:09:54.000Z</updated>
-      <summary>All-in-one Android customization: 35 widget sets, 30+ widgets, system UI tweaks via Shizuku, overlays, icons. Free, no ads, offline, no root.</summary>
+      <title>DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku</title>
+      <link href="https://github.com/DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku"/>
+      <id>https://github.com/DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku</id>
+      <updated>2026-09-28T16:15:54.000Z</updated>
+      <summary>边狱巴士 Shizuku 汉化助手</summary>
     </entry>
     <entry>
-      <title>XyrionMD/noxarterm</title>
-      <link href="https://github.com/XyrionMD/noxarterm"/>
-      <id>https://github.com/XyrionMD/noxarterm</id>
-      <updated>2026-11-15T11:52:31.000Z</updated>
-      <summary>Running Linux on Android No root </summary>
+      <title>dlph-Ex/animwidget</title>
+      <link href="https://github.com/dlph-Ex/animwidget"/>
+      <id>https://github.com/dlph-Ex/animwidget</id>
+      <updated>2026-11-15T21:52:32.000Z</updated>
+      <summary>把视频/动图/图片做成安卓桌面动态组件｜Turn videos/GIFs/images into live Android home screen widgets</summary>
     </entry>
     <entry>
-      <title>yubanyuban112/WheelPilot</title>
-      <link href="https://github.com/yubanyuban112/WheelPilot"/>
-      <id>https://github.com/yubanyuban112/WheelPilot</id>
-      <updated>2026-11-17T16:24:52.000Z</updated>
-      <summary>仿 Flyme 小窗的角落轮滑轮盘启动器 / Corner swipe wheel launcher for Android</summary>
+      <title>dr-liki/cleanyourphone</title>
+      <link href="https://github.com/dr-liki/cleanyourphone"/>
+      <id>https://github.com/dr-liki/cleanyourphone</id>
+      <updated>2026-11-19T17:03:46.000Z</updated>
+      <summary>A modern, rootless Android debloater. Safely optimise your device via Shizuku or wirelessly debloat other phones and Android/google TV over Wi-Fi</summary>
     </entry>
     <entry>
-      <title>yyyyyyyan/droid-atlas</title>
-      <link href="https://github.com/yyyyyyyan/droid-atlas"/>
-      <id>https://github.com/yyyyyyyan/droid-atlas</id>
-      <updated>2026-11-18T16:02:12.000Z</updated>
-      <summary>A map of Android apps, mostly open source. Browse by category, search, filter and save, even offline. No account, no tracking.</summary>
+      <title>EnormousKnob/dual-sim-network-tiles</title>
+      <link href="https://github.com/EnormousKnob/dual-sim-network-tiles"/>
+      <id>https://github.com/EnormousKnob/dual-sim-network-tiles</id>
+      <updated>2026-11-18T14:18:16.000Z</updated>
+      <summary>Android dual SIM mobile data switcher &amp; 4G/5G Quick Settings tiles via Shizuku. 安卓双卡流量卡切换、4G/5G 快捷开关；仅在 Samsung Galaxy S24 Ultra / One UI 8.5 测试通过，其他设备未验证。</summary>
     </entry>
     <entry>
-      <title>moesnow/March7thAssistant</title>
-      <link href="https://github.com/moesnow/March7thAssistant"/>
-      <id>https://github.com/moesnow/March7thAssistant</id>
-      <updated>2026-11-19T09:35:31.000Z</updated>
-      <summary>日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。</summary>
+      <title>hannansaeed/Cyfex</title>
+      <link href="https://github.com/hannansaeed/Cyfex"/>
+      <id>https://github.com/hannansaeed/Cyfex</id>
+      <updated>2026-09-25T13:34:03.000Z</updated>
+      <summary>An on-device Android threat monitoring and security plaform usitng Jetpack Compose and privileged system telemetry (Shizuku) for explainable, zero-cloud risk scoring.</summary>
     </entry>
     <entry>
-      <title>djsusmith/hyperstream-android</title>
-      <link href="https://github.com/djsusmith/hyperstream-android"/>
-      <id>https://github.com/djsusmith/hyperstream-android</id>
-      <updated>2026-11-19T07:21:16.000Z</updated>
-      <summary>⚡ 128-Thread Native Rust Download Accelerator, BitTorrent Swarm Client &amp; 4K/No-Watermark Media Sniffer for Android. 0 Ads • Smart Link Refresh • Shizuku • GPL-3.0</summary>
+      <title>Kohlrabenschwarz/Shizuku</title>
+      <link href="https://github.com/Kohlrabenschwarz/Shizuku"/>
+      <id>https://github.com/Kohlrabenschwarz/Shizuku</id>
+      <updated>2026-09-19T22:50:36.000Z</updated>
+      <summary>Unofficial Shizuku 13.6.1 compatibility fork for Android 15 and HyperOS user-service startup issues.</summary>
     </entry>
     <entry>
-      <title>caiyuxinghai/alien-booster-auto-claim</title>
-      <link href="https://github.com/caiyuxinghai/alien-booster-auto-claim"/>
-      <id>https://github.com/caiyuxinghai/alien-booster-auto-claim</id>
-      <updated>2026-11-17T14:22:56.000Z</updated>
-      <summary>外星仔加速器「看广告领时长」自动化：Windows ADB Python 引擎 + Shizuku 手机版（双账号/分身）。荣耀 WIN 实测。</summary>
+      <title>mingxiozsg-star/zhiwei-manager</title>
+      <link href="https://github.com/mingxiozsg-star/zhiwei-manager"/>
+      <id>https://github.com/mingxiozsg-star/zhiwei-manager</id>
+      <updated>2026-11-07T04:47:43.000Z</updated>
+      <summary>知微管理器 · 双窗 Android 文件管理器 + 逆向工具链（Dex / Smali / Jar / APK），Kotlin + Jetpack Compose。｜ZhiweiManager · a dual-pane Android file manager with a built-in reverse-engineering toolchain (Dex / Smali / Jar / APK), written in Kotlin with Jetpack Compose.</summary>
     </entry>
     <entry>
-      <title>elhizazi1/RawanIDE</title>
-      <link href="https://github.com/elhizazi1/RawanIDE"/>
-      <id>https://github.com/elhizazi1/RawanIDE</id>
-      <updated>2026-11-19T10:35:18.000Z</updated>
-      <summary>Android IDE for editing, managing, and previewing local development projects, with Termux integration and an extensible marketplace.</summary>
+      <title>Nornthenight/ClassicPixelSearch</title>
+      <link href="https://github.com/Nornthenight/ClassicPixelSearch"/>
+      <id>https://github.com/Nornthenight/ClassicPixelSearch</id>
+      <updated>2026-11-12T15:04:40.000Z</updated>
+      <summary>Pixel Classic Search dock widget with Shizuku and All Apps OneSearch sync</summary>
     </entry>
     <entry>
-      <title>JMINN0/dsh-go-plugin-adb</title>
-      <link href="https://github.com/JMINN0/dsh-go-plugin-adb"/>
-      <id>https://github.com/JMINN0/dsh-go-plugin-adb</id>
-      <updated>2026-11-16T17:55:26.000Z</updated>
-      <summary>让 AI 在手机内部拿到真 adb shell（uid 2000，无 root、不踢掉你的 Shizuku）</summary>
+      <title>PanteraGS/netswitch</title>
+      <link href="https://github.com/PanteraGS/netswitch"/>
+      <id>https://github.com/PanteraGS/netswitch</id>
+      <updated>2026-10-23T18:54:43.000Z</updated>
+      <summary>Network mode switcher widget for Android</summary>
     </entry>
     <entry>
-      <title>MWT6433/onehand-touchpad</title>
-      <link href="https://github.com/MWT6433/onehand-touchpad"/>
-      <id>https://github.com/MWT6433/onehand-touchpad</id>
-      <updated>2026-11-19T10:30:20.000Z</updated>
-      <summary>为大屏手机单手操作做的屏幕边缘虚拟触控板：无障碍手势注入，无网络权限，可选 Shizuku 通道</summary>
+      <title>realheckerrr-bit/pixelxpert-next-non-root</title>
+      <link href="https://github.com/realheckerrr-bit/pixelxpert-next-non-root"/>
+      <id>https://github.com/realheckerrr-bit/pixelxpert-next-non-root</id>
+      <updated>2026-10-23T09:00:33.000Z</updated>
+      <summary>PixelXpert-Next ported as a standalone signed APK for non-root devices via Wireless ADB, Shizuku, and LSPatch (Android 13 to 17)</summary>
     </entry>
     <entry>
-      <title>aoxzh/cve-2026-98260-tb710fu</title>
-      <link href="https://github.com/aoxzh/cve-2026-98260-tb710fu"/>
-      <id>https://github.com/aoxzh/cve-2026-98260-tb710fu</id>
-      <updated>2026-11-16T20:11:20.000Z</updated>
-      <summary>CVE-2026-98260 one-click temporary root for Lenovo Tab TB710FU (Android 16, kernel 6.1.128) + KernelSU LKM late-load: on-device .ko patching (kallsyms relocation, vermagic, __versions), manager crowned to Working [Jailbreak mode], su in u:r:ksu:s0.</summary>
-    </entry>
-    <entry>
-      <title>ybblab/Jiumi</title>
-      <link href="https://github.com/ybblab/Jiumi"/>
-      <id>https://github.com/ybblab/Jiumi</id>
-      <updated>2026-11-19T04:36:51.000Z</updated>
-      <summary>揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity &amp; privacy monitor. No root required.</summary>
-    </entry>
-    <entry>
-      <title>DarkAspect1/Nudge</title>
-      <link href="https://github.com/DarkAspect1/Nudge"/>
-      <id>https://github.com/DarkAspect1/Nudge</id>
-      <updated>2026-11-18T20:05:09.000Z</updated>
-      <summary>An app that shows edge pops/animation when you press side buttons, a custom volume slider, and two action panels inspired by a concept design is now a reality</summary>
-    </entry>
-    <entry>
-      <title>yyzmia1/Pinpoint</title>
-      <link href="https://github.com/yyzmia1/Pinpoint"/>
-      <id>https://github.com/yyzmia1/Pinpoint</id>
-      <updated>2026-11-19T10:12:53.000Z</updated>
-      <summary>Offline Android full-disk file &amp; document content search engine — Normal / Shizuku / Root privilege tiers, two-tier SQLite FTS5 CJK N-gram indexing, Everything query syntax.</summary>
-    </entry>
-    <entry>
-      <title>revBlackCore/RevCoreManager</title>
-      <link href="https://github.com/revBlackCore/RevCoreManager"/>
-      <id>https://github.com/revBlackCore/RevCoreManager</id>
-      <updated>2026-11-17T06:16:05.000Z</updated>
-      <summary>Privileged Plugin Manager for Android (AX Manager-Compatible)</summary>
-    </entry>
-    <entry>
-      <title>Fleve-MY/DexLink</title>
-      <link href="https://github.com/Fleve-MY/DexLink"/>
-      <id>https://github.com/Fleve-MY/DexLink</id>
-      <updated>2026-11-17T10:15:19.000Z</updated>
-      <summary>Control Android from Windows: screen mirroring, independent app windows, keyboard/mouse input, and file transfer. Android 手机与 Windows 桌面协作。</summary>
+      <title>realheckerrr-bit/root-my-puxel</title>
+      <link href="https://github.com/realheckerrr-bit/root-my-puxel"/>
+      <id>https://github.com/realheckerrr-bit/root-my-puxel</id>
+      <updated>2026-11-16T17:50:34.000Z</updated>
+      <summary>Standalone private Root My Pixel build with Pixel 7 Pro CP3A.260905.009 support</summary>
     </entry>
 </feed>
