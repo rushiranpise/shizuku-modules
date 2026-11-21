@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shizuku Apps Directory — New Apps</title>
+  <link href="https://rushiranpise.github.io/shizuku-modules/"/>
+  <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
+  <updated>2026-11-21T10:20:25.525Z</updated>
+  <id>https://rushiranpise.github.io/shizuku-modules/</id>
+  <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>aether-aiagent/aether</title>
+      <link href="https://github.com/aether-aiagent/aether"/>
+      <id>https://github.com/aether-aiagent/aether</id>
+      <updated>2026-11-20T18:56:19.000Z</updated>
+      <summary>Aether — open-source AI agent for Android (Kotlin, Jetpack Compose). Local LLM chat app with bash, file and MCP tools, subagents, offline Alpine/Proot runtime, Termux and Shizuku support. Signed APK releases. ИИ-агент на телефон: нейросеть на Android с инструментами.</summary>
+    </entry>
+    <entry>
+      <title>xjyzs/Operator-on-Android</title>
+      <link href="https://github.com/xjyzs/Operator-on-Android"/>
+      <id>https://github.com/xjyzs/Operator-on-Android</id>
+      <updated>2026-11-21T09:39:27.000Z</updated>
+      <summary>能后台操作手机的 AI Agent, 免 Root, 执行步数少, 成功率高 An AI agent running in your phone with high efficiency, running in the background, non-root</summary>
+    </entry>
+    <entry>
+      <title>nc-hyper/HyperEngine-Game-turbo-Pro</title>
+      <link href="https://github.com/nc-hyper/HyperEngine-Game-turbo-Pro"/>
+      <id>https://github.com/nc-hyper/HyperEngine-Game-turbo-Pro</id>
+      <updated>2026-11-21T03:59:46.000Z</updated>
+      <summary>Kotlin Android game booster &amp; console HUD overlay featuring 3D Game Space, Wild Boost, 5-layer Hz lock, HyperBoost upscaling, macros, ROM Lab &amp; Voice Studio. Android 8.0+, Shizuku/root, offline, MIT.</summary>
+    </entry>
+    <entry>
+      <title>aislingheart/komorebi</title>
+      <link href="https://github.com/aislingheart/komorebi"/>
+      <id>https://github.com/aislingheart/komorebi</id>
+      <updated>2026-11-20T20:55:35.000Z</updated>
+      <summary>A fast, extensible command palette, universal launcher, and Raycast / Vicinae extension runtime for Android.</summary>
+    </entry>
+    <entry>
+      <title>azziz1601/RustRay</title>
+      <link href="https://github.com/azziz1601/RustRay"/>
+      <id>https://github.com/azziz1601/RustRay</id>
+      <updated>2026-11-21T07:13:08.000Z</updated>
+      <summary>Android VPN client (VLESS/VMess/Trojan) powered by xray-rust-mobile</summary>
+    </entry>
+    <entry>
+      <title>Bananchik0901/antigravity-android</title>
+      <link href="https://github.com/Bananchik0901/antigravity-android"/>
+      <id>https://github.com/Bananchik0901/antigravity-android</id>
+      <updated>2026-11-21T09:25:43.000Z</updated>
+      <summary>Нативный порт Google Antigravity на Android (ARM64) — автономная ИИ-среда разработки с Shizuku, pkg и автообновлением | Native Android port of Antigravity.</summary>
+    </entry>
+    <entry>
+      <title>dcoder-me/wifi-switcher</title>
+      <link href="https://github.com/dcoder-me/wifi-switcher"/>
+      <id>https://github.com/dcoder-me/wifi-switcher</id>
+      <updated>2026-11-20T16:31:44.000Z</updated>
+      <summary>Android app that switches between Wi-Fi and mobile hotspot automatically (Shizuku or root)</summary>
+    </entry>
+    <entry>
+      <title>Deshan555/Andromon_PC</title>
+      <link href="https://github.com/Deshan555/Andromon_PC"/>
+      <id>https://github.com/Deshan555/Andromon_PC</id>
+      <updated>2026-11-21T06:16:48.000Z</updated>
+      <summary>Manage your Android phone from Windows, macOS or Linux: mirror and control the screen, text, move files and photos, back up, debloat, plus logcat and test automation for developers. USB or Wi‑Fi, no root, no account.</summary>
+    </entry>
+    <entry>
+      <title>Lkxuii/refresh-rate-switch</title>
+      <link href="https://github.com/Lkxuii/refresh-rate-switch"/>
+      <id>https://github.com/Lkxuii/refresh-rate-switch</id>
+      <updated>2026-11-21T09:41:50.000Z</updated>
+      <summary>Android 平板刷新率切换工具（无 root，基于 Shizuku）</summary>
+    </entry>
+    <entry>
+      <title>JMAN730/opendroid</title>
+      <link href="https://github.com/JMAN730/opendroid"/>
+      <id>https://github.com/JMAN730/opendroid</id>
+      <updated>2026-11-10T19:35:42.000Z</updated>
+      <summary>Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation</summary>
+    </entry>
+    <entry>
+      <title>Velocity081/droidtools</title>
+      <link href="https://github.com/Velocity081/droidtools"/>
+      <id>https://github.com/Velocity081/droidtools</id>
+      <updated>2026-11-07T14:36:27.000Z</updated>
+      <summary>Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons</summary>
+    </entry>
+    <entry>
+      <title>kenkawakenkenke/power-struggle</title>
+      <link href="https://github.com/kenkawakenkenke/power-struggle"/>
+      <id>https://github.com/kenkawakenkenke/power-struggle</id>
+      <updated>2026-10-07T06:44:58.000Z</updated>
+      <summary>A two-player tap battle over USB-C where you physically steal battery power from your opponent.</summary>
+    </entry>
+    <entry>
+      <title>Ultra-Guru/Android-Guru-Agent</title>
+      <link href="https://github.com/Ultra-Guru/Android-Guru-Agent"/>
+      <id>https://github.com/Ultra-Guru/Android-Guru-Agent</id>
+      <updated>2026-11-15T07:57:14.000Z</updated>
+      <summary>🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory (cs-mem) · BYO-LLM. No server. No PC.</summary>
+    </entry>
+    <entry>
+      <title>303562915/unicanta</title>
+      <link href="https://github.com/303562915/unicanta"/>
+      <id>https://github.com/303562915/unicanta</id>
+      <updated>2026-11-21T10:08:16.000Z</updated>
+      <summary>Canta unicanta — 免 root 卸载系统应用 / uninstall preinstalled Android apps without root. Device-aware safety rules, community plans, self-hosted telemetry.</summary>
+    </entry>
+    <entry>
+      <title>Lucent-Project/Lucent</title>
+      <link href="https://github.com/Lucent-Project/Lucent"/>
+      <id>https://github.com/Lucent-Project/Lucent</id>
+      <updated>2026-11-02T05:18:44.000Z</updated>
+      <summary>Lucent 📝 — Notes, tasks &amp; an AI assistant that respects your privacy 🔒 Encrypted &amp; offline-first ✨</summary>
+    </entry>
+    <entry>
+      <title>shangu2003/SamsungRootKit</title>
+      <link href="https://github.com/shangu2003/SamsungRootKit"/>
+      <id>https://github.com/shangu2003/SamsungRootKit</id>
+      <updated>2026-10-21T02:09:35.000Z</updated>
+      <summary>Offline Android root toolkit for Samsung Galaxy (S23-S26 / Z Flip / Z Fold / Tab S9 Ultra). DF chain (DirtyFrag) first, auto-fallback to the SRK chain (CVE-2026-43499, firmware-matched payloads), then DFReroot persistence. KernelSU &amp; KernelSU-Next. For security research only.</summary>
+    </entry>
+    <entry>
+      <title>chengzi2333/StayHiFi</title>
+      <link href="https://github.com/chengzi2333/StayHiFi"/>
+      <id>https://github.com/chengzi2333/StayHiFi</id>
+      <updated>2026-11-19T14:43:40.000Z</updated>
+      <summary>免 root 蓝牙音质拉满：耳机一连，自动把编码器、采样率、位深写回设备协商上限（LHDC / LDAC / aptX），断连重连不回滚。</summary>
+    </entry>
+    <entry>
+      <title>Afaqraza12/xper5</title>
+      <link href="https://github.com/Afaqraza12/xper5"/>
+      <id>https://github.com/Afaqraza12/xper5</id>
+      <updated>2026-11-14T20:45:05.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>cunkai/CangHai-Desk</title>
+      <link href="https://github.com/cunkai/CangHai-Desk"/>
+      <id>https://github.com/cunkai/CangHai-Desk</id>
+      <updated>2026-11-18T09:05:23.000Z</updated>
+      <summary>CangHai Desk - Android desktop / DeX streaming &amp; remote control (Root/Shizuku, wired display, Moonlight)</summary>
+    </entry>
+    <entry>
+      <title>MetxStudio/FreeFile</title>
+      <link href="https://github.com/MetxStudio/FreeFile"/>
+      <id>https://github.com/MetxStudio/FreeFile</id>
+      <updated>2026-11-01T10:41:36.000Z</updated>
+      <summary>FreeFile is a Kotlin and Jetpack Compose-based Android file manager with dual-pane navigation, Root/Shizuku support, remote storage, terminal integration, scripting, APK tools and so on.</summary>
+    </entry>
+    <entry>
+      <title>s1ngerax1le/AutoSign</title>
+      <link href="https://github.com/s1ngerax1le/AutoSign"/>
+      <id>https://github.com/s1ngerax1le/AutoSign</id>
+      <updated>2026-11-06T07:49:37.000Z</updated>
+      <summary>一个今日校园自动签到软件，有root和无root两种模式，通过讯息-辅导员通知-签到通知消息进入签到界面，能在每天设置的时间自动唤醒手机并签到</summary>
+    </entry>
+    <entry>
+      <title>huliaiya/Mugshot</title>
+      <link href="https://github.com/huliaiya/Mugshot"/>
+      <id>https://github.com/huliaiya/Mugshot</id>
+      <updated>2026-11-19T17:42:18.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>osamaassolimany-ui/TimerRoot</title>
+      <link href="https://github.com/osamaassolimany-ui/TimerRoot"/>
+      <id>https://github.com/osamaassolimany-ui/TimerRoot</id>
+      <updated>2026-10-29T02:33:47.000Z</updated>
+      <summary>Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku</summary>
+    </entry>
+    <entry>
+      <title>qianyumeng0228/ShizukuX-API</title>
+      <link href="https://github.com/qianyumeng0228/ShizukuX-API"/>
+      <id>https://github.com/qianyumeng0228/ShizukuX-API</id>
+      <updated>2026-11-02T05:09:42.000Z</updated>
+      <summary>ShizukuX-API：增强版 Shizuku API，提供同步 Shell 执行、Dhizuku 集成与高级系统接口（Apache-2.0 / MIT）。</summary>
+    </entry>
+    <entry>
+      <title>VinSon326/CVE-2026-98260-iQOO12</title>
+      <link href="https://github.com/VinSon326/CVE-2026-98260-iQOO12"/>
+      <id>https://github.com/VinSon326/CVE-2026-98260-iQOO12</id>
+      <updated>2026-11-06T09:26:54.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>ardia-kun/android-ram-cleaner</title>
+      <link href="https://github.com/ardia-kun/android-ram-cleaner"/>
+      <id>https://github.com/ardia-kun/android-ram-cleaner</id>
+      <updated>2026-10-04T11:33:55.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>kinsonstudio/krfr</title>
+      <link href="https://github.com/kinsonstudio/krfr"/>
+      <id>https://github.com/kinsonstudio/krfr</id>
+      <updated>2026-11-19T09:44:24.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>chenuzi63-ctrl/potential-octo-journey</title>
+      <link href="https://github.com/chenuzi63-ctrl/potential-octo-journey"/>
+      <id>https://github.com/chenuzi63-ctrl/potential-octo-journey</id>
+      <updated>2026-11-11T02:20:05.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku</title>
+      <link href="https://github.com/DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku"/>
+      <id>https://github.com/DannyLiTHEBEST/limbuscompanylocalizer4android-shizuku</id>
+      <updated>2026-09-28T16:15:54.000Z</updated>
+      <summary>边狱巴士 Shizuku 汉化助手</summary>
+    </entry>
+    <entry>
+      <title>dlph-Ex/animwidget</title>
+      <link href="https://github.com/dlph-Ex/animwidget"/>
+      <id>https://github.com/dlph-Ex/animwidget</id>
+      <updated>2026-11-15T21:52:32.000Z</updated>
+      <summary>把视频/动图/图片做成安卓桌面动态组件｜Turn videos/GIFs/images into live Android home screen widgets</summary>
+    </entry>
+</feed>
