@@ -3,9 +3,72 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-20T10:39:47.367Z</updated>
+  <updated>2026-11-21T10:20:25.525Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>aether-aiagent/aether</title>
+      <link href="https://github.com/aether-aiagent/aether"/>
+      <id>https://github.com/aether-aiagent/aether</id>
+      <updated>2026-11-20T18:56:19.000Z</updated>
+      <summary>Aether — open-source AI agent for Android (Kotlin, Jetpack Compose). Local LLM chat app with bash, file and MCP tools, subagents, offline Alpine/Proot runtime, Termux and Shizuku support. Signed APK releases. ИИ-агент на телефон: нейросеть на Android с инструментами.</summary>
+    </entry>
+    <entry>
+      <title>xjyzs/Operator-on-Android</title>
+      <link href="https://github.com/xjyzs/Operator-on-Android"/>
+      <id>https://github.com/xjyzs/Operator-on-Android</id>
+      <updated>2026-11-21T09:39:27.000Z</updated>
+      <summary>能后台操作手机的 AI Agent, 免 Root, 执行步数少, 成功率高 An AI agent running in your phone with high efficiency, running in the background, non-root</summary>
+    </entry>
+    <entry>
+      <title>nc-hyper/HyperEngine-Game-turbo-Pro</title>
+      <link href="https://github.com/nc-hyper/HyperEngine-Game-turbo-Pro"/>
+      <id>https://github.com/nc-hyper/HyperEngine-Game-turbo-Pro</id>
+      <updated>2026-11-21T03:59:46.000Z</updated>
+      <summary>Kotlin Android game booster &amp; console HUD overlay featuring 3D Game Space, Wild Boost, 5-layer Hz lock, HyperBoost upscaling, macros, ROM Lab &amp; Voice Studio. Android 8.0+, Shizuku/root, offline, MIT.</summary>
+    </entry>
+    <entry>
+      <title>aislingheart/komorebi</title>
+      <link href="https://github.com/aislingheart/komorebi"/>
+      <id>https://github.com/aislingheart/komorebi</id>
+      <updated>2026-11-20T20:55:35.000Z</updated>
+      <summary>A fast, extensible command palette, universal launcher, and Raycast / Vicinae extension runtime for Android.</summary>
+    </entry>
+    <entry>
+      <title>azziz1601/RustRay</title>
+      <link href="https://github.com/azziz1601/RustRay"/>
+      <id>https://github.com/azziz1601/RustRay</id>
+      <updated>2026-11-21T07:13:08.000Z</updated>
+      <summary>Android VPN client (VLESS/VMess/Trojan) powered by xray-rust-mobile</summary>
+    </entry>
+    <entry>
+      <title>Bananchik0901/antigravity-android</title>
+      <link href="https://github.com/Bananchik0901/antigravity-android"/>
+      <id>https://github.com/Bananchik0901/antigravity-android</id>
+      <updated>2026-11-21T09:25:43.000Z</updated>
+      <summary>Нативный порт Google Antigravity на Android (ARM64) — автономная ИИ-среда разработки с Shizuku, pkg и автообновлением | Native Android port of Antigravity.</summary>
+    </entry>
+    <entry>
+      <title>dcoder-me/wifi-switcher</title>
+      <link href="https://github.com/dcoder-me/wifi-switcher"/>
+      <id>https://github.com/dcoder-me/wifi-switcher</id>
+      <updated>2026-11-20T16:31:44.000Z</updated>
+      <summary>Android app that switches between Wi-Fi and mobile hotspot automatically (Shizuku or root)</summary>
+    </entry>
+    <entry>
+      <title>Deshan555/Andromon_PC</title>
+      <link href="https://github.com/Deshan555/Andromon_PC"/>
+      <id>https://github.com/Deshan555/Andromon_PC</id>
+      <updated>2026-11-21T06:16:48.000Z</updated>
+      <summary>Manage your Android phone from Windows, macOS or Linux: mirror and control the screen, text, move files and photos, back up, debloat, plus logcat and test automation for developers. USB or Wi‑Fi, no root, no account.</summary>
+    </entry>
+    <entry>
+      <title>Lkxuii/refresh-rate-switch</title>
+      <link href="https://github.com/Lkxuii/refresh-rate-switch"/>
+      <id>https://github.com/Lkxuii/refresh-rate-switch</id>
+      <updated>2026-11-21T09:41:50.000Z</updated>
+      <summary>Android 平板刷新率切换工具（无 root，基于 Shizuku）</summary>
+    </entry>
     <entry>
       <title>JMAN730/opendroid</title>
       <link href="https://github.com/JMAN730/opendroid"/>
@@ -35,6 +98,13 @@
       <summary>🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory (cs-mem) · BYO-LLM. No server. No PC.</summary>
     </entry>
     <entry>
+      <title>303562915/unicanta</title>
+      <link href="https://github.com/303562915/unicanta"/>
+      <id>https://github.com/303562915/unicanta</id>
+      <updated>2026-11-21T10:08:16.000Z</updated>
+      <summary>Canta unicanta — 免 root 卸载系统应用 / uninstall preinstalled Android apps without root. Device-aware safety rules, community plans, self-hosted telemetry.</summary>
+    </entry>
+    <entry>
       <title>Lucent-Project/Lucent</title>
       <link href="https://github.com/Lucent-Project/Lucent"/>
       <id>https://github.com/Lucent-Project/Lucent</id>
@@ -54,13 +124,6 @@
       <id>https://github.com/chengzi2333/StayHiFi</id>
       <updated>2026-11-19T14:43:40.000Z</updated>
       <summary>免 root 蓝牙音质拉满：耳机一连，自动把编码器、采样率、位深写回设备协商上限（LHDC / LDAC / aptX），断连重连不回滚。</summary>
-    </entry>
-    <entry>
-      <title>303562915/unicanta</title>
-      <link href="https://github.com/303562915/unicanta"/>
-      <id>https://github.com/303562915/unicanta</id>
-      <updated>2026-11-20T10:36:35.000Z</updated>
-      <summary>Canta unicanta — 免 root 卸载系统应用 / uninstall preinstalled Android apps without root. Device-aware safety rules, community plans, self-hosted telemetry.</summary>
     </entry>
     <entry>
       <title>Afaqraza12/xper5</title>
@@ -152,68 +215,5 @@
       <id>https://github.com/dlph-Ex/animwidget</id>
       <updated>2026-11-15T21:52:32.000Z</updated>
       <summary>把视频/动图/图片做成安卓桌面动态组件｜Turn videos/GIFs/images into live Android home screen widgets</summary>
-    </entry>
-    <entry>
-      <title>dr-liki/cleanyourphone</title>
-      <link href="https://github.com/dr-liki/cleanyourphone"/>
-      <id>https://github.com/dr-liki/cleanyourphone</id>
-      <updated>2026-11-19T17:03:46.000Z</updated>
-      <summary>A modern, rootless Android debloater. Safely optimise your device via Shizuku or wirelessly debloat other phones and Android/google TV over Wi-Fi</summary>
-    </entry>
-    <entry>
-      <title>EnormousKnob/dual-sim-network-tiles</title>
-      <link href="https://github.com/EnormousKnob/dual-sim-network-tiles"/>
-      <id>https://github.com/EnormousKnob/dual-sim-network-tiles</id>
-      <updated>2026-11-18T14:18:16.000Z</updated>
-      <summary>Android dual SIM mobile data switcher &amp; 4G/5G Quick Settings tiles via Shizuku. 安卓双卡流量卡切换、4G/5G 快捷开关；仅在 Samsung Galaxy S24 Ultra / One UI 8.5 测试通过，其他设备未验证。</summary>
-    </entry>
-    <entry>
-      <title>hannansaeed/Cyfex</title>
-      <link href="https://github.com/hannansaeed/Cyfex"/>
-      <id>https://github.com/hannansaeed/Cyfex</id>
-      <updated>2026-09-25T13:34:03.000Z</updated>
-      <summary>An on-device Android threat monitoring and security plaform usitng Jetpack Compose and privileged system telemetry (Shizuku) for explainable, zero-cloud risk scoring.</summary>
-    </entry>
-    <entry>
-      <title>Kohlrabenschwarz/Shizuku</title>
-      <link href="https://github.com/Kohlrabenschwarz/Shizuku"/>
-      <id>https://github.com/Kohlrabenschwarz/Shizuku</id>
-      <updated>2026-09-19T22:50:36.000Z</updated>
-      <summary>Unofficial Shizuku 13.6.1 compatibility fork for Android 15 and HyperOS user-service startup issues.</summary>
-    </entry>
-    <entry>
-      <title>mingxiozsg-star/zhiwei-manager</title>
-      <link href="https://github.com/mingxiozsg-star/zhiwei-manager"/>
-      <id>https://github.com/mingxiozsg-star/zhiwei-manager</id>
-      <updated>2026-11-07T04:47:43.000Z</updated>
-      <summary>知微管理器 · 双窗 Android 文件管理器 + 逆向工具链（Dex / Smali / Jar / APK），Kotlin + Jetpack Compose。｜ZhiweiManager · a dual-pane Android file manager with a built-in reverse-engineering toolchain (Dex / Smali / Jar / APK), written in Kotlin with Jetpack Compose.</summary>
-    </entry>
-    <entry>
-      <title>Nornthenight/ClassicPixelSearch</title>
-      <link href="https://github.com/Nornthenight/ClassicPixelSearch"/>
-      <id>https://github.com/Nornthenight/ClassicPixelSearch</id>
-      <updated>2026-11-12T15:04:40.000Z</updated>
-      <summary>Pixel Classic Search dock widget with Shizuku and All Apps OneSearch sync</summary>
-    </entry>
-    <entry>
-      <title>PanteraGS/netswitch</title>
-      <link href="https://github.com/PanteraGS/netswitch"/>
-      <id>https://github.com/PanteraGS/netswitch</id>
-      <updated>2026-10-23T18:54:43.000Z</updated>
-      <summary>Network mode switcher widget for Android</summary>
-    </entry>
-    <entry>
-      <title>realheckerrr-bit/pixelxpert-next-non-root</title>
-      <link href="https://github.com/realheckerrr-bit/pixelxpert-next-non-root"/>
-      <id>https://github.com/realheckerrr-bit/pixelxpert-next-non-root</id>
-      <updated>2026-10-23T09:00:33.000Z</updated>
-      <summary>PixelXpert-Next ported as a standalone signed APK for non-root devices via Wireless ADB, Shizuku, and LSPatch (Android 13 to 17)</summary>
-    </entry>
-    <entry>
-      <title>realheckerrr-bit/root-my-puxel</title>
-      <link href="https://github.com/realheckerrr-bit/root-my-puxel"/>
-      <id>https://github.com/realheckerrr-bit/root-my-puxel</id>
-      <updated>2026-11-16T17:50:34.000Z</updated>
-      <summary>Standalone private Root My Pixel build with Pixel 7 Pro CP3A.260905.009 support</summary>
     </entry>
 </feed>
