@@ -3,9 +3,65 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-22T10:25:10.813Z</updated>
+  <updated>2026-11-23T11:24:33.424Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>cyb3rl00m/prune-debloater</title>
+      <link href="https://github.com/cyb3rl00m/prune-debloater"/>
+      <id>https://github.com/cyb3rl00m/prune-debloater</id>
+      <updated>2026-11-22T12:56:38.000Z</updated>
+      <summary>An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.</summary>
+    </entry>
+    <entry>
+      <title>Santoshkurmi/antigem</title>
+      <link href="https://github.com/Santoshkurmi/antigem"/>
+      <id>https://github.com/Santoshkurmi/antigem</id>
+      <updated>2026-11-23T07:15:38.000Z</updated>
+      <summary>A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development.</summary>
+    </entry>
+    <entry>
+      <title>DurchEins/apkup</title>
+      <link href="https://github.com/DurchEins/apkup"/>
+      <id>https://github.com/DurchEins/apkup</id>
+      <updated>2026-11-23T01:18:05.000Z</updated>
+      <summary>Modern open-source Material 3 Android APK updater &amp; actively maintained APKUpdater successor. Supports Google Play, F-Droid &amp; IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab &amp; Codeberg with signature verification, Watchlist, Obtainium sync &amp; silent Shizuku/Root.</summary>
+    </entry>
+    <entry>
+      <title>NNazuna/nna-clicker</title>
+      <link href="https://github.com/NNazuna/nna-clicker"/>
+      <id>https://github.com/NNazuna/nna-clicker</id>
+      <updated>2026-11-22T12:33:01.000Z</updated>
+      <summary>Touch recorder &amp; auto clicker for Android. Record taps and swipes, replay them with precise timing. No root, no internet, no trackers.</summary>
+    </entry>
+    <entry>
+      <title>neveSZ/onehz</title>
+      <link href="https://github.com/neveSZ/onehz"/>
+      <id>https://github.com/neveSZ/onehz</id>
+      <updated>2026-11-23T01:25:06.000Z</updated>
+      <summary>Refresh-rate controller for Samsung and Xiaomi/Redmi/POCO displays via Shizuku. No root, no accessibility service. Tested on Galaxy S25+ and POCO X7 Pro.</summary>
+    </entry>
+    <entry>
+      <title>ezn24/DroidCar</title>
+      <link href="https://github.com/ezn24/DroidCar"/>
+      <id>https://github.com/ezn24/DroidCar</id>
+      <updated>2026-11-22T21:50:46.000Z</updated>
+      <summary>DroidCar allows Android phones to connect to CarPlay Head-unit, just like an iPhone, without root.</summary>
+    </entry>
+    <entry>
+      <title>uenzuwkxos/BloodMoon</title>
+      <link href="https://github.com/uenzuwkxos/BloodMoon"/>
+      <id>https://github.com/uenzuwkxos/BloodMoon</id>
+      <updated>2026-11-22T19:44:10.000Z</updated>
+      <summary>An Android app designed to combat blue light and eye strain. Compatible with Android TVs.</summary>
+    </entry>
+    <entry>
+      <title>wuy489934-svg/DLA</title>
+      <link href="https://github.com/wuy489934-svg/DLA"/>
+      <id>https://github.com/wuy489934-svg/DLA</id>
+      <updated>2026-11-23T10:40:31.000Z</updated>
+      <summary>DLA · DeepSeek LLM Agent：跑在你自己 Android 手机上的本地智能体（非官方，非官方产品）。Agent 通过 Shizuku 或 Termux 二选一执行真机任务，工具按需发现、默认逐次审批、无遥测，模型请求直达你自己的端点。</summary>
+    </entry>
     <entry>
       <title>onerdna/stalker</title>
       <link href="https://github.com/onerdna/stalker"/>
@@ -159,61 +215,5 @@
       <id>https://github.com/MetxStudio/DEVTools</id>
       <updated>2026-07-10T06:57:04.000Z</updated>
       <summary>All-in-one Android dev toolkit: terminals, sensor monitor, app/file managers plus a Shizuku shell helper.</summary>
-    </entry>
-    <entry>
-      <title>raging-flames/IrisShot</title>
-      <link href="https://github.com/raging-flames/IrisShot"/>
-      <id>https://github.com/raging-flames/IrisShot</id>
-      <updated>2026-07-25T08:57:52.000Z</updated>
-      <summary>Scrolling-screenshot tool for Android games that auto-scrolls and stitches long captures using MediaProjection or Shizuku-powered shell capture.</summary>
-    </entry>
-    <entry>
-      <title>Smart-Home-User/PortalPad</title>
-      <link href="https://github.com/Smart-Home-User/PortalPad"/>
-      <id>https://github.com/Smart-Home-User/PortalPad</id>
-      <updated>2026-07-30T04:32:22.000Z</updated>
-      <summary>Turns your phone into a trackpad, air mouse, and remote for external displays like AR glasses, monitors, and TVs</summary>
-    </entry>
-    <entry>
-      <title>maybeknott/MaybeEdgeScanner</title>
-      <link href="https://github.com/maybeknott/MaybeEdgeScanner"/>
-      <id>https://github.com/maybeknott/MaybeEdgeScanner</id>
-      <updated>2026-08-17T05:10:29.000Z</updated>
-      <summary>Route-pairing network scanner probing TCP/TLS/HTTP targets, with optional Shizuku-assisted radio diagnostics.</summary>
-    </entry>
-    <entry>
-      <title>RyensX/MemorySnapshot</title>
-      <link href="https://github.com/RyensX/MemorySnapshot"/>
-      <id>https://github.com/RyensX/MemorySnapshot</id>
-      <updated>2026-08-16T14:10:59.000Z</updated>
-      <summary>On-device Android memory observer: per-app/process PSS tracking, snapshot save and compare, with data gathered via Shizuku or root.</summary>
-    </entry>
-    <entry>
-      <title>QuyetGD-15/ADOFAI-Key-Viewer-Mobile</title>
-      <link href="https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile"/>
-      <id>https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile</id>
-      <updated>2026-11-09T10:32:11.000Z</updated>
-      <summary>Overlay key visualizer for ADOFAI and rhythm games; reads hardware input events through Shizuku getevent for ultra-low-latency touch visualization, KPS tracking and click counting.</summary>
-    </entry>
-    <entry>
-      <title>JMINN0/android-adb-direct</title>
-      <link href="https://github.com/JMINN0/android-adb-direct"/>
-      <id>https://github.com/JMINN0/android-adb-direct</id>
-      <updated>2026-11-16T17:55:26.000Z</updated>
-      <summary>让 AI 在手机内部拿到真 adb shell（uid 2000，无 root、不踢掉 Shizuku、关 Wi-Fi 也能用）。DSH Go 插件，adb 客户端和 adbd 都在同一台手机上走回环。</summary>
-    </entry>
-    <entry>
-      <title>mustafayusufaksoy/iphone-hat-koprusu</title>
-      <link href="https://github.com/mustafayusufaksoy/iphone-hat-koprusu"/>
-      <id>https://github.com/mustafayusufaksoy/iphone-hat-koprusu</id>
-      <updated>2026-11-21T15:39:43.000Z</updated>
-      <summary>Android'deki Türk hattının aramalarını SIM'siz iPhone'da çaldır, cevapla, o hatla ara | Bridge an Android SIM to a SIM-less iPhone over SIP, no root</summary>
-    </entry>
-    <entry>
-      <title>wenweiqi114514wenweiqi-ux/Phone-Agent</title>
-      <link href="https://github.com/wenweiqi114514wenweiqi-ux/Phone-Agent"/>
-      <id>https://github.com/wenweiqi114514wenweiqi-ux/Phone-Agent</id>
-      <updated>2026-11-22T05:46:47.000Z</updated>
-      <summary>通过接入 AI 大模型，授权 Shizuku/Root 权限，以更加智能的方式操作自己手机</summary>
     </entry>
 </feed>
