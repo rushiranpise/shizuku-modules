@@ -3,42 +3,112 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-23T11:24:33.424Z</updated>
+  <updated>2026-11-24T12:59:49.159Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>swipt-automation/swipt</title>
+      <link href="https://github.com/swipt-automation/swipt"/>
+      <id>https://github.com/swipt-automation/swipt</id>
+      <updated>2026-11-24T12:53:53.000Z</updated>
+      <summary>The universal iOS automation platform</summary>
+    </entry>
+    <entry>
+      <title>fw867/hypercar</title>
+      <link href="https://github.com/fw867/hypercar"/>
+      <id>https://github.com/fw867/hypercar</id>
+      <updated>2026-11-24T09:49:18.000Z</updated>
+      <summary>Android手机自绘车机UI(高德、百度地图与音乐卡片)或者小米Carwith通过无线CarPlay投送到车机（Kotlin + Rust）</summary>
+    </entry>
+    <entry>
+      <title>willygailo/Game-Launcher</title>
+      <link href="https://github.com/willygailo/Game-Launcher"/>
+      <id>https://github.com/willygailo/Game-Launcher</id>
+      <updated>2026-11-24T03:27:23.000Z</updated>
+      <summary>🚀 Ang pinaka-powerful na Android performance booster para sa mobile gaming!</summary>
+    </entry>
+    <entry>
+      <title>MahanYTT/UniRoot-Next</title>
+      <link href="https://github.com/MahanYTT/UniRoot-Next"/>
+      <id>https://github.com/MahanYTT/UniRoot-Next</id>
+      <updated>2026-11-23T19:39:49.000Z</updated>
+      <summary>One-tap root for Samsung Galaxy (S25, S25 Ultra, S26 Ultra, Z Fold 8 &amp; GKI 5.10–6.18) with KernelSU-Next v3.4.2 &amp; KernelSU — no bootloader unlock, Knox 0x0, full Zygisk (Vector), LSPosed, KDP/DEFEX bypass &amp; auto-root on boot.</summary>
+    </entry>
+    <entry>
+      <title>AndrewChqng/android-htop-gui</title>
+      <link href="https://github.com/AndrewChqng/android-htop-gui"/>
+      <id>https://github.com/AndrewChqng/android-htop-gui</id>
+      <updated>2026-11-24T11:50:45.000Z</updated>
+      <summary>Native Android htop GUI, process monitor &amp; task manager for Root (Magisk/KernelSU), Shizuku &amp; LineageOS — includes bundled arter97/android-htop 3.5.3, top &amp; touch/mouse/keyboard passthrough</summary>
+    </entry>
+    <entry>
+      <title>diaoshabu-coder/icon-workshop</title>
+      <link href="https://github.com/diaoshabu-coder/icon-workshop"/>
+      <id>https://github.com/diaoshabu-coder/icon-workshop</id>
+      <updated>2026-11-24T06:09:51.000Z</updated>
+      <summary>Give any Android app a custom-icon launcher entry via Shizuku - no root, original app untouched.</summary>
+    </entry>
+    <entry>
+      <title>YoruDev-Ryland/Tandem</title>
+      <link href="https://github.com/YoruDev-Ryland/Tandem"/>
+      <id>https://github.com/YoruDev-Ryland/Tandem</id>
+      <updated>2026-11-24T06:00:11.000Z</updated>
+      <summary>Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app.</summary>
+    </entry>
+    <entry>
+      <title>linxin-520/phone-ai-body</title>
+      <link href="https://github.com/linxin-520/phone-ai-body"/>
+      <id>https://github.com/linxin-520/phone-ai-body</id>
+      <updated>2026-11-23T13:35:04.000Z</updated>
+      <summary>让手机成为 AI 的身体：Linux QQ + NapCat + DSH</summary>
+    </entry>
+    <entry>
+      <title>supechicken/DroidGestures</title>
+      <link href="https://github.com/supechicken/DroidGestures"/>
+      <id>https://github.com/supechicken/DroidGestures</id>
+      <updated>2026-11-23T21:09:50.000Z</updated>
+      <summary>Rootless multi-touch touchpad gesture customization for Googlebook OS &amp; Android Desktop Mode</summary>
+    </entry>
+    <entry>
+      <title>yuhanbae/ShizuGuard</title>
+      <link href="https://github.com/yuhanbae/ShizuGuard"/>
+      <id>https://github.com/yuhanbae/ShizuGuard</id>
+      <updated>2026-11-22T17:38:11.000Z</updated>
+      <summary>No-root Android App Freezer, Background/Wakelock Clamper, Panic Freeze QS Tile &amp; Live RAM/Wakelock Telemetry powered by Shizuku</summary>
+    </entry>
     <entry>
       <title>cyb3rl00m/prune-debloater</title>
       <link href="https://github.com/cyb3rl00m/prune-debloater"/>
       <id>https://github.com/cyb3rl00m/prune-debloater</id>
-      <updated>2026-11-22T12:56:38.000Z</updated>
+      <updated>2026-11-24T07:39:58.000Z</updated>
       <summary>An opensource tool for Android devices to debloat and optimize them. Enhancing speed and privacy.</summary>
     </entry>
     <entry>
       <title>Santoshkurmi/antigem</title>
       <link href="https://github.com/Santoshkurmi/antigem"/>
       <id>https://github.com/Santoshkurmi/antigem</id>
-      <updated>2026-11-23T07:15:38.000Z</updated>
+      <updated>2026-11-24T12:37:47.000Z</updated>
       <summary>A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development.</summary>
     </entry>
     <entry>
       <title>DurchEins/apkup</title>
       <link href="https://github.com/DurchEins/apkup"/>
       <id>https://github.com/DurchEins/apkup</id>
-      <updated>2026-11-23T01:18:05.000Z</updated>
+      <updated>2026-11-24T12:03:24.000Z</updated>
       <summary>Modern open-source Material 3 Android APK updater &amp; actively maintained APKUpdater successor. Supports Google Play, F-Droid &amp; IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab &amp; Codeberg with signature verification, Watchlist, Obtainium sync &amp; silent Shizuku/Root.</summary>
     </entry>
     <entry>
       <title>NNazuna/nna-clicker</title>
       <link href="https://github.com/NNazuna/nna-clicker"/>
       <id>https://github.com/NNazuna/nna-clicker</id>
-      <updated>2026-11-22T12:33:01.000Z</updated>
+      <updated>2026-11-24T07:06:22.000Z</updated>
       <summary>Touch recorder &amp; auto clicker for Android. Record taps and swipes, replay them with precise timing. No root, no internet, no trackers.</summary>
     </entry>
     <entry>
       <title>neveSZ/onehz</title>
       <link href="https://github.com/neveSZ/onehz"/>
       <id>https://github.com/neveSZ/onehz</id>
-      <updated>2026-11-23T01:25:06.000Z</updated>
+      <updated>2026-11-24T11:42:50.000Z</updated>
       <summary>Refresh-rate controller for Samsung and Xiaomi/Redmi/POCO displays via Shizuku. No root, no accessibility service. Tested on Galaxy S25+ and POCO X7 Pro.</summary>
     </entry>
     <entry>
@@ -59,8 +129,8 @@
       <title>wuy489934-svg/DLA</title>
       <link href="https://github.com/wuy489934-svg/DLA"/>
       <id>https://github.com/wuy489934-svg/DLA</id>
-      <updated>2026-11-23T10:40:31.000Z</updated>
-      <summary>DLA · DeepSeek LLM Agent：跑在你自己 Android 手机上的本地智能体（非官方，非官方产品）。Agent 通过 Shizuku 或 Termux 二选一执行真机任务，工具按需发现、默认逐次审批、无遥测，模型请求直达你自己的端点。</summary>
+      <updated>2026-11-24T01:00:38.000Z</updated>
+      <summary>DLA · DeepSeek LLM Agent：装在自己手机上的本地智能体（非官方）。LLM 人设对话 + 能读屏/跑命令的手机 Agent，平级双分区；内置 shell/Python/Node，无需 Termux/root；数据本机、无遥测。</summary>
     </entry>
     <entry>
       <title>onerdna/stalker</title>
@@ -145,75 +215,5 @@
       <id>https://github.com/Evilgodxu/EdgeGesture</id>
       <updated>2026-11-21T14:47:12.000Z</updated>
       <summary>Edge-gesture app built on accessibility plus Shizuku: edge swipes, back-tap, floating music and task panels, freeform and app-kill actions.</summary>
-    </entry>
-    <entry>
-      <title>sihooney/spotify-ad-skipper</title>
-      <link href="https://github.com/sihooney/spotify-ad-skipper"/>
-      <id>https://github.com/sihooney/spotify-ad-skipper</id>
-      <updated>2026-07-26T20:18:22.000Z</updated>
-      <summary>Watches Spotify notifications and auto-skips ads by restarting playback, using Shizuku to relaunch from background.</summary>
-    </entry>
-    <entry>
-      <title>Artzhu86/ZhuFiler</title>
-      <link href="https://github.com/Artzhu86/ZhuFiler"/>
-      <id>https://github.com/Artzhu86/ZhuFiler</id>
-      <updated>2026-08-13T20:01:52.000Z</updated>
-      <summary>Open-source Material You file manager with archive, editor, media playback, APK handling and Shizuku-backed privileged access.</summary>
-    </entry>
-    <entry>
-      <title>BlizzardAn225/HyperOS3ScrollSetter</title>
-      <link href="https://github.com/BlizzardAn225/HyperOS3ScrollSetter"/>
-      <id>https://github.com/BlizzardAn225/HyperOS3ScrollSetter</id>
-      <updated>2026-11-10T02:02:31.000Z</updated>
-      <summary>Restores scrolling wallpapers and disables forced darkening on HyperOS 3/4, applying secure settings and restarts through Shizuku.newProcess or a root module.</summary>
-    </entry>
-    <entry>
-      <title>izumisagirii/silent-alarm</title>
-      <link href="https://github.com/izumisagirii/silent-alarm"/>
-      <id>https://github.com/izumisagirii/silent-alarm</id>
-      <updated>2026-10-05T07:41:51.000Z</updated>
-      <summary>Earphone-first alarm clock that keeps alarms alive on aggressive OEM ROMs with a Shizuku or root watchdog that restarts the app.</summary>
-    </entry>
-    <entry>
-      <title>thebytearray/OpenLoader</title>
-      <link href="https://github.com/thebytearray/OpenLoader"/>
-      <id>https://github.com/thebytearray/OpenLoader</id>
-      <updated>2026-04-21T19:26:14.000Z</updated>
-      <summary>APK installer built for the Android developer verification era, using Shizuku for the privileged install path.</summary>
-    </entry>
-    <entry>
-      <title>aliernfrog/pf-tool</title>
-      <link href="https://github.com/aliernfrog/pf-tool"/>
-      <id>https://github.com/aliernfrog/pf-tool</id>
-      <updated>2026-11-20T20:22:04.000Z</updated>
-      <summary>Easily import and share Polyfield maps</summary>
-    </entry>
-    <entry>
-      <title>ONDER1E/usbpdbs</title>
-      <link href="https://github.com/ONDER1E/usbpdbs"/>
-      <id>https://github.com/ONDER1E/usbpdbs</id>
-      <updated>2026-04-12T10:23:56.000Z</updated>
-      <summary>Toggles USB PD battery-bypass mode at charge thresholds via Shizuku with self-healing recovery.</summary>
-    </entry>
-    <entry>
-      <title>Dinico414/MindControl</title>
-      <link href="https://github.com/Dinico414/MindControl"/>
-      <id>https://github.com/Dinico414/MindControl</id>
-      <updated>2026-10-24T18:42:44.000Z</updated>
-      <summary>Hardware button remapper and AOD toolkit for the iKKO MindOne that monitors physical keys through Shizuku getevent, with a root fallback.</summary>
-    </entry>
-    <entry>
-      <title>mayusi/Calibrate-SoC</title>
-      <link href="https://github.com/mayusi/Calibrate-SoC"/>
-      <id>https://github.com/mayusi/Calibrate-SoC</id>
-      <updated>2026-11-21T12:35:46.000Z</updated>
-      <summary>SoC tuner, monitor and benchmark suite for Android gaming handhelds with goal-seeking governor and live HUD.</summary>
-    </entry>
-    <entry>
-      <title>MetxStudio/DEVTools</title>
-      <link href="https://github.com/MetxStudio/DEVTools"/>
-      <id>https://github.com/MetxStudio/DEVTools</id>
-      <updated>2026-07-10T06:57:04.000Z</updated>
-      <summary>All-in-one Android dev toolkit: terminals, sensor monitor, app/file managers plus a Shizuku shell helper.</summary>
     </entry>
 </feed>
