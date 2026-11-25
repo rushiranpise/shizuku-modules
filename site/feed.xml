@@ -3,21 +3,105 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-24T12:59:49.159Z</updated>
+  <updated>2026-11-25T11:49:20.165Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>DarkAspect1/Nudge-Edge</title>
+      <link href="https://github.com/DarkAspect1/Nudge-Edge"/>
+      <id>https://github.com/DarkAspect1/Nudge-Edge</id>
+      <updated>2026-11-25T07:59:46.000Z</updated>
+      <summary>An app that shows edge pops/animation for side buttons, a redesigned volume slider, actions &amp; modes panels, and edge handles inspired by a concept design is now a reality</summary>
+    </entry>
+    <entry>
+      <title>ColdP/AuraPlayer</title>
+      <link href="https://github.com/ColdP/AuraPlayer"/>
+      <id>https://github.com/ColdP/AuraPlayer</id>
+      <updated>2026-11-24T06:48:37.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>yyzmiao/Pinpoint</title>
+      <link href="https://github.com/yyzmiao/Pinpoint"/>
+      <id>https://github.com/yyzmiao/Pinpoint</id>
+      <updated>2026-11-25T03:51:23.000Z</updated>
+      <summary>Android 离线全盘搜索与空间分析工具 :  类 Everything 语法、毫秒级中文正文检索、WizTree 式空间透视（支持 Shizuku / Root）</summary>
+    </entry>
+    <entry>
+      <title>GfxGamerLab/spider-gfx-tool</title>
+      <link href="https://github.com/GfxGamerLab/spider-gfx-tool"/>
+      <id>https://github.com/GfxGamerLab/spider-gfx-tool</id>
+      <updated>2026-11-24T13:05:16.000Z</updated>
+      <summary>free open-source Android game booster &amp; GFX tool for all games — RAM cleaner, Auto-DNS, iPad View, FPS HUD, plus 60/90/120 FPS configs for PUBG/BGMI. No root (Shizuku).</summary>
+    </entry>
+    <entry>
+      <title>hinaaaq/FramePulse</title>
+      <link href="https://github.com/hinaaaq/FramePulse"/>
+      <id>https://github.com/hinaaaq/FramePulse</id>
+      <updated>2026-11-25T10:38:35.000Z</updated>
+      <summary>Real-time Android frame pacing, thermal telemetry &amp; Shizuku performance engine (No Root).</summary>
+    </entry>
+    <entry>
+      <title>mfskys/First</title>
+      <link href="https://github.com/mfskys/First"/>
+      <id>https://github.com/mfskys/First</id>
+      <updated>2026-11-25T02:34:27.000Z</updated>
+      <summary>澎湃First</summary>
+    </entry>
+    <entry>
+      <title>Taocrypt/MicMask</title>
+      <link href="https://github.com/Taocrypt/MicMask"/>
+      <id>https://github.com/Taocrypt/MicMask</id>
+      <updated>2026-11-25T09:51:02.000Z</updated>
+      <summary>安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理，低延迟（约 300ms），开源免费 | Real-time on-device AI voice changer for Android</summary>
+    </entry>
+    <entry>
+      <title>hoanfnho7/GameUpscaler</title>
+      <link href="https://github.com/hoanfnho7/GameUpscaler"/>
+      <id>https://github.com/hoanfnho7/GameUpscaler</id>
+      <updated>2026-11-24T17:07:39.000Z</updated>
+      <summary>⚡ Android utility to upscale game resolution (SSAA 1.10x–1.25x) and display a real-time hardware telemetry HUD (FPS, Watt, Temps) via Shizuku. No root required.</summary>
+    </entry>
+    <entry>
+      <title>debkol35/autotube</title>
+      <link href="https://github.com/debkol35/autotube"/>
+      <id>https://github.com/debkol35/autotube</id>
+      <updated>2026-11-25T07:42:08.000Z</updated>
+      <summary>Watch YouTube, Prime Video &amp; any website on your Android Auto car screen (while parked). Free APK, no root, no PC needed. Works with YouTube &amp; YouTube ReVanced. Built-in ad blocker, full-screen player with seek bar, big car keyboard, GPS driving lock.</summary>
+    </entry>
+    <entry>
+      <title>fengyinxqy/rear-screen-status</title>
+      <link href="https://github.com/fengyinxqy/rear-screen-status"/>
+      <id>https://github.com/fengyinxqy/rear-screen-status</id>
+      <updated>2026-11-25T03:45:34.000Z</updated>
+      <summary>把 AI Agent 的实时状态显示到小米手机背屏 · Xiaomi rear-screen status panel</summary>
+    </entry>
+    <entry>
+      <title>subcast/subcast</title>
+      <link href="https://github.com/subcast/subcast"/>
+      <id>https://github.com/subcast/subcast</id>
+      <updated>2026-11-25T10:34:17.000Z</updated>
+      <summary>Open your Android apps on display glasses, a monitor or a TV — full size, not a mirror. Your phone becomes the trackpad.</summary>
+    </entry>
+    <entry>
+      <title>Yxlan-yu/shizuku_keep</title>
+      <link href="https://github.com/Yxlan-yu/shizuku_keep"/>
+      <id>https://github.com/Yxlan-yu/shizuku_keep</id>
+      <updated>2026-11-24T13:59:48.000Z</updated>
+      <summary>开机以 root 拉起 Shizuku 并常驻看护，掉线约 10 秒自动补回，授权长期有效。内置 WebUI 可查看状态、切换模式、管理目标应用。</summary>
+    </entry>
     <entry>
       <title>swipt-automation/swipt</title>
       <link href="https://github.com/swipt-automation/swipt"/>
       <id>https://github.com/swipt-automation/swipt</id>
-      <updated>2026-11-24T12:53:53.000Z</updated>
+      <updated>2026-11-24T16:31:43.000Z</updated>
       <summary>The universal iOS automation platform</summary>
     </entry>
     <entry>
       <title>fw867/hypercar</title>
       <link href="https://github.com/fw867/hypercar"/>
       <id>https://github.com/fw867/hypercar</id>
-      <updated>2026-11-24T09:49:18.000Z</updated>
+      <updated>2026-11-25T10:01:41.000Z</updated>
       <summary>Android手机自绘车机UI(高德、百度地图与音乐卡片)或者小米Carwith通过无线CarPlay投送到车机（Kotlin + Rust）</summary>
     </entry>
     <entry>
@@ -35,6 +119,13 @@
       <summary>One-tap root for Samsung Galaxy (S25, S25 Ultra, S26 Ultra, Z Fold 8 &amp; GKI 5.10–6.18) with KernelSU-Next v3.4.2 &amp; KernelSU — no bootloader unlock, Knox 0x0, full Zygisk (Vector), LSPosed, KDP/DEFEX bypass &amp; auto-root on boot.</summary>
     </entry>
     <entry>
+      <title>YoruDev-Ryland/Tandem</title>
+      <link href="https://github.com/YoruDev-Ryland/Tandem"/>
+      <id>https://github.com/YoruDev-Ryland/Tandem</id>
+      <updated>2026-11-24T19:00:56.000Z</updated>
+      <summary>Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app.</summary>
+    </entry>
+    <entry>
       <title>AndrewChqng/android-htop-gui</title>
       <link href="https://github.com/AndrewChqng/android-htop-gui"/>
       <id>https://github.com/AndrewChqng/android-htop-gui</id>
@@ -47,13 +138,6 @@
       <id>https://github.com/diaoshabu-coder/icon-workshop</id>
       <updated>2026-11-24T06:09:51.000Z</updated>
       <summary>Give any Android app a custom-icon launcher entry via Shizuku - no root, original app untouched.</summary>
-    </entry>
-    <entry>
-      <title>YoruDev-Ryland/Tandem</title>
-      <link href="https://github.com/YoruDev-Ryland/Tandem"/>
-      <id>https://github.com/YoruDev-Ryland/Tandem</id>
-      <updated>2026-11-24T06:00:11.000Z</updated>
-      <summary>Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app.</summary>
     </entry>
     <entry>
       <title>linxin-520/phone-ai-body</title>
@@ -87,15 +171,22 @@
       <title>Santoshkurmi/antigem</title>
       <link href="https://github.com/Santoshkurmi/antigem"/>
       <id>https://github.com/Santoshkurmi/antigem</id>
-      <updated>2026-11-24T12:37:47.000Z</updated>
+      <updated>2026-11-25T11:36:14.000Z</updated>
       <summary>A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development.</summary>
     </entry>
     <entry>
       <title>DurchEins/apkup</title>
       <link href="https://github.com/DurchEins/apkup"/>
       <id>https://github.com/DurchEins/apkup</id>
-      <updated>2026-11-24T12:03:24.000Z</updated>
+      <updated>2026-11-24T22:44:07.000Z</updated>
       <summary>Modern open-source Material 3 Android APK updater &amp; actively maintained APKUpdater successor. Supports Google Play, F-Droid &amp; IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab &amp; Codeberg with signature verification, Watchlist, Obtainium sync &amp; silent Shizuku/Root.</summary>
+    </entry>
+    <entry>
+      <title>neveSZ/onehz</title>
+      <link href="https://github.com/neveSZ/onehz"/>
+      <id>https://github.com/neveSZ/onehz</id>
+      <updated>2026-11-24T18:50:10.000Z</updated>
+      <summary>Refresh-rate controller for Samsung and Xiaomi/Redmi/POCO displays via Shizuku. No root, no accessibility service. Tested on Galaxy S25+ and POCO X7 Pro.</summary>
     </entry>
     <entry>
       <title>NNazuna/nna-clicker</title>
@@ -103,13 +194,6 @@
       <id>https://github.com/NNazuna/nna-clicker</id>
       <updated>2026-11-24T07:06:22.000Z</updated>
       <summary>Touch recorder &amp; auto clicker for Android. Record taps and swipes, replay them with precise timing. No root, no internet, no trackers.</summary>
-    </entry>
-    <entry>
-      <title>neveSZ/onehz</title>
-      <link href="https://github.com/neveSZ/onehz"/>
-      <id>https://github.com/neveSZ/onehz</id>
-      <updated>2026-11-24T11:42:50.000Z</updated>
-      <summary>Refresh-rate controller for Samsung and Xiaomi/Redmi/POCO displays via Shizuku. No root, no accessibility service. Tested on Galaxy S25+ and POCO X7 Pro.</summary>
     </entry>
     <entry>
       <title>ezn24/DroidCar</title>
@@ -129,91 +213,7 @@
       <title>wuy489934-svg/DLA</title>
       <link href="https://github.com/wuy489934-svg/DLA"/>
       <id>https://github.com/wuy489934-svg/DLA</id>
-      <updated>2026-11-24T01:00:38.000Z</updated>
-      <summary>DLA · DeepSeek LLM Agent：装在自己手机上的本地智能体（非官方）。LLM 人设对话 + 能读屏/跑命令的手机 Agent，平级双分区；内置 shell/Python/Node，无需 Termux/root；数据本机、无遥测。</summary>
-    </entry>
-    <entry>
-      <title>onerdna/stalker</title>
-      <link href="https://github.com/onerdna/stalker"/>
-      <id>https://github.com/onerdna/stalker</id>
-      <updated>2026-11-15T17:21:47.000Z</updated>
-      <summary>Save data viewer &amp; editor for Shadow Fight 2</summary>
-    </entry>
-    <entry>
-      <title>rdevz-ph/FPS-Meter-Android</title>
-      <link href="https://github.com/rdevz-ph/FPS-Meter-Android"/>
-      <id>https://github.com/rdevz-ph/FPS-Meter-Android</id>
-      <updated>2026-11-21T15:27:40.000Z</updated>
-      <summary>High-performance lightweight FPS monitoring overlay inspired by Samsung Perf Z for gaming and performance testing</summary>
-    </entry>
-    <entry>
-      <title>faded-penguin021/Tideo-Auto-Brightness</title>
-      <link href="https://github.com/faded-penguin021/Tideo-Auto-Brightness"/>
-      <id>https://github.com/faded-penguin021/Tideo-Auto-Brightness</id>
-      <updated>2026-11-22T09:42:36.000Z</updated>
-      <summary>Glass-box adaptive-brightness replacement with explainable decisions and circadian support.</summary>
-    </entry>
-    <entry>
-      <title>kamren-zirger/sync-to-android-data</title>
-      <link href="https://github.com/kamren-zirger/sync-to-android-data"/>
-      <id>https://github.com/kamren-zirger/sync-to-android-data</id>
-      <updated>2026-10-20T20:47:19.000Z</updated>
-      <summary>Syncs files in and out of restricted Android/data folders when target apps open or close</summary>
-    </entry>
-    <entry>
-      <title>tiendnm/zukulock</title>
-      <link href="https://github.com/tiendnm/zukulock"/>
-      <id>https://github.com/tiendnm/zukulock</id>
-      <updated>2025-08-19T02:07:05.000Z</updated>
-      <summary>Very lightweight app that locks the screen when launched. Helps reduce wear on the power button</summary>
-    </entry>
-    <entry>
-      <title>farizanjum/mixer-1</title>
-      <link href="https://github.com/farizanjum/mixer-1"/>
-      <id>https://github.com/farizanjum/mixer-1</id>
-      <updated>2025-12-31T18:58:47.000Z</updated>
-      <summary>Per-app volume overlay intercepting hardware keys</summary>
-    </entry>
-    <entry>
-      <title>ObfuscatedVoid/Cinderbox-Companion</title>
-      <link href="https://github.com/ObfuscatedVoid/Cinderbox-Companion"/>
-      <id>https://github.com/ObfuscatedVoid/Cinderbox-Companion</id>
-      <updated>2026-10-11T12:27:00.000Z</updated>
-      <summary>Companion app for Stardew Valley on Android with Steam Cloud save sync, game file download, and SMAPI mod management</summary>
-    </entry>
-    <entry>
-      <title>lalakii/get_event</title>
-      <link href="https://github.com/lalakii/get_event"/>
-      <id>https://github.com/lalakii/get_event</id>
-      <updated>2026-08-10T11:00:48.000Z</updated>
-      <summary>Read /dev/input/event*</summary>
-    </entry>
-    <entry>
-      <title>Link2011-Act2/GlyphBarty</title>
-      <link href="https://github.com/Link2011-Act2/GlyphBarty"/>
-      <id>https://github.com/Link2011-Act2/GlyphBarty</id>
-      <updated>2026-11-10T08:13:40.000Z</updated>
-      <summary>Customizable Glyph visualizer for Nothing Phone with music sync, Quick Settings toggle, and charging status display</summary>
-    </entry>
-    <entry>
-      <title>bractstudio/buttonoo</title>
-      <link href="https://github.com/bractstudio/buttonoo"/>
-      <id>https://github.com/bractstudio/buttonoo</id>
-      <updated>2026-08-11T18:40:43.000Z</updated>
-      <summary>Remaps the Nothing Essential Key to any press pattern; Shizuku enables the privileged input route.</summary>
-    </entry>
-    <entry>
-      <title>Joy-word/AutoXiaoer</title>
-      <link href="https://github.com/Joy-word/AutoXiaoer"/>
-      <id>https://github.com/Joy-word/AutoXiaoer</id>
-      <updated>2026-10-16T06:56:11.000Z</updated>
-      <summary>On-device AI agent that visually operates Android apps, with scheduled, notification, and ClawBot task triggers. Supports both Shizuku and accessibility-based control.</summary>
-    </entry>
-    <entry>
-      <title>Evilgodxu/EdgeGesture</title>
-      <link href="https://github.com/Evilgodxu/EdgeGesture"/>
-      <id>https://github.com/Evilgodxu/EdgeGesture</id>
-      <updated>2026-11-21T14:47:12.000Z</updated>
-      <summary>Edge-gesture app built on accessibility plus Shizuku: edge swipes, back-tap, floating music and task panels, freeform and app-kill actions.</summary>
+      <updated>2026-11-25T06:56:46.000Z</updated>
+      <summary>DLA · 本地智能体（DeepSeek LLM Agent，非官方）：装在自己手机上的 Android Agent + LLM 伴侣，平级双分区；Anthropic / OpenAI 双协议 + 12 家供应商预设；思考→调用→思考的长任务循环、执行过程大卡、agent-runs 运行记账；内置 shell/Python/Node（Termux 已在 2.2 移除）；Apache-2.0 完全开源，无遥测。</summary>
     </entry>
 </feed>
