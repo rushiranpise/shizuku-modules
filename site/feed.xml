@@ -3,9 +3,107 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-26T11:36:10.314Z</updated>
+  <updated>2026-11-27T11:30:50.534Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>LSPosed/LSPrivilege</title>
+      <link href="https://github.com/LSPosed/LSPrivilege"/>
+      <id>https://github.com/LSPosed/LSPrivilege</id>
+      <updated>2026-11-27T00:57:50.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>bkaganovich-stack/pixel-ims-x</title>
+      <link href="https://github.com/bkaganovich-stack/pixel-ims-x"/>
+      <id>https://github.com/bkaganovich-stack/pixel-ims-x</id>
+      <updated>2026-11-27T09:26:47.000Z</updated>
+      <summary>Pixel IMS fork: auto-apply carrier config on reboot + export/import settings (no root, Shizuku/Wireless ADB)</summary>
+    </entry>
+    <entry>
+      <title>10268697/GKD-XAP</title>
+      <link href="https://github.com/10268697/GKD-XAP"/>
+      <id>https://github.com/10268697/GKD-XAP</id>
+      <updated>2026-11-27T02:02:56.000Z</updated>
+      <summary>GKD-XAP 融合版：来自上游GKD-XA，界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告，修复应用列表闪退BUG（Android / Kotlin Compose）</summary>
+    </entry>
+    <entry>
+      <title>MoshEZeeD/Sh311Installer</title>
+      <link href="https://github.com/MoshEZeeD/Sh311Installer"/>
+      <id>https://github.com/MoshEZeeD/Sh311Installer</id>
+      <updated>2026-11-26T22:14:19.000Z</updated>
+      <summary>Install APKs and split bundles with shell privileges via Shizuku, on-device Wireless ADB or root; installer-identity spoofing, security scan and ad neuter</summary>
+    </entry>
+    <entry>
+      <title>1764364648/loglens</title>
+      <link href="https://github.com/1764364648/loglens"/>
+      <id>https://github.com/1764364648/loglens</id>
+      <updated>2026-11-27T11:02:23.000Z</updated>
+      <summary>手机上按应用抓 logcat：Shizuku 免 root，Android 16 常驻胶囊可暂停/继续，崩溃与网络问题各有专用链路</summary>
+    </entry>
+    <entry>
+      <title>al3nkboot/mi5g-debloat</title>
+      <link href="https://github.com/al3nkboot/mi5g-debloat"/>
+      <id>https://github.com/al3nkboot/mi5g-debloat</id>
+      <updated>2026-11-27T10:32:35.000Z</updated>
+      <summary>إزالة التطبيقات الزائدة — remove preinstalled Android system apps via Shizuku, no root</summary>
+    </entry>
+    <entry>
+      <title>Hitorirt/klyro</title>
+      <link href="https://github.com/Hitorirt/klyro"/>
+      <id>https://github.com/Hitorirt/klyro</id>
+      <updated>2026-11-26T13:07:03.000Z</updated>
+      <summary>Keyboard and mouse mapper for Android games. No root (Shizuku). Kotlin + Jetpack Compose.</summary>
+    </entry>
+    <entry>
+      <title>Kryvanta/Olyvexis</title>
+      <link href="https://github.com/Kryvanta/Olyvexis"/>
+      <id>https://github.com/Kryvanta/Olyvexis</id>
+      <updated>2026-11-27T04:55:24.000Z</updated>
+      <summary>Android desktop mode with movable windows on external displays or over Wi-Fi, powered by Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>maixuanfeng1/vigil</title>
+      <link href="https://github.com/maixuanfeng1/vigil"/>
+      <id>https://github.com/maixuanfeng1/vigil</id>
+      <updated>2026-11-27T09:46:30.000Z</updated>
+      <summary>Vigil — Read-only HyperOS app keep-alive (Autostart, battery list, Recents lock) &amp; FCM push diagnostics</summary>
+    </entry>
+    <entry>
+      <title>Daminduharsha11/HardStop</title>
+      <link href="https://github.com/Daminduharsha11/HardStop"/>
+      <id>https://github.com/Daminduharsha11/HardStop</id>
+      <updated>2026-09-18T11:47:01.000Z</updated>
+      <summary>Distracting apps you can't just dismiss. HardStop suspends them at the system level, using Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>huoxingrNaNa/XModeEnabler</title>
+      <link href="https://github.com/huoxingrNaNa/XModeEnabler"/>
+      <id>https://github.com/huoxingrNaNa/XModeEnabler</id>
+      <updated>2026-11-27T04:38:25.000Z</updated>
+      <summary>无需 Root，通过 Shizuku 触发 ColorOS 官方 X 模式性能策略；通知栏实时显示是否生效</summary>
+    </entry>
+    <entry>
+      <title>lizx-lzx/AppDodge</title>
+      <link href="https://github.com/lizx-lzx/AppDodge"/>
+      <id>https://github.com/lizx-lzx/AppDodge</id>
+      <updated>2026-11-27T08:05:37.000Z</updated>
+      <summary>反人性软件 (AppDodge) — Open-source, offline-first Android app blocker. Keep your stock launcher; break phone habits with 12 mindful friction effects, random probability &amp; 24h anti-relapse cooldown.</summary>
+    </entry>
+    <entry>
+      <title>moseszz007/Chisto</title>
+      <link href="https://github.com/moseszz007/Chisto"/>
+      <id>https://github.com/moseszz007/Chisto</id>
+      <updated>2026-11-27T11:04:17.000Z</updated>
+      <summary>Chisto - lightweight Android/TV debloater and app manager based on Canta</summary>
+    </entry>
+    <entry>
+      <title>PAuPt6490/PtFastRimeManager</title>
+      <link href="https://github.com/PAuPt6490/PtFastRimeManager"/>
+      <id>https://github.com/PAuPt6490/PtFastRimeManager</id>
+      <updated>2026-11-26T20:20:28.000Z</updated>
+      <summary>Android ??? Rime ?????????:?????? SAF,? Root / Shizuku ?????(fcitx5-android + Rime ??)???(Trime)????</summary>
+    </entry>
     <entry>
       <title>MeloX-Third/MeloX-Android</title>
       <link href="https://github.com/MeloX-Third/MeloX-Android"/>
@@ -17,14 +115,14 @@
       <title>SysAdminDoc/RuleDeck</title>
       <link href="https://github.com/SysAdminDoc/RuleDeck"/>
       <id>https://github.com/SysAdminDoc/RuleDeck</id>
-      <updated>2026-11-26T11:20:12.000Z</updated>
+      <updated>2026-11-26T20:40:57.000Z</updated>
       <summary>Local-first, open-source Android automation with readable rules, honest permission gates, and no account or cloud runtime.</summary>
     </entry>
     <entry>
       <title>kpgc10kai/Shark</title>
       <link href="https://github.com/kpgc10kai/Shark"/>
       <id>https://github.com/kpgc10kai/Shark</id>
-      <updated>2026-11-26T10:59:31.000Z</updated>
+      <updated>2026-11-27T10:33:11.000Z</updated>
       <summary>private mirror</summary>
     </entry>
     <entry>
@@ -38,7 +136,7 @@
       <title>Killersparrow1/clash-Trackers</title>
       <link href="https://github.com/Killersparrow1/clash-Trackers"/>
       <id>https://github.com/Killersparrow1/clash-Trackers</id>
-      <updated>2026-11-26T10:58:03.000Z</updated>
+      <updated>2026-11-27T05:27:19.000Z</updated>
       <summary>Android app and home-screen widget for Clash of Clans that tracks your Home Village and Builder Base upgrade timers, potions, and events, with multiple account support.</summary>
     </entry>
     <entry>
@@ -49,18 +147,18 @@
       <summary>Android app that shows what drains your battery (batterystats diagnosis, charging monitor, reversible fixes). No internet permission.</summary>
     </entry>
     <entry>
-      <title>Team-SolarEngine/solarlandroid</title>
-      <link href="https://github.com/Team-SolarEngine/solarlandroid"/>
-      <id>https://github.com/Team-SolarEngine/solarlandroid</id>
-      <updated>2026-11-25T14:21:00.000Z</updated>
-      <summary>FNF mod launcher for Android based on Solar Launcher. Manage mods, GameBanana deeplinks, and Material You UI; uses Shizuku for file access on Android 11+.</summary>
-    </entry>
-    <entry>
       <title>HamzaShaikhAI/android-ai-optimizer</title>
       <link href="https://github.com/HamzaShaikhAI/android-ai-optimizer"/>
       <id>https://github.com/HamzaShaikhAI/android-ai-optimizer</id>
       <updated>2026-11-25T18:34:37.000Z</updated>
       <summary>Zero-dependency Python 3.10+ MCP server &amp; 5-stage ADB/Shizuku optimizer for Google Antigravity. Safely audit, debloat (UAD-NG), and speed up non-rooted Android phones with 1-click rollback.</summary>
+    </entry>
+    <entry>
+      <title>Team-SolarEngine/solarlandroid</title>
+      <link href="https://github.com/Team-SolarEngine/solarlandroid"/>
+      <id>https://github.com/Team-SolarEngine/solarlandroid</id>
+      <updated>2026-11-25T14:21:00.000Z</updated>
+      <summary>FNF mod launcher for Android based on Solar Launcher. Manage mods, GameBanana deeplinks, and Material You UI; uses Shizuku for file access on Android 11+.</summary>
     </entry>
     <entry>
       <title>ilbebino08/Echora</title>
@@ -73,7 +171,7 @@
       <title>Jacklove331-source/OnmyojiAutoScript-All</title>
       <link href="https://github.com/Jacklove331-source/OnmyojiAutoScript-All"/>
       <id>https://github.com/Jacklove331-source/OnmyojiAutoScript-All</id>
-      <updated>2026-11-26T10:54:08.000Z</updated>
+      <updated>2026-11-27T10:57:21.000Z</updated>
       <summary>阴阳师自动化脚本 · 电脑端 (desktop) + 安卓免 Root Shizuku 后台虚拟屏版 (mobile) 一体公开库</summary>
     </entry>
     <entry>
@@ -101,14 +199,14 @@
       <title>Taocrypt/MicMask</title>
       <link href="https://github.com/Taocrypt/MicMask"/>
       <id>https://github.com/Taocrypt/MicMask</id>
-      <updated>2026-11-26T11:34:59.000Z</updated>
+      <updated>2026-11-27T11:01:49.000Z</updated>
       <summary>安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理，低延迟（约 300ms），开源免费 | Real-time on-device AI voice changer for Android</summary>
     </entry>
     <entry>
       <title>yyzmiao/Pinpoint</title>
       <link href="https://github.com/yyzmiao/Pinpoint"/>
       <id>https://github.com/yyzmiao/Pinpoint</id>
-      <updated>2026-11-25T03:51:23.000Z</updated>
+      <updated>2026-11-27T08:19:42.000Z</updated>
       <summary>Android 离线全盘搜索与空间分析工具 :  类 Everything 语法、毫秒级中文正文检索、WizTree 式空间透视（支持 Shizuku / Root）</summary>
     </entry>
     <entry>
@@ -117,103 +215,5 @@
       <id>https://github.com/GfxGamerLab/spider-gfx-tool</id>
       <updated>2026-11-24T13:05:16.000Z</updated>
       <summary>free open-source Android game booster &amp; GFX tool for all games — RAM cleaner, Auto-DNS, iPad View, FPS HUD, plus 60/90/120 FPS configs for PUBG/BGMI. No root (Shizuku).</summary>
-    </entry>
-    <entry>
-      <title>hinaaaq/FramePulse</title>
-      <link href="https://github.com/hinaaaq/FramePulse"/>
-      <id>https://github.com/hinaaaq/FramePulse</id>
-      <updated>2026-11-25T10:38:35.000Z</updated>
-      <summary>Real-time Android frame pacing, thermal telemetry &amp; Shizuku performance engine (No Root).</summary>
-    </entry>
-    <entry>
-      <title>hoanfnho7/GameUpscaler</title>
-      <link href="https://github.com/hoanfnho7/GameUpscaler"/>
-      <id>https://github.com/hoanfnho7/GameUpscaler</id>
-      <updated>2026-11-24T17:07:39.000Z</updated>
-      <summary>⚡ Android utility to upscale game resolution (SSAA 1.10x–1.25x) and display a real-time hardware telemetry HUD (FPS, Watt, Temps) via Shizuku. No root required.</summary>
-    </entry>
-    <entry>
-      <title>mfskys/First</title>
-      <link href="https://github.com/mfskys/First"/>
-      <id>https://github.com/mfskys/First</id>
-      <updated>2026-11-25T02:34:27.000Z</updated>
-      <summary>澎湃First</summary>
-    </entry>
-    <entry>
-      <title>debkol35/autotube</title>
-      <link href="https://github.com/debkol35/autotube"/>
-      <id>https://github.com/debkol35/autotube</id>
-      <updated>2026-11-25T07:42:08.000Z</updated>
-      <summary>Watch YouTube, Prime Video &amp; any website on your Android Auto car screen (while parked). Free APK, no root, no PC needed. Works with YouTube &amp; YouTube ReVanced. Built-in ad blocker, full-screen player with seek bar, big car keyboard, GPS driving lock.</summary>
-    </entry>
-    <entry>
-      <title>fengyinxqy/rear-screen-status</title>
-      <link href="https://github.com/fengyinxqy/rear-screen-status"/>
-      <id>https://github.com/fengyinxqy/rear-screen-status</id>
-      <updated>2026-11-25T03:45:34.000Z</updated>
-      <summary>把 AI Agent 的实时状态显示到小米手机背屏 · Xiaomi rear-screen status panel</summary>
-    </entry>
-    <entry>
-      <title>subcast/subcast</title>
-      <link href="https://github.com/subcast/subcast"/>
-      <id>https://github.com/subcast/subcast</id>
-      <updated>2026-11-26T01:54:13.000Z</updated>
-      <summary>Open your Android apps on display glasses, a monitor or a TV — full size, not a mirror. Your phone becomes the trackpad.</summary>
-    </entry>
-    <entry>
-      <title>Yxlan-yu/shizuku_keep</title>
-      <link href="https://github.com/Yxlan-yu/shizuku_keep"/>
-      <id>https://github.com/Yxlan-yu/shizuku_keep</id>
-      <updated>2026-11-24T13:59:48.000Z</updated>
-      <summary>开机以 root 拉起 Shizuku 并常驻看护，掉线约 10 秒自动补回，授权长期有效。内置 WebUI 可查看状态、切换模式、管理目标应用。</summary>
-    </entry>
-    <entry>
-      <title>swipt-automation/swipt</title>
-      <link href="https://github.com/swipt-automation/swipt"/>
-      <id>https://github.com/swipt-automation/swipt</id>
-      <updated>2026-11-25T14:04:01.000Z</updated>
-      <summary>The universal iOS automation platform</summary>
-    </entry>
-    <entry>
-      <title>fw867/hypercar</title>
-      <link href="https://github.com/fw867/hypercar"/>
-      <id>https://github.com/fw867/hypercar</id>
-      <updated>2026-11-26T09:52:40.000Z</updated>
-      <summary>Android手机自绘车机UI(高德、百度地图与音乐卡片)或者小米Carwith通过无线CarPlay投送到车机（Kotlin + Rust）</summary>
-    </entry>
-    <entry>
-      <title>willygailo/Game-Launcher</title>
-      <link href="https://github.com/willygailo/Game-Launcher"/>
-      <id>https://github.com/willygailo/Game-Launcher</id>
-      <updated>2026-11-24T03:27:23.000Z</updated>
-      <summary>🚀 Ang pinaka-powerful na Android performance booster para sa mobile gaming!</summary>
-    </entry>
-    <entry>
-      <title>MahanYTT/UniRoot-Next</title>
-      <link href="https://github.com/MahanYTT/UniRoot-Next"/>
-      <id>https://github.com/MahanYTT/UniRoot-Next</id>
-      <updated>2026-11-25T22:36:33.000Z</updated>
-      <summary>One-tap root for Samsung Galaxy (S25, S25 Ultra, S26 Ultra, Z Fold 8 &amp; GKI 5.10–6.18) with KernelSU-Next v3.4.2 &amp; KernelSU — no bootloader unlock, Knox 0x0, full Zygisk (Vector), LSPosed, KDP/DEFEX bypass &amp; auto-root on boot.</summary>
-    </entry>
-    <entry>
-      <title>YoruDev-Ryland/Tandem</title>
-      <link href="https://github.com/YoruDev-Ryland/Tandem"/>
-      <id>https://github.com/YoruDev-Ryland/Tandem</id>
-      <updated>2026-11-24T19:00:56.000Z</updated>
-      <summary>Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app.</summary>
-    </entry>
-    <entry>
-      <title>AndrewChqng/android-htop-gui</title>
-      <link href="https://github.com/AndrewChqng/android-htop-gui"/>
-      <id>https://github.com/AndrewChqng/android-htop-gui</id>
-      <updated>2026-11-24T11:50:45.000Z</updated>
-      <summary>Native Android htop GUI, process monitor &amp; task manager for Root (Magisk/KernelSU), Shizuku &amp; LineageOS — includes bundled arter97/android-htop 3.5.3, top &amp; touch/mouse/keyboard passthrough</summary>
-    </entry>
-    <entry>
-      <title>diaoshabu-coder/icon-workshop</title>
-      <link href="https://github.com/diaoshabu-coder/icon-workshop"/>
-      <id>https://github.com/diaoshabu-coder/icon-workshop</id>
-      <updated>2026-11-24T06:09:51.000Z</updated>
-      <summary>Give any Android app a custom-icon launcher entry via Shizuku - no root, original app untouched.</summary>
     </entry>
 </feed>
