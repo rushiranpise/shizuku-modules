@@ -3,9 +3,65 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-11-27T11:30:50.534Z</updated>
+  <updated>2026-11-28T10:59:01.197Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>kpgc10kai/Shark-en</title>
+      <link href="https://github.com/kpgc10kai/Shark-en"/>
+      <id>https://github.com/kpgc10kai/Shark-en</id>
+      <updated>2026-11-28T10:29:11.000Z</updated>
+      <summary>Shark-en — English fork of Yunnijian/Shark, with OnePlus 12 6.1 support</summary>
+    </entry>
+    <entry>
+      <title>Subtle-profound/ExtractKit</title>
+      <link href="https://github.com/Subtle-profound/ExtractKit"/>
+      <id>https://github.com/Subtle-profound/ExtractKit</id>
+      <updated>2026-11-12T15:29:07.000Z</updated>
+      <summary>Honor 内核标定 + CVE-2026-98260 提权链（Shizuku + KernelSU late-load），内置 74 条内核 profile</summary>
+    </entry>
+    <entry>
+      <title>kabukabu-a11y/coloros-fcm</title>
+      <link href="https://github.com/kabukabu-a11y/coloros-fcm"/>
+      <id>https://github.com/kabukabu-a11y/coloros-fcm</id>
+      <updated>2026-11-27T10:57:57.000Z</updated>
+      <summary>ColorOS (CN) FCM push guardian — Shizuku/Shevery ADB module, shell-only, no root.</summary>
+    </entry>
+    <entry>
+      <title>Breezecaresses/AstralParty-XingShu-Android</title>
+      <link href="https://github.com/Breezecaresses/AstralParty-XingShu-Android"/>
+      <id>https://github.com/Breezecaresses/AstralParty-XingShu-Android</id>
+      <updated>2026-11-27T07:39:14.000Z</updated>
+      <summary>AstralParty-XingShu Android (星枢手机版) — 《吉星派对》安卓端 Compose 纯启动器、工坊角色表情回应、自定义主页背景与 16 项官方功能模块</summary>
+    </entry>
+    <entry>
+      <title>hunterklewan/MicMask-Pro-TH</title>
+      <link href="https://github.com/hunterklewan/MicMask-Pro-TH"/>
+      <id>https://github.com/hunterklewan/MicMask-Pro-TH</id>
+      <updated>2026-11-27T23:19:02.000Z</updated>
+      <summary>MicMask fork with per-voice settings, Thai UI and improved floating panel. Based on Taocrypt/MicMask latest main.</summary>
+    </entry>
+    <entry>
+      <title>Picazsoo/airplay-cast-bridge</title>
+      <link href="https://github.com/Picazsoo/airplay-cast-bridge"/>
+      <id>https://github.com/Picazsoo/airplay-cast-bridge</id>
+      <updated>2026-11-27T21:37:42.000Z</updated>
+      <summary>AirPlay to Chromecast speakers from an Android TV / Google TV box, no root. Runs AirConnect's aircast as an app.</summary>
+    </entry>
+    <entry>
+      <title>fleurdeur/Vanta</title>
+      <link href="https://github.com/fleurdeur/Vanta"/>
+      <id>https://github.com/fleurdeur/Vanta</id>
+      <updated>2026-11-28T07:56:29.000Z</updated>
+      <summary>A free, black-and-white Android tuning console. 322 snapshot-backed tweaks, Shizuku-powered, no root, no ads, no telemetry.</summary>
+    </entry>
+    <entry>
+      <title>SyHugh7/dual-audio-zh</title>
+      <link href="https://github.com/SyHugh7/dual-audio-zh"/>
+      <id>https://github.com/SyHugh7/dual-audio-zh</id>
+      <updated>2026-11-27T12:54:36.000Z</updated>
+      <summary>双音频输出（Dual Audio）简体中文汉化版：Android 上同时把媒体声音输出到 USB 与蓝牙耳机，基于 xTudoS/dual-audio，GPL-3.0-or-later</summary>
+    </entry>
     <entry>
       <title>LSPosed/LSPrivilege</title>
       <link href="https://github.com/LSPosed/LSPrivilege"/>
@@ -17,15 +73,22 @@
       <title>bkaganovich-stack/pixel-ims-x</title>
       <link href="https://github.com/bkaganovich-stack/pixel-ims-x"/>
       <id>https://github.com/bkaganovich-stack/pixel-ims-x</id>
-      <updated>2026-11-27T09:26:47.000Z</updated>
+      <updated>2026-11-28T07:09:58.000Z</updated>
       <summary>Pixel IMS fork: auto-apply carrier config on reboot + export/import settings (no root, Shizuku/Wireless ADB)</summary>
     </entry>
     <entry>
       <title>10268697/GKD-XAP</title>
       <link href="https://github.com/10268697/GKD-XAP"/>
       <id>https://github.com/10268697/GKD-XAP</id>
-      <updated>2026-11-27T02:02:56.000Z</updated>
+      <updated>2026-11-28T06:52:33.000Z</updated>
       <summary>GKD-XAP 融合版：来自上游GKD-XA，界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告，修复应用列表闪退BUG（Android / Kotlin Compose）</summary>
+    </entry>
+    <entry>
+      <title>al3nkboot/mi5g-debloat</title>
+      <link href="https://github.com/al3nkboot/mi5g-debloat"/>
+      <id>https://github.com/al3nkboot/mi5g-debloat</id>
+      <updated>2026-11-27T12:10:32.000Z</updated>
+      <summary>إزالة التطبيقات الزائدة — remove preinstalled Android system apps via Shizuku, no root</summary>
     </entry>
     <entry>
       <title>MoshEZeeD/Sh311Installer</title>
@@ -38,15 +101,8 @@
       <title>1764364648/loglens</title>
       <link href="https://github.com/1764364648/loglens"/>
       <id>https://github.com/1764364648/loglens</id>
-      <updated>2026-11-27T11:02:23.000Z</updated>
+      <updated>2026-11-28T04:31:48.000Z</updated>
       <summary>手机上按应用抓 logcat：Shizuku 免 root，Android 16 常驻胶囊可暂停/继续，崩溃与网络问题各有专用链路</summary>
-    </entry>
-    <entry>
-      <title>al3nkboot/mi5g-debloat</title>
-      <link href="https://github.com/al3nkboot/mi5g-debloat"/>
-      <id>https://github.com/al3nkboot/mi5g-debloat</id>
-      <updated>2026-11-27T10:32:35.000Z</updated>
-      <summary>إزالة التطبيقات الزائدة — remove preinstalled Android system apps via Shizuku, no root</summary>
     </entry>
     <entry>
       <title>Hitorirt/klyro</title>
@@ -59,7 +115,7 @@
       <title>Kryvanta/Olyvexis</title>
       <link href="https://github.com/Kryvanta/Olyvexis"/>
       <id>https://github.com/Kryvanta/Olyvexis</id>
-      <updated>2026-11-27T04:55:24.000Z</updated>
+      <updated>2026-11-28T02:38:37.000Z</updated>
       <summary>Android desktop mode with movable windows on external displays or over Wi-Fi, powered by Shizuku.</summary>
     </entry>
     <entry>
@@ -94,21 +150,21 @@
       <title>moseszz007/Chisto</title>
       <link href="https://github.com/moseszz007/Chisto"/>
       <id>https://github.com/moseszz007/Chisto</id>
-      <updated>2026-11-27T11:04:17.000Z</updated>
-      <summary>Chisto - lightweight Android/TV debloater and app manager based on Canta</summary>
+      <updated>2026-11-27T17:23:52.000Z</updated>
+      <summary>Chisto — лёгкий менеджер и деблоатер приложений для Android и Android TV. Отключайте и удаляйте системные приложения через Shizuku, root или ADB, без компьютера.</summary>
     </entry>
     <entry>
       <title>PAuPt6490/PtFastRimeManager</title>
       <link href="https://github.com/PAuPt6490/PtFastRimeManager"/>
       <id>https://github.com/PAuPt6490/PtFastRimeManager</id>
-      <updated>2026-11-26T20:20:28.000Z</updated>
-      <summary>Android ??? Rime ?????????:?????? SAF,? Root / Shizuku ?????(fcitx5-android + Rime ??)???(Trime)????</summary>
+      <updated>2026-11-28T07:34:35.000Z</updated>
+      <summary>安卓Rime方案管理器</summary>
     </entry>
     <entry>
       <title>MeloX-Third/MeloX-Android</title>
       <link href="https://github.com/MeloX-Third/MeloX-Android"/>
       <id>https://github.com/MeloX-Third/MeloX-Android</id>
-      <updated>2026-11-26T08:54:32.000Z</updated>
+      <updated>2026-11-27T19:20:51.000Z</updated>
       <summary>A third-party music client based on MeloX, styled after Apple Music and featuring unique functions.</summary>
     </entry>
     <entry>
@@ -136,7 +192,7 @@
       <title>Killersparrow1/clash-Trackers</title>
       <link href="https://github.com/Killersparrow1/clash-Trackers"/>
       <id>https://github.com/Killersparrow1/clash-Trackers</id>
-      <updated>2026-11-27T05:27:19.000Z</updated>
+      <updated>2026-11-28T04:25:19.000Z</updated>
       <summary>Android app and home-screen widget for Clash of Clans that tracks your Home Village and Builder Base upgrade timers, potions, and events, with multiple account support.</summary>
     </entry>
     <entry>
@@ -154,66 +210,10 @@
       <summary>Zero-dependency Python 3.10+ MCP server &amp; 5-stage ADB/Shizuku optimizer for Google Antigravity. Safely audit, debloat (UAD-NG), and speed up non-rooted Android phones with 1-click rollback.</summary>
     </entry>
     <entry>
-      <title>Team-SolarEngine/solarlandroid</title>
-      <link href="https://github.com/Team-SolarEngine/solarlandroid"/>
-      <id>https://github.com/Team-SolarEngine/solarlandroid</id>
-      <updated>2026-11-25T14:21:00.000Z</updated>
-      <summary>FNF mod launcher for Android based on Solar Launcher. Manage mods, GameBanana deeplinks, and Material You UI; uses Shizuku for file access on Android 11+.</summary>
-    </entry>
-    <entry>
-      <title>ilbebino08/Echora</title>
-      <link href="https://github.com/ilbebino08/Echora"/>
-      <id>https://github.com/ilbebino08/Echora</id>
-      <updated>2026-11-25T18:14:10.000Z</updated>
-      <summary>Android audio dashcam that uses Shizuku to keep a rolling audio buffer and export recent audio as WAV. Root mode recommended.</summary>
-    </entry>
-    <entry>
       <title>Jacklove331-source/OnmyojiAutoScript-All</title>
       <link href="https://github.com/Jacklove331-source/OnmyojiAutoScript-All"/>
       <id>https://github.com/Jacklove331-source/OnmyojiAutoScript-All</id>
       <updated>2026-11-27T10:57:21.000Z</updated>
       <summary>阴阳师自动化脚本 · 电脑端 (desktop) + 安卓免 Root Shizuku 后台虚拟屏版 (mobile) 一体公开库</summary>
-    </entry>
-    <entry>
-      <title>DerekH-233/MuseDash-DLC-Patcher-Android</title>
-      <link href="https://github.com/DerekH-233/MuseDash-DLC-Patcher-Android"/>
-      <id>https://github.com/DerekH-233/MuseDash-DLC-Patcher-Android</id>
-      <updated>2026-10-31T03:35:42.000Z</updated>
-      <summary>MuseDash（喵斯快跑）Android 免 root 补丁工具：直接在手机上解锁 DLC / 曲包 / 角色，可选解锁等级限制，并备份还原 OBB。</summary>
-    </entry>
-    <entry>
-      <title>DarkAspect1/Nudge-Edge</title>
-      <link href="https://github.com/DarkAspect1/Nudge-Edge"/>
-      <id>https://github.com/DarkAspect1/Nudge-Edge</id>
-      <updated>2026-11-26T10:28:20.000Z</updated>
-      <summary>An app that shows edge pops/animation for side buttons, a redesigned volume slider, actions &amp; modes panels, and edge handles inspired by a concept design is now a reality</summary>
-    </entry>
-    <entry>
-      <title>ColdP/AuraPlayer</title>
-      <link href="https://github.com/ColdP/AuraPlayer"/>
-      <id>https://github.com/ColdP/AuraPlayer</id>
-      <updated>2026-11-25T12:30:13.000Z</updated>
-      <summary>Modern Android music player built with Kotlin, MIUIX and Backdrop. Combining local music and NetEase Cloud Music with rich lyrics, playlists, downloads, and a fluid, adaptive playback experience.</summary>
-    </entry>
-    <entry>
-      <title>Taocrypt/MicMask</title>
-      <link href="https://github.com/Taocrypt/MicMask"/>
-      <id>https://github.com/Taocrypt/MicMask</id>
-      <updated>2026-11-27T11:01:49.000Z</updated>
-      <summary>安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理，低延迟（约 300ms），开源免费 | Real-time on-device AI voice changer for Android</summary>
-    </entry>
-    <entry>
-      <title>yyzmiao/Pinpoint</title>
-      <link href="https://github.com/yyzmiao/Pinpoint"/>
-      <id>https://github.com/yyzmiao/Pinpoint</id>
-      <updated>2026-11-27T08:19:42.000Z</updated>
-      <summary>Android 离线全盘搜索与空间分析工具 :  类 Everything 语法、毫秒级中文正文检索、WizTree 式空间透视（支持 Shizuku / Root）</summary>
-    </entry>
-    <entry>
-      <title>GfxGamerLab/spider-gfx-tool</title>
-      <link href="https://github.com/GfxGamerLab/spider-gfx-tool"/>
-      <id>https://github.com/GfxGamerLab/spider-gfx-tool</id>
-      <updated>2026-11-24T13:05:16.000Z</updated>
-      <summary>free open-source Android game booster &amp; GFX tool for all games — RAM cleaner, Auto-DNS, iPad View, FPS HUD, plus 60/90/120 FPS configs for PUBG/BGMI. No root (Shizuku).</summary>
     </entry>
 </feed>
